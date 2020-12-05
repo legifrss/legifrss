@@ -5,6 +5,7 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/dila"
+	"github.com/ldicarlo/legifrss/server/rss"
 	"github.com/ldicarlo/legifrss/server/token"
 )
 
@@ -39,8 +40,7 @@ func Start() (str string, result string) {
 	if err != "" {
 		return err, ""
 	}
-	fmt.Println(res2)
-	return "", "ok"
+	return "", rss.TransformToRSS(res2)
 }
 
 func main() {
