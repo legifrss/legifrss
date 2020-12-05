@@ -18,6 +18,11 @@ func init() {
 	}
 	clientId = envs["client_id"]
 	clientSecret = envs["client_secret"]
+
+	if clientId == "" || clientSecret == "" {
+		panic("Missing one of the env params")
+	}
+
 }
 
 func Start() (str string, result string) {

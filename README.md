@@ -3,6 +3,15 @@
 Init using [go article](https://blog.golang.org/using-go-modules)
 https://blog.golang.org/module-compatibility
 
+## Expected Features
+
+Based on [hnrss](https://github.com/hnrss), my expected features are:
+
+- `/` should return all.
+- `/?excluded_natures=DECRET&excluded_natures=ANNONCES` should return all but excluded natures
+- `/?keywords=BNP&keyword=vague` should return by key word
+- `/?excluded_emitter=` ?
+
 ## API
 
 ### Auth
