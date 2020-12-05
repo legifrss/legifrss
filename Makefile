@@ -5,10 +5,10 @@ help:
 
 
 build: ## build
-	@echo TODO
+	@go build ./server.go
 
-run: ## run the app
-	@echo TODO
+test:  build ## test the app
+	@go test ./...
 
-test: ## test the app
-	@echo TODO
+run: test ## run the app
+	@go run ./server.go
