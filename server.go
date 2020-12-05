@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/joho/godotenv"
+	"github.com/ldicarlo/legifrss/server/dila"
 	"github.com/ldicarlo/legifrss/server/token"
 )
 
@@ -18,12 +19,23 @@ func init() {
 	clientId = envs["client_id"]
 	clientSecret = envs["client_secret"]
 }
-func Start() string {
+
+func Start() (str string, result string) {
 	err, token := token.GetToken(clientId, clientSecret)
 	if err != "" {
-		fmt.Println(err)
+		return err, ""
 	}
-	return token
+
+	err, res := dila.FetchJORF(token)
+	if err != "" {
+		return err, ""
+	}
+	err, res2 := dila.FetchCont(token, res.Containers[0].Id)
+	if err != "" {
+		return err, ""
+	}
+	fmt.Println(res2)
+	return "", "ok"
 }
 
 func main() {

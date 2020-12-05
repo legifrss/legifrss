@@ -26,7 +26,6 @@ func GetToken(clientId string, clientSecret string) (string, string) {
 	}
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
-
 	if err != nil {
 		return "Error reading body", ""
 	}
