@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- ARRET</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-06 19:20:42.648490155 +0100 CET m=+14.527348749</pubDate>
+    <lastBuildDate>2020-12-06 19:20:42.648490155 +0100 CET m=+14.527348749</lastBuildDate>
+    <item>
+      <title>ARRET - JORFTEXT000042577519</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577519</link>
+      <description>Arrêt n° 244-818 du 19 novembre 2020 « Agence pour l&#39;enseignement français à l&#39;étranger (AEFE) » (Accès protégé)</description>
+      <author>Cour de discipline budgétaire et financière</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Cour de discipline budgétaire et financière</category>
+    </item>
+  </channel>
+</rss>

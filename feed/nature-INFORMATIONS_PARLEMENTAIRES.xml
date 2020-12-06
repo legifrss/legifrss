@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- INFORMATIONS_PARLEMENTAIRES</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-06 19:20:42.659843083 +0100 CET m=+14.538701668</pubDate>
-    <lastBuildDate>2020-12-06 19:20:42.659843083 +0100 CET m=+14.538701668</lastBuildDate>
-    <item>
-      <title>DECRET - JORFTEXT000042614732</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614732</link>
-      <description>Décret du 4 décembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042614735</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614735</link>
-      <description>Décret du 4 décembre 2020 portant francisation de noms et prénoms d&#39;étrangers ayant acquis ou recouvré la nationalité française (Accès protégé)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042614792</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614792</link>
-      <description>Demandes de changement de nom (Accès protégé textes 87 à 101)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
+    <pubDate>2020-12-06 19:20:42.650025121 +0100 CET m=+14.528883704</pubDate>
+    <lastBuildDate>2020-12-06 19:20:42.650025121 +0100 CET m=+14.528883704</lastBuildDate>
     <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042613498</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613498</link>
@@ -77,30 +59,6 @@
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613517</link>
       <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042613549</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613549</link>
-      <description>Concessions diverses</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042613551</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613551</link>
-      <description>Demandes de changement de nom (Accès protégé textes 109 à 140)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042607091</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607091</link>
-      <description>Décret du 3 décembre 2020 portant déclaration de deuil national</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;</category>
-    </item>
-    <item>
-      <title>LOI - JORFTEXT000042607095</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607095</link>
-      <description>LOI n° 2020-1508 du 3 décembre 2020 portant diverses dispositions d&#39;adaptation au droit de l&#39;Union européenne en matière économique et financière (1)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/LOIS</category>
     </item>
     <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042608255</title>
@@ -181,24 +139,6 @@
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
     </item>
     <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042608360</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608360</link>
-      <description>Cours indicatifs du 3 décembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042608363</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608363</link>
-      <description>Demandes de changement de nom (Accès protégé textes 175 à 194)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602758</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602758</link>
-      <description>Décision n° 2020-1160 du 20 octobre 2020 relative au compte rendu et au résultat de la procédure d&#39;attribution d&#39;autorisations d&#39;utilisation de fréquences dans la bande 3,4 - 3,8 GHz en France métropolitaine pour établir et exploiter un réseau radioélectrique mobile ouvert au public</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de régulation des communications électroniques, des postes et de la distribution de la presse</category>
-    </item>
-    <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602795</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602795</link>
       <description>Ordre du jour</description>
@@ -269,24 +209,6 @@
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602819</link>
       <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042602858</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602858</link>
-      <description>Cours indicatifs du 2 décembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042602861</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602861</link>
-      <description>Demandes de changement de nom (Accès protégé textes 180 à 198)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592262</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592262</link>
-      <description>Décret du 30 novembre 2020 portant nomination dans l&#39;ordre national de la Légion d&#39;honneur en faveur des militaires appartenant à l&#39;armée active</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Présidence de la République/Ordre national de la Légion d&#39;honneur</category>
     </item>
     <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042593125</title>
@@ -367,24 +289,6 @@
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
     </item>
     <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042593181</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593181</link>
-      <description>Cours indicatifs du 1er décembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042593184</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593184</link>
-      <description>Demandes de changement de nom (Accès protégé textes 122 à 132)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>LOI - JORFTEXT000042580124</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580124</link>
-      <description>LOI n° 2020-1473 du 30 novembre 2020 de finances rectificative pour 2020 (1)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/LOIS</category>
-    </item>
-    <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042580896</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580896</link>
       <description>Groupes politiques</description>
@@ -445,36 +349,6 @@
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
     </item>
     <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042580937</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580937</link>
-      <description>Cours indicatifs du 30 novembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042580940</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580940</link>
-      <description>Demandes de changement de nom (Accès protégé textes 99 à 127)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042577792</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577792</link>
-      <description>Décret du 27 novembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042577839</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577839</link>
-      <description>Demandes de changement de nom (Accès protégé textes 171 à 199)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042575176</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575176</link>
-      <description>Décision n° 2020.0233/DC/SCES du 15 octobre 2020 du collège de la Haute Autorité de santé portant adoption de la procédure de certification des établissements de santé</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
-    </item>
-    <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575189</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575189</link>
       <description>Commissions et organes de contrôle</description>
@@ -515,24 +389,6 @@
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575203</link>
       <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042575232</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575232</link>
-      <description>Cours indicatifs du 27 novembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042575235</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575235</link>
-      <description>Demandes de changement de nom (Accès protégé textes 137 à 158)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570708</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570708</link>
-      <description>Décret du 26 novembre 2020 rapportant un décret de naturalisation (Accès protégé)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
     </item>
     <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042570713</title>
@@ -607,18 +463,6 @@
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
     </item>
     <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042570826</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570826</link>
-      <description>Cours indicatifs du 26 novembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042570829</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570829</link>
-      <description>Demandes de changement de nom (Accès protégé textes 131 à 156)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042565635</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565635</link>
       <description>Ordre du jour</description>
@@ -677,18 +521,6 @@
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565656</link>
       <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042565746</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565746</link>
-      <description>Cours indicatifs du 25 novembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042565749</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565749</link>
-      <description>Demandes de changement de nom (Accès protégé textes 163 à 189)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
     </item>
   </channel>
 </rss>

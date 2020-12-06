@@ -12,7 +12,7 @@ import (
 )
 
 func FetchJORF(token string) (str string, lastNJo models.LastNJo) {
-	var nbElements = "1"
+	var nbElements = "10"
 	fmt.Printf("Fetching the last %s\n", nbElements)
 	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/lastNJo", strings.NewReader("{\"nbElement\":"+nbElements+"}"))
 	utils.ErrCheck(err)
