@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Legifrance RSS</title>
-    <link>https://legifrance.gouv.fr</link>
-    <description>This is a non-official RSS feed for Legifrance. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <lastBuildDate>2020-12-06 15:29:36.739082137 +0100 CET m=+8.389527640</lastBuildDate>
+    <pubDate>2020-12-06 15:36:25.210275039 +0100 CET m=+7.941255287</pubDate>
+    <lastBuildDate>2020-12-06 15:36:25.210275039 +0100 CET m=+7.941255287</lastBuildDate>
     <item>
       <title>JORFTEXT000042614262</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614262</link>

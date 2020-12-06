@@ -14,10 +14,11 @@ func TransformToRSS(result []dila.JOContainerResult) string {
 	now := time.Now().String()
 	feed := &feeds.RssFeed{
 		Title:          "Legifrance RSS",
-		Link:           "https://legifrance.gouv.fr",
-		Description:    "This is a non-official RSS feed for Legifrance. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss",
+		Link:           "https://github.com/ldicarlo/legifrance-rss",
+		Description:    "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss",
 		ManagingEditor: "luca@di-carlo.fr (Luca Di Carlo)",
 		LastBuildDate:  now,
+		PubDate:        now,
 	}
 
 	for _, jorfContent := range result {
