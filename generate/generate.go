@@ -2,6 +2,7 @@ package generate
 
 import (
 	"os"
+	"strings"
 
 	"github.com/gorilla/feeds"
 	"github.com/ldicarlo/legifrss/server/models"
@@ -13,13 +14,13 @@ func Generate(result []models.LegifranceElement) {
 	natureMap := mapByNature(result)
 	for key, posts := range natureMap {
 		var k = ""
-		if key != "" {
+		if key == "" {
 			k = "unknown"
 		} else {
-			k = key
+			k = strings.ReplaceAll(strings.ReplaceAll(key, " ", "-"), ",", "")
 		}
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/nature" + k + ".xml")
+		f, err := os.Create("feed/nature-" + k + ".xml")
 
 		utils.ErrCheck(err)
 
@@ -32,10 +33,10 @@ func Generate(result []models.LegifranceElement) {
 	authorMap := mapByAuthor(result)
 	for key, posts := range authorMap {
 		var k = ""
-		if key != "" {
+		if key == "" {
 			k = "unknown"
 		} else {
-			k = key
+			k = strings.ReplaceAll(strings.ReplaceAll(key, " ", "-"), ",", "")
 		}
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
 		f, err := os.Create("feed/author-" + k + ".xml")
