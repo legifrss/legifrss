@@ -1,18 +1,35 @@
 # README
 
-Init using [go article](https://blog.golang.org/using-go-modules)
-https://blog.golang.org/module-compatibility
+## Abstract
+
+Everything is written in English, but you can open issues in French.
+
+_Why this repository_: I was missing a way to see every change in the french law, but keep only some of them for later.
+
+Legifrance provides a way to receive newsletters, but sadly they're not optimal.
+
+Note that this project is at its ALPHA stage, it's more of a PoC for now.
+
+## How to use
+
+Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrss/master/feed/feed.xml`
+
+It works in [Feeldy](https://feedly.com).
 
 ## Expected Features
 
-Based on [hnrss](https://github.com/hnrss), my expected features are:
+I will soon add these:
 
-- `/` should return all.
-- `/?excluded_natures=DECRET&excluded_natures=ANNONCES` should return all but excluded natures
-- `/?keywords=BNP&keyword=vague` should return by key word
-- `/?excluded_emitter=` ?
+- Fix: do not update date when contents are identical
+- Feature: add category field to be able to sort by Nature and Author (_i.e._ Minister)
+- Tests: I should add unit tests.
 
-## API
+## Technical (WIP)
+
+### Misc
+
+Init using [go article](https://blog.golang.org/using-go-modules)
+Highly based on [hnrss](https://github.com/hnrss)
 
 ### Auth
 

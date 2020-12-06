@@ -5,5 +5,6 @@ go 1.15
 require (
 	github.com/gorilla/feeds v1.1.1
 	github.com/joho/godotenv v1.3.0
-	rsc.io/quote v1.5.2
+	github.com/kr/pretty v0.2.1 // indirect
+	github.com/kr/text v0.2.0 // indirect
 )

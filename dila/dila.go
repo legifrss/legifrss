@@ -9,9 +9,12 @@ import (
 )
 
 func FetchJORF(token string) (str string, lastNJo LastNJo) {
-	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/lastNJo", strings.NewReader("{\"nbElement\":5}"))
+	var nbElements = "5"
+	fmt.Printf("Fetching the last %s\n", nbElements)
+	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/lastNJo", strings.NewReader("{\"nbElement\":"+nbElements+"}"))
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)
+	fmt.Println(req)
 	if err != nil {
 		return "Error while POST request", lastNJo
 	}
@@ -26,12 +29,19 @@ func FetchJORF(token string) (str string, lastNJo LastNJo) {
 	}
 
 	json.Unmarshal(body, &lastNJo)
+
+	fmt.Printf("Fetched %d elements\n", len(lastNJo.Containers))
+	for _, container := range lastNJo.Containers {
+		fmt.Println(container.Id)
+	}
+
 	return "", lastNJo
 }
 
 func FetchCont(token string, jorfCont string) (str string, joContainerResult JOContainerResult) {
+	fmt.Printf("Fetching the content for %s\n", jorfCont)
 	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/jorfCont",
-		strings.NewReader("{\"textCid\":\""+jorfCont+"\"}"))
+		strings.NewReader("{\"id\":\""+jorfCont+"\",\"pageNumber\":1,\"pageSize\":10}}"))
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)
 	if err != nil {
@@ -49,5 +59,6 @@ func FetchCont(token string, jorfCont string) (str string, joContainerResult JOC
 		return "Error reading body", joContainerResult
 	}
 	json.Unmarshal(body, &joContainerResult)
+	fmt.Println(joContainerResult.Items[0].Container.Id + " fetched")
 	return "", joContainerResult
 }

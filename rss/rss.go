@@ -9,20 +9,21 @@ import (
 )
 
 // TransformToRSS is the Main transformation function
-func TransformToRSS(result dila.JOContainerResult) string {
+func TransformToRSS(result []dila.JOContainerResult) string {
 	now := time.Now()
 	feed := &feeds.Feed{
 		Title:       "Legifrance RSS",
 		Link:        &feeds.Link{Href: "https://legifrance.gouv.fr"},
-		Description: "This is a non-official RSS feed for Legifrance. This is TEST for now.",
+		Description: "This is a non-official RSS feed for Legifrance. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss",
 		Author:      &feeds.Author{Name: "Luca Di Carlo", Email: "luca@di-carlo.fr"},
-		Created:     now,
+		Updated:     now,
 	}
 
-	for _, item := range result.Items {
-		for _, step := range item.Container.Structure.Contents {
-			//fmt.Println(step)
-			feed.Items = tranformHierarchyStep(step, feed.Items)
+	for _, jorfContent := range result {
+		for _, item := range jorfContent.Items {
+			for _, step := range item.Container.Structure.Contents {
+				feed.Items = tranformHierarchyStep(step, feed.Items)
+			}
 		}
 	}
 

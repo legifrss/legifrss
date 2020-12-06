@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/dila"
@@ -36,11 +37,23 @@ func Start() (str string, result string) {
 	if err != "" {
 		return err, ""
 	}
-	err, res2 := dila.FetchCont(token, res.Containers[0].Id)
-	if err != "" {
+	var jorfContents []dila.JOContainerResult
+	for _, jorf := range res.Containers {
+		err, nextContent := dila.FetchCont(token, jorf.Id)
+		if err != "" {
+			continue
+		}
+		jorfContents = append(jorfContents, nextContent)
+	}
+
+	feed := rss.TransformToRSS(jorfContents)
+	f, er := os.Create("feed/feed.xml")
+	if er != nil {
+		fmt.Println(err)
 		return err, ""
 	}
-	return "", rss.TransformToRSS(res2)
+	f.WriteString(feed)
+	return "", "ok"
 }
 
 func main() {

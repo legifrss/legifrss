@@ -2,6 +2,7 @@ package token
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -31,6 +32,7 @@ func GetToken(clientId string, clientSecret string) (string, string) {
 	}
 	var jwt jwt
 	json.Unmarshal(body, &jwt)
+	fmt.Printf("Secret Token is %s\n", jwt.AccessToken)
 	return "", jwt.AccessToken
 
 }
