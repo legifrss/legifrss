@@ -14,7 +14,7 @@ Note that this project is at its ALPHA stage, it's more of a PoC for now.
 
 Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/feed.xml`
 
-It works in [Feeldy](https://feedly.com).
+It works in [Feedly](https://feedly.com).
 
 ## Expected Features
 

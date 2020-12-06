@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-06 19:01:23.673859151 +0100 CET m=+2.365246455</pubDate>
+    <lastBuildDate>2020-12-06 19:01:23.673859151 +0100 CET m=+2.365246455</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042614553</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614553</link>
+      <description>JORFTEXT000042614553</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+  </channel>
+</rss>

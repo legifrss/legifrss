@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"os"
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/dila"
-	"github.com/ldicarlo/legifrss/server/rss"
+	"github.com/ldicarlo/legifrss/server/feed"
+	"github.com/ldicarlo/legifrss/server/models"
 	"github.com/ldicarlo/legifrss/server/token"
+	"github.com/ldicarlo/legifrss/server/utils"
 )
 
 var clientId string
@@ -29,30 +30,19 @@ func init() {
 
 func Start() (str string, result string) {
 	err, token := token.GetToken(clientId, clientSecret)
-	if err != "" {
-		return err, ""
-	}
+	utils.ErrCheckStr(err)
 
 	err, res := dila.FetchJORF(token)
-	if err != "" {
-		return err, ""
-	}
-	var jorfContents []dila.JOContainerResult
+	utils.ErrCheckStr(err)
+
+	var jorfContents []models.JOContainerResult
 	for _, jorf := range res.Containers {
 		err, nextContent := dila.FetchCont(token, jorf.Id)
-		if err != "" {
-			continue
-		}
+		utils.ErrCheckStr(err)
 		jorfContents = append(jorfContents, nextContent)
 	}
-
-	feed := rss.TransformToRSS(jorfContents)
-	f, er := os.Create("feed/feed.xml")
-	if er != nil {
-		fmt.Println(err)
-		return err, ""
-	}
-	f.WriteString(feed)
+	list := utils.ExtractAndConvertDILA(jorfContents)
+	feed.Generate(list)
 	return "", "ok"
 }
 

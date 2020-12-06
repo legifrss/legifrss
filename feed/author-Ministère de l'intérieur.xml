@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-06 19:01:23.673415262 +0100 CET m=+2.364802597</pubDate>
+    <lastBuildDate>2020-12-06 19:01:23.673415262 +0100 CET m=+2.364802597</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042614465</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614465</link>
+      <description>JORFTEXT000042614465</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614471</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614471</link>
+      <description>JORFTEXT000042614471</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614473</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614473</link>
+      <description>JORFTEXT000042614473</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614483</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614483</link>
+      <description>JORFTEXT000042614483</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614489</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614489</link>
+      <description>JORFTEXT000042614489</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614616</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614616</link>
+      <description>JORFTEXT000042614616</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042614618</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614618</link>
+      <description>JORFTEXT000042614618</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042614620</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614620</link>
+      <description>JORFTEXT000042614620</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042614787</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614787</link>
+      <description>JORFTEXT000042614787</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de l&#39;intérieur</category>
+    </item>
+  </channel>
+</rss>
