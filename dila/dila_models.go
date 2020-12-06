@@ -11,9 +11,11 @@ type LastNJo struct {
 
 //------------------------
 type Summary struct {
-	Id     string `json:"id"`
-	Title  string `json:"titre"`
-	Nature string `json:"nature"`
+	Id       string `json:"id"`
+	Title    string `json:"titre"`
+	Nature   string `json:"nature"`
+	Minister string `json:"ministere"`
+	Emitter  string `json:"emetteur"`
 }
 
 type HierarchyStep struct {

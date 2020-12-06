@@ -42,6 +42,7 @@ func transformSummary(summary dila.Summary, categories []string) *feeds.RssItem 
 		Link:        "https://www.legifrance.gouv.fr/jorf/id/" + summary.Id,
 		Description: summary.Title,
 		Category:    strings.Join(categories, "/"),
+		Author:      summary.Emitter,
 	}
 }
 
