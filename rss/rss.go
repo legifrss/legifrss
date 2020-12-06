@@ -2,6 +2,7 @@ package rss
 
 import (
 	"log"
+	"strings"
 	"time"
 
 	"github.com/gorilla/feeds"
@@ -10,44 +11,46 @@ import (
 
 // TransformToRSS is the Main transformation function
 func TransformToRSS(result []dila.JOContainerResult) string {
-	now := time.Now()
-	feed := &feeds.Feed{
-		Title:       "Legifrance RSS",
-		Link:        &feeds.Link{Href: "https://legifrance.gouv.fr"},
-		Description: "This is a non-official RSS feed for Legifrance. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss",
-		Author:      &feeds.Author{Name: "Luca Di Carlo", Email: "luca@di-carlo.fr"},
-		Updated:     now,
+	now := time.Now().String()
+	feed := &feeds.RssFeed{
+		Title:          "Legifrance RSS",
+		Link:           "https://legifrance.gouv.fr",
+		Description:    "This is a non-official RSS feed for Legifrance. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss",
+		ManagingEditor: "luca@di-carlo.fr (Luca Di Carlo)",
+		LastBuildDate:  now,
 	}
 
 	for _, jorfContent := range result {
 		for _, item := range jorfContent.Items {
+
 			for _, step := range item.Container.Structure.Contents {
-				feed.Items = tranformHierarchyStep(step, feed.Items)
+				feed.Items = tranformHierarchyStep(step, []string{}, feed.Items)
 			}
 		}
 	}
 
-	rss, err := feed.ToRss()
+	rss, err := feeds.ToXML(feed)
 	if err != nil {
 		log.Fatal(err)
 	}
 	return rss
 }
 
-func transformSummary(summary dila.Summary) *feeds.Item {
-	return &feeds.Item{
+func transformSummary(summary dila.Summary, categories []string) *feeds.RssItem {
+	return &feeds.RssItem{
 		Title:       summary.Id,
-		Link:        &feeds.Link{Href: "https://www.legifrance.gouv.fr/jorf/id/" + summary.Id},
+		Link:        "https://www.legifrance.gouv.fr/jorf/id/" + summary.Id,
 		Description: summary.Title,
+		Category:    strings.Join(categories, "/"),
 	}
 }
 
-func tranformHierarchyStep(hs dila.HierarchyStep, result []*feeds.Item) []*feeds.Item {
+func tranformHierarchyStep(hs dila.HierarchyStep, categories []string, result []*feeds.RssItem) []*feeds.RssItem {
 	for _, item := range hs.Summaries {
-		result = append(result, transformSummary(item))
+		result = append(result, transformSummary(item, append(categories, hs.Title)))
 	}
 	for _, nextHs := range hs.Step {
-		result = tranformHierarchyStep(nextHs, result)
+		result = tranformHierarchyStep(nextHs, append(categories, hs.Title), result)
 	}
 	return result
 }
