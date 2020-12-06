@@ -5,7 +5,7 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/dila"
-	"github.com/ldicarlo/legifrss/server/feed"
+	"github.com/ldicarlo/legifrss/server/generate"
 	"github.com/ldicarlo/legifrss/server/models"
 	"github.com/ldicarlo/legifrss/server/token"
 	"github.com/ldicarlo/legifrss/server/utils"
@@ -42,7 +42,7 @@ func Start() (str string, result string) {
 		jorfContents = append(jorfContents, nextContent)
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
-	feed.Generate(list)
+	generate.Generate(list)
 	return "", "ok"
 }
 

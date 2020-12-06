@@ -1,7 +1,6 @@
-package feed
+package generate
 
 import (
-	"fmt"
 	"os"
 
 	"github.com/gorilla/feeds"
@@ -12,11 +11,15 @@ import (
 
 func Generate(result []models.LegifranceElement) {
 	natureMap := mapByNature(result)
-	//	authorMap := mapByAuthor(result)
-	for k, posts := range natureMap {
-		//fmt.Println(posts)
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/nature-" + k + ".xml")
+	for key, posts := range natureMap {
+		var k = ""
+		if key != "" {
+			k = "unknown"
+		} else {
+			k = key
+		}
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
+		f, err := os.Create("feed/nature" + k + ".xml")
 
 		utils.ErrCheck(err)
 
@@ -27,9 +30,13 @@ func Generate(result []models.LegifranceElement) {
 
 	}
 	authorMap := mapByAuthor(result)
-	//	authorMap := mapByAuthor(result)
-	for k, posts := range authorMap {
-		//fmt.Println(posts)
+	for key, posts := range authorMap {
+		var k = ""
+		if key != "" {
+			k = "unknown"
+		} else {
+			k = key
+		}
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
 		f, err := os.Create("feed/author-" + k + ".xml")
 
@@ -56,7 +63,6 @@ func Generate(result []models.LegifranceElement) {
 func mapByNature(input []models.LegifranceElement) map[string][]models.LegifranceElement {
 	var result = make(map[string][]models.LegifranceElement)
 	for _, item := range input {
-		fmt.Println(item.Nature)
 		if result[item.Nature] != nil {
 			result[item.Nature] = append(result[item.Nature], item)
 		} else {

@@ -31,7 +31,7 @@ func transformLegifranceElement(element models.LegifranceElement) *feeds.RssItem
 	return &feeds.RssItem{
 		Title:       element.Nature + " - " + element.Id,
 		Link:        "https://www.legifrance.gouv.fr/jorf/id/" + element.Id,
-		Description: element.Title,
+		Description: element.Description,
 		Category:    strings.Join(element.Category, "/"),
 		Author:      element.Author,
 	}

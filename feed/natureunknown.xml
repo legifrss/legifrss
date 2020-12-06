@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- ANNONCES</title>
+    <title>Legifrance RSS- unknown</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-06 19:09:50.686679937 +0100 CET m=+1.690174359</pubDate>
-    <lastBuildDate>2020-12-06 19:09:50.686679937 +0100 CET m=+1.690174359</lastBuildDate>
+    <pubDate>2020-12-06 19:11:37.184674635 +0100 CET m=+1.987945029</pubDate>
+    <lastBuildDate>2020-12-06 19:11:37.184674635 +0100 CET m=+1.987945029</lastBuildDate>
     <item>
       <title>ANNONCES - JORFTEXT000042614792</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614792</link>
