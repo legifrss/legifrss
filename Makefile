@@ -12,3 +12,6 @@ test:  build ## test the app
 
 run: test ## run the app
 	@go run ./server.go
+
+run-batch: run
+	@scripts/deploy.sh
