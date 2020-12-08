@@ -15,3 +15,6 @@ run: test ## run the app
 
 run-batch: run
 	@scripts/deploy.sh
+
+delete-feeds:
+	@rm -rf feed/*

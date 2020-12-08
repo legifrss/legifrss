@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Commission-nationale-du-débat-public</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.390922232 +0100 CET m=+22.221119646</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.390922232 +0100 CET m=+22.221119646</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042614696</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614696</link>
+      <description>Décision n° 2020-133/LIAISON FOS-SALON/8 du 26 novembre 2020 Consultation électronique Projet de liaison routière Fos-Salon (13)</description>
+      <author>Commission nationale du débat public</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale du débat public</category>
+    </item>
+  </channel>
+</rss>

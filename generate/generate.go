@@ -16,7 +16,7 @@ func Generate(result []models.LegifranceElement) {
 		var k = sanitizeName(key)
 
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/nature-" + k + ".xml")
+		f, err := os.Create("feed/" + k + "_all.xml")
 
 		utils.ErrCheck(err)
 
@@ -30,7 +30,7 @@ func Generate(result []models.LegifranceElement) {
 	for key, posts := range authorMap {
 		var k = sanitizeName(key)
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/author-" + k + ".xml")
+		f, err := os.Create("feed/all_" + k + ".xml")
 
 		utils.ErrCheck(err)
 
@@ -46,7 +46,7 @@ func Generate(result []models.LegifranceElement) {
 		for key2, item := range maps {
 			k2 := sanitizeName(key2)
 			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + k1 + " - " + k2, LinkSuffix: "", DescriptionSuffix: ""})
-			f, err := os.Create("feed/" + k1 + "-" + k2 + ".xml")
+			f, err := os.Create("feed/" + k2 + "_" + k1 + ".xml")
 
 			utils.ErrCheck(err)
 
@@ -58,7 +58,7 @@ func Generate(result []models.LegifranceElement) {
 	}
 
 	globalFeed := rss.TransformToRSS(result, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
-	f, err := os.Create("feed/feed.xml")
+	f, err := os.Create("feed/all.xml")
 	utils.ErrCheck(err)
 
 	elem, err := feeds.ToXML(globalFeed)

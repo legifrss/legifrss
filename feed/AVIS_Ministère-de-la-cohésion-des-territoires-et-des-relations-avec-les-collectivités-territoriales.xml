@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales - AVIS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.421684336 +0100 CET m=+22.251881739</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.421684336 +0100 CET m=+22.251881739</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042570818</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570818</link>
+      <description>Avis relatif à l&#39;élection du comité des finances locales</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+  </channel>
+</rss>

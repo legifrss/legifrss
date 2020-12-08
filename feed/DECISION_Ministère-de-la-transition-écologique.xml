@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-la-transition-écologique - DECISION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.422129895 +0100 CET m=+22.252327316</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.422129895 +0100 CET m=+22.252327316</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042612908</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042612908</link>
+      <description>Décision du 4 décembre 2020 consécutive au débat public portant sur un projet éolien en mer au large de la Normandie et son raccordement</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042592411</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592411</link>
+      <description>Décision du 30 novembre 2020 portant délégation de signature (direction de l&#39;habitat, de l&#39;urbanisme et des paysages)</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
+  </channel>
+</rss>

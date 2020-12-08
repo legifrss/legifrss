@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Commission-nationale-consultative-des-droits-de-l&#39;homme - unknown</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.426137644 +0100 CET m=+22.256335049</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.426137644 +0100 CET m=+22.256335049</lastBuildDate>
+    <item>
+      <title> - JORFTEXT000042575050</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575050</link>
+      <description>Projet de déclaration sur l&#39;état d&#39;urgence sanitaire (EUS)</description>
+      <author>Commission nationale consultative des droits de l&#39;homme</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale consultative des droits de l&#39;homme</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Conseil-supérieur-de-l&#39;audiovisuel - DELIBERATION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.429950011 +0100 CET m=+22.260147414</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.429950011 +0100 CET m=+22.260147414</lastBuildDate>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042575171</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575171</link>
+      <description>Délibération du 10 novembre 2020 relative à la possibilité de reconduire pour cinq ans hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de Lyon</description>
+      <author>Conseil supérieur de l&#39;audiovisuel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    </item>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042570701</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570701</link>
+      <description>Délibération du 15 octobre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</description>
+      <author>Conseil supérieur de l&#39;audiovisuel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    </item>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042570703</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570703</link>
+      <description>Délibération du 15 octobre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</description>
+      <author>Conseil supérieur de l&#39;audiovisuel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    </item>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042570705</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570705</link>
+      <description>Délibération du 30 octobre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</description>
+      <author>Conseil supérieur de l&#39;audiovisuel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    </item>
+  </channel>
+</rss>

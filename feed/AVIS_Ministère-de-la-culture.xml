@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-la-culture - AVIS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.423307773 +0100 CET m=+22.253505184</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.423307773 +0100 CET m=+22.253505184</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042620665</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620665</link>
+      <description>Avis de vacance d&#39;un emploi de directeur régional adjoint des affaires culturelles (Hauts-de-France)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620671</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620671</link>
+      <description>Avis de vacance d&#39;un emploi de directeur régional adjoint des affaires culturelles (Provence-Alpes-Côte d&#39;Azur)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042608322</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608322</link>
+      <description>Avis de vacance d&#39;un emploi de directeur régional adjoint délégué des affaires culturelles responsable du pôle architecture et patrimoines (région Auvergne-Rhône-Alpes)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042593166</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593166</link>
+      <description>Avis de vacance d&#39;un emploi de directeur régional adjoint délégué des affaires culturelles, en charge de la démocratisation et des industries culturelles (région Grand Est)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042593173</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593173</link>
+      <description>Avis de vacance d&#39;emploi d&#39;inspecteur général des affaires culturelles</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042570821</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570821</link>
+      <description>Avis d&#39;appel au mécénat d&#39;entreprise pour l&#39;acquisition par l&#39;Etat d&#39;un trésor national dans le cadre de l&#39;article 238 bis-0 A du code général des impôts</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de la culture</category>
+    </item>
+  </channel>
+</rss>

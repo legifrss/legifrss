@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Commission-nationale-de-l&#39;informatique-et-des-libertés - DELIBERATION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.397082092 +0100 CET m=+22.227279494</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.397082092 +0100 CET m=+22.227279494</lastBuildDate>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042608200</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608200</link>
+      <description>Délibération n° 2020-064 du 25 juin 2020 portant avis sur un projet de décret modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Prévention des atteintes à la sécurité publique » (demande d&#39;avis n° 19013316)</description>
+      <author>Commission nationale de l&#39;informatique et des libertés</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
+    </item>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042608217</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608217</link>
+      <description>Délibération n° 2020-065 du 25 juin 2020 portant avis sur un projet de décret modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Gestion de l&#39;information et Prévention des atteintes à la sécurité publique » (demande d&#39;avis n° 19013314)</description>
+      <author>Commission nationale de l&#39;informatique et des libertés</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
+    </item>
+    <item>
+      <title>DELIBERATION - JORFTEXT000042608234</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608234</link>
+      <description>Délibération n° 2020-066 du 25 juin 2020 portant avis sur un projet de décret modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Enquêtes administratives liées à la sécurité publique » (demande d&#39;avis n° 19013317)</description>
+      <author>Commission nationale de l&#39;informatique et des libertés</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
+    </item>
+  </channel>
+</rss>

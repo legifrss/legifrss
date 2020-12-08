@@ -12,10 +12,10 @@ Note that this project is at its ALPHA stage, it's more of a PoC for now.
 
 ## How to use
 
-Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/feed.xml`
+Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all.xml`
 
 If you want a specific NATURE or AUTHOR, you can find them [here](https://github.com/ldicarlo/legifrance-rss/tree/master/feed). Just add the file name to `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/`
 
-(Example: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/author-Commission-nationale-du-débat-public.xml`)
+(Example: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_Commission-nationale-du-débat-public.xml`)
 
 It works in [Feedly](https://feedly.com).

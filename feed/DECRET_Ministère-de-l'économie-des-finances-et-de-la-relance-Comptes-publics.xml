@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-l&#39;économie-des-finances-et-de-la-relance-Comptes-publics - DECRET</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.425399458 +0100 CET m=+22.255596863</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.425399458 +0100 CET m=+22.255596863</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042620476</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620476</link>
+      <description>Décret n° 2020-1528 du 7 décembre 2020 relatif au taux d&#39;intérêt du prêt accordé par l&#39;Etat à l&#39;établissement public « Ile-de-France Mobilités » à la suite des conséquences de l&#39;épidémie de la covid-19</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042580533</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580533</link>
+      <description>Décret n° 2020-1480 du 30 novembre 2020 portant répartition des crédits ouverts et annulés par la loi n° 2020-1473 du 30 novembre 2020 de finances rectificative pour 2020</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042577371</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577371</link>
+      <description>Décret n° 2020-1471 du 27 novembre 2020 relatif aux garanties prises par les comptables publics et au recouvrement forcé des créances d&#39;enregistrement et de publicité foncière</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042577389</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577389</link>
+      <description>Décret n° 2020-1472 du 27 novembre 2020 portant ouverture et annulation de crédits</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+  </channel>
+</rss>

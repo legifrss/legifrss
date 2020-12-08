@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales - DECRET</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:49:00.421559255 +0100 CET m=+22.251756656</pubDate>
+    <lastBuildDate>2020-12-08 08:49:00.421559255 +0100 CET m=+22.251756656</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042612999</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042612999</link>
+      <description>Décret n° 2020-1516 du 4 décembre 2020 fixant la liste des intempéries exceptionnelles ouvrant droit aux attributions du fonds de compensation pour la TVA l&#39;année de la dépense</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042577462</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577462</link>
+      <description>Décret du 27 novembre 2020 portant nomination au comité des finances locales institué par l&#39;article L. 1211-1 du code général des collectivités territoriales</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042570231</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570231</link>
+      <description>Décret n° 2020-1451 du 25 novembre 2020 pris pour l&#39;application de l&#39;article 21 de la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+  </channel>
+</rss>
