@@ -12,9 +12,9 @@ import (
 func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescription) *feeds.RssFeed {
 	now := time.Now().String()
 	feed := &feeds.RssFeed{
-		Title:          "Legifrance RSS" + feedDesc.TitleSuffix,
+		Title:          "Legifrance RSS " + feedDesc.TitleSuffix,
 		Link:           "https://github.com/ldicarlo/legifrance-rss" + feedDesc.LinkSuffix,
-		Description:    "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss" + feedDesc.DescriptionSuffix,
+		Description:    "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss" + feedDesc.DescriptionSuffix,
 		ManagingEditor: "luca@di-carlo.fr (Luca Di Carlo)",
 		LastBuildDate:  now,
 		PubDate:        now,
