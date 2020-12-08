@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-des-armées - DECRET</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.183578203 +0100 CET m=+17.100657173</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.183578203 +0100 CET m=+17.100657173</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042613308</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613308</link>
+      <description>Décret du 3 décembre 2020 portant promotion à titre exceptionnel dans l&#39;armée active</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042592462</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592462</link>
+      <description>Décret n° 2020-1486 du 30 novembre 2020 modifiant le statut particulier des corps des officiers de l&#39;air, des officiers mécaniciens de l&#39;air et des officiers des bases de l&#39;air</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042592495</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592495</link>
+      <description>Décret n° 2020-1487 du 30 novembre 2020 modifiant le décret n° 2008-938 du 12 septembre 2008 portant statut particulier des corps des officiers de marine et des officiers spécialisés de la marine</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042592954</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592954</link>
+      <description>Décret du 30 novembre 2020 portant concession de la Médaille militaire en faveur des militaires appartenant à l&#39;armée active</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042570402</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570402</link>
+      <description>Décret du 25 novembre 2020 portant nomination dans la réserve opérationnelle</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
+  </channel>
+</rss>

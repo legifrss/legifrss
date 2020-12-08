@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Premier-ministre</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.823550956 +0100 CET m=+15.396430957</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.823550956 +0100 CET m=+15.396430957</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.136349737 +0100 CET m=+17.053428654</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.136349737 +0100 CET m=+17.053428654</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042613292</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613292</link>
@@ -136,34 +136,6 @@
       <title>AVIS - JORFTEXT000042570758</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570758</link>
       <description>Avis de vacance d&#39;un emploi de chef de service</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Premier ministre</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042564727</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564727</link>
-      <description>Décret du 25 novembre 2020 portant délégation de signature (mission interministérielle de lutte contre les drogues et les conduites addictives)</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565245</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565245</link>
-      <description>Arrêté du 24 novembre 2020 portant nomination de personnalités qualifiées au Conseil national consultatif pour la biosécurité</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565661</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565661</link>
-      <description>Avis de vacance d&#39;un emploi de chef de service</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Premier ministre</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565672</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565672</link>
-      <description>Avis de vacance d&#39;un emploi de sous-directeur</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Premier ministre</category>
     </item>

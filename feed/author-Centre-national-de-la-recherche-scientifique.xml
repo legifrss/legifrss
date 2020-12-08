@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Centre-national-de-la-recherche-scientifique</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.831374167 +0100 CET m=+15.404254161</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.831374167 +0100 CET m=+15.404254161</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.137164677 +0100 CET m=+17.054243583</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.137164677 +0100 CET m=+17.054243583</lastBuildDate>
     <item>
       <title>ARRETE - JORFTEXT000042593119</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593119</link>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Autorité-de-contrôle-prudentiel - AVIS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.151460901 +0100 CET m=+17.068539811</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.151460901 +0100 CET m=+17.068539811</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042580854</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580854</link>
+      <description>Avis relatif à un transfert partiel de portefeuille de contrats d&#39;une entreprise d&#39;assurance</description>
+      <author>Autorité de contrôle prudentiel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de contrôle prudentiel et de résolution</category>
+    </item>
+  </channel>
+</rss>

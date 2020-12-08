@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-l&#39;enseignement-supérieur-de-la-recherche-et-de-l&#39;innovation - DECISION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.188300876 +0100 CET m=+17.105379790</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.188300876 +0100 CET m=+17.105379790</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042577100</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577100</link>
+      <description>Décision du 29 octobre 2020 portant délégation de signature (direction du numérique pour l&#39;éducation)</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042577105</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577105</link>
+      <description>Décision du 18 novembre 2020 portant délégation de signature (secrétariat général)</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042570338</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570338</link>
+      <description>Décision du 4 novembre 2020 portant délégation de signature (secrétariat général)</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
+  </channel>
+</rss>

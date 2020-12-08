@@ -13,12 +13,8 @@ import (
 func Generate(result []models.LegifranceElement) {
 	natureMap := mapByNature(result)
 	for key, posts := range natureMap {
-		var k = ""
-		if key == "" {
-			k = "unknown"
-		} else {
-			k = strings.ReplaceAll(strings.ReplaceAll(key, " ", "-"), ",", "")
-		}
+		var k = sanitizeName(key)
+
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
 		f, err := os.Create("feed/nature-" + k + ".xml")
 
@@ -32,13 +28,8 @@ func Generate(result []models.LegifranceElement) {
 	}
 	authorMap := mapByAuthor(result)
 	for key, posts := range authorMap {
-		var k = ""
-		if key == "" {
-			k = "unknown"
-		} else {
-			k = strings.ReplaceAll(strings.ReplaceAll(key, " ", "-"), ",", "")
-		}
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
+		var k = sanitizeName(key)
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
 		f, err := os.Create("feed/author-" + k + ".xml")
 
 		utils.ErrCheck(err)
@@ -48,6 +39,22 @@ func Generate(result []models.LegifranceElement) {
 
 		f.WriteString(elem)
 
+	}
+	authorNatureMap := mapByAuthorAndNature(result)
+	for key1, maps := range authorNatureMap {
+		k1 := sanitizeName(key1)
+		for key2, item := range maps {
+			k2 := sanitizeName(key2)
+			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + k1 + " - " + k2, LinkSuffix: "", DescriptionSuffix: ""})
+			f, err := os.Create("feed/" + k1 + "-" + k2 + ".xml")
+
+			utils.ErrCheck(err)
+
+			elem, err := feeds.ToXML(feed)
+			utils.ErrCheck(err)
+
+			f.WriteString(elem)
+		}
 	}
 
 	globalFeed := rss.TransformToRSS(result, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
@@ -82,5 +89,34 @@ func mapByAuthor(input []models.LegifranceElement) map[string][]models.Legifranc
 			result[item.Author] = []models.LegifranceElement{item}
 		}
 	}
+	return result
+}
+
+func sanitizeName(str string) string {
+	if str == "" {
+		return "unknown"
+	}
+
+	return strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(str, "  ", " "), ",", ""), " ", "-")
+
+}
+
+func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[string][]models.LegifranceElement {
+	var result = make(map[string]map[string][]models.LegifranceElement)
+	for _, item := range input {
+		if result[item.Author] == nil {
+			result[item.Author] = make(map[string][]models.LegifranceElement)
+			result[item.Author][item.Nature] = []models.LegifranceElement{item}
+
+		} else {
+			if result[item.Author][item.Nature] == nil {
+				result[item.Author][item.Nature] = []models.LegifranceElement{item}
+			} else {
+				result[item.Author][item.Nature] = append(result[item.Author][item.Nature], item)
+			}
+
+		}
+	}
+
 	return result
 }

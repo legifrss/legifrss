@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-l&#39;éducation-nationale-de-la-jeunesse-et-des-sports - DECISION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.186323071 +0100 CET m=+17.103401987</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.186323071 +0100 CET m=+17.103401987</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042614367</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614367</link>
+      <description>Décision du 24 novembre 2020 portant délégation de signature (direction générale des ressources humaines)</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042614372</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614372</link>
+      <description>Décision du 24 novembre 2020 portant délégation de signature (secrétariat général)</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042575900</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575900</link>
+      <description>Décision du 18 novembre 2020 portant délégation de signature (secrétariat général)</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+  </channel>
+</rss>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Conseil-supérieur-de-l&#39;audiovisuel</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.824305642 +0100 CET m=+15.397185636</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.824305642 +0100 CET m=+15.397185636</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.150148641 +0100 CET m=+17.067227551</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.150148641 +0100 CET m=+17.067227551</lastBuildDate>
     <item>
       <title>DECISION - JORFTEXT000042614703</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614703</link>
@@ -304,20 +304,6 @@
       <title>DELIBERATION - JORFTEXT000042570705</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570705</link>
       <description>Délibération du 30 octobre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</description>
-      <author>Conseil supérieur de l&#39;audiovisuel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
-    </item>
-    <item>
-      <title>DELIBERATION - JORFTEXT000042565627</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565627</link>
-      <description>Délibération du 30 octobre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</description>
-      <author>Conseil supérieur de l&#39;audiovisuel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
-    </item>
-    <item>
-      <title>DELIBERATION - JORFTEXT000042565629</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565629</link>
-      <description>Délibération du 18 novembre 2020 relative à la possibilité de reconduire pour cinq ans hors appel aux candidatures des autorisations délivrées dans le ressort des comités territoriaux de l&#39;audiovisuel de Marseille et Toulouse</description>
       <author>Conseil supérieur de l&#39;audiovisuel</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
     </item>

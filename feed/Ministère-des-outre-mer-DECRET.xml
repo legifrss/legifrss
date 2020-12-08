@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-des-outre-mer - DECRET</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.181228778 +0100 CET m=+17.098307771</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.181228778 +0100 CET m=+17.098307771</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042602135</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602135</link>
+      <description>Décret n° 2020-1503 du 2 décembre 2020 relatif aux subventions de l&#39;Etat pour la construction, l&#39;acquisition et l&#39;amélioration des logements locatifs aidés en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte</description>
+      <author>Ministère des outre-mer</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des outre-mer</category>
+    </item>
+  </channel>
+</rss>

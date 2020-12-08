@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-de-l&#39;économie-des-finances-et-de-la-relance</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.821625064 +0100 CET m=+15.394505055</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.821625064 +0100 CET m=+15.394505055</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.143042762 +0100 CET m=+17.060121672</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.143042762 +0100 CET m=+17.060121672</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042620528</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620528</link>
+      <description>Arrêté du 25 novembre 2020 portant nomination du commissaire du Gouvernement auprès du fonds de garantie des assurances obligatoires de dommages</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620530</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620530</link>
+      <description>Arrêté du 1er décembre 2020 portant admission à la retraite (attachés d&#39;administration)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620532</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620532</link>
+      <description>Arrêté du 1er décembre 2020 portant réintégration et admission à la retraite (contrôleur général économique et financier)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620534</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620534</link>
+      <description>Arrêté du 1er décembre 2020 portant admission à la retraite (attachés d&#39;administration de l&#39;Etat)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620536</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620536</link>
+      <description>Arrêté du 1er décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Agence France-Presse</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620538</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620538</link>
+      <description>Arrêté du 2 décembre 2020 portant nomination au cabinet de la secrétaire d&#39;État auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;économie sociale, solidaire et responsable</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620541</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620541</link>
+      <description>Arrêté du 7 décembre 2020 portant cessation de fonctions au cabinet de la secrétaire d&#39;État auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;économie sociale, solidaire et responsable</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042614378</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614378</link>
@@ -696,62 +745,6 @@
       <title>AVIS - JORFTEXT000042570790</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570790</link>
       <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Provence-Alpes-Côte d&#39;Azur, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042564739</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564739</link>
-      <description>Décret n° 2020-1440 du 24 novembre 2020 relatif aux modalités d&#39;intervention publique en matière d&#39;assurance-crédit de court terme à l&#39;export</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564751</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564751</link>
-      <description>Arrêté du 16 novembre 2020 modifiant l&#39;arrêté du 5 juillet 1966 relatif à la création d&#39;une société interprofessionnelle artisanale de garantie immobilière</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564760</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564760</link>
-      <description>Arrêté du 16 novembre 2020 relatif à la frappe et à l&#39;émission de pièces de collection de 5 000 EUR, 2 500 EUR, 1 000 EUR, 500 EUR, 250 EUR, 200 EUR, 100 EUR, 50 EUR, 25 EUR, 20 EUR, 10 EUR, 5 EUR, 2 EUR, 1 EUR, 0,5 EUR et 0,25 EUR</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564792</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564792</link>
-      <description>Arrêté du 20 novembre 2020 pris en application de l&#39;article 160 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564797</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564797</link>
-      <description>Arrêté du 23 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe pour le recrutement d&#39;administrateurs stagiaires de l&#39;Institut national de la statistique et des études économiques</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565284</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565284</link>
-      <description>Arrêté du 20 novembre 2020 portant nomination au conseil d&#39;administration des Chantiers de l&#39;Atlantique</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565681</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565681</link>
-      <description>Avis de concours externe pour le recrutement au titre de l&#39;année 2021 d&#39;administrateurs stagiaires de l&#39;Institut national de la statistique et des études économiques</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565683</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565683</link>
-      <description>Avis du 24 novembre 2020 modifiant l&#39;avis de vacance d&#39;emploi de directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi du Grand Est, préfigurateur de la future direction régionale de l&#39;économie, de l&#39;emploi, du travail et des solidarités (DREETS)</description>
       <author>Ministère de l&#39;économie, des finances et de la relance</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;économie, des finances et de la relance</category>
     </item>

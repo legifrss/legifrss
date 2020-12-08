@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-des-armées</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.831014393 +0100 CET m=+15.403894391</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.831014393 +0100 CET m=+15.403894391</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.139867315 +0100 CET m=+17.056946221</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.139867315 +0100 CET m=+17.056946221</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042620130</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620130</link>
+      <description>Arrêté du 19 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture des concours externe et interne pour le recrutement d&#39;assistantes et d&#39;assistants de service social des administrations de l&#39;Etat au sein du ministère des armées</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042620545</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620545</link>
+      <description>Arrêté du 30 novembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042612957</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042612957</link>
@@ -250,41 +264,6 @@
       <description>Avis de concours pour le recrutement externe d&#39;élèves commissaires des armées en 2021</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564801</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564801</link>
-      <description>Arrêté du 19 novembre 2020 relatif à la formation initiale à la prise de poste des ingénieurs civils de la défense</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564831</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564831</link>
-      <description>Arrêté du 24 novembre 2020 attribuant les responsabilités et compétences élargies en matière budgétaire et de gestion des ressources humaines prévues aux articles L. 712-9, L. 712-10 et L. 954-1 à L. 954-3 du code de l&#39;éducation à l&#39;Institut supérieur de l&#39;aéronautique et de l&#39;espace</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565287</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565287</link>
-      <description>Décret du 25 novembre 2020 portant nomination d&#39;un officier général</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565291</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565291</link>
-      <description>Décret du 25 novembre 2020 portant nomination d&#39;un officier général</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565295</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565295</link>
-      <description>Décret du 25 novembre 2020 portant nomination du chancelier d&#39;honneur de l&#39;Ordre de la Libération (Conseil national des communes « Compagnon de la Libération »)</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
     </item>
   </channel>
 </rss>

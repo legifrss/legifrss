@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Centre-national-de-la-recherche-scientifique - ARRETE</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.15426698 +0100 CET m=+17.071345886</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.15426698 +0100 CET m=+17.071345886</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042593119</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593119</link>
+      <description>Arrêté du 27 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours sur titres et travaux pour le recrutement de directeurs de recherche de 2e classe du Centre national de la recherche scientifique (CNRS)</description>
+      <author>Centre national de la recherche scientifique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Centre national de la recherche scientifique</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042593121</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593121</link>
+      <description>Arrêté du 27 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours sur titres et travaux pour le recrutement de chargés de recherche de classe normale du Centre national de la recherche scientifique (CNRS)</description>
+      <author>Centre national de la recherche scientifique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Centre national de la recherche scientifique</category>
+    </item>
+  </channel>
+</rss>

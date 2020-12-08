@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Commission-nationale-consultative-des-droits-de-l&#39;homme - AVIS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.17647075 +0100 CET m=+17.093549764</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.17647075 +0100 CET m=+17.093549764</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042580863</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580863</link>
+      <description>Avis sur la proposition de loi relative à la sécurité globale</description>
+      <author>Commission nationale consultative des droits de l&#39;homme</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale consultative des droits de l&#39;homme</category>
+    </item>
+  </channel>
+</rss>

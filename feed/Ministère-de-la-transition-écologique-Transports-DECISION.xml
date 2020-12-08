@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS- Ministère-de-la-transition-écologique-Transports - DECISION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-08 08:39:50.154995321 +0100 CET m=+17.072074235</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.154995321 +0100 CET m=+17.072074235</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042602507</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602507</link>
+      <description>Décision du 24 novembre 2020 relative à l&#39;homologation de la décision n° 2018-094 du 20 décembre 2018 de l&#39;Autorité de régulation des activités ferroviaires et routières pour l&#39;horaire de service 2022</description>
+      <author>Ministère de la transition écologique Transports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    </item>
+  </channel>
+</rss>

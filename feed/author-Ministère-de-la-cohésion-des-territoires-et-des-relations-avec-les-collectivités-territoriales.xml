@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.831456406 +0100 CET m=+15.404336400</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.831456406 +0100 CET m=+15.404336400</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.149151494 +0100 CET m=+17.066230412</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.149151494 +0100 CET m=+17.066230412</lastBuildDate>
     <item>
       <title>ARRETE - JORFTEXT000042614623</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614623</link>
@@ -138,20 +138,6 @@
       <description>Avis relatif à l&#39;élection du comité des finances locales</description>
       <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564990</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564990</link>
-      <description>Arrêté du 12 novembre 2020 portant modification de l&#39;arrêté du 28 janvier 2020 portant ouverture d&#39;un concours externe, d&#39;un concours interne et d&#39;un troisième concours d&#39;accès au grade d&#39;attaché territorial (session 2020) organisés par le centre de gestion de la fonction publique territoriale du Rhône</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565440</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565440</link>
-      <description>Arrêté du 24 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Agence nationale de la cohésion des territoires</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
     </item>
   </channel>
 </rss>

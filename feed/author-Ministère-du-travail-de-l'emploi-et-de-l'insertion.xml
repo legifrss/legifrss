@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.824803263 +0100 CET m=+15.397683262</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.824803263 +0100 CET m=+15.397683262</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.142235817 +0100 CET m=+17.059314731</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.142235817 +0100 CET m=+17.059314731</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042620551</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620551</link>
+      <description>Arrêté du 3 décembre 2020 portant cessation de fonctions au cabinet du secrétaire d&#39;État auprès de la ministre du travail, de l&#39;emploi et de l&#39;insertion, chargé des retraites et de la santé au travail</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620584</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620584</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des activités industrielles de boulangerie et de pâtisserie</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620589</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620589</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620595</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620595</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale du personnel navigant technique des exploitants d&#39;hélicoptères</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620600</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620600</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620606</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620606</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avis interprétatif à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620613</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620613</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;optique-lunetterie de détail</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620619</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620619</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des services de l&#39;automobile</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620625</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620625</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des métiers de l&#39;éducation, de la culture, des loisirs, et de l&#39;animation agissant pour l&#39;utilité sociale et environnementale, au service des territoires</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042620631</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620631</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective des industries métallurgiques des Flandres</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042614499</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614499</link>
@@ -745,97 +815,6 @@
       <title>AVIS - JORFTEXT000042570806</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570806</link>
       <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Provence-Alpes-Côte d&#39;Azur, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>RAPPORT - JORFTEXT000042564917</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564917</link>
-      <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1441 du 25 novembre 2020 portant adaptation des règles relatives aux réunions des instances représentatives du personnel</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ORDONNANCE - JORFTEXT000042564921</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564921</link>
-      <description>Ordonnance n° 2020-1441 du 25 novembre 2020 portant adaptation des règles relatives aux réunions des instances représentatives du personnel</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>RAPPORT - JORFTEXT000042564924</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564924</link>
-      <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1442 du 25 novembre 2020 rétablissant des mesures d&#39;urgence en matière de revenus de remplacement mentionnés à l&#39;article L. 5421-2 du code du travail</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ORDONNANCE - JORFTEXT000042564931</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564931</link>
-      <description>Ordonnance n° 2020-1442 du 25 novembre 2020 rétablissant des mesures d&#39;urgence en matière de revenus de remplacement mentionnés à l&#39;article L. 5421-2 du code du travail</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564934</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564934</link>
-      <description>Arrêté du 18 novembre 2020 relatif au titre professionnel d&#39;installateur en thermique et sanitaire</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564953</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564953</link>
-      <description>Arrêté du 18 novembre 2020 relatif au titre professionnel de technicien du bâtiment communicant et connecté</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042564972</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042564972</link>
-      <description>Arrêté du 18 novembre 2020 relatif au titre professionnel de technicien de bureau d&#39;études en électricité des bâtiments</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565535</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565535</link>
-      <description>Arrêté du 6 novembre 2020 portant extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des transports routiers et des activités auxiliaires du transport (n° 16)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565550</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565550</link>
-      <description>Arrêté du 6 novembre 2020 portant extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des transports routiers et des activités auxiliaires du transport (n° 16)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565565</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565565</link>
-      <description>Avis relatif à l&#39;élargissement d&#39;un avenant à la convention collective nationale de la poissonnerie au secteur du commerce de gros de poissonnerie</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565568</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565568</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de la radiodiffusion</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565574</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565574</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de la fabrication de l&#39;ameublement</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565726</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565726</link>
-      <description>Avis du 24 novembre 2020 modifiant l&#39;avis de vacance d&#39;emploi de directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi du Grand Est, préfigurateur de la future direction régionale de l&#39;économie, de l&#39;emploi, du travail et des solidarités (DREETS)</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>

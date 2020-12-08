@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-de-l&#39;enseignement-supérieur-de-la-recherche-et-de-l&#39;innovation</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.822335629 +0100 CET m=+15.395215619</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.822335629 +0100 CET m=+15.395215619</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.138202899 +0100 CET m=+17.055281811</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.138202899 +0100 CET m=+17.055281811</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042620217</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620217</link>
+      <description>Décret n° 2020-1527 du 7 décembre 2020 portant création de l&#39;Université Clermont Auvergne et approbation de ses statuts</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042614548</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614548</link>
@@ -173,20 +180,6 @@
       <description>Décision du 4 novembre 2020 portant délégation de signature (secrétariat général)</description>
       <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565511</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565511</link>
-      <description>Décret du 25 novembre 2020 portant cessation de fonctions du directeur général de la recherche et de l&#39;innovation du ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation - M. LARROUTUROU (Bernard)</description>
-      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042565731</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565731</link>
-      <description>Avis de vacance des fonctions de directeur de l&#39;Institut de physique du globe de Paris</description>
-      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
     </item>
   </channel>
 </rss>

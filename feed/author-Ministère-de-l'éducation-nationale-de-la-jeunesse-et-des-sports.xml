@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS</title>
+    <title>Legifrance RSS- Ministère-de-l&#39;éducation-nationale-de-la-jeunesse-et-des-sports</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-07 08:41:30.823932241 +0100 CET m=+15.396812231</pubDate>
-    <lastBuildDate>2020-12-07 08:41:30.823932241 +0100 CET m=+15.396812231</lastBuildDate>
+    <pubDate>2020-12-08 08:39:50.14878027 +0100 CET m=+17.065859191</pubDate>
+    <lastBuildDate>2020-12-08 08:39:50.14878027 +0100 CET m=+17.065859191</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042614315</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614315</link>
@@ -278,27 +278,6 @@
       <description>Avis de recrutement de cinq inspecteurs généraux de l&#39;éducation, du sport et de la recherche de deuxième classe</description>
       <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565272</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565272</link>
-      <description>Décret du 25 novembre 2020 portant nomination du recteur de l&#39;académie de Reims - M. BRANDOUY (Olivier)</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042565277</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565277</link>
-      <description>Décret du 25 novembre 2020 portant nomination de la rectrice de l&#39;académie de Limoges - Mme DRUCKER-GODARD (Carole)</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042565281</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042565281</link>
-      <description>Arrêté du 24 novembre 2020 portant nomination (administration centrale)</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
     </item>
   </channel>
 </rss>
