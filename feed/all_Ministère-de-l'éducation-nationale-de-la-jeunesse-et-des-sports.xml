@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-l&#39;éducation-nationale-de-la-jeunesse-et-des-sports</title>
+    <title>Legifrance RSS - Ministère-de-l&#39;éducation-nationale-de-la-jeunesse-et-des-sports</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.392355146 +0100 CET m=+22.222552565</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.392355146 +0100 CET m=+22.222552565</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.49366933 +0100 CET m=+27.888208771</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.49366933 +0100 CET m=+27.888208771</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625083</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625083</link>
+      <description>Arrêté du 23 novembre 2020 fixant la liste des écoles de production prévue à l&#39;article L. 443-6 du code de l&#39;éducation</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625091</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625091</link>
+      <description>Arrêté du 23 novembre 2020 portant reconnaissance par l&#39;Etat des écoles techniques privées</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042614315</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614315</link>
@@ -264,20 +278,6 @@
       <description>Arrêté du 21 octobre 2020 portant nomination des membres du conseil scientifique de l&#39;Institut des hautes études de l&#39;éducation et de la formation</description>
       <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570392</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570392</link>
-      <description>Arrêté du 29 octobre 2020 portant nomination au conseil d&#39;administration de l&#39;Office national d&#39;information sur les enseignements et les professions</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570777</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570777</link>
-      <description>Avis de recrutement de cinq inspecteurs généraux de l&#39;éducation, du sport et de la recherche de deuxième classe</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
     </item>
   </channel>
 </rss>

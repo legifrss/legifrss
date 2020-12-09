@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-des-armées - DECRET</title>
+    <title>Legifrance RSS - Ministère-des-armées - DECRET</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.395372923 +0100 CET m=+22.225570326</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.395372923 +0100 CET m=+22.225570326</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.51866048 +0100 CET m=+27.913199914</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.51866048 +0100 CET m=+27.913199914</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625107</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625107</link>
+      <description>Décret n° 2020-1530 du 8 décembre 2020 modifiant le décret n° 98-641 du 27 juillet 1998 portant création de la délégation à l&#39;information et à la communication de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042613308</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613308</link>
@@ -31,13 +38,6 @@
       <title>DECRET - JORFTEXT000042592954</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592954</link>
       <description>Décret du 30 novembre 2020 portant concession de la Médaille militaire en faveur des militaires appartenant à l&#39;armée active</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570402</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570402</link>
-      <description>Décret du 25 novembre 2020 portant nomination dans la réserve opérationnelle</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
     </item>

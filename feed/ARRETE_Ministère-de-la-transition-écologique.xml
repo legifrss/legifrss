@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-transition-écologique - ARRETE</title>
+    <title>Legifrance RSS - Ministère-de-la-transition-écologique - ARRETE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.421882326 +0100 CET m=+22.252079727</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.421882326 +0100 CET m=+22.252079727</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.541131348 +0100 CET m=+27.935670782</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.541131348 +0100 CET m=+27.935670782</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625066</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625066</link>
+      <description>Arrêté du 7 décembre 2020 modifiant l&#39;arrêté du 19 avril 2012 relatif aux normes d&#39;installation intéressant les installations électriques des bâtiments destinés à recevoir des travailleurs et abrogeant divers arrêtés relatifs à l&#39;électricité dans les industries extractives</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620523</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620523</link>
@@ -206,34 +213,6 @@
       <title>ARRETE - JORFTEXT000042574597</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574597</link>
       <description>Arrêté du 25 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;établissement public chargé de l&#39;aménagement de la Ville nouvelle de Sénart</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570152</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570152</link>
-      <description>Arrêté du 13 novembre 2020 modifiant l&#39;arrêté du 24 janvier 2014 modifié fixant la liste des exploitants auxquels sont affectés des quotas d&#39;émission de gaz à effet de serre et le montant des quotas affectés à titre gratuit pour la période 2013-2020</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570160</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570160</link>
-      <description>Arrêté du 18 novembre 2020 modifiant le nombre de postes offerts au titre de l&#39;année 2020 à l&#39;examen professionnalisé réservé aux agents non titulaires pour l&#39;accès au grade de secrétaire d&#39;administration et de contrôle du développement durable de classe normale spécialité administration générale ouvert par arrêté du 23 juillet 2020</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570162</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570162</link>
-      <description>Arrêté du 20 novembre 2020 portant agrément de la société de coordination « Groupe Habitat en Seine-Saint-Denis, société de coordination »</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570389</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570389</link>
-      <description>Arrêté du 23 novembre 2020 portant nomination de membres du conseil d&#39;administration de l&#39;Ecole nationale des ponts et chaussées</description>
       <author>Ministère de la transition écologique</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique</category>
     </item>

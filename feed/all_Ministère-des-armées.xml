@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-des-armées</title>
+    <title>Legifrance RSS - Ministère-des-armées</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.393768301 +0100 CET m=+22.223965706</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.393768301 +0100 CET m=+22.223965706</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.494000913 +0100 CET m=+27.888540346</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.494000913 +0100 CET m=+27.888540346</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625107</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625107</link>
+      <description>Décret n° 2020-1530 du 8 décembre 2020 modifiant le décret n° 98-641 du 27 juillet 1998 portant création de la délégation à l&#39;information et à la communication de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625116</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625116</link>
+      <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de chef de service et de sous-directeur</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625122</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625122</link>
+      <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de directeur de projet et d&#39;expert de haut niveau</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625128</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625128</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 décembre 2019 portant organisation de la délégation à l&#39;information et à la communication de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625139</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625139</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 17 août 2020 fixant pour le ministère des armées la liste des emplois ouvrant droit à la nouvelle bonification indiciaire instituée en faveur des agents exerçant des fonctions supérieures de direction, d&#39;encadrement ou d&#39;expertise</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625143</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625143</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 octobre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours pour le recrutement d&#39;ingénieurs civils de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042625895</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625895</link>
+      <description>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620130</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620130</link>
@@ -234,34 +283,6 @@
       <title>AVIS - JORFTEXT000042575212</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575212</link>
       <description>Avis relatif aux concours externes d&#39;admission à l&#39;Ecole de l&#39;air en 2021</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570198</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570198</link>
-      <description>Arrêté du 23 novembre 2020 fixant le nombre de places offertes en 2021 pour l&#39;admission des élèves praticiens en qualité d&#39;élève médecin, d&#39;élève pharmacien ou d&#39;élève chirurgien-dentiste des écoles du service de santé des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570402</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570402</link>
-      <description>Décret du 25 novembre 2020 portant nomination dans la réserve opérationnelle</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570404</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570404</link>
-      <description>Arrêté du 9 novembre 2020 portant réintégration, admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570796</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570796</link>
-      <description>Avis de concours pour le recrutement externe d&#39;élèves commissaires des armées en 2021</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des armées</category>
     </item>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-des-armées - DECISION</title>
+    <title>Legifrance RSS - Ministère-des-armées - DECISION</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.395284475 +0100 CET m=+22.225481876</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.395284475 +0100 CET m=+22.225481876</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.518429923 +0100 CET m=+27.912969379</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.518429923 +0100 CET m=+27.912969379</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042625895</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625895</link>
+      <description>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042612957</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042612957</link>

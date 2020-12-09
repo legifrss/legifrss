@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-transition-écologique-Transports - ARRETE</title>
+    <title>Legifrance RSS - Ministère-de-la-transition-écologique-Transports - ARRETE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.425905263 +0100 CET m=+22.256102669</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.425905263 +0100 CET m=+22.256102669</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.543491363 +0100 CET m=+27.938030801</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.543491363 +0100 CET m=+27.938030801</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625967</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625967</link>
+      <description>Arrêté du 1er décembre 2020 portant nomination au conseil de coordination interportuaire Antilles-Guyane</description>
+      <author>Ministère de la transition écologique Transports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620449</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620449</link>
@@ -145,48 +152,6 @@
       <description>Arrêté du 24 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile</description>
       <author>Ministère de la transition écologique Transports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570359</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570359</link>
-      <description>Arrêté du 24 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel pour l&#39;avancement au grade d&#39;assistant d&#39;administration de l&#39;aviation civile de classe supérieure au ministère de la transition écologique (direction générale de l&#39;aviation civile et Météo-France)</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570361</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570361</link>
-      <description>Arrêté du 24 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours interne pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570363</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570363</link>
-      <description>Arrêté du 26 novembre 2020 portant levée de l&#39;interdiction de circulation de certains types de véhicules de transport de marchandises pour les activités de transport de colis de messagerie dans le cadre de la crise épidémique du coronavirus « covid-19 »</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570481</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570481</link>
-      <description>Arrêté du 3 août 2020 portant nomination à la commission intergouvernementale pour la préparation de la réalisation d&#39;une liaison ferroviaire à grande vitesse entre Lyon et Turin</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570483</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570483</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination de la cheffe de la délégation française à la commission intergouvernementale pour la préparation de la réalisation d&#39;une liaison ferroviaire à grande vitesse entre Lyon et Turin</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570485</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570485</link>
-      <description>Arrêté du 26 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Etablissement public de sécurité ferroviaire</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
     </item>
   </channel>
 </rss>

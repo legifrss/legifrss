@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion</title>
+    <title>Legifrance RSS - Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.383624881 +0100 CET m=+22.213822295</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.383624881 +0100 CET m=+22.213822295</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.49425979 +0100 CET m=+27.888799223</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.49425979 +0100 CET m=+27.888799223</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625173</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625173</link>
+      <description>Décret n° 2020-1531 du 7 décembre 2020 modifiant les dispositions relatives à la protection des travailleurs intervenant en milieu hyperbare</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042625229</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625229</link>
+      <description>Décret n° 2020-1532 du 8 décembre 2020 portant diverses dispositions relatives aux régimes de retraite des avocats, des artistes-auteurs et des agents des collectivités locales</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042625983</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625983</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des agences de voyages et de tourisme</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042625989</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625989</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur du travail temporaire</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042625996</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625996</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des maisons à succursales de vente au détail d&#39;habillement</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620551</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620551</link>
@@ -670,153 +705,6 @@
       <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des ateliers et chantiers d&#39;insertion</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570208</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570208</link>
-      <description>Décret n° 2020-1450 du 26 novembre 2020 relatif à la majoration du niveau de prise en charge des contrats d&#39;apprentissage pour les apprentis reconnus travailleurs handicapés</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042570224</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570224</link>
-      <description>Décision du 25 novembre 2020 portant délégation de signature (direction du numérique)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570412</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570412</link>
-      <description>Arrêté du 12 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570414</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570414</link>
-      <description>Arrêté du 13 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570416</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570416</link>
-      <description>Arrêté du 27 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570418</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570418</link>
-      <description>Arrêté du 29 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570420</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570420</link>
-      <description>Arrêté du 2 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570422</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570422</link>
-      <description>Arrêté du 2 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570424</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570424</link>
-      <description>Arrêté du 6 novembre 2020 modifiant l&#39;arrêté du 4 février 2019 portant nomination de membres de la Commission nationale de la négociation collective, de l&#39;emploi et de la formation professionnelle et des sous-commissions constituées en son sein</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570426</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570426</link>
-      <description>Arrêté du 13 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570501</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570501</link>
-      <description>Arrêté du 6 novembre 2020 portant extension d&#39;avenants à un accord conclu dans le secteur du bâtiment et des travaux publics</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570524</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570524</link>
-      <description>Arrêté du 20 novembre 2020 portant extension d&#39;un avenant à la convention collective nationale de la mutualité (n° 2128)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570535</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570535</link>
-      <description>Avis relatif à l&#39;extension d&#39;avenants à la convention collective nationale de l&#39;enseignement privé indépendant</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570542</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570542</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du négoce en fournitures dentaires et des commerces de gros</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570549</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570549</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le secteur de la télédiffusion</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570555</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570555</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des commerces de détail non alimentaires</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570562</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570562</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale unifiée « ports et manutention »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570567</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570567</link>
-      <description>Avis relatif à l&#39;extension d&#39;accords régionaux (Centre-Val de Loire) conclus dans le cadre des conventions collectives nationales des ouvriers dans les entreprises jusqu&#39;à 10 salariés et des employés, techniciens et agents de maîtrise du bâtiment employés par les entreprises du bâtiment</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570572</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570572</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective des industries métallurgiques et connexes de Loir-et-Cher</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570800</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570800</link>
-      <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Bourgogne-Franche-Comté, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570806</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570806</link>
-      <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Provence-Alpes-Côte d&#39;Azur, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>
   </channel>
 </rss>

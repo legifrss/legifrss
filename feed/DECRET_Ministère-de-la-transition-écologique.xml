@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-transition-écologique - DECRET</title>
+    <title>Legifrance RSS - Ministère-de-la-transition-écologique - DECRET</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.421787253 +0100 CET m=+22.251984654</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.421787253 +0100 CET m=+22.251984654</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.540960577 +0100 CET m=+27.935500014</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.540960577 +0100 CET m=+27.935500014</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625031</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625031</link>
+      <description>Décret n° 2020-1529 du 7 décembre 2020 fixant certains compléments et adaptations du code du travail spécifiques aux mines et carrières en matière d&#39;électricité</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042620071</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620071</link>
@@ -54,13 +61,6 @@
       <description>Décret du 27 novembre 2020 autorisant la société Orano Cycle à modifier l&#39;installation nucléaire de base n° 116, dénommée « UP3-A », implantée dans l&#39;établissement de La Hague (département de la Manche) et modifiant le décret du 12 mai 1981 autorisant la Compagnie générale des matières nucléaires à créer, dans son établissement de La Hague, des usines de traitement d&#39;éléments combustibles irradiés provenant des réacteurs nucléaires à eau ordinaire. Usine dénommée « UP 3-A »</description>
       <author>Ministère de la transition écologique</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570387</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570387</link>
-      <description>Décret du 25 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Agence de l&#39;environnement et de la maîtrise de l&#39;énergie</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique</category>
     </item>
   </channel>
 </rss>

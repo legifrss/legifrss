@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-justice - ARRETE</title>
+    <title>Legifrance RSS - Ministère-de-la-justice - ARRETE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.427737739 +0100 CET m=+22.257935141</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.427737739 +0100 CET m=+22.257935141</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.512139675 +0100 CET m=+27.906679108</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.512139675 +0100 CET m=+27.906679108</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625939</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625939</link>
+      <description>Arrêté du 1er décembre 2020 portant admission à la retraite et maintien en activité (magistrature)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042614522</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614522</link>
@@ -1452,139 +1459,6 @@
       <title>ARRETE - JORFTEXT000042574666</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574666</link>
       <description>Arrêté du 26 novembre 2020 portant maintien en détachement (Conseil d&#39;Etat)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570287</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570287</link>
-      <description>Arrêté du 20 novembre 2020 fixant le pourcentage mentionné à l&#39;article 32-3 du décret n° 99-669 du 2 août 1999 portant statut particulier des personnels techniques de l&#39;administration pénitentiaire</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570294</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570294</link>
-      <description>Arrêté du 23 novembre 2020 fixant les modalités du maintien des demandes de création d&#39;offices prévu à l&#39;article 32 du décret n° 75-770 du 14 août 1975 relatif aux conditions d&#39;accès à la profession d&#39;huissier de justice ainsi qu&#39;aux modalités des créations, transferts et suppressions d&#39;offices d&#39;huissier de justice et concernant certains officiers ministériels et auxiliaires de justice</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570307</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570307</link>
-      <description>Arrêté du 23 novembre 2020 modifiant le délai pour compléter une demande de nomination dans un office créé ou un office vacant de notaire, d&#39;huissier de justice ou de commissaire-priseur judiciaire</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570429</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570429</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570431</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570431</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée et à la nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570433</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570433</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570435</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570435</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée et à la nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570437</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570437</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570439</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570439</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570441</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570441</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;un notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570443</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570443</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570445</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570445</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570447</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570447</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570449</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570449</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570451</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570451</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570453</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570453</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570455</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570455</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570457</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570457</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée à associée unique (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570459</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570459</link>
-      <description>Arrêté du 19 novembre 2020 relatif à la suppression d&#39;un office de notaire (officiers publics ou ministériels)</description>
       <author>Ministère de la justice</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
     </item>

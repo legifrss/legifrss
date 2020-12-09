@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion - AVIS</title>
+    <title>Legifrance RSS - Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion - AVIS</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.427247378 +0100 CET m=+22.257444784</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.427247378 +0100 CET m=+22.257444784</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.516381014 +0100 CET m=+27.910920456</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.516381014 +0100 CET m=+27.910920456</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042625983</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625983</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des agences de voyages et de tourisme</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042625989</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625989</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur du travail temporaire</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042625996</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625996</link>
+      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des maisons à succursales de vente au détail d&#39;habillement</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
     <item>
       <title>AVIS - JORFTEXT000042620584</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620584</link>
@@ -159,69 +180,6 @@
       <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des ateliers et chantiers d&#39;insertion</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570535</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570535</link>
-      <description>Avis relatif à l&#39;extension d&#39;avenants à la convention collective nationale de l&#39;enseignement privé indépendant</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570542</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570542</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du négoce en fournitures dentaires et des commerces de gros</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570549</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570549</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le secteur de la télédiffusion</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570555</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570555</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des commerces de détail non alimentaires</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570562</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570562</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale unifiée « ports et manutention »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570567</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570567</link>
-      <description>Avis relatif à l&#39;extension d&#39;accords régionaux (Centre-Val de Loire) conclus dans le cadre des conventions collectives nationales des ouvriers dans les entreprises jusqu&#39;à 10 salariés et des employés, techniciens et agents de maîtrise du bâtiment employés par les entreprises du bâtiment</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570572</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570572</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective des industries métallurgiques et connexes de Loir-et-Cher</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570800</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570800</link>
-      <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Bourgogne-Franche-Comté, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570806</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570806</link>
-      <description>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Provence-Alpes-Côte d&#39;Azur, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>
   </channel>
 </rss>

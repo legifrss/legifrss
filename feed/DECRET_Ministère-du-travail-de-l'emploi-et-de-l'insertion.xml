@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion - DECRET</title>
+    <title>Legifrance RSS - Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion - DECRET</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.427495972 +0100 CET m=+22.257693376</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.427495972 +0100 CET m=+22.257693376</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.516304657 +0100 CET m=+27.910844099</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.516304657 +0100 CET m=+27.910844099</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625173</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625173</link>
+      <description>Décret n° 2020-1531 du 7 décembre 2020 modifiant les dispositions relatives à la protection des travailleurs intervenant en milieu hyperbare</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042625229</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625229</link>
+      <description>Décret n° 2020-1532 du 8 décembre 2020 portant diverses dispositions relatives aux régimes de retraite des avocats, des artistes-auteurs et des agents des collectivités locales</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042607461</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607461</link>
@@ -38,13 +52,6 @@
       <title>DECRET - JORFTEXT000042580401</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580401</link>
       <description>Décret n° 2020-1476 du 30 novembre 2020 relatif aux versements de France compétences aux régions pour le financement des centres de formation d&#39;apprentis</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570208</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570208</link>
-      <description>Décret n° 2020-1450 du 26 novembre 2020 relatif à la majoration du niveau de prise en charge des contrats d&#39;apprentissage pour les apprentis reconnus travailleurs handicapés</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>

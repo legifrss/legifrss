@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales</title>
+    <title>Legifrance RSS - Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.386477869 +0100 CET m=+22.216675271</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.386477869 +0100 CET m=+22.216675271</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.492838282 +0100 CET m=+27.887377725</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.492838282 +0100 CET m=+27.887377725</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042625248</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625248</link>
+      <description>Décret n° 2020-1533 du 8 décembre 2020 relatif aux commissions administratives paritaires et aux conseils de discipline de la fonction publique territoriale</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625457</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625457</link>
+      <description>Arrêté du 4 décembre 2020 pris pour l&#39;application au titre de l&#39;année 2020 des dispositions prévues à l&#39;article L. 2334-7-3 du code général des collectivités territoriales</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625467</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625467</link>
+      <description>Arrêté du 4 décembre 2020 pris pour l&#39;application au titre de l&#39;année 2020 des dispositions prévues à l&#39;article 159 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042614623</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614623</link>
@@ -110,34 +131,6 @@
       <description>Arrêté du 17 novembre 2020 portant modification de l&#39;arrêté du 18 novembre 2019 portant ouverture des concours externe et interne d&#39;attaché territorial organisés par le centre de gestion de la fonction publique territoriale de la Martinique (session 2021)</description>
       <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042570231</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570231</link>
-      <description>Décret n° 2020-1451 du 25 novembre 2020 pris pour l&#39;application de l&#39;article 21 de la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570267</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570267</link>
-      <description>Arrêté du 16 octobre 2020 constatant le classement de communes en zone de revitalisation des commerces en milieu rural</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570273</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570273</link>
-      <description>Arrêté du 17 novembre 2020 portant ouverture du concours d&#39;ingénieur territorial pour les régions Bretagne, Normandie, Pays de la Loire (session 2021)</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570818</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570818</link>
-      <description>Avis relatif à l&#39;élection du comité des finances locales</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
     </item>
   </channel>
 </rss>

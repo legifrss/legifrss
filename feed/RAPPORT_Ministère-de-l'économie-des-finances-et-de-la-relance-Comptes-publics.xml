@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-l&#39;économie-des-finances-et-de-la-relance-Comptes-publics - RAPPORT</title>
+    <title>Legifrance RSS - Ministère-de-l&#39;économie-des-finances-et-de-la-relance-Comptes-publics - RAPPORT</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.425365826 +0100 CET m=+22.255563231</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.425365826 +0100 CET m=+22.255563231</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.514573407 +0100 CET m=+27.909112848</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.514573407 +0100 CET m=+27.909112848</lastBuildDate>
+    <item>
+      <title>RAPPORT - JORFTEXT000042625844</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625844</link>
+      <description>Rapport relatif au décret n° 2020-1538 du 8 décembre 2020 portant virement de crédits</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>RAPPORT - JORFTEXT000042625853</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625853</link>
+      <description>Rapport relatif au décret n° 2020-1539 du 8 décembre 2020 portant virement de crédits</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>RAPPORT - JORFTEXT000042625862</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625862</link>
+      <description>Rapport relatif au décret n° 2020-1540 du 8 décembre 2020 portant virement de crédits</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
     <item>
       <title>RAPPORT - JORFTEXT000042577387</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577387</link>

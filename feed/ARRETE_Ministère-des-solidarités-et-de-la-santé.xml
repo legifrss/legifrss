@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-des-solidarités-et-de-la-santé - ARRETE</title>
+    <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - ARRETE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.430062129 +0100 CET m=+22.260259532</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.430062129 +0100 CET m=+22.260259532</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.54162932 +0100 CET m=+27.936168767</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.54162932 +0100 CET m=+27.936168767</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625566</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625566</link>
+      <description>Arrêté du 30 novembre 2020 relatif à l&#39;expérimentation de suivi à domicile des patients sous anticancéreux oraux</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625573</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625573</link>
+      <description>Arrêté du 4 décembre 2020 relatif aux montants minimal et maximal de l&#39;indemnité forfaitaire de gestion prévue aux articles L. 376-1 et L. 454-1 du code de la sécurité sociale pour l&#39;année 2021</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625579</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625579</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625950</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625950</link>
+      <description>Arrêté du 3 décembre 2020 portant nomination au conseil d&#39;administration de la Caisse autonome nationale de la sécurité sociale dans les mines</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620152</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620152</link>
@@ -563,34 +591,6 @@
       <title>ARRETE - JORFTEXT000042574677</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574677</link>
       <description>Arrêté du 25 novembre 2020 portant abrogation de l&#39;arrêté du 13 février 2018 portant nomination des membres de la commission des accidents du travail et des maladies professionnelles</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570325</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570325</link>
-      <description>Arrêté du 27 octobre 2020 relatif à l&#39;expérimentation de LENA « Logement évolutif pour une nouvelle autonomie »</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570332</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570332</link>
-      <description>Arrêté du 23 novembre 2020 modifiant l&#39;arrêté du 3 novembre 2020 relatif à la mobilisation de la réserve sanitaire en Polynésie française dans le cadre de l&#39;épidémie de covid-19</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570462</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570462</link>
-      <description>Arrêté du 24 novembre 2020 portant nomination des membres des comités d&#39;experts chargés d&#39;autoriser les prélèvements d&#39;organes et de cellules hématopoïétiques issues de la moelle osseuse sur une personne vivante</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570464</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570464</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination par intérim du directeur général de l&#39;Agence nationale de sécurité du médicament et des produits de santé</description>
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
     </item>

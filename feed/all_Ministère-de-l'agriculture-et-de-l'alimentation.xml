@@ -1,11 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-l&#39;agriculture-et-de-l&#39;alimentation</title>
+    <title>Legifrance RSS - Ministère-de-l&#39;agriculture-et-de-l&#39;alimentation</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.389794729 +0100 CET m=+22.219992143</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.389794729 +0100 CET m=+22.219992143</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.501379375 +0100 CET m=+27.895918819</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.501379375 +0100 CET m=+27.895918819</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625633</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625633</link>
+      <description>Arrêté du 2 décembre 2020 autorisant la commercialisation d&#39;un mélange de semences de plantes fourragères destiné à la préservation de l&#39;environnement naturel</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625640</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625640</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Ancenis »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625645</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625645</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Auvergne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625650</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625650</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de la Champagne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625655</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625655</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet des Cévennes »/« Chapon des Cévennes »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625659</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625659</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Forez »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625665</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625665</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy) »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625669</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625669</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet de l&#39;Ardèche »/« Chapon de l&#39;Ardèche »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625674</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625674</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Pintade de l&#39;Ardèche »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625678</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625678</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de la Drôme »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625683</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625683</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Bretagne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625688</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625688</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Normandie »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625693</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625693</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de l&#39;Orléanais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625698</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625698</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Challans »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625703</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625703</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Vendée »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625708</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625708</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Licques »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625713</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625713</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de l&#39;Ain »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625718</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625718</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Bourgogne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625723</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625723</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Gascogne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625728</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625728</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625732</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625732</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poularde du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625736</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625736</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Chapon du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625740</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625740</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Gers »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625745</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625745</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Charolais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625750</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625750</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire de conditions de production de label rouge de produits avicoles</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625756</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625756</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Gâtinais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625761</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625761</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Languedoc »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625766</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625766</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Lauragais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625771</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625771</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Velay »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625776</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625776</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Loué »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625781</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625781</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Maine »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625786</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625786</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Œufs de Loué »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625791</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625791</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Janzé »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625796</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625796</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Alsace »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625801</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625801</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles des Landes »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042625806</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625806</link>
+      <description>Décision du 2 novembre 2020 modifiant la décision du 20 mars 2020 portant délégation de signature (direction générale de l&#39;enseignement et de la recherche)</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620406</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620406</link>
@@ -481,27 +733,6 @@
       <description>Avis de vacance d&#39;un emploi de sous-directeur</description>
       <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570344</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570344</link>
-      <description>Arrêté du 19 novembre 2020 portant reconnaissance de l&#39;association de producteurs Les Chevriers des Vignes en qualité d&#39;organisation de producteurs dans le secteur du lait de chèvre</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570467</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570467</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;un directeur adjoint de l&#39;alimentation, de l&#39;agriculture et de la forêt de Mayotte</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042570578</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570578</link>
-      <description>Avis relatif à la classification des emplois dans la V branches</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
     </item>
   </channel>
 </rss>

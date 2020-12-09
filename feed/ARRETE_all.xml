@@ -1,11 +1,599 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- ARRETE</title>
+    <title>Legifrance RSS - ARRETE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.366308916 +0100 CET m=+22.196506394</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.366308916 +0100 CET m=+22.196506394</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.476742185 +0100 CET m=+27.871281700</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.476742185 +0100 CET m=+27.871281700</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625023</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625023</link>
+      <description>Arrêté du 24 novembre 2020 modifiant l&#39;arrêté du 21 juin 2010 fixant en application de l&#39;article R. 2311-9-1 du code de la défense la liste des lieux abritant des éléments couverts par le secret de la défense nationale</description>
+      <author>Premier ministre</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625066</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625066</link>
+      <description>Arrêté du 7 décembre 2020 modifiant l&#39;arrêté du 19 avril 2012 relatif aux normes d&#39;installation intéressant les installations électriques des bâtiments destinés à recevoir des travailleurs et abrogeant divers arrêtés relatifs à l&#39;électricité dans les industries extractives</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625083</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625083</link>
+      <description>Arrêté du 23 novembre 2020 fixant la liste des écoles de production prévue à l&#39;article L. 443-6 du code de l&#39;éducation</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625091</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625091</link>
+      <description>Arrêté du 23 novembre 2020 portant reconnaissance par l&#39;Etat des écoles techniques privées</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625098</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625098</link>
+      <description>Arrêté du 2 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours pour le recrutement de contrôleurs des finances publiques affectés au traitement de l&#39;information en qualité de programmeur</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625104</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625104</link>
+      <description>Arrêté du 7 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe pour le recrutement d&#39;attachés statisticiens stagiaires de l&#39;Institut national de la statistique et des études économiques</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625116</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625116</link>
+      <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de chef de service et de sous-directeur</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625122</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625122</link>
+      <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de directeur de projet et d&#39;expert de haut niveau</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625128</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625128</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 décembre 2019 portant organisation de la délégation à l&#39;information et à la communication de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625139</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625139</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 17 août 2020 fixant pour le ministère des armées la liste des emplois ouvrant droit à la nouvelle bonification indiciaire instituée en faveur des agents exerçant des fonctions supérieures de direction, d&#39;encadrement ou d&#39;expertise</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625143</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625143</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 octobre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours pour le recrutement d&#39;ingénieurs civils de la défense</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625148</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625148</link>
+      <description>Arrêté du 27 novembre 2020 modifiant l&#39;arrêté du 4 octobre 1995 portant institution de régies d&#39;avances et de recettes auprès des directions départementales de la police aux frontières dans les aéroports</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625155</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625155</link>
+      <description>Arrêté du 3 décembre 2020 fixant le nombre de places offertes au titre de l&#39;année 2021 pour le recrutement dans le corps des officiers de gendarmerie</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625160</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625160</link>
+      <description>Arrêté du 3 décembre 2020 fixant le nombre de places offertes au titre de l&#39;année 2021 pour le recrutement dans le corps des officiers du corps technique et administratif de la gendarmerie nationale</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625457</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625457</link>
+      <description>Arrêté du 4 décembre 2020 pris pour l&#39;application au titre de l&#39;année 2020 des dispositions prévues à l&#39;article L. 2334-7-3 du code général des collectivités territoriales</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625467</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625467</link>
+      <description>Arrêté du 4 décembre 2020 pris pour l&#39;application au titre de l&#39;année 2020 des dispositions prévues à l&#39;article 159 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625512</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625512</link>
+      <description>Arrêté du 27 novembre 2020 portant agrément pour la conservation d&#39;archives publiques courantes et intermédiaires</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625514</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625514</link>
+      <description>Arrêté du 2 décembre 2020 portant nomination au Conseil supérieur de la propriété littéraire et artistique</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625518</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625518</link>
+      <description>Arrêté du 2 décembre 2020 portant transfert de propriété de biens des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625521</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625521</link>
+      <description>Arrêté du 2 décembre 2020 portant transfert de propriété d&#39;un bien des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625524</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625524</link>
+      <description>Arrêté du 2 décembre 2020 portant transfert de propriété d&#39;un bien des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625527</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625527</link>
+      <description>Arrêté du 2 décembre 2020 portant transfert de propriété d&#39;un bien des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625530</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625530</link>
+      <description>Arrêté du 7 décembre 2020 modifiant l&#39;arrêté du 21 décembre 2012 relatif au tarif annuel et aux modalités de publication des annonces judiciaires et légales</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625566</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625566</link>
+      <description>Arrêté du 30 novembre 2020 relatif à l&#39;expérimentation de suivi à domicile des patients sous anticancéreux oraux</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625573</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625573</link>
+      <description>Arrêté du 4 décembre 2020 relatif aux montants minimal et maximal de l&#39;indemnité forfaitaire de gestion prévue aux articles L. 376-1 et L. 454-1 du code de la sécurité sociale pour l&#39;année 2021</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625579</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625579</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625597</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625597</link>
+      <description>Arrêté du 4 décembre 2020 déterminant les conditions de délivrance du permis de pêche à pied professionnelle</description>
+      <author>Ministère de la mer</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la mer</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625619</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625619</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la majoration du montant de la bourse sur critères sociaux pour les étudiants de Nouvelle-Calédonie</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625633</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625633</link>
+      <description>Arrêté du 2 décembre 2020 autorisant la commercialisation d&#39;un mélange de semences de plantes fourragères destiné à la préservation de l&#39;environnement naturel</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625640</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625640</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Ancenis »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625645</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625645</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Auvergne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625650</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625650</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de la Champagne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625655</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625655</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet des Cévennes »/« Chapon des Cévennes »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625659</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625659</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Forez »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625665</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625665</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy) »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625669</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625669</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet de l&#39;Ardèche »/« Chapon de l&#39;Ardèche »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625674</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625674</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Pintade de l&#39;Ardèche »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625678</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625678</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de la Drôme »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625683</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625683</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Bretagne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625688</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625688</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Normandie »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625693</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625693</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de l&#39;Orléanais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625698</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625698</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Challans »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625703</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625703</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Vendée »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625708</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625708</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Licques »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625713</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625713</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de l&#39;Ain »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625718</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625718</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Bourgogne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625723</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625723</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Gascogne »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625728</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625728</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poulet du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625732</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625732</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Poularde du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625736</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625736</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Chapon du Périgord »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625740</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625740</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Gers »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625745</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625745</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Charolais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625750</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625750</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire de conditions de production de label rouge de produits avicoles</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625756</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625756</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Gâtinais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625761</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625761</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Languedoc »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625766</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625766</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Lauragais »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625771</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625771</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Velay »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625776</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625776</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Loué »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625781</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625781</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles du Maine »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625786</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625786</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Œufs de Loué »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625791</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625791</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles de Janzé »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625796</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625796</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles d&#39;Alsace »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625801</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625801</link>
+      <description>Arrêté du 8 décembre 2020 relatif à la modification temporaire du cahier des charges de l&#39;indication géographique protégée (IGP) « Volailles des Landes »</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625820</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625820</link>
+      <description>Arrêté du 2 décembre 2020 fixant la liste des thèmes d&#39;actualité de la première épreuve d&#39;admissibilité de la session d&#39;automne 2021 des concours d&#39;accès aux instituts régionaux d&#39;administration (épreuves d&#39;octobre 2021)</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625872</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625872</link>
+      <description>Arrêté du 4 décembre 2020 portant délégation de signature au cabinet de la ministre déléguée auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;industrie</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Industrie</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Industrie</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625883</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625883</link>
+      <description>Arrêté du 2 décembre 2020 portant admission à la retraite (agents diplomatiques et consulaires)</description>
+      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625885</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625885</link>
+      <description>Arrêté du 2 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Agence française d&#39;expertise technique internationale</description>
+      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625890</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625890</link>
+      <description>Arrêté du 25 novembre 2020 portant nomination au conseil d&#39;administration du Fonds de garantie des victimes des actes de terrorisme et d&#39;autres infractions</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625892</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625892</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination (administration centrale)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625910</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625910</link>
+      <description>Arrêté du 10 novembre 2020 portant admission à la retraite</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625912</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625912</link>
+      <description>Arrêté du 10 novembre 2020 portant admission à la retraite</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625914</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625914</link>
+      <description>Arrêté du 18 novembre 2020 portant admission à la retraite</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625916</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625916</link>
+      <description>Arrêté du 19 novembre 2020 portant admission à la retraite</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625918</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625918</link>
+      <description>Arrêté du 27 novembre 2020 portant admission à la retraite</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625939</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625939</link>
+      <description>Arrêté du 1er décembre 2020 portant admission à la retraite et maintien en activité (magistrature)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625947</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625947</link>
+      <description>Arrêté du 2 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale supérieure de création industrielle</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625950</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625950</link>
+      <description>Arrêté du 3 décembre 2020 portant nomination au conseil d&#39;administration de la Caisse autonome nationale de la sécurité sociale dans les mines</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625953</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625953</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination (administration centrale)</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625956</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625956</link>
+      <description>Arrêté du 3 décembre 2020 portant nomination au Conseil supérieur de la fonction publique de l&#39;Etat</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625960</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625960</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination au cabinet de la ministre déléguée auprès du Premier ministre, chargée de l&#39;égalité entre les femmes et les hommes, de la diversité et de l&#39;égalité des chances</description>
+      <author>Premier ministre Égalité femmes-hommes, diversité et égalité des chances</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre/Égalité femmes-hommes, diversité et égalité des chances</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625967</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625967</link>
+      <description>Arrêté du 1er décembre 2020 portant nomination au conseil de coordination interportuaire Antilles-Guyane</description>
+      <author>Ministère de la transition écologique Transports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625971</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625971</link>
+      <description>Arrêté du 3 décembre 2020 portant nomination (agents comptables)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625973</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625973</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination (agents comptables)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625976</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625976</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination au cabinet de la ministre déléguée auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;industrie</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Industrie</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Industrie</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620130</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620130</link>
@@ -5141,475 +5729,6 @@
       <title>ARRETE - JORFTEXT000042574965</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574965</link>
       <description>Arrêté du 20 novembre 2020 portant extension d&#39;un accord conclu dans le cadre de la convention collective des industries de la métallurgie de Belfort-Montbéliard (n° 2755)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570149</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570149</link>
-      <description>Arrêté du 19 novembre 2020 fixant le contingent d&#39;emplois offerts pour l&#39;année 2021 aux officiers et sous-officiers de carrière candidats à des emplois civils relevant du ministère de l&#39;Europe et des affaires étrangères</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570152</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570152</link>
-      <description>Arrêté du 13 novembre 2020 modifiant l&#39;arrêté du 24 janvier 2014 modifié fixant la liste des exploitants auxquels sont affectés des quotas d&#39;émission de gaz à effet de serre et le montant des quotas affectés à titre gratuit pour la période 2013-2020</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570160</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570160</link>
-      <description>Arrêté du 18 novembre 2020 modifiant le nombre de postes offerts au titre de l&#39;année 2020 à l&#39;examen professionnalisé réservé aux agents non titulaires pour l&#39;accès au grade de secrétaire d&#39;administration et de contrôle du développement durable de classe normale spécialité administration générale ouvert par arrêté du 23 juillet 2020</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570162</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570162</link>
-      <description>Arrêté du 20 novembre 2020 portant agrément de la société de coordination « Groupe Habitat en Seine-Saint-Denis, société de coordination »</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570165</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570165</link>
-      <description>Arrêté du 21 novembre 2020 attribuant une autorisation d&#39;utilisation de fréquences radioélectriques à la société SES pour deux stations terriennes associées aux satellites NSS-9 (ITU NSS-19) et INTELSAT5 PAC3 dans le territoire des îles Wallis et Futuna</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570181</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570181</link>
-      <description>Arrêté du 21 novembre 2020 attribuant une autorisation d&#39;utilisation de fréquences radioélectriques à la société SES pour deux stations terriennes associées aux satellites NSS-12 et INTELSAT6 62E dans les Terres australes et antarctiques françaises</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570198</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570198</link>
-      <description>Arrêté du 23 novembre 2020 fixant le nombre de places offertes en 2021 pour l&#39;admission des élèves praticiens en qualité d&#39;élève médecin, d&#39;élève pharmacien ou d&#39;élève chirurgien-dentiste des écoles du service de santé des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570267</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570267</link>
-      <description>Arrêté du 16 octobre 2020 constatant le classement de communes en zone de revitalisation des commerces en milieu rural</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570273</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570273</link>
-      <description>Arrêté du 17 novembre 2020 portant ouverture du concours d&#39;ingénieur territorial pour les régions Bretagne, Normandie, Pays de la Loire (session 2021)</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570287</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570287</link>
-      <description>Arrêté du 20 novembre 2020 fixant le pourcentage mentionné à l&#39;article 32-3 du décret n° 99-669 du 2 août 1999 portant statut particulier des personnels techniques de l&#39;administration pénitentiaire</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570294</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570294</link>
-      <description>Arrêté du 23 novembre 2020 fixant les modalités du maintien des demandes de création d&#39;offices prévu à l&#39;article 32 du décret n° 75-770 du 14 août 1975 relatif aux conditions d&#39;accès à la profession d&#39;huissier de justice ainsi qu&#39;aux modalités des créations, transferts et suppressions d&#39;offices d&#39;huissier de justice et concernant certains officiers ministériels et auxiliaires de justice</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570307</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570307</link>
-      <description>Arrêté du 23 novembre 2020 modifiant le délai pour compléter une demande de nomination dans un office créé ou un office vacant de notaire, d&#39;huissier de justice ou de commissaire-priseur judiciaire</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570321</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570321</link>
-      <description>Arrêté du 9 novembre 2020 accréditant l&#39;Ecole nationale supérieure des arts décoratifs en vue de la délivrance de diplômes conférant un grade universitaire</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570325</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570325</link>
-      <description>Arrêté du 27 octobre 2020 relatif à l&#39;expérimentation de LENA « Logement évolutif pour une nouvelle autonomie »</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570332</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570332</link>
-      <description>Arrêté du 23 novembre 2020 modifiant l&#39;arrêté du 3 novembre 2020 relatif à la mobilisation de la réserve sanitaire en Polynésie française dans le cadre de l&#39;épidémie de covid-19</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570344</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570344</link>
-      <description>Arrêté du 19 novembre 2020 portant reconnaissance de l&#39;association de producteurs Les Chevriers des Vignes en qualité d&#39;organisation de producteurs dans le secteur du lait de chèvre</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570359</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570359</link>
-      <description>Arrêté du 24 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel pour l&#39;avancement au grade d&#39;assistant d&#39;administration de l&#39;aviation civile de classe supérieure au ministère de la transition écologique (direction générale de l&#39;aviation civile et Météo-France)</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570361</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570361</link>
-      <description>Arrêté du 24 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours interne pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570363</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570363</link>
-      <description>Arrêté du 26 novembre 2020 portant levée de l&#39;interdiction de circulation de certains types de véhicules de transport de marchandises pour les activités de transport de colis de messagerie dans le cadre de la crise épidémique du coronavirus « covid-19 »</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570369</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570369</link>
-      <description>Arrêté du 4 novembre 2020 fixant la date de dépôt des déclarations de production des récoltants vinificateurs pour la campagne 2020-2021</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570376</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570376</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination du commissaire à l&#39;aménagement, au développement et à la protection du massif jurassien</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570382</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570382</link>
-      <description>Arrêté du 19 novembre 2020 portant titularisation dans le corps des secrétaires des affaires étrangères (agents diplomatiques et consulaires)</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570384</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570384</link>
-      <description>Arrêté du 19 novembre 2020 portant titularisation dans le corps des secrétaires des affaires étrangères (agents diplomatiques et consulaires)</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570389</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570389</link>
-      <description>Arrêté du 23 novembre 2020 portant nomination de membres du conseil d&#39;administration de l&#39;Ecole nationale des ponts et chaussées</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570392</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570392</link>
-      <description>Arrêté du 29 octobre 2020 portant nomination au conseil d&#39;administration de l&#39;Office national d&#39;information sur les enseignements et les professions</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570397</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570397</link>
-      <description>Arrêté du 4 novembre 2020 portant cessation de fonctions (inspection générale des finances)</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570399</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570399</link>
-      <description>Arrêté du 19 novembre 2020 modifiant l&#39;arrêté du 16 septembre 2020 portant admission à la retraite (contrôleur général économique et financier)</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570404</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570404</link>
-      <description>Arrêté du 9 novembre 2020 portant réintégration, admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570412</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570412</link>
-      <description>Arrêté du 12 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570414</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570414</link>
-      <description>Arrêté du 13 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570416</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570416</link>
-      <description>Arrêté du 27 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570418</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570418</link>
-      <description>Arrêté du 29 octobre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570420</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570420</link>
-      <description>Arrêté du 2 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570422</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570422</link>
-      <description>Arrêté du 2 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570424</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570424</link>
-      <description>Arrêté du 6 novembre 2020 modifiant l&#39;arrêté du 4 février 2019 portant nomination de membres de la Commission nationale de la négociation collective, de l&#39;emploi et de la formation professionnelle et des sous-commissions constituées en son sein</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570426</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570426</link>
-      <description>Arrêté du 13 novembre 2020 portant promotion de grade (inspection du travail)</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570429</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570429</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570431</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570431</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée et à la nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570433</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570433</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570435</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570435</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée et à la nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570437</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570437</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570439</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570439</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570441</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570441</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;un notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570443</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570443</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570445</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570445</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570447</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570447</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570449</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570449</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570451</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570451</link>
-      <description>Arrêté du 19 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570453</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570453</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570455</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570455</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570457</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570457</link>
-      <description>Arrêté du 19 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée à associée unique (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570459</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570459</link>
-      <description>Arrêté du 19 novembre 2020 relatif à la suppression d&#39;un office de notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570462</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570462</link>
-      <description>Arrêté du 24 novembre 2020 portant nomination des membres des comités d&#39;experts chargés d&#39;autoriser les prélèvements d&#39;organes et de cellules hématopoïétiques issues de la moelle osseuse sur une personne vivante</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570464</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570464</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination par intérim du directeur général de l&#39;Agence nationale de sécurité du médicament et des produits de santé</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570467</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570467</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;un directeur adjoint de l&#39;alimentation, de l&#39;agriculture et de la forêt de Mayotte</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570470</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570470</link>
-      <description>Arrêté du 20 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Lille</description>
-      <author>Ministère de la transformation et de la fonction publiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570474</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570474</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination du directeur général de l&#39;établissement public Grand Paris Aménagement</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570476</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570476</link>
-      <description>Arrêté du 25 novembre 2020 portant cessation des fonctions de directeur général de l&#39;Etablissement public d&#39;aménagement de Bordeaux-Euratlantique</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570478</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570478</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination du directeur général par intérim de l&#39;Etablissement public d&#39;aménagement de Bordeaux-Euratlantique</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570481</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570481</link>
-      <description>Arrêté du 3 août 2020 portant nomination à la commission intergouvernementale pour la préparation de la réalisation d&#39;une liaison ferroviaire à grande vitesse entre Lyon et Turin</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570483</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570483</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination de la cheffe de la délégation française à la commission intergouvernementale pour la préparation de la réalisation d&#39;une liaison ferroviaire à grande vitesse entre Lyon et Turin</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570485</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570485</link>
-      <description>Arrêté du 26 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Etablissement public de sécurité ferroviaire</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570489</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570489</link>
-      <description>Arrêté du 20 octobre 2020 portant admission à la retraite (administrateurs des finances publiques)</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570495</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570495</link>
-      <description>Arrêté du 18 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Etablissement public d&#39;aménagement Orly-Rungis-Seine amont</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570497</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570497</link>
-      <description>Arrêté du 18 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Etablissement public d&#39;aménagement Paris-Saclay</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570501</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570501</link>
-      <description>Arrêté du 6 novembre 2020 portant extension d&#39;avenants à un accord conclu dans le secteur du bâtiment et des travaux publics</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570524</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570524</link>
-      <description>Arrêté du 20 novembre 2020 portant extension d&#39;un avenant à la convention collective nationale de la mutualité (n° 2128)</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>

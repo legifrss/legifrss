@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS- Ministère-de-la-transformation-et-de-la-fonction-publiques</title>
+    <title>Legifrance RSS - Ministère-de-la-transformation-et-de-la-fonction-publiques</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrss</description>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-08 08:49:00.390673536 +0100 CET m=+22.220870957</pubDate>
-    <lastBuildDate>2020-12-08 08:49:00.390673536 +0100 CET m=+22.220870957</lastBuildDate>
+    <pubDate>2020-12-09 08:49:27.495007488 +0100 CET m=+27.889546931</pubDate>
+    <lastBuildDate>2020-12-09 08:49:27.495007488 +0100 CET m=+27.889546931</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042625820</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625820</link>
+      <description>Arrêté du 2 décembre 2020 fixant la liste des thèmes d&#39;actualité de la première épreuve d&#39;admissibilité de la session d&#39;automne 2021 des concours d&#39;accès aux instituts régionaux d&#39;administration (épreuves d&#39;octobre 2021)</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042625956</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625956</link>
+      <description>Arrêté du 3 décembre 2020 portant nomination au Conseil supérieur de la fonction publique de l&#39;Etat</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042620440</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620440</link>
@@ -82,13 +96,6 @@
       <description>Arrêté du 27 novembre 2020 fixant le montant de certaines indemnités des élèves de l&#39;Ecole nationale d&#39;administration et de la bourse des stagiaires du cycle préparatoire au troisième concours de l&#39;Ecole nationale d&#39;administration</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042570470</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042570470</link>
-      <description>Arrêté du 20 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Lille</description>
-      <author>Ministère de la transformation et de la fonction publiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
     </item>
   </channel>
 </rss>
