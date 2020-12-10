@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.517470929 +0100 CET m=+27.912010375</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.517470929 +0100 CET m=+27.912010375</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.259337928 +0100 CET m=+15.057960598</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.259337928 +0100 CET m=+15.057960598</lastBuildDate>
     <item>
       <title>DECISION - JORFTEXT000042620035</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620035</link>
@@ -24,20 +24,6 @@
       <title>DECISION - JORFTEXT000042613464</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613464</link>
       <description>Décision n° 2020-870 QPC du 4 décembre 2020</description>
-      <author>Conseil constitutionnel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042575006</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575006</link>
-      <description>Décision n° 2020-867 QPC du 27 novembre 2020</description>
-      <author>Conseil constitutionnel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042575026</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575026</link>
-      <description>Décision n° 2020-868 QPC du 27 novembre 2020</description>
       <author>Conseil constitutionnel</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
     </item>

@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.511958193 +0100 CET m=+27.906497627</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.511958193 +0100 CET m=+27.906497627</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.26100746 +0100 CET m=+15.059630146</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.26100746 +0100 CET m=+15.059630146</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042636648</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636648</link>
+      <description>Décret n° 2020-1548 du 9 décembre 2020 relatif à la procédure applicable aux recours et questions préjudicielles portant sur des décisions relatives à l&#39;homologation des chartes de responsabilité sociale des plateformes de mise en relation par voie électronique</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042636661</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636661</link>
+      <description>Décret n° 2020-1549 du 9 décembre 2020 relatif au conseil des prud&#39;hommes de Mamoudzou</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625477</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625477</link>
@@ -215,13 +229,6 @@
       <description>Décret du 27 novembre 2020 portant changements de noms (Accès protégé)</description>
       <author>Ministère de la justice</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042574191</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574191</link>
-      <description>Décret n° 2020-1452 du 27 novembre 2020 portant diverses dispositions relatives notamment à la procédure civile et à la procédure d&#39;indemnisation des victimes d&#39;actes de terrorisme et d&#39;autres infractions</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
     </item>
   </channel>
 </rss>

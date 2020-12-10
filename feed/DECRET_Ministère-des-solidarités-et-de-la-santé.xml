@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.541468684 +0100 CET m=+27.936008130</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.541468684 +0100 CET m=+27.936008130</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.299576812 +0100 CET m=+15.098199493</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.299576812 +0100 CET m=+15.098199493</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042636881</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636881</link>
+      <description>Décret n° 2020-1554 du 9 décembre 2020 relatif au versement du « forfait mobilités durables » dans les établissements publics de santé, sociaux et médico-sociaux</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625553</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625553</link>
@@ -124,20 +131,6 @@
       <description>Décret du 27 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Etablissement français du sang</description>
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042574431</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574431</link>
-      <description>Décret n° 2020-1453 du 27 novembre 2020 portant attribution d&#39;une aide exceptionnelle de solidarité liée à la crise sanitaire aux ménages et aux jeunes de moins de vingt-cinq ans les plus précaires</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042574467</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574467</link>
-      <description>Décret n° 2020-1454 du 27 novembre 2020 modifiant le décret n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
     </item>
   </channel>
 </rss>

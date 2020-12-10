@@ -4,8 +4,122 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.49654166 +0100 CET m=+27.891081104</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.49654166 +0100 CET m=+27.891081104</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.2439645 +0100 CET m=+15.042587184</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.2439645 +0100 CET m=+15.042587184</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042637584</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637584</link>
+      <description>Décision n° 428451 du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637588</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637588</link>
+      <description>Décision n° 434920 et autres du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637593</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637593</link>
+      <description>Décision n° 428178 du 27 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637624</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637624</link>
+      <description>Décision n° 2020.0251/DC/SJ du 19 novembre 2020 du collège de la Haute Autorité de santé portant adoption de son règlement intérieur</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042637686</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637686</link>
+      <description>Décret du 8 décembre 2020 portant rectification de décrets de naturalisation, réintégration, libération des liens d&#39;allégeance à l&#39;égard de la France et francisation de noms et prénoms (Accès protégé)</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042637689</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637689</link>
+      <description>Décret du 8 décembre 2020 portant déchéance de la nationalité française (Accès protégé)</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Naturalisations et réintégrations</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637694</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637694</link>
+      <description>Ordre du jour</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637696</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637696</link>
+      <description>Bureau de l&#39;assemblée nationale</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637698</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637698</link>
+      <description>Commissions et organes de contrôle</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637700</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637700</link>
+      <description>Organismes extraparlementaires</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637702</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637702</link>
+      <description>Documents et publications</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637705</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637705</link>
+      <description>Commissions / organes temporaires</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637707</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637707</link>
+      <description>Documents déposés</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637709</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637709</link>
+      <description>Documents publiés</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637711</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637711</link>
+      <description>Informations diverses</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637714</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637714</link>
+      <description>Commissions mixtes paritaires</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Commissions mixtes paritaires</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042637717</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637717</link>
+      <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
+    </item>
+    <item>
+      <title>INFORMATIONS_DIVERSES - JORFTEXT000042637746</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637746</link>
+      <description>Cours indicatifs du 9 décembre 2020 communiqués par la Banque de France</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
+    </item>
+    <item>
+      <title>ANNONCES - JORFTEXT000042637749</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637749</link>
+      <description>Demandes de changement de nom (Accès protégé textes 147 à 160)</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625017</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625017</link>
@@ -628,66 +742,6 @@
       <title>ANNONCES - JORFTEXT000042577839</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577839</link>
       <description>Demandes de changement de nom (Accès protégé textes 171 à 199)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042575176</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575176</link>
-      <description>Décision n° 2020.0233/DC/SCES du 15 octobre 2020 du collège de la Haute Autorité de santé portant adoption de la procédure de certification des établissements de santé</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575189</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575189</link>
-      <description>Commissions et organes de contrôle</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575191</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575191</link>
-      <description>Documents et publications</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575194</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575194</link>
-      <description>Commissions / organes temporaires</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575196</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575196</link>
-      <description>Délégations parlementaires</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575198</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575198</link>
-      <description>Documents déposés</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575200</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575200</link>
-      <description>Documents publiés</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042575203</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575203</link>
-      <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042575232</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575232</link>
-      <description>Cours indicatifs du 27 novembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042575235</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575235</link>
-      <description>Demandes de changement de nom (Accès protégé textes 137 à 158)</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
     </item>
   </channel>

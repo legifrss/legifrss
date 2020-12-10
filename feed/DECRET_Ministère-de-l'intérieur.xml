@@ -4,8 +4,29 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.511744076 +0100 CET m=+27.906283518</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.511744076 +0100 CET m=+27.906283518</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.256185717 +0100 CET m=+15.054808388</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.256185717 +0100 CET m=+15.054808388</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042636412</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636412</link>
+      <description>Décret n° 2020-1545 du 9 décembre 2020 relatif à l&#39;organisation et aux missions des directions régionales de l&#39;économie, de l&#39;emploi, du travail et des solidarités, des directions départementales de l&#39;emploi, du travail et des solidarités et des directions départementales de l&#39;emploi, du travail, des solidarités et de la protection des populations</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042637465</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637465</link>
+      <description>Décret du 9 décembre 2020 portant cessation de fonctions d&#39;un directeur à l&#39;administration centrale du ministère de l&#39;intérieur - M. BESANCENOT (Hugues)</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042637473</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637473</link>
+      <description>Décret du 9 décembre 2020 portant nomination d&#39;une directrice à l&#39;administration centrale du ministère de l&#39;intérieur - Mme HOUSPIC (Sylvie)</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625898</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625898</link>
@@ -215,20 +236,6 @@
       <description>Décret n° 2020-1461 du 27 novembre 2020 modifiant le décret n° 2018-1052 du 29 novembre 2018 portant attribution d&#39;une nouvelle bonification indiciaire aux conseillers d&#39;administration de l&#39;intérieur et de l&#39;outre-mer et aux fonctionnaires du corps des attachés d&#39;administration de l&#39;Etat occupant des emplois à forte responsabilité au sein des services du ministère de l&#39;intérieur</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042574625</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574625</link>
-      <description>Décret du 27 novembre 2020 portant nomination de la sous-préfète de Commercy - Mme GUÉNEAU (Camille)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042574627</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574627</link>
-      <description>Décret du 27 novembre 2020 portant nomination de la sous-préfète de Verdun - Mme TOURTE-TROLUE (Marie-Paule)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
     </item>
   </channel>
 </rss>

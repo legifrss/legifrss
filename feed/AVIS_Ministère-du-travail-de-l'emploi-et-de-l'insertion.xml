@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.516381014 +0100 CET m=+27.910920456</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.516381014 +0100 CET m=+27.910920456</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.258169765 +0100 CET m=+15.056792439</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.258169765 +0100 CET m=+15.056792439</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042637577</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637577</link>
+      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;hospitalisation privée</description>
+      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+    </item>
     <item>
       <title>AVIS - JORFTEXT000042625983</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625983</link>
@@ -150,34 +157,6 @@
       <title>AVIS - JORFTEXT000042580838</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580838</link>
       <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;industrie de la chaussure et des articles chaussants</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042574976</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574976</link>
-      <description>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale du personnel sédentaire des entreprises de navigation</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042574982</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574982</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel sédentaire des entreprises de navigation</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042574988</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574988</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des entreprises de transport en navigation intérieure</description>
-      <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042574994</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042574994</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des ateliers et chantiers d&#39;insertion</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
     </item>

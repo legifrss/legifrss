@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.540960577 +0100 CET m=+27.935500014</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.540960577 +0100 CET m=+27.935500014</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.258522542 +0100 CET m=+15.057145219</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.258522542 +0100 CET m=+15.057145219</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042635779</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635779</link>
+      <description>Décret n° 2020-1541 du 9 décembre 2020 modifiant le décret n° 2008-680 du 9 juillet 2008 portant organisation de l&#39;administration centrale du ministère de l&#39;écologie, de l&#39;énergie, du développement durable et de l&#39;aménagement du territoire</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625031</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625031</link>

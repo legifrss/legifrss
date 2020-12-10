@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.495007488 +0100 CET m=+27.889546931</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.495007488 +0100 CET m=+27.889546931</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.244913779 +0100 CET m=+15.043536462</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.244913779 +0100 CET m=+15.043536462</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042637233</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637233</link>
+      <description>Décret n° 2020-1557 du 8 décembre 2020 relatif au congé de proche aidant dans la fonction publique</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042625820</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625820</link>

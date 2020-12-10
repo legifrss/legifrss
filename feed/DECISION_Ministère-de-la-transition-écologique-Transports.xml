@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.543454848 +0100 CET m=+27.937994296</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.543454848 +0100 CET m=+27.937994296</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.290124569 +0100 CET m=+15.088747323</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.290124569 +0100 CET m=+15.088747323</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042637402</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637402</link>
+      <description>Décision du 8 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel pour le recrutement d&#39;ingénieurs stagiaires des travaux de la météorologie</description>
+      <author>Ministère de la transition écologique Transports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042602507</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602507</link>

@@ -4,19 +4,37 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.543191846 +0100 CET m=+27.937731292</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.543191846 +0100 CET m=+27.937731292</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.300752827 +0100 CET m=+15.099375508</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.300752827 +0100 CET m=+15.099375508</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042637584</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637584</link>
+      <description>Décision n° 428451 du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637588</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637588</link>
+      <description>Décision n° 434920 et autres du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637593</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637593</link>
+      <description>Décision n° 428178 du 27 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042637624</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637624</link>
+      <description>Décision n° 2020.0251/DC/SJ du 19 novembre 2020 du collège de la Haute Autorité de santé portant adoption de son règlement intérieur</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042602758</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602758</link>
       <description>Décision n° 2020-1160 du 20 octobre 2020 relative au compte rendu et au résultat de la procédure d&#39;attribution d&#39;autorisations d&#39;utilisation de fréquences dans la bande 3,4 - 3,8 GHz en France métropolitaine pour établir et exploiter un réseau radioélectrique mobile ouvert au public</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de régulation des communications électroniques, des postes et de la distribution de la presse</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042575176</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575176</link>
-      <description>Décision n° 2020.0233/DC/SCES du 15 octobre 2020 du collège de la Haute Autorité de santé portant adoption de la procédure de certification des établissements de santé</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
     </item>
   </channel>
 </rss>

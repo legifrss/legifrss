@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.542198113 +0100 CET m=+27.936737551</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.542198113 +0100 CET m=+27.936737551</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.299062611 +0100 CET m=+15.097685320</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.299062611 +0100 CET m=+15.097685320</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042637737</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637737</link>
+      <description>Avis relatif à la tarification de la télécommande pour système de stimulation cérébrale profonde ACTIVA visée à l&#39;article L. 165-1 du code de la sécurité sociale</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>AVIS - JORFTEXT000042626201</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042626201</link>

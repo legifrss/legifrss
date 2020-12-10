@@ -4,19 +4,12 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.48976353 +0100 CET m=+27.884302964</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.48976353 +0100 CET m=+27.884302964</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.243429804 +0100 CET m=+15.042052482</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.243429804 +0100 CET m=+15.042052482</lastBuildDate>
     <item>
       <title>AVIS - JORFTEXT000042580863</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580863</link>
       <description>Avis sur la proposition de loi relative à la sécurité globale</description>
-      <author>Commission nationale consultative des droits de l&#39;homme</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale consultative des droits de l&#39;homme</category>
-    </item>
-    <item>
-      <title> - JORFTEXT000042575050</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575050</link>
-      <description>Projet de déclaration sur l&#39;état d&#39;urgence sanitaire (EUS)</description>
       <author>Commission nationale consultative des droits de l&#39;homme</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale consultative des droits de l&#39;homme</category>
     </item>

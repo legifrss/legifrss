@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-09 08:49:27.486571124 +0100 CET m=+27.881110565</pubDate>
-    <lastBuildDate>2020-12-09 08:49:27.486571124 +0100 CET m=+27.881110565</lastBuildDate>
+    <pubDate>2020-12-10 08:08:13.239926752 +0100 CET m=+15.038549425</pubDate>
+    <lastBuildDate>2020-12-10 08:08:13.239926752 +0100 CET m=+15.038549425</lastBuildDate>
+    <item>
+      <title>ORDONNANCE - JORFTEXT000042636234</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636234</link>
+      <description>Ordonnance n° 2020-1544 du 9 décembre 2020 renforçant le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme applicable aux actifs numériques</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    </item>
+    <item>
+      <title>ORDONNANCE - JORFTEXT000042636870</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636870</link>
+      <description>Ordonnance n° 2020-1553 du 9 décembre 2020 prolongeant, rétablissant ou adaptant diverses dispositions sociales pour faire face à l&#39;épidémie de covid-19</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>ORDONNANCE - JORFTEXT000042601867</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042601867</link>
