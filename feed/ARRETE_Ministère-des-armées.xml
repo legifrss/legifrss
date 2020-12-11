@@ -4,8 +4,29 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.255656186 +0100 CET m=+15.054278866</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.255656186 +0100 CET m=+15.054278866</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.819460939 +0100 CET m=+17.546865992</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.819460939 +0100 CET m=+17.546865992</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042648935</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648935</link>
+      <description>Arrêté du 7 décembre 2020 fixant le contingent d&#39;emplois offerts au titre de l&#39;année 2021 pour le recrutement d&#39;ouvriers de l&#39;Etat du ministère des armées</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042649148</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649148</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination de membres de la commission des recours des militaires</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042649151</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649151</link>
+      <description>Arrêté du 9 décembre 2020 portant nomination au cabinet de la ministre des armées</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042636265</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636265</link>

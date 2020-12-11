@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.291068874 +0100 CET m=+15.089691582</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.291068874 +0100 CET m=+15.089691582</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.825251398 +0100 CET m=+17.552656433</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.825251398 +0100 CET m=+17.552656433</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042648980</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648980</link>
+      <description>Arrêté du 18 novembre 2020 modifiant l&#39;arrêté du 29 janvier 2020 portant ouverture des concours externe, interne et 3e concours d&#39;attaché territorial (session 2020)</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042648982</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648982</link>
+      <description>Arrêté du 7 décembre 2020 portant ouverture du concours d&#39;ingénieur territorial dans la spécialité Informatique et systèmes d&#39;information (session 2021) organisé par le centre de gestion de la fonction publique territoriale du Gard</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042636642</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636642</link>

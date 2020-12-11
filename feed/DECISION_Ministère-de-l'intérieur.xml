@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.256123969 +0100 CET m=+15.054746649</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.256123969 +0100 CET m=+15.054746649</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.8566009 +0100 CET m=+17.584005992</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.8566009 +0100 CET m=+17.584005992</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042648945</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648945</link>
+      <description>Décision du 8 décembre 2020 modifiant la décision du 30 août 2018 modifiée portant délégation de signature (direction de l&#39;accueil, de l&#39;accompagnement des étrangers et de la nationalité)</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042625164</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625164</link>
@@ -24,20 +31,6 @@
       <title>DECISION - JORFTEXT000042602077</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602077</link>
       <description>Décision du 26 novembre 2020 portant délégation de signature (direction centrale de la police judiciaire)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042576773</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042576773</link>
-      <description>Décision du 16 novembre 2020 portant délégation de signature (Conseil supérieur de l&#39;appui territorial et de l&#39;évaluation)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042576780</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042576780</link>
-      <description>Décision du 26 novembre 2020 portant délégation de signature (direction générale de la gendarmerie nationale - direction des soutiens et des finances)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
     </item>

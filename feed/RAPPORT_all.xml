@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.242295832 +0100 CET m=+15.040918510</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.242295832 +0100 CET m=+15.040918510</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.804638058 +0100 CET m=+17.532043092</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.804638058 +0100 CET m=+17.532043092</lastBuildDate>
     <item>
       <title>RAPPORT - JORFTEXT000042636228</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636228</link>
@@ -82,13 +82,6 @@
       <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1507 du 2 décembre 2020 adaptant le droit applicable au fonctionnement des établissements publics et des instances collégiales administratives pendant l&#39;état d&#39;urgence sanitaire</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>RAPPORT - JORFTEXT000042577387</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577387</link>
-      <description>Rapport relatif au décret n° 2020-1472 du 27 novembre 2020 portant ouverture et annulation de crédits</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
     </item>
   </channel>
 </rss>

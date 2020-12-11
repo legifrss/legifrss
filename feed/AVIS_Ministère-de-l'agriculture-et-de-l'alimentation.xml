@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.298258239 +0100 CET m=+15.096881027</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.298258239 +0100 CET m=+15.096881027</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.858776514 +0100 CET m=+17.586181561</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.858776514 +0100 CET m=+17.586181561</lastBuildDate>
     <item>
       <title>AVIS - JORFTEXT000042637740</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637740</link>
@@ -19,13 +19,6 @@
       <description>Avis relatif à l&#39;extension d&#39;un accord national sur les classifications et les salaires minimaux du personnel ouvrier/ACT/AM/CADRES dans les scieries agricoles et les exploitations forestières</description>
       <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042577835</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577835</link>
-      <description>Avis aux opérateurs relatif aux modalités d&#39;importation après le 1er janvier 2021 d&#39;additifs, prémélanges et aliments composés soumis à autorisation au titre de l&#39;arrêté du 23 avril 2007, en provenance du Royaume-Uni</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
     </item>
   </channel>
 </rss>

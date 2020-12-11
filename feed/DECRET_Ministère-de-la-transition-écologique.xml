@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.258522542 +0100 CET m=+15.057145219</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.258522542 +0100 CET m=+15.057145219</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.826159493 +0100 CET m=+17.553564525</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.826159493 +0100 CET m=+17.553564525</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042648719</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648719</link>
+      <description>Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l&#39;électrification rurale</description>
+      <author>Ministère de la transition écologique</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042635779</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635779</link>
@@ -45,27 +52,6 @@
       <title>DECRET - JORFTEXT000042601753</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042601753</link>
       <description>Décret n° 2020-1495 du 2 décembre 2020 modifiant le décret n° 2018-211 du 28 mars 2018 relatif à l&#39;expérimentation de véhicules à délégation de conduite sur les voies publiques</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042575740</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575740</link>
-      <description>Décret n° 2020-1455 du 27 novembre 2020 portant réforme de la responsabilité élargie des producteurs</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042575798</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575798</link>
-      <description>Décret du 27 novembre 2020 modifiant le périmètre des installations nucléaires de base n° 111 et n° 112 de la centrale nucléaire de Cruas, exploitées par la société Electricité de France - Société Anonyme (EDF-SA) et situées sur les territoires des communes de Cruas et de Meysse (département de l&#39;Ardèche)</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042575814</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042575814</link>
-      <description>Décret du 27 novembre 2020 autorisant la société Orano Cycle à modifier l&#39;installation nucléaire de base n° 116, dénommée « UP3-A », implantée dans l&#39;établissement de La Hague (département de la Manche) et modifiant le décret du 12 mai 1981 autorisant la Compagnie générale des matières nucléaires à créer, dans son établissement de La Hague, des usines de traitement d&#39;éléments combustibles irradiés provenant des réacteurs nucléaires à eau ordinaire. Usine dénommée « UP 3-A »</description>
       <author>Ministère de la transition écologique</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
     </item>

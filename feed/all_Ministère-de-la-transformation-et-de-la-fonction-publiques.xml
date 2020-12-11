@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.244913779 +0100 CET m=+15.043536462</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.244913779 +0100 CET m=+15.043536462</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.81147547 +0100 CET m=+17.538880525</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.81147547 +0100 CET m=+17.538880525</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042637233</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637233</link>
@@ -82,27 +82,6 @@
       <description>Arrêté du 30 novembre 2020 portant nomination (administration centrale)</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042577164</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577164</link>
-      <description>Décret n° 2020-1468 du 27 novembre 2020 relatif aux dispositifs indemnitaires d&#39;accompagnement des agents publics dans leurs transitions professionnelles</description>
-      <author>Ministère de la transformation et de la fonction publiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042577190</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577190</link>
-      <description>Décret n° 2020-1469 du 27 novembre 2020 relatif à la rémunération des élèves de l&#39;Ecole nationale d&#39;administration et des stagiaires des cycles préparatoires de l&#39;Ecole nationale d&#39;administration</description>
-      <author>Ministère de la transformation et de la fonction publiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042577248</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577248</link>
-      <description>Arrêté du 27 novembre 2020 fixant le montant de certaines indemnités des élèves de l&#39;Ecole nationale d&#39;administration et de la bourse des stagiaires du cycle préparatoire au troisième concours de l&#39;Ecole nationale d&#39;administration</description>
-      <author>Ministère de la transformation et de la fonction publiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
     </item>
   </channel>
 </rss>

@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.299062611 +0100 CET m=+15.097685320</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.299062611 +0100 CET m=+15.097685320</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.824410029 +0100 CET m=+17.551815065</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.824410029 +0100 CET m=+17.551815065</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042649351</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649351</link>
+      <description>Avis de recrutement de deux inspecteurs généraux en service extraordinaire (inspection générale des affaires sociales)</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>AVIS - JORFTEXT000042637737</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637737</link>
@@ -180,13 +187,6 @@
       <description>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</description>
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042577814</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042577814</link>
-      <description>Avis de vacance d&#39;emplois fonctionnels de coordonnateur en maïeutique de certains établissements mentionnés à l&#39;article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
     </item>
   </channel>
 </rss>

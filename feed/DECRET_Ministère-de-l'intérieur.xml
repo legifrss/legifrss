@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.256185717 +0100 CET m=+15.054808388</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.256185717 +0100 CET m=+15.054808388</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.856933031 +0100 CET m=+17.584338095</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.856933031 +0100 CET m=+17.584338095</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042636412</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636412</link>
@@ -215,27 +215,6 @@
       <description>Décret du 24 novembre 2020 mettant fin aux fonctions d&#39;une inspectrice générale en service extraordinaire (inspection générale de l&#39;administration)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042576597</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042576597</link>
-      <description>Décret n° 2020-1459 du 27 novembre 2020 complétant la liste des fonctions assurées par les conseillers d&#39;administration de l&#39;intérieur et de l&#39;outre-mer</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042576606</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042576606</link>
-      <description>Décret n° 2020-1460 du 27 novembre 2020 portant application de l&#39;article 112 de la loi n° 2019-1461 du 27 décembre 2019 relative à l&#39;engagement dans la vie locale et à la proximité de l&#39;action publique et relatif à l&#39;inscription sur les listes électorales et au vote par correspondance des personnes détenues</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042576639</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042576639</link>
-      <description>Décret n° 2020-1461 du 27 novembre 2020 modifiant le décret n° 2018-1052 du 29 novembre 2018 portant attribution d&#39;une nouvelle bonification indiciaire aux conseillers d&#39;administration de l&#39;intérieur et de l&#39;outre-mer et aux fonctionnaires du corps des attachés d&#39;administration de l&#39;Etat occupant des emplois à forte responsabilité au sein des services du ministère de l&#39;intérieur</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
     </item>
   </channel>
 </rss>

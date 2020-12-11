@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-10 08:08:13.259512067 +0100 CET m=+15.058134745</pubDate>
-    <lastBuildDate>2020-12-10 08:08:13.259512067 +0100 CET m=+15.058134745</lastBuildDate>
+    <pubDate>2020-12-11 09:38:09.853716248 +0100 CET m=+17.581121364</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.853716248 +0100 CET m=+17.581121364</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042649130</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649130</link>
+      <description>Décret du 9 décembre 2020 portant titularisation des inspecteurs d&#39;académie-inspecteurs pédagogiques régionaux</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042635995</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042635995</link>
