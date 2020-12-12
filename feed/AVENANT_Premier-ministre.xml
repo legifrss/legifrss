@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS - Premier-ministre - AVENANT</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-12 18:03:30.497882531 +0100 CET m=+17.812763107</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.497882531 +0100 CET m=+17.812763107</lastBuildDate>
+    <item>
+      <title>AVENANT - JORFTEXT000042657850</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042657850</link>
+      <description>Avenant n° 1 du 8 décembre 2020 à la convention du 6 décembre 2010 entre l&#39;Etat et l&#39;Agence nationale de la recherche relative au programme d&#39;investissements d&#39;avenir (action : Développement scientifique et technologique du plateau de Saclay)</description>
+      <author>Premier ministre</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
+    </item>
+    <item>
+      <title>AVENANT - JORFTEXT000042657854</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042657854</link>
+      <description>Avenant n° 1 du 11 décembre 2020 à la convention du 26 décembre 2019 entre l&#39;Etat et la Caisse des dépôts et consignations relative au programme d&#39;investissements d&#39;avenir (action : « Grands défis ») relatif au volet « French Tech Souveraineté »</description>
+      <author>Premier ministre</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
+    </item>
+  </channel>
+</rss>

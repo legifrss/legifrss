@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.815102109 +0100 CET m=+17.542507146</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.815102109 +0100 CET m=+17.542507146</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.43885795 +0100 CET m=+17.753738542</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.43885795 +0100 CET m=+17.753738542</lastBuildDate>
     <item>
       <title>DELIBERATION - JORFTEXT000042649255</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649255</link>
@@ -108,13 +108,6 @@
       <title>DECISION - JORFTEXT000042613489</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613489</link>
       <description>Décision n° 2020-833 du 25 novembre 2020 modifiant la décision n° 2015-418 du 18 novembre 2015 autorisant la SAS Société de gestion du réseau R1 (GR1) à utiliser une ressource radioélectrique pour le multiplexage des programmes des services de communication audiovisuelle diffusés par voie hertzienne terrestre en mode numérique sur le réseau R1</description>
-      <author>Conseil supérieur de l&#39;audiovisuel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042580884</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580884</link>
-      <description>Décision n° 2020-816 du 25 novembre 2020 modifiant la décision n° 2013-182 du 22 janvier 2013 autorisant la société d&#39;économie mixte locale de Télévision-Radio (STR) à exploiter un service de télévision locale généraliste dénommé Caledonia diffusant en mode numérique en Nouvelle-Calédonie</description>
       <author>Conseil supérieur de l&#39;audiovisuel</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
     </item>

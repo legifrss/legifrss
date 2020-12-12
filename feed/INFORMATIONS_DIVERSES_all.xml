@@ -4,8 +4,14 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.790889223 +0100 CET m=+17.518294321</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.790889223 +0100 CET m=+17.518294321</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.434852125 +0100 CET m=+17.749732704</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.434852125 +0100 CET m=+17.749732704</lastBuildDate>
+    <item>
+      <title>INFORMATIONS_DIVERSES - JORFTEXT000042658410</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658410</link>
+      <description>Jugements d&#39;envoi en possession provisoire</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Successions en déshérence</category>
+    </item>
     <item>
       <title>INFORMATIONS_DIVERSES - JORFTEXT000042649370</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649370</link>
@@ -46,12 +52,6 @@
       <title>INFORMATIONS_DIVERSES - JORFTEXT000042593181</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593181</link>
       <description>Cours indicatifs du 1er décembre 2020 communiqués par la Banque de France</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
-    </item>
-    <item>
-      <title>INFORMATIONS_DIVERSES - JORFTEXT000042580937</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580937</link>
-      <description>Cours indicatifs du 30 novembre 2020 communiqués par la Banque de France</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
     </item>
   </channel>

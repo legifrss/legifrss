@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS - CIRCULAIRE</title>
+    <title>Legifrance RSS - Premier-ministre - CONVENTION</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.438023506 +0100 CET m=+17.752904082</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.438023506 +0100 CET m=+17.752904082</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.497935464 +0100 CET m=+17.812816059</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.497935464 +0100 CET m=+17.812816059</lastBuildDate>
     <item>
-      <title>CIRCULAIRE - JORFTEXT000042607164</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607164</link>
-      <description>Circulaire relative à la journée de deuil national à la suite du décès de M. Valéry GISCARD d&#39;ESTAING, ancien Président de la République</description>
+      <title>CONVENTION - JORFTEXT000042657870</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042657870</link>
+      <description>Convention entre l&#39;Etat et Bpifrance du 11 décembre 2020 relative au programme d&#39;investissements d&#39;avenir (Action : « Grands défis », volet « French Tech Souveraineté »)</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
     </item>

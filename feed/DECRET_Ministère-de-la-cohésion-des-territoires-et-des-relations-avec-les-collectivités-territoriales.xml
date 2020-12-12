@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.825094331 +0100 CET m=+17.552499367</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.825094331 +0100 CET m=+17.552499367</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.49875183 +0100 CET m=+17.813632425</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.49875183 +0100 CET m=+17.813632425</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042658117</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658117</link>
+      <description>Décret n° 2020-1567 du 11 décembre 2020 portant diverses dispositions dans le domaine funéraire en raison des circonstances exceptionnelles liées à la propagation de l&#39;épidémie de covid-19</description>
+      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042636614</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636614</link>

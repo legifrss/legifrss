@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.825729223 +0100 CET m=+17.553134257</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.825729223 +0100 CET m=+17.553134257</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.497448399 +0100 CET m=+17.812328988</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.497448399 +0100 CET m=+17.812328988</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042649206</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649206</link>
@@ -59,13 +59,6 @@
       <title>DECRET - JORFTEXT000042602330</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602330</link>
       <description>Décret n° 2020-1506 du 1er décembre 2020 relatif à la communauté d&#39;universités et établissements « Université Paris-Est »</description>
-      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580485</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580485</link>
-      <description>Décret n° 2020-1478 du 30 novembre 2020 portant association d&#39;établissements à CY Cergy Paris Université dénommée « CY Alliance »</description>
       <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
     </item>

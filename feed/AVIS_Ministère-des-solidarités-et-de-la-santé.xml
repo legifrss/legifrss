@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.824410029 +0100 CET m=+17.551815065</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.824410029 +0100 CET m=+17.551815065</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.479160775 +0100 CET m=+17.794041380</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.479160775 +0100 CET m=+17.794041380</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042658398</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658398</link>
+      <description>Avis de vacance d&#39;emplois de direction dans les établissements mentionnés à l&#39;article 2 (1° et 2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
+    </item>
+    <item>
+      <title>AVIS - JORFTEXT000042658402</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658402</link>
+      <description>Avis de vacance d&#39;emplois de directeur et directrice des soins de la fonction publique hospitalière</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
+    </item>
     <item>
       <title>AVIS - JORFTEXT000042649351</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649351</link>
@@ -180,13 +194,6 @@
       <description>Avis de vacance d&#39;un emploi de conseiller pour les affaires sociales</description>
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042580932</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580932</link>
-      <description>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
     </item>
   </channel>
 </rss>

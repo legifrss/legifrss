@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.856933031 +0100 CET m=+17.584338095</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.856933031 +0100 CET m=+17.584338095</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.532531598 +0100 CET m=+17.847412175</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.532531598 +0100 CET m=+17.847412175</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042658282</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658282</link>
+      <description>Décret du 7 décembre 2020 portant nomination (inspection générale de l&#39;administration) (rectificatif)</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042636412</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636412</link>
@@ -192,27 +199,6 @@
       <title>DECRET - JORFTEXT000042592972</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592972</link>
       <description>Décret du 1er décembre 2020 portant nomination d&#39;un inspecteur général en service extraordinaire (inspection générale de l&#39;administration)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580186</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580186</link>
-      <description>Décret n° 2020-1474 du 30 novembre 2020 fixant les modalités d&#39;organisation des concours et examens professionnels des cadres d&#39;emplois de sapeurs-pompiers professionnels</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580320</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580320</link>
-      <description>Décret n° 2020-1475 du 30 novembre 2020 annulant la convocation des électeurs le 13 décembre 2020 pour l&#39;élection du député de la 6e circonscription du Pas-de-Calais</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580599</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580599</link>
-      <description>Décret du 24 novembre 2020 mettant fin aux fonctions d&#39;une inspectrice générale en service extraordinaire (inspection générale de l&#39;administration)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
     </item>

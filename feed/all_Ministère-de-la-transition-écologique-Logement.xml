@@ -4,8 +4,8 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.806059932 +0100 CET m=+17.533464970</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.806059932 +0100 CET m=+17.533464970</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.461443663 +0100 CET m=+17.776324266</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.461443663 +0100 CET m=+17.776324266</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042637335</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637335</link>
@@ -54,27 +54,6 @@
       <description>Arrêté du 19 novembre 2020 modifiant l&#39;arrêté du 19 septembre 2018 portant nomination des membres et rapporteurs de la commission d&#39;agrément des contrôleurs techniques en application des articles R. 111-34 et R. 111-35 du code de la construction et de l&#39;habitation</description>
       <author>Ministère de la transition écologique Logement</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580521</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580521</link>
-      <description>Décret n° 2020-1479 du 30 novembre 2020 modifiant l&#39;article R. 324-3 du code du tourisme relatif aux informations à transmettre par les intermédiaires de location meublée aux communes</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580663</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580663</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;établissement public d&#39;aménagement Ecovallée-Plaine du Var</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Logement</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042580925</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580925</link>
-      <description>Avis de vacance du poste de directeur général de l&#39;Etablissement public d&#39;aménagement Bordeaux-Euratlantique</description>
-      <author>Ministère de la transition écologique Logement</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la transition écologique/Logement</category>
     </item>
   </channel>
 </rss>

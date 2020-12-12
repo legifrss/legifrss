@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.824766779 +0100 CET m=+17.552171813</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.824766779 +0100 CET m=+17.552171813</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.494418933 +0100 CET m=+17.809299518</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.494418933 +0100 CET m=+17.809299518</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042658256</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658256</link>
+      <description>Arrêté du 10 décembre 2020 autorisant le Bureau de recherches géologiques et minières à céder des actions de la Compagnie française de géothermie</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042658334</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658334</link>
+      <description>Arrêté du 9 décembre 2020 portant nomination (agents comptables)</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042649102</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649102</link>
@@ -152,20 +166,6 @@
       <description>Arrêté du 25 novembre 2020 portant nomination (agents comptables)</description>
       <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580551</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580551</link>
-      <description>Arrêté du 30 novembre 2020 portant ouverture de crédits de fonds de concours</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580557</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580557</link>
-      <description>Arrêté du 30 novembre 2020 portant ouverture de crédits d&#39;attributions de produits</description>
-      <author>Ministère de l&#39;économie, des finances et de la relance Comptes publics</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
     </item>
   </channel>
 </rss>

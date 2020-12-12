@@ -4,8 +4,14 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.804571899 +0100 CET m=+17.531976928</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.804571899 +0100 CET m=+17.531976928</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.437927823 +0100 CET m=+17.752808422</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.437927823 +0100 CET m=+17.752808422</lastBuildDate>
+    <item>
+      <title>ANNONCES - JORFTEXT000042658413</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658413</link>
+      <description>Demandes de changement de nom (Accès protégé textes 90 à 109)</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
+    </item>
     <item>
       <title>ANNONCES - JORFTEXT000042649376</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649376</link>
@@ -64,12 +70,6 @@
       <title>ANNONCES - JORFTEXT000042593184</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042593184</link>
       <description>Demandes de changement de nom (Accès protégé textes 122 à 132)</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
-    </item>
-    <item>
-      <title>ANNONCES - JORFTEXT000042580940</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580940</link>
-      <description>Demandes de changement de nom (Accès protégé textes 99 à 127)</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
     </item>
   </channel>

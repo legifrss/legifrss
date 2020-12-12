@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.814395673 +0100 CET m=+17.541800720</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.814395673 +0100 CET m=+17.541800720</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.442090281 +0100 CET m=+17.756970866</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.442090281 +0100 CET m=+17.756970866</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042658194</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658194</link>
+      <description>Décret n° 2020-1569 du 11 décembre 2020 relatif à l&#39;aide exceptionnelle pour les livraisons de livres neufs et de supports phonographiques</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042658214</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658214</link>
+      <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 31 octobre 2020 portant suppression d&#39;une régie d&#39;avances et de recettes auprès du Centre national du microfilm et de la numérisation</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042649008</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649008</link>
@@ -236,20 +250,6 @@
       <description>Avis de vacance d&#39;emploi d&#39;inspecteur général des affaires culturelles</description>
       <author>Ministère de la culture</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la culture</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042580429</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580429</link>
-      <description>Décision n° 21 du 16 novembre 2020 de la commission prévue à l&#39;article L. 311-5 du code de la propriété intellectuelle</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580646</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580646</link>
-      <description>Arrêté du 24 novembre 2020 portant admission à la retraite (inspection générale des affaires culturelles)</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
     </item>
   </channel>
 </rss>

@@ -4,8 +4,22 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.815588591 +0100 CET m=+17.542993665</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.815588591 +0100 CET m=+17.542993665</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.474704426 +0100 CET m=+17.789585011</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.474704426 +0100 CET m=+17.789585011</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042658230</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658230</link>
+      <description>Décret n° 2020-1570 du 10 décembre 2020 relatif à la procédure de reconnaissance des organisations interprofessionnelles agricoles</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042658330</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658330</link>
+      <description>Arrêté du 1er décembre 2020 portant admission à la retraite (administration centrale)</description>
+      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042649061</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649061</link>
@@ -712,27 +726,6 @@
       <description>Arrêté du 1er décembre 2020 portant nomination au conseil scientifique de l&#39;Institut national de recherche pour l&#39;agriculture, l&#39;alimentation et l&#39;environnement</description>
       <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580511</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580511</link>
-      <description>Arrêté du 25 novembre 2020 relatif à l&#39;utilisation de la réserve en vue de financer le paiement en faveur des jeunes agriculteurs pour l&#39;année 2020</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042580656</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580656</link>
-      <description>Décret du 30 novembre 2020 portant nomination du directeur général de l&#39;Institut national supérieur des sciences agronomiques, de l&#39;alimentation et de l&#39;environnement (Agrosup Dijon)</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042580845</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580845</link>
-      <description>Avis relatif à l&#39;extension d&#39;un accord national sur les classifications et les salaires minimaux du personnel ouvrier/ACT/AM/CADRES dans les scieries agricoles et les exploitations forestières</description>
-      <author>Ministère de l&#39;agriculture et de l&#39;alimentation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
     </item>
   </channel>
 </rss>

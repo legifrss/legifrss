@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.801380376 +0100 CET m=+17.528785424</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.801380376 +0100 CET m=+17.528785424</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.437403391 +0100 CET m=+17.752283990</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.437403391 +0100 CET m=+17.752283990</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042658345</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658345</link>
+      <description>Décision n° 2020-5684 SEN/QPC du 11 décembre 2020</description>
+      <author>Conseil constitutionnel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042648945</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648945</link>
@@ -434,27 +441,6 @@
       <description>Décision du 28 octobre 2020 portant attribution du niveau de qualification de praticien professeur agrégé à des praticiens des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042580429</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580429</link>
-      <description>Décision n° 21 du 16 novembre 2020 de la commission prévue à l&#39;article L. 311-5 du code de la propriété intellectuelle</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042580860</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580860</link>
-      <description>Décisions du 16 novembre 2020 portant retrait d&#39;agrément d&#39;associations de financement d&#39;un parti politique ou d&#39;une organisation politique</description>
-      <author>Commission nationale des comptes de campagne et des financements politiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042580884</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580884</link>
-      <description>Décision n° 2020-816 du 25 novembre 2020 modifiant la décision n° 2013-182 du 22 janvier 2013 autorisant la société d&#39;économie mixte locale de Télévision-Radio (STR) à exploiter un service de télévision locale généraliste dénommé Caledonia diffusant en mode numérique en Nouvelle-Calédonie</description>
-      <author>Conseil supérieur de l&#39;audiovisuel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
     </item>
   </channel>
 </rss>

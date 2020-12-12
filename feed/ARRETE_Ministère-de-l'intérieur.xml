@@ -4,8 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.855854643 +0100 CET m=+17.583259697</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.855854643 +0100 CET m=+17.583259697</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.532118965 +0100 CET m=+17.846999545</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.532118965 +0100 CET m=+17.846999545</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042658036</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658036</link>
+      <description>Arrêté du 7 décembre 2020 fixant le nombre des emplois de chef des services techniques du ministère de l&#39;intérieur et des emplois à forte responsabilité bénéficiant de la nouvelle bonification indiciaire au sein des services du ministère de l&#39;intérieur</description>
+      <author>Ministère de l&#39;intérieur</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042648938</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648938</link>
@@ -325,27 +332,6 @@
       <title>ARRETE - JORFTEXT000042592974</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592974</link>
       <description>Arrêté du 1er décembre 2020 portant nomination (directions départementales interministérielles)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580333</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580333</link>
-      <description>Arrêté du 30 novembre 2020 relatif aux programmes des concours et examens professionnels des cadres d&#39;emplois de sapeurs-pompiers professionnels</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580385</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580385</link>
-      <description>Arrêté du 30 novembre 2020 relatif aux épreuves physiques communes aux concours externes ouverts pour le recrutement de sapeurs-pompiers professionnels</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042580601</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580601</link>
-      <description>Arrêté du 10 novembre 2020 portant nomination d&#39;une inspectrice en service extraordinaire (inspection générale de l&#39;administration) - Mme VILMUS (Florence)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
     </item>

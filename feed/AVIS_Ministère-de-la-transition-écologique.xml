@@ -4,19 +4,12 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-11 09:38:09.826584008 +0100 CET m=+17.553989047</pubDate>
-    <lastBuildDate>2020-12-11 09:38:09.826584008 +0100 CET m=+17.553989047</lastBuildDate>
+    <pubDate>2020-12-12 18:03:30.489928352 +0100 CET m=+17.804808941</pubDate>
+    <lastBuildDate>2020-12-12 18:03:30.489928352 +0100 CET m=+17.804808941</lastBuildDate>
     <item>
       <title>AVIS - JORFTEXT000042602824</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602824</link>
       <description>Avis de vacance du poste de directeur général de la Caisse de garantie du logement locatif social</description>
-      <author>Ministère de la transition écologique</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la transition écologique</category>
-    </item>
-    <item>
-      <title>AVIS - JORFTEXT000042580922</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580922</link>
-      <description>Avis de vacance de l&#39;emploi de directeur général ou directrice générale du port autonome de Strasbourg</description>
       <author>Ministère de la transition écologique</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la transition écologique</category>
     </item>
