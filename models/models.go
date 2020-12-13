@@ -9,6 +9,7 @@ type LegifranceElement struct {
 	Category    []string
 	Author      string
 	Date        string
+	Content     string
 }
 
 type FeedDescription struct {

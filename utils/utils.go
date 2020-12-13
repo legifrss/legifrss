@@ -63,3 +63,16 @@ func ErrCheckStr(str string) {
 		panic("Panic.")
 	}
 }
+
+func ExtractContent(input []models.JorfContainerSection) string {
+	str := ""
+	for _, section := range input {
+		str += section.Title
+		for _, article := range section.Articles {
+			str += article.Content
+		}
+		str += ExtractContent(section.Sections)
+
+	}
+	return str
+}

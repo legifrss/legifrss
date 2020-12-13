@@ -32,16 +32,20 @@ func Start() (str string, result string) {
 	err, token := token.GetToken(clientId, clientSecret)
 	utils.ErrCheckStr(err)
 
-	err, res := dila.FetchJORF(token)
-	utils.ErrCheckStr(err)
+	res := dila.FetchJORF(token)
 
 	var jorfContents []models.JOContainerResult
 	for _, jorf := range res.Containers {
-		err, nextContent := dila.FetchCont(token, jorf.Id)
-		utils.ErrCheckStr(err)
+		nextContent := dila.FetchCont(token, jorf.Id)
 		jorfContents = append(jorfContents, nextContent)
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
+
+	for i, element := range list {
+		result := dila.FetchJorfContent(token, element.Id)
+		list[i].Content = utils.ExtractContent(result.Sections)
+	}
+	fmt.Println(list)
 	generate.Generate(list)
 	return "", "ok"
 }
