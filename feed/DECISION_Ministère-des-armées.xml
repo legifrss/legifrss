@@ -4,14 +4,23 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.503624897 +0100 CET m=+17.818505488</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.503624897 +0100 CET m=+17.818505488</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.713158838 +0100 CET m=+14.592804816</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.713158838 +0100 CET m=+14.592804816</lastBuildDate>
+    <item>
+      <title>DECISION - JORFTEXT000042660302</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660302</link>
+      <description>Décision du 8 décembre 2020 modifiant la décision du 28 octobre 2020 portant attribution du niveau de qualification de praticien professeur agrégé à des praticiens des armées</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042625895</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625895</link>
       <description>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECISION - JORFTEXT000042612957</title>
@@ -19,27 +28,7 @@
       <description>Décision du 3 décembre 2020 portant délégation de signature (contrôle général des armées)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592959</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592959</link>
-      <description>Décision du 9 octobre 2020 portant attribution du niveau de qualification hospitalière de praticien certifié à des militaires servant en vertu d&#39;un contrat en qualité de praticien des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592962</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592962</link>
-      <description>Décision du 14 octobre 2020 portant attribution de l&#39;équivalence du niveau de qualification hospitalière de praticien certifié sur titres à des praticiens étrangers</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592964</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592964</link>
-      <description>Décision du 28 octobre 2020 portant attribution du niveau de qualification de praticien professeur agrégé à des praticiens des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

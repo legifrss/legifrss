@@ -4,14 +4,23 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.476607705 +0100 CET m=+17.791488289</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.476607705 +0100 CET m=+17.791488289</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.715393155 +0100 CET m=+14.595039143</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.715393155 +0100 CET m=+14.595039143</lastBuildDate>
+    <item>
+      <title>DECRET - JORFTEXT000042659696</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659696</link>
+      <description>Décret n° 2020-1572 du 11 décembre 2020 portant création de la commission interministérielle d&#39;examen des candidatures aux fonctions de conseiller du commerce extérieur de la France</description>
+      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;Europe et des affaires étrangères</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042625881</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625881</link>
       <description>Décret du 7 décembre 2020 portant promotion dans le corps des ministres plénipotentiaires (agents diplomatiques et consulaires)</description>
       <author>Ministère de l&#39;Europe et des affaires étrangères</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042602516</title>
@@ -19,27 +28,7 @@
       <description>Décret du 2 décembre 2020 portant fin de fonction d&#39;un ambassadeur extraordinaire et plénipotentiaire de la République française auprès de la République des Fidji - M. FITOU (Jean-François)</description>
       <author>Ministère de l&#39;Europe et des affaires étrangères</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592280</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592280</link>
-      <description>Décret n° 2020-1482 du 30 novembre 2020 portant publication des mesures 1 à 7 (2017) relatives aux zones spécialement protégées de l&#39;Antarctique, adoptées à Pékin le 1er juin 2017, lors de la XLe réunion consultative du traité sur l&#39;Antarctique (RCTA) (1)</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592329</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592329</link>
-      <description>Décret n° 2020-1483 du 30 novembre 2020 portant publication de la Mesure 8 (2017) Zone gérée spéciale de l&#39;Antarctique n° 5 (station Amundsen-Scott South Pole, pôle Sud) : plan de gestion révisé (ensemble cinq annexes), adoptée à Pékin le 1er juin 2017, lors de la XLe réunion consultative du traité sur l&#39;Antarctique (RCTA) (1)</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;Europe et des affaires étrangères</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592350</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592350</link>
-      <description>Décret n° 2020-1484 du 30 novembre 2020 portant publication des mesures 1 à 6 (2018) relatives aux zones spécialement protégées de l&#39;Antarctique, adoptées à Buenos Aires le 18 mai 2018, lors de la XLIe réunion consultative du traité sur l&#39;Antarctique (RCTA) (1)</description>
-      <author>Ministère de l&#39;Europe et des affaires étrangères</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;Europe et des affaires étrangères</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

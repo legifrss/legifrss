@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.46462587 +0100 CET m=+17.779506459</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.46462587 +0100 CET m=+17.779506459</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.701707072 +0100 CET m=+14.581353061</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.701707072 +0100 CET m=+14.581353061</lastBuildDate>
     <item>
       <title>ARRETE - JORFTEXT000042613481</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613481</link>
       <description>Arrêté du 1er décembre 2020 relatif à la délégation, par la Cour des comptes, du contrôle de deux organismes de sécurité sociale, aux chambres territoriales des comptes</description>
       <author>Cour des comptes</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Cour des comptes</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

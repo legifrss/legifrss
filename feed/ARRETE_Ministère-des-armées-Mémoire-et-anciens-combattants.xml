@@ -4,14 +4,23 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.486460688 +0100 CET m=+17.801341273</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.486460688 +0100 CET m=+17.801341273</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.712315946 +0100 CET m=+14.591961926</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.712315946 +0100 CET m=+14.591961926</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042660288</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660288</link>
+      <description>Arrêté du 10 décembre 2020 instituant une dérogation générale pour la consultation des dossiers individuels du bureau Résistance</description>
+      <author>Ministère des armées Mémoire et anciens combattants</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées/Mémoire et anciens combattants</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042614599</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614599</link>
       <description>Arrêté du 2 décembre 2020 modifiant le montant de la rente viagère mensuelle versée au titre des dispositions du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites</description>
       <author>Ministère des armées Mémoire et anciens combattants</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées/Mémoire et anciens combattants</category>
+      <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042614604</title>
@@ -19,6 +28,7 @@
       <description>Arrêté du 2 décembre 2020 modifiant le montant de la rente viagère mensuelle versée au titre des dispositions du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d&#39;actes de barbarie durant la Deuxième Guerre mondiale</description>
       <author>Ministère des armées Mémoire et anciens combattants</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées/Mémoire et anciens combattants</category>
+      <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

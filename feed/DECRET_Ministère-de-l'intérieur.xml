@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.532531598 +0100 CET m=+17.847412175</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.532531598 +0100 CET m=+17.847412175</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.714822535 +0100 CET m=+14.594468513</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.714822535 +0100 CET m=+14.594468513</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042658282</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658282</link>
       <description>Décret du 7 décembre 2020 portant nomination (inspection générale de l&#39;administration) (rectificatif)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-12 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042636412</title>
@@ -19,6 +20,7 @@
       <description>Décret n° 2020-1545 du 9 décembre 2020 relatif à l&#39;organisation et aux missions des directions régionales de l&#39;économie, de l&#39;emploi, du travail et des solidarités, des directions départementales de l&#39;emploi, du travail et des solidarités et des directions départementales de l&#39;emploi, du travail, des solidarités et de la protection des populations</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042637465</title>
@@ -26,6 +28,7 @@
       <description>Décret du 9 décembre 2020 portant cessation de fonctions d&#39;un directeur à l&#39;administration centrale du ministère de l&#39;intérieur - M. BESANCENOT (Hugues)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042637473</title>
@@ -33,6 +36,7 @@
       <description>Décret du 9 décembre 2020 portant nomination d&#39;une directrice à l&#39;administration centrale du ministère de l&#39;intérieur - Mme HOUSPIC (Sylvie)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625898</title>
@@ -40,6 +44,7 @@
       <description>Décret du 7 décembre 2020 portant nomination de la directrice de l&#39;Ecole nationale supérieure de la police</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625900</title>
@@ -47,6 +52,7 @@
       <description>Décret du 8 décembre 2020 portant nomination du secrétaire général de la préfecture de l&#39;Oise (classe fonctionnelle II) - M. LIME (Sébastien)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625902</title>
@@ -54,6 +60,7 @@
       <description>Décret du 8 décembre 2020 portant nomination du directeur de cabinet du préfet du Val-de-Marne (classe fonctionnelle III) - M. BECOULET (Sébastien)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625904</title>
@@ -61,6 +68,7 @@
       <description>Décret du 8 décembre 2020 portant nomination de la directrice de cabinet du préfet des Hauts-de-Seine (classe fonctionnelle III) - Mme GUTHLEBEN-CECCARONI (Sandra)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625906</title>
@@ -68,6 +76,7 @@
       <description>Décret du 8 décembre 2020 portant cessation de fonctions de la sous-préfète de Coutances - Mme HARZIC (Edith)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625908</title>
@@ -75,6 +84,7 @@
       <description>Décret du 8 décembre 2020 portant nomination de la sous-préfète de Coutances - Mme PLOUVIEZ-DIAZ (Françoise)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042620548</title>
@@ -82,6 +92,7 @@
       <description>Décret du 7 décembre 2020 portant nomination (inspection générale de l&#39;administration)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-08 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042607266</title>
@@ -89,6 +100,7 @@
       <description>Décret n° 2020-1510 du 2 décembre 2020 modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Enquêtes administratives liées à la sécurité publique »</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042607323</title>
@@ -96,6 +108,7 @@
       <description>Décret n° 2020-1511 du 2 décembre 2020 modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Prévention des atteintes à la sécurité publique »</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042607387</title>
@@ -103,6 +116,7 @@
       <description>Décret n° 2020-1512 du 2 décembre 2020 modifiant les dispositions du code de la sécurité intérieure relatives au traitement de données à caractère personnel dénommé « Gestion de l&#39;information et prévention des atteintes à la sécurité publique »</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042608035</title>
@@ -110,6 +124,7 @@
       <description>Décret du 3 décembre 2020 portant nomination du secrétaire général de la préfecture des Ardennes - M. VEDELAGO (Christian)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042608037</title>
@@ -117,6 +132,7 @@
       <description>Décret du 3 décembre 2020 portant nomination du directeur de cabinet du préfet des Pyrénées-Atlantiques - M. de LASSUS SAINT-GENIÈS (Théophile)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042608039</title>
@@ -124,6 +140,7 @@
       <description>Décret du 3 décembre 2020 portant nomination du secrétaire général de la préfecture du Gard (classe fonctionnelle III) - M. LOISEAU (Frédéric)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042608041</title>
@@ -131,6 +148,7 @@
       <description>Décret du 3 décembre 2020 portant nomination du sous-préfet d&#39;Albertville - M. HERIARD (Christophe)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042601955</title>
@@ -138,6 +156,7 @@
       <description>Décret n° 2020-1498 du 1er décembre 2020 relatif aux emplois de chef des services techniques du ministère de l&#39;intérieur</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042601983</title>
@@ -145,6 +164,7 @@
       <description>Décret n° 2020-1499 du 1er décembre 2020 fixant la liste des fonctions ouvrant droit à une nouvelle bonification indiciaire pour les fonctionnaires du corps des ingénieurs des services techniques occupant des emplois à forte responsabilité au sein des services du ministère de l&#39;intérieur et pour les chefs des services techniques</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042602007</title>
@@ -152,6 +172,7 @@
       <description>Décret n° 2020-1500 du 1er décembre 2020 modifiant le décret n° 2009-369 du 1er avril 2009 fixant l&#39;échelonnement indiciaire de certains personnels relevant du ministère de l&#39;intérieur, de l&#39;outre-mer et des collectivités territoriales</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042602019</title>
@@ -159,6 +180,7 @@
       <description>Décret du 2 décembre 2020 portant dissolution d&#39;un groupement de fait</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042602562</title>
@@ -166,6 +188,7 @@
       <description>Décret du 1er décembre 2020 portant nomination d&#39;un inspecteur général en service extraordinaire (inspection générale de l&#39;administration)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042602564</title>
@@ -173,34 +196,7 @@
       <description>Décret du 2 décembre 2020 portant nomination de la sous-préfète d&#39;Epernay - Mme GUENOT (Emmanuelle)</description>
       <author>Ministère de l&#39;intérieur</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592512</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592512</link>
-      <description>Décret n° 2020-1488 du 1er décembre 2020 relatif au versement d&#39;une indemnité compensatrice à certains capitaines de police reclassés dans le grade de commandant de police</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592968</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592968</link>
-      <description>Décret du 1er décembre 2020 portant nomination du directeur de l&#39;immobilier et de l&#39;environnement à la préfecture de police - M. PEREZ (Edgar)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592970</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592970</link>
-      <description>Décret du 1er décembre 2020 portant nomination du secrétaire général de la préfecture du Bas-Rhin (classe fonctionnelle I) - M. DUHAMEL (Mathieu)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592972</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592972</link>
-      <description>Décret du 1er décembre 2020 portant nomination d&#39;un inspecteur général en service extraordinaire (inspection générale de l&#39;administration)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

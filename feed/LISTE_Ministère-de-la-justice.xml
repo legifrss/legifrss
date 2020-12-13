@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Legifrance RSS - TABLEAU</title>
+    <title>Legifrance RSS - Ministère-de-la-justice - LISTE</title>
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-13 15:23:05.690463575 +0100 CET m=+14.570109542</pubDate>
-    <lastBuildDate>2020-12-13 15:23:05.690463575 +0100 CET m=+14.570109542</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.716830827 +0100 CET m=+14.596476807</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.716830827 +0100 CET m=+14.596476807</lastBuildDate>
     <item>
-      <title>TABLEAU - JORFTEXT000042608135</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608135</link>
-      <description>Tableau d&#39;avancement au grade de premier conseiller au titre de l&#39;année 2021 (tribunaux administratifs et cours administratives d&#39;appel)</description>
+      <title>LISTE - JORFTEXT000042660311</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660311</link>
+      <description>Liste des membres du Conseil supérieur de la magistrature (art. 65 de la Constitution, loi organique n° 94-100 du 5 février 1994 modifiée)</description>
       <author>Ministère de la justice</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

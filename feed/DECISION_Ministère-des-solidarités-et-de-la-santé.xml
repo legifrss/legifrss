@@ -4,35 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.486244399 +0100 CET m=+17.801124975</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.486244399 +0100 CET m=+17.801124975</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.710959911 +0100 CET m=+14.590605887</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.710959911 +0100 CET m=+14.590605887</lastBuildDate>
     <item>
       <title>DECISION - JORFTEXT000042637016</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637016</link>
       <description>Décision du 26 novembre 2020 modifiant la décision du 4 juin 2020 modifiée fixant la liste et les caractéristiques des produits sanguins labiles</description>
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592682</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592682</link>
-      <description>Décision du 29 septembre 2020 modifiant la décision du 11 mars 2005 de l&#39;Union nationale des caisses d&#39;assurance maladie relative à la liste des actes et prestations pris en charge par l&#39;Assurance maladie</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592690</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592690</link>
-      <description>Décision du 6 octobre 2020 modifiant la décision du 11 mars 2005 de l&#39;Union nationale des caisses d&#39;assurance maladie relative à la liste des actes et prestations pris en charge par l&#39;Assurance maladie</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592697</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592697</link>
-      <description>Décision du 6 octobre 2020 modifiant la décision du 11 mars 2005 de l&#39;Union nationale des caisses d&#39;assurance maladie relative à la liste des actes et prestations pris en charge par l&#39;Assurance maladie</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

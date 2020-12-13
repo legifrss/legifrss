@@ -4,14 +4,23 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.497538817 +0100 CET m=+17.812419398</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.497538817 +0100 CET m=+17.812419398</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.709943612 +0100 CET m=+14.589589587</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.709943612 +0100 CET m=+14.589589587</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042660331</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660331</link>
+      <description>Arrêté du 10 décembre 2020 portant nomination au comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat</description>
+      <author>Ministère de la transformation et de la fonction publiques</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042625820</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625820</link>
       <description>Arrêté du 2 décembre 2020 fixant la liste des thèmes d&#39;actualité de la première épreuve d&#39;admissibilité de la session d&#39;automne 2021 des concours d&#39;accès aux instituts régionaux d&#39;administration (épreuves d&#39;octobre 2021)</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625956</title>
@@ -19,6 +28,7 @@
       <description>Arrêté du 3 décembre 2020 portant nomination au Conseil supérieur de la fonction publique de l&#39;Etat</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transformation et de la fonction publiques</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042620440</title>
@@ -26,6 +36,7 @@
       <description>Arrêté du 2 décembre 2020 portant ouverture de la session de printemps 2021 des concours d&#39;accès aux instituts régionaux d&#39;administration (entrée en formation au 1er septembre 2021)</description>
       <author>Ministère de la transformation et de la fonction publiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transformation et de la fonction publiques</category>
+      <pubDate>2020-12-08 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

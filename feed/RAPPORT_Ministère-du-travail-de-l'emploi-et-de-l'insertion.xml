@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.504014244 +0100 CET m=+17.818894829</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.504014244 +0100 CET m=+17.818894829</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.709357542 +0100 CET m=+14.589003511</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.709357542 +0100 CET m=+14.589003511</lastBuildDate>
     <item>
       <title>RAPPORT - JORFTEXT000042602097</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602097</link>
       <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1501 du 2 décembre 2020 modifiant l&#39;ordonnance n° 2020-387 du 1er avril 2020 portant mesures d&#39;urgence en matière de formation professionnelle et la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>RAPPORT - JORFTEXT000042602106</title>
@@ -19,6 +20,7 @@
       <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1502 du 2 décembre 2020 adaptant les conditions d&#39;exercice des missions des services de santé au travail à l&#39;urgence sanitaire</description>
       <author>Ministère du travail, de l&#39;emploi et de l&#39;insertion</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

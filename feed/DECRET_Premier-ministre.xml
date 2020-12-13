@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.498015254 +0100 CET m=+17.812895840</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.498015254 +0100 CET m=+17.812895840</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.718686841 +0100 CET m=+14.598332820</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.718686841 +0100 CET m=+14.598332820</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042613292</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613292</link>
       <description>Décret du 3 décembre 2020 portant radiation des cadres (corps des administrateurs civils)</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042613295</title>
@@ -19,6 +20,7 @@
       <description>Décret du 3 décembre 2020 portant nomination (chambres régionales des comptes)</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042607154</title>
@@ -26,6 +28,7 @@
       <description>Décret n° 2020-1509 du 3 décembre 2020 relatif à l&#39;entrée en vigueur immédiate d&#39;un arrêté</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042608012</title>
@@ -33,13 +36,7 @@
       <description>Décret du 3 décembre 2020 portant nomination au conseil supérieur de la Cour des comptes</description>
       <author>Premier ministre</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592268</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592268</link>
-      <description>Décret n° 2020-1481 du 30 novembre 2020 portant mesure nationale autorisée par le paragraphe 3 de l&#39;article 6 du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit de biens à double usage</description>
-      <author>Premier ministre</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

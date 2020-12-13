@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.489986467 +0100 CET m=+17.804867050</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.489986467 +0100 CET m=+17.804867050</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.71297715 +0100 CET m=+14.592623130</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.71297715 +0100 CET m=+14.592623130</lastBuildDate>
     <item>
       <title>DECRET - JORFTEXT000042637375</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637375</link>
       <description>Décret n° 2020-1559 du 9 décembre 2020 relatif à l&#39;exploitation des terminaux des grands ports maritimes</description>
       <author>Ministère de la transition écologique Transports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042607986</title>
@@ -19,13 +20,7 @@
       <description>Décret n° 2020-1515 du 2 décembre 2020 approuvant le huitième avenant à la convention de concession passée entre l&#39;Etat et la société concessionnaire française pour la construction et l&#39;exploitation du tunnel routier sous le Mont-Blanc (STMB devenue ATMB) en vue de la construction, de l&#39;entretien et de l&#39;exploitation de l&#39;autoroute B 41 entre Gaillard et Le Fayet et de l&#39;autoroute A 42 entre Annemasse et Châtillon-de-Michaille et au cahier des charges annexé à cette convention</description>
       <author>Ministère de la transition écologique Transports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592881</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592881</link>
-      <description>Décret n° 2020-1494 du 30 novembre 2020 relatif aux défauts de paiement du péage des autoroutes et ouvrages d&#39;art concédés du réseau routier national</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

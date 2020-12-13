@@ -4,14 +4,15 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.476867283 +0100 CET m=+17.791747860</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.476867283 +0100 CET m=+17.791747860</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.706687439 +0100 CET m=+14.586333420</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.706687439 +0100 CET m=+14.586333420</lastBuildDate>
     <item>
       <title>DECISION - JORFTEXT000042614367</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614367</link>
       <description>Décision du 24 novembre 2020 portant délégation de signature (direction générale des ressources humaines)</description>
       <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+      <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECISION - JORFTEXT000042614372</title>
@@ -19,6 +20,7 @@
       <description>Décision du 24 novembre 2020 portant délégation de signature (secrétariat général)</description>
       <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+      <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

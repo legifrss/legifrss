@@ -34,5 +34,6 @@ func transformLegifranceElement(element models.LegifranceElement) *feeds.RssItem
 		Description: element.Description,
 		Category:    strings.Join(element.Category, "/"),
 		Author:      element.Author,
+		PubDate:     element.Date,
 	}
 }

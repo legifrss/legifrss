@@ -8,6 +8,7 @@ type LegifranceElement struct {
 	Description string
 	Category    []string
 	Author      string
+	Date        string
 }
 
 type FeedDescription struct {
@@ -48,6 +49,7 @@ type Structure struct {
 type JOContainer struct {
 	Id        string    `json:"id"`
 	Structure Structure `json:"structure"`
+	Timestamp int64     `json:"datePubli"`
 }
 
 type Item struct {

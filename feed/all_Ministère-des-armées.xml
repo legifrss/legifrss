@@ -4,14 +4,31 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-12 18:03:30.439175546 +0100 CET m=+17.754056132</pubDate>
-    <lastBuildDate>2020-12-12 18:03:30.439175546 +0100 CET m=+17.754056132</lastBuildDate>
+    <pubDate>2020-12-13 15:23:05.696090216 +0100 CET m=+14.575736194</pubDate>
+    <lastBuildDate>2020-12-13 15:23:05.696090216 +0100 CET m=+14.575736194</lastBuildDate>
+    <item>
+      <title>ARRETE - JORFTEXT000042660300</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660300</link>
+      <description>Arrêté du 2 décembre 2020 modifiant l&#39;arrêté du 24 novembre 2020 portant attribution du brevet technique option « études supérieures du service d&#39;infrastructure de la défense »</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042660302</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660302</link>
+      <description>Décision du 8 décembre 2020 modifiant la décision du 28 octobre 2020 portant attribution du niveau de qualification de praticien professeur agrégé à des praticiens des armées</description>
+      <author>Ministère des armées</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042658010</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658010</link>
       <description>Décret n° 2020-1566 du 10 décembre 2020 relatif à l&#39;organisation à distance de la journée défense et citoyenneté</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-12 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042658025</title>
@@ -19,6 +36,7 @@
       <description>Arrêté du 10 décembre 2020 relatif à l&#39;organisation à distance de la journée défense et citoyenneté</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-12 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042658277</title>
@@ -26,6 +44,7 @@
       <description>Arrêté du 1er décembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-12 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042658279</title>
@@ -33,6 +52,7 @@
       <description>Arrêté du 2 décembre 2020 portant admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-12 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042648935</title>
@@ -40,6 +60,7 @@
       <description>Arrêté du 7 décembre 2020 fixant le contingent d&#39;emplois offerts au titre de l&#39;année 2021 pour le recrutement d&#39;ouvriers de l&#39;Etat du ministère des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042649142</title>
@@ -47,6 +68,7 @@
       <description>Décret du 9 décembre 2020 portant affectation d&#39;une officière générale</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042649144</title>
@@ -54,6 +76,7 @@
       <description>Décret du 9 décembre 2020 portant nomination dans l&#39;armée active</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042649146</title>
@@ -61,6 +84,7 @@
       <description>Décret du 9 décembre 2020 portant nomination et promotion dans l&#39;armée active</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042649148</title>
@@ -68,6 +92,7 @@
       <description>Arrêté du 8 décembre 2020 portant nomination de membres de la commission des recours des militaires</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042649151</title>
@@ -75,6 +100,7 @@
       <description>Arrêté du 9 décembre 2020 portant nomination au cabinet de la ministre des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042636265</title>
@@ -82,6 +108,7 @@
       <description>Arrêté du 4 décembre 2020 fixant les modalités de nomination des médecins de prévention ainsi que l&#39;organisation et les conditions de fonctionnement du service de médecine de prévention organisé au profit du personnel civil du ministère de la défense</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042636348</title>
@@ -89,6 +116,7 @@
       <description>Arrêté du 4 décembre 2020 fixant au ministère de la défense l&#39;organisation et les conditions de fonctionnement de l&#39;exercice de la médecine de prévention au profit du personnel militaire</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637446</title>
@@ -96,6 +124,7 @@
       <description>Arrêté du 30 novembre 2020 portant désignation des enquêteurs de prix du ministère chargé de la défense habilités à exercer des vérifications sur pièces ou sur place de marchés publics</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637449</title>
@@ -103,6 +132,7 @@
       <description>Arrêté du 2 décembre 2020 portant admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637451</title>
@@ -110,6 +140,7 @@
       <description>Arrêté du 2 décembre 2020 portant attribution du brevet technique d&#39;études militaires supérieures</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637453</title>
@@ -117,6 +148,7 @@
       <description>Arrêté du 2 décembre 2020 portant attribution du brevet technique d&#39;études militaires générales</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637455</title>
@@ -124,6 +156,7 @@
       <description>Arrêté du 2 décembre 2020 fixant la liste des candidats inscrits sur la liste principale et la liste complémentaire d&#39;aptitude pour le recrutement au grade d&#39;ingénieur dans le corps militaire des ingénieurs de l&#39;armement au titre de l&#39;année 2020</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637457</title>
@@ -131,6 +164,7 @@
       <description>Arrêté du 9 décembre 2020 portant cessation de fonctions au cabinet de la ministre des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042637462</title>
@@ -138,6 +172,7 @@
       <description>Arrêté du 9 décembre 2020 portant nomination (administration centrale)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042625107</title>
@@ -145,6 +180,7 @@
       <description>Décret n° 2020-1530 du 8 décembre 2020 modifiant le décret n° 98-641 du 27 juillet 1998 portant création de la délégation à l&#39;information et à la communication de la défense</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625116</title>
@@ -152,6 +188,7 @@
       <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de chef de service et de sous-directeur</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625122</title>
@@ -159,6 +196,7 @@
       <description>Arrêté du 8 décembre 2020 fixant pour le ministère des armées le nombre maximum d&#39;emplois de directeur de projet et d&#39;expert de haut niveau</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625128</title>
@@ -166,6 +204,7 @@
       <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 décembre 2019 portant organisation de la délégation à l&#39;information et à la communication de la défense</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625139</title>
@@ -173,6 +212,7 @@
       <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 17 août 2020 fixant pour le ministère des armées la liste des emplois ouvrant droit à la nouvelle bonification indiciaire instituée en faveur des agents exerçant des fonctions supérieures de direction, d&#39;encadrement ou d&#39;expertise</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042625143</title>
@@ -180,6 +220,7 @@
       <description>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 30 octobre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours pour le recrutement d&#39;ingénieurs civils de la défense</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECISION - JORFTEXT000042625895</title>
@@ -187,6 +228,7 @@
       <description>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042620130</title>
@@ -194,6 +236,7 @@
       <description>Arrêté du 19 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture des concours externe et interne pour le recrutement d&#39;assistantes et d&#39;assistants de service social des administrations de l&#39;Etat au sein du ministère des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-08 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042620545</title>
@@ -201,6 +244,7 @@
       <description>Arrêté du 30 novembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-08 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECISION - JORFTEXT000042612957</title>
@@ -208,6 +252,7 @@
       <description>Décision du 3 décembre 2020 portant délégation de signature (contrôle général des armées)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>DECRET - JORFTEXT000042613308</title>
@@ -215,6 +260,7 @@
       <description>Décret du 3 décembre 2020 portant promotion à titre exceptionnel dans l&#39;armée active</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042613310</title>
@@ -222,6 +268,7 @@
       <description>Arrêté du 16 octobre 2020 portant admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042613312</title>
@@ -229,6 +276,7 @@
       <description>Arrêté du 5 novembre 2020 portant réintégration, admission à la retraite et radiation des cadres (ingénieurs civils de la défense)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042607215</title>
@@ -236,6 +284,7 @@
       <description>Arrêté du 1er décembre 2020 modifiant l&#39;arrêté du 17 juin 2020 relatif aux régies de recettes et aux régies d&#39;avances instituées auprès d&#39;organismes relevant du service du commissariat des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042607260</title>
@@ -243,6 +292,7 @@
       <description>Arrêté du 1er décembre 2020 modifiant l&#39;arrêté du 16 novembre 2020 relatif au concours externe sur épreuves de recrutement dans le corps des commissaires des armées</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042608028</title>
@@ -250,6 +300,7 @@
       <description>Arrêté du 8 septembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042608030</title>
@@ -257,6 +308,7 @@
       <description>Arrêté du 17 novembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042608032</title>
@@ -264,6 +316,7 @@
       <description>Arrêté du 2 décembre 2020 portant nomination (administration centrale)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042601936</title>
@@ -271,6 +324,7 @@
       <description>Arrêté du 30 novembre 2020 portant création d&#39;une zone interdite temporaire dans la région de Beignon (Morbihan) identifiée ZIT Montervilly, dans la région d&#39;information de vol de Brest</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042602553</title>
@@ -278,6 +332,7 @@
       <description>Arrêté du 28 octobre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042602555</title>
@@ -285,6 +340,7 @@
       <description>Arrêté du 25 novembre 2020 portant admission à la retraite et radiation des cadres (attachés d&#39;administration de l&#39;Etat)</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042602557</title>
@@ -292,6 +348,7 @@
       <description>Arrêté du 30 novembre 2020 portant nomination au choix au grade d&#39;infirmier de catégorie A hors classe du ministère de la défense au titre de l&#39;année 2021</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
     <item>
       <title>ARRETE - JORFTEXT000042602559</title>
@@ -299,55 +356,7 @@
       <description>Arrêté du 30 novembre 2020 portant nomination au choix au grade d&#39;infirmier de catégorie A de classe supérieure du ministère de la défense au titre de l&#39;année 2021</description>
       <author>Ministère des armées</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592462</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592462</link>
-      <description>Décret n° 2020-1486 du 30 novembre 2020 modifiant le statut particulier des corps des officiers de l&#39;air, des officiers mécaniciens de l&#39;air et des officiers des bases de l&#39;air</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592495</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592495</link>
-      <description>Décret n° 2020-1487 du 30 novembre 2020 modifiant le décret n° 2008-938 du 12 septembre 2008 portant statut particulier des corps des officiers de marine et des officiers spécialisés de la marine</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042592954</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592954</link>
-      <description>Décret du 30 novembre 2020 portant concession de la Médaille militaire en faveur des militaires appartenant à l&#39;armée active</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042592957</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592957</link>
-      <description>Arrêté du 24 novembre 2020 portant attribution du brevet technique option « études supérieures du service d&#39;infrastructure de la défense »</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592959</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592959</link>
-      <description>Décision du 9 octobre 2020 portant attribution du niveau de qualification hospitalière de praticien certifié à des militaires servant en vertu d&#39;un contrat en qualité de praticien des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592962</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592962</link>
-      <description>Décision du 14 octobre 2020 portant attribution de l&#39;équivalence du niveau de qualification hospitalière de praticien certifié sur titres à des praticiens étrangers</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042592964</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042592964</link>
-      <description>Décision du 28 octobre 2020 portant attribution du niveau de qualification de praticien professeur agrégé à des praticiens des armées</description>
-      <author>Ministère des armées</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des armées</category>
+      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

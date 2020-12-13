@@ -2,23 +2,26 @@ package utils
 
 import (
 	"fmt"
+	"time"
 
 	"github.com/ldicarlo/legifrss/server/models"
 )
 
 func ExtractAndConvertDILA(input []models.JOContainerResult) (result []models.LegifranceElement) {
-
+	loc, err := time.LoadLocation("Europe/Paris")
+	ErrCheck(err)
 	for _, jorfContent := range input {
 		for _, item := range jorfContent.Items {
+			ts := time.Unix(item.Container.Timestamp/1000, 0).In(loc)
 			for _, step := range item.Container.Structure.Contents {
-				result = tranformHierarchyStep(step, []string{}, result)
+				result = tranformHierarchyStep(step, []string{}, result, ts)
 			}
 		}
 	}
 	return
 }
 
-func transformSummary(summary models.Summary, categories []string) models.LegifranceElement {
+func transformSummary(summary models.Summary, categories []string, publicationDate time.Time) models.LegifranceElement {
 	return models.LegifranceElement{
 		Id:          summary.Id,
 		Title:       summary.Id,
@@ -27,6 +30,7 @@ func transformSummary(summary models.Summary, categories []string) models.Legifr
 		Category:    categories,
 		Author:      summary.Emitter,
 		Nature:      summary.Nature,
+		Date:        publicationDate.String(),
 	}
 }
 
@@ -34,13 +38,14 @@ func tranformHierarchyStep(
 	hs models.HierarchyStep,
 	categories []string,
 	result []models.LegifranceElement,
+	pub time.Time,
 ) []models.LegifranceElement {
 
 	for _, item := range hs.Summaries {
-		result = append(result, transformSummary(item, append(categories, hs.Title)))
+		result = append(result, transformSummary(item, append(categories, hs.Title), pub))
 	}
 	for _, nextHs := range hs.Step {
-		result = tranformHierarchyStep(nextHs, append(categories, hs.Title), result)
+		result = tranformHierarchyStep(nextHs, append(categories, hs.Title), result, pub)
 	}
 	return result
 }
