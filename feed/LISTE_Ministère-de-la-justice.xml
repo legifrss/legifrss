@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-justice - LISTE</title>
   <id></id>
-  <updated>2020-12-14 20:14:48.003231176 +0100 CET m=+251.780801109</updated>
+  <updated>2020-12-14 21:12:36.243426679 +0100 CET m=+250.366660269</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -14,7 +14,7 @@
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">&lt;p&gt;&lt;br/&gt;La liste des membres du Conseil supérieur de la magistrature est modifiée ainsi qu&#39;il suit :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;I. - Personnalité extérieure désignée, membre commun aux trois formations :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Christophe GALLOUX, avocat au barreau de Paris, professeur agrégé de droit privé, et président de l&#39;institut de recherche en propriété intellectuelle, désigné par le Président du Sénat, en remplacement de M. Jean CABANNES, démissionnaire.&lt;/p&gt;</content>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste des membres du Conseil supérieur de la magistrature est modifiée ainsi qu&#39;il suit :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;I. - Personnalité extérieure désignée, membre commun aux trois formations :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Christophe GALLOUX, avocat au barreau de Paris, professeur agrégé de droit privé, et président de l&#39;institut de recherche en propriété intellectuelle, désigné par le Président du Sénat, en remplacement de M. Jean CABANNES, démissionnaire.&lt;/p&gt;</content>
     <published>2020-12-13 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660311"></link>
     <author>

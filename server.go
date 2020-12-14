@@ -43,7 +43,7 @@ func Start() (str string, result string) {
 
 	total := len(list)
 	for i, element := range list {
-		fmt.Printf("Fetching the jorf content for %s (%d/%d)\n", element.Id, i, total)
+		fmt.Printf("Fetching the jorf content for %s (%d/%d)\n", element.Id, i+1, total)
 		result := dila.FetchJorfContent(token, element.Id)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
 

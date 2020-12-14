@@ -2,6 +2,7 @@ package utils
 
 import (
 	"fmt"
+	"sort"
 	"time"
 
 	"github.com/ldicarlo/legifrss/server/models"
@@ -66,14 +67,23 @@ func ErrCheckStr(str string) {
 
 func ExtractContent(articles []models.JorfArticle, sections []models.JorfContainerSection) string {
 	str := ""
+	sortArticles(articles)
 	for _, article := range articles {
-		str += article.Content
+		str += "Article " + article.Order + "<br />" + article.Content
 	}
-
+	sortContent(sections)
 	for _, section := range sections {
 		str += section.Title
 		str += ExtractContent(section.Articles, section.Sections)
 
 	}
 	return str
+}
+
+func sortContent(sections []models.JorfContainerSection) {
+	sort.Sort(models.SortByArticleOrder(sections))
+}
+
+func sortArticles(articles []models.JorfArticle) {
+	sort.Sort(models.SortByOrder(articles))
 }
