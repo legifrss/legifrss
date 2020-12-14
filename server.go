@@ -41,11 +41,13 @@ func Start() (str string, result string) {
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
 
+	total := len(list)
 	for i, element := range list {
+		fmt.Printf("Fetching the jorf content for %s (%d/%d)\n", element.Id, i, total)
 		result := dila.FetchJorfContent(token, element.Id)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
+
 	}
-	fmt.Println(list)
 	generate.Generate(list)
 	return "", "ok"
 }

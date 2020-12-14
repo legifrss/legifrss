@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - unknown - INFORMATIONS_DIVERSES</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.321949441 +0100 CET m=+287.964689253</updated>
+  <updated>2020-12-14 20:14:47.960216469 +0100 CET m=+251.737786400</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042658410]: Jugements d&#39;envoi en possession provisoire</title>
+    <title>Jugements d&#39;envoi en possession provisoire</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Successions en déshérence</category>
@@ -20,7 +20,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042649370]: Situation mensuelle de l&#39;Etat (octobre 2020)</title>
+    <title>Situation mensuelle de l&#39;Etat (octobre 2020)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/situation mensuelle de l&#39;Etat</category>
@@ -30,7 +30,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042649373]: Cours indicatifs du 10 décembre 2020 communiqués par la Banque de France</title>
+    <title>Cours indicatifs du 10 décembre 2020 communiqués par la Banque de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
@@ -40,7 +40,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042637746]: Cours indicatifs du 9 décembre 2020 communiqués par la Banque de France</title>
+    <title>Cours indicatifs du 9 décembre 2020 communiqués par la Banque de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
@@ -50,7 +50,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042626209]: Cours indicatifs du 8 décembre 2020 communiqués par la Banque de France</title>
+    <title>Cours indicatifs du 8 décembre 2020 communiqués par la Banque de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
@@ -60,7 +60,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042608360]: Cours indicatifs du 3 décembre 2020 communiqués par la Banque de France</title>
+    <title>Cours indicatifs du 3 décembre 2020 communiqués par la Banque de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>
@@ -70,7 +70,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[INFORMATIONS_DIVERSES - JORFTEXT000042602858]: Cours indicatifs du 2 décembre 2020 communiqués par la Banque de France</title>
+    <title>Cours indicatifs du 2 décembre 2020 communiqués par la Banque de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Informations diverses/Liste de cours indicatifs</category>

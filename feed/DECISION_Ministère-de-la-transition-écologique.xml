@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-transition-écologique - DECISION</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.381330913 +0100 CET m=+288.024070728</updated>
+  <updated>2020-12-14 20:14:48.015465756 +0100 CET m=+251.793035707</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[DECISION - JORFTEXT000042659893]: Décision du 10 décembre 2020 portant délégation de signature (direction générale des infrastructures, des transports et de la mer)</title>
+    <title>Décision du 10 décembre 2020 portant délégation de signature (direction générale des infrastructures, des transports et de la mer)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
@@ -22,7 +22,7 @@
     </author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042635976]: Décision du 3 décembre 2020 modifiant la décision du 1er octobre 2020 portant délégation de signature (direction générale de l&#39;énergie et du climat)</title>
+    <title>Décision du 3 décembre 2020 modifiant la décision du 1er octobre 2020 portant délégation de signature (direction générale de l&#39;énergie et du climat)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>
@@ -34,7 +34,7 @@
     </author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042612908]: Décision du 4 décembre 2020 consécutive au débat public portant sur un projet éolien en mer au large de la Normandie et son raccordement</title>
+    <title>Décision du 4 décembre 2020 consécutive au débat public portant sur un projet éolien en mer au large de la Normandie et son raccordement</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique</category>

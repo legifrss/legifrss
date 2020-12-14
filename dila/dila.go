@@ -52,7 +52,6 @@ func FetchCont(token string, jorfCont string) (joContainerResult models.JOContai
 }
 
 func FetchJorfContent(token string, jorfText string) (joContainerResult models.JorfContainerResult) {
-	fmt.Printf("Fetching the jorf content for %s\n", jorfText)
 	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/jorf",
 		strings.NewReader("{\"textCid\":\""+jorfText+"\"}"))
 	req.Header.Set("Content-Type", "application/json")
@@ -66,6 +65,5 @@ func FetchJorfContent(token string, jorfText string) (joContainerResult models.J
 	utils.ErrCheck(err)
 
 	json.Unmarshal(body, &joContainerResult)
-	fmt.Println(joContainerResult.Id + " fetched")
 	return joContainerResult
 }

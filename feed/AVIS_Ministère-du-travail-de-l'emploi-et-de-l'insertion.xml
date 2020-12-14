@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion - AVIS</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.351695574 +0100 CET m=+287.994435394</updated>
+  <updated>2020-12-14 20:14:48.018098316 +0100 CET m=+251.795668255</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[AVIS - JORFTEXT000042658338]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -22,7 +22,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042649237]: Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre à la convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre à la convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -34,7 +34,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042649340]: Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Normandie, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</title>
+    <title>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi de Normandie, chargé des fonctions de responsable du pôle « entreprises, emploi, économie »</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -46,7 +46,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042649345]: Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi d&#39;Auvergne-Rhône-Alpes, chargé des fonctions de responsable de l&#39;unité départementale de l&#39;Isère</title>
+    <title>Avis de vacance d&#39;emploi de directeur régional adjoint des entreprises, de la concurrence, de la consommation, du travail et de l&#39;emploi d&#39;Auvergne-Rhône-Alpes, chargé des fonctions de responsable de l&#39;unité départementale de l&#39;Isère</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -58,7 +58,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042637577]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;hospitalisation privée</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;hospitalisation privée</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -70,7 +70,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042625983]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des agences de voyages et de tourisme</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des agences de voyages et de tourisme</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -82,7 +82,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042625989]: Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur du travail temporaire</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur du travail temporaire</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -94,7 +94,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042625996]: Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des maisons à succursales de vente au détail d&#39;habillement</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le cadre de la convention collective nationale des maisons à succursales de vente au détail d&#39;habillement</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -106,7 +106,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620584]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des activités industrielles de boulangerie et de pâtisserie</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des activités industrielles de boulangerie et de pâtisserie</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -118,7 +118,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620589]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des fleuristes, de la vente et des services des animaux familiers</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -130,7 +130,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620595]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale du personnel navigant technique des exploitants d&#39;hélicoptères</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale du personnel navigant technique des exploitants d&#39;hélicoptères</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -142,7 +142,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620600]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -154,7 +154,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620606]: Avis relatif à l&#39;extension d&#39;un avis interprétatif à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avis interprétatif à la convention collective nationale des cabinets ou entreprises d&#39;expertises en automobile</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -166,7 +166,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620613]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;optique-lunetterie de détail</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale de l&#39;optique-lunetterie de détail</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -178,7 +178,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620619]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des services de l&#39;automobile</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des services de l&#39;automobile</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -190,7 +190,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620625]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des métiers de l&#39;éducation, de la culture, des loisirs, et de l&#39;animation agissant pour l&#39;utilité sociale et environnementale, au service des territoires</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des métiers de l&#39;éducation, de la culture, des loisirs, et de l&#39;animation agissant pour l&#39;utilité sociale et environnementale, au service des territoires</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -202,7 +202,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620631]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective des industries métallurgiques des Flandres</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective des industries métallurgiques des Flandres</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -214,7 +214,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042613392]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des réseaux de transports publics urbains de voyageurs</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale des réseaux de transports publics urbains de voyageurs</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -226,7 +226,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608177]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des acteurs du lien social et familial</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale des acteurs du lien social et familial</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -238,7 +238,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602724]: Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale de l&#39;enseignement privé indépendant</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à la convention collective nationale de l&#39;enseignement privé indépendant</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -250,7 +250,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602730]: Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur de la transformation laitière</title>
+    <title>Avis relatif à l&#39;extension d&#39;un avenant à un accord conclu dans le secteur de la transformation laitière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>
@@ -262,7 +262,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602735]: Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des imprimeries de labeur et des industries graphiques et de la convention collective nationale des industries de la sérigraphie et des procédés d&#39;impression numérique connexes</title>
+    <title>Avis relatif à l&#39;extension d&#39;un accord conclu dans le cadre de la convention collective nationale du personnel des imprimeries de labeur et des industries graphiques et de la convention collective nationale des industries de la sérigraphie et des procédés d&#39;impression numérique connexes</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Conventions collectives/Ministère du travail, de l&#39;emploi et de l&#39;insertion</category>

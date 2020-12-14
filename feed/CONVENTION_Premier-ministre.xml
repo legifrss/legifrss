@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Premier-ministre - CONVENTION</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.346844773 +0100 CET m=+287.989584581</updated>
+  <updated>2020-12-14 20:14:47.978156638 +0100 CET m=+251.755726576</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[CONVENTION - JORFTEXT000042657870]: Convention entre l&#39;Etat et Bpifrance du 11 décembre 2020 relative au programme d&#39;investissements d&#39;avenir (Action : « Grands défis », volet « French Tech Souveraineté »)</title>
+    <title>Convention entre l&#39;Etat et Bpifrance du 11 décembre 2020 relative au programme d&#39;investissements d&#39;avenir (Action : « Grands défis », volet « French Tech Souveraineté »)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Commission-nationale-des-comptes-de-campagne-et-des-financements-politiques</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.244151917 +0100 CET m=+287.886891727</updated>
+  <updated>2020-12-14 20:14:47.898608769 +0100 CET m=+251.676178712</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[DECISION - JORFTEXT000042608195]: Décision du 23 novembre 2020 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
+    <title>Décision du 23 novembre 2020 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>
@@ -22,7 +22,7 @@
     </author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042608197]: Décision du 23 novembre 2020 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
+    <title>Décision du 23 novembre 2020 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>
@@ -34,7 +34,7 @@
     </author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042602776]: Décision n° 2020-2421 du 24 novembre 2020 portant modification du règlement intérieur de la Commission nationale des comptes de campagne et des financements politiques</title>
+    <title>Décision n° 2020-2421 du 24 novembre 2020 portant modification du règlement intérieur de la Commission nationale des comptes de campagne et des financements politiques</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>

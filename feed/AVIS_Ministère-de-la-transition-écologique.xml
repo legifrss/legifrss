@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-transition-écologique - AVIS</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.381700088 +0100 CET m=+288.024439916</updated>
+  <updated>2020-12-14 20:14:48.015738606 +0100 CET m=+251.793308551</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[AVIS - JORFTEXT000042660385]: Avis de vacance d&#39;un emploi de directeur régional adjoint de l&#39;environnement, de l&#39;aménagement et du logement de la région Bretagne</title>
+    <title>Avis de vacance d&#39;un emploi de directeur régional adjoint de l&#39;environnement, de l&#39;aménagement et du logement de la région Bretagne</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la transition écologique</category>
@@ -22,7 +22,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602824]: Avis de vacance du poste de directeur général de la Caisse de garantie du logement locatif social</title>
+    <title>Avis de vacance du poste de directeur général de la Caisse de garantie du logement locatif social</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère de la transition écologique</category>

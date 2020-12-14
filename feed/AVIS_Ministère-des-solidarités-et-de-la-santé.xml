@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - AVIS</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.366024031 +0100 CET m=+288.008763851</updated>
+  <updated>2020-12-14 20:14:48.000794671 +0100 CET m=+251.778364632</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[AVIS - JORFTEXT000042660409]: Avis du 11 décembre 2020 relatif aux listes des candidats admis au titre de l&#39;année 2020 aux concours d&#39;admission au cycle de formation des élèves attachés d&#39;administration hospitalière</title>
+    <title>Avis du 11 décembre 2020 relatif aux listes des candidats admis au titre de l&#39;année 2020 aux concours d&#39;admission au cycle de formation des élèves attachés d&#39;administration hospitalière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -22,7 +22,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042660413]: Avis relatif à la publication des listes électorales des élections 2021 des unions régionales des professionnels de santé</title>
+    <title>Avis relatif à la publication des listes électorales des élections 2021 des unions régionales des professionnels de santé</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -34,7 +34,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042658398]: Avis de vacance d&#39;emplois de direction dans les établissements mentionnés à l&#39;article 2 (1° et 2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière</title>
+    <title>Avis de vacance d&#39;emplois de direction dans les établissements mentionnés à l&#39;article 2 (1° et 2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -46,7 +46,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042658402]: Avis de vacance d&#39;emplois de directeur et directrice des soins de la fonction publique hospitalière</title>
+    <title>Avis de vacance d&#39;emplois de directeur et directrice des soins de la fonction publique hospitalière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -58,7 +58,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042649351]: Avis de recrutement de deux inspecteurs généraux en service extraordinaire (inspection générale des affaires sociales)</title>
+    <title>Avis de recrutement de deux inspecteurs généraux en service extraordinaire (inspection générale des affaires sociales)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -70,7 +70,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042637737]: Avis relatif à la tarification de la télécommande pour système de stimulation cérébrale profonde ACTIVA visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification de la télécommande pour système de stimulation cérébrale profonde ACTIVA visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -82,7 +82,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042626201]: Avis relatif à la tarification de la télécommande pour système de stimulation cérébrale profonde ACTIVA visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification de la télécommande pour système de stimulation cérébrale profonde ACTIVA visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -94,7 +94,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042626203]: Avis relatif à la tarification des télécommandes pour système de stimulation cérébrale profonde LIBRA, LIBRA XP et INFINITY visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification des télécommandes pour système de stimulation cérébrale profonde LIBRA, LIBRA XP et INFINITY visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -106,7 +106,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042626205]: Avis relatif à la tarification des télécommandes pour système de stimulation cérébrale profonde VERCISE et VERCISE PC visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification des télécommandes pour système de stimulation cérébrale profonde VERCISE et VERCISE PC visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -118,7 +118,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620679]: Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-6 du code de la sécurité sociale</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-6 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -130,7 +130,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620682]: Avis relatif à la tarification du produit de comblement NEW-FILL visé à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification du produit de comblement NEW-FILL visé à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -142,7 +142,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042620684]: Avis relatif à la tarification des implants d&#39;embolisation artérielle EMBOGOLD et EMBOSPHERE visés à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification des implants d&#39;embolisation artérielle EMBOGOLD et EMBOSPHERE visés à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -154,7 +154,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042613534]: Avis de vacance d&#39;emplois fonctionnels de coordonnateur en maïeutique de certains établissements mentionnés à l&#39;article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière</title>
+    <title>Avis de vacance d&#39;emplois fonctionnels de coordonnateur en maïeutique de certains établissements mentionnés à l&#39;article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -166,7 +166,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042613546]: Avis relatif à la tarification de l&#39;endoprothèse coronaire enrobée d&#39;everolimus SYNERGY XD visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification de l&#39;endoprothèse coronaire enrobée d&#39;everolimus SYNERGY XD visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -178,7 +178,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608329]: Avis de vacance d&#39;un emploi de directeur régional et départemental adjoint de la jeunesse, des sports et de la cohésion sociale</title>
+    <title>Avis de vacance d&#39;un emploi de directeur régional et départemental adjoint de la jeunesse, des sports et de la cohésion sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -190,7 +190,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608338]: Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -202,7 +202,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608341]: Avis relatif aux décisions de l&#39;Union nationale des caisses d&#39;assurance maladie portant fixation des taux de participation de l&#39;assuré applicables à des spécialités pharmaceutiques</title>
+    <title>Avis relatif aux décisions de l&#39;Union nationale des caisses d&#39;assurance maladie portant fixation des taux de participation de l&#39;assuré applicables à des spécialités pharmaceutiques</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -214,7 +214,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608343]: Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-6 du code de la sécurité sociale</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-6 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -226,7 +226,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608346]: Avis relatif aux prix de spécialités pharmaceutiques</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -238,7 +238,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608348]: Avis relatif aux décisions de l&#39;Union nationale des caisses d&#39;assurance maladie portant fixation du taux de participation de l&#39;assuré applicable à des spécialités pharmaceutiques</title>
+    <title>Avis relatif aux décisions de l&#39;Union nationale des caisses d&#39;assurance maladie portant fixation du taux de participation de l&#39;assuré applicable à des spécialités pharmaceutiques</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -250,7 +250,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608350]: Avis relatif à la tarification des cotyles à double mobilité BI-MENTUM visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification des cotyles à double mobilité BI-MENTUM visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -262,7 +262,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608352]: Avis relatif à la tarification de la denrée alimentaire MODULEN IBD visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification de la denrée alimentaire MODULEN IBD visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -274,7 +274,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608354]: Avis relatif à la tarification des allogreffes osseuses traitée par procédé DIZG visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification des allogreffes osseuses traitée par procédé DIZG visées à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -286,7 +286,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042608356]: Avis relatif à la tarification du concentrateur mobile d&#39;oxygène INOGEN ONE G5 visé à l&#39;article L. 165-1 du code de la sécurité sociale</title>
+    <title>Avis relatif à la tarification du concentrateur mobile d&#39;oxygène INOGEN ONE G5 visé à l&#39;article L. 165-1 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -298,7 +298,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602837]: Avis de vacance d&#39;un emploi de directeur adjoint ou de directrice adjointe de la jeunesse, des sports et de la cohésion sociale</title>
+    <title>Avis de vacance d&#39;un emploi de directeur adjoint ou de directrice adjointe de la jeunesse, des sports et de la cohésion sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -310,7 +310,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602844]: Avis de vacance d&#39;emplois de direction dans les établissements mentionnés à l&#39;article 2 (1° et 2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière</title>
+    <title>Avis de vacance d&#39;emplois de direction dans les établissements mentionnés à l&#39;article 2 (1° et 2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis de concours et de vacance d&#39;emplois/Ministère des solidarités et de la santé</category>
@@ -322,7 +322,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602850]: Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>
@@ -334,7 +334,7 @@
     </author>
   </entry>
   <entry>
-    <title>[AVIS - JORFTEXT000042602853]: Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
+    <title>Avis relatif aux prix de spécialités pharmaceutiques publiés en application de l&#39;article L. 162-16-5 du code de la sécurité sociale</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère des solidarités et de la santé</category>

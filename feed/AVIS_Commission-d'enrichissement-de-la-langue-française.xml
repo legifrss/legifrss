@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Commission-d&#39;enrichissement-de-la-langue-française - AVIS</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.334924233 +0100 CET m=+287.977664052</updated>
+  <updated>2020-12-14 20:14:47.967641345 +0100 CET m=+251.745211302</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[AVIS - JORFTEXT000042649361]: Vocabulaire de la défense (liste de termes, expressions et définitions adoptés)</title>
+    <title>Vocabulaire de la défense (liste de termes, expressions et définitions adoptés)</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Commission d&#39;enrichissement de la langue française</category>

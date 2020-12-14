@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - unknown - DECISION</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.322305928 +0100 CET m=+287.965045739</updated>
+  <updated>2020-12-14 20:14:47.960556589 +0100 CET m=+251.738126525</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[DECISION - JORFTEXT000042637584]: Décision n° 428451 du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
+    <title>Décision n° 428451 du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
@@ -20,7 +20,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042637588]: Décision n° 434920 et autres du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
+    <title>Décision n° 434920 et autres du 25 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
@@ -30,7 +30,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042637593]: Décision n° 428178 du 27 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
+    <title>Décision n° 428178 du 27 novembre 2020 du Conseil d&#39;Etat statuant au contentieux</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil d&#39;Etat</category>
@@ -40,7 +40,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042637624]: Décision n° 2020.0251/DC/SJ du 19 novembre 2020 du collège de la Haute Autorité de santé portant adoption de son règlement intérieur</title>
+    <title>Décision n° 2020.0251/DC/SJ du 19 novembre 2020 du collège de la Haute Autorité de santé portant adoption de son règlement intérieur</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Haute Autorité de santé</category>
@@ -50,7 +50,7 @@
     <author></author>
   </entry>
   <entry>
-    <title>[DECISION - JORFTEXT000042602758]: Décision n° 2020-1160 du 20 octobre 2020 relative au compte rendu et au résultat de la procédure d&#39;attribution d&#39;autorisations d&#39;utilisation de fréquences dans la bande 3,4 - 3,8 GHz en France métropolitaine pour établir et exploiter un réseau radioélectrique mobile ouvert au public</title>
+    <title>Décision n° 2020-1160 du 20 octobre 2020 relative au compte rendu et au résultat de la procédure d&#39;attribution d&#39;autorisations d&#39;utilisation de fréquences dans la bande 3,4 - 3,8 GHz en France métropolitaine pour établir et exploiter un réseau radioélectrique mobile ouvert au public</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de régulation des communications électroniques, des postes et de la distribution de la presse</category>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - RAPPORT</title>
   <id></id>
-  <updated>2020-12-14 17:37:14.367792522 +0100 CET m=+288.010532339</updated>
+  <updated>2020-12-14 20:14:48.002433273 +0100 CET m=+251.780003219</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,7 +10,7 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>[RAPPORT - JORFTEXT000042636855]: Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1553 du 9 décembre 2020 prolongeant, rétablissant ou adaptant diverses dispositions sociales pour faire face à l&#39;épidémie de covid-19</title>
+    <title>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1553 du 9 décembre 2020 prolongeant, rétablissant ou adaptant diverses dispositions sociales pour faire face à l&#39;épidémie de covid-19</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
