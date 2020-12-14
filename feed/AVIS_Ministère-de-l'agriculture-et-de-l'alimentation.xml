@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;agriculture-et-de-l&#39;alimentation - AVIS</title>
   <id></id>
-  <updated>2020-12-14 13:42:54.647282287 +0100 CET m=+256.328912830</updated>
+  <updated>2020-12-14 17:37:14.346172522 +0100 CET m=+287.988912330</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -10,14 +10,13 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>AVIS - JORFTEXT000042637740</title>
+    <title>[AVIS - JORFTEXT000042637740]: Avis relatif à l&#39;extension de l&#39;avenant à l&#39;accord interprofessionnel conclu le 30 juin 2020 dans le cadre du Comité interprofessionnel des palmipèdes à foie gras (CIFOG) et relatif au suivi d&#39;une étude expérimentale ANSES/DGAL/ENVT/CIFOG</title>
     <updated></updated>
     <id></id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Avis et communications/Avis divers/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
     <content type="">&lt;p&gt;En application de la procédure d&#39;acceptation tacite prévue à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000006584631&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. L632-4 (V)&#39;&gt;article L. 632-4 du code rural et de la pêche maritime&lt;/a&gt;, la demande d&#39;extension des dispositions de l&#39;accord interprofessionnel conclu le 30 juin 2020 dans le cadre du comité interprofessionnel des palmipèdes à foie gras (CIFOG) et relatif au suivi d&#39;une étude expérimentale ANSES/DGAL/ENVT/CIFOG est réputée acceptée. En conséquence, les dispositions de l&#39;accord du 30 juin 2020 susvisé sont étendues jusqu&#39;au 31 août 2021. Cet avis ne s&#39;applique pas aux professionnels du maillon transport.&lt;br/&gt;&#xA;L&#39;accord interprofessionnel est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation (BO Agri), et peut être consulté à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;https://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-889305c7-6685-4594-8007-6c2e83f76337&#39; target=&#39;_blank&#39;&gt; https://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-889305c7-6685-4594-8007-6c2e83f76337&lt;/a&gt;.&lt;br/&gt;&#xA;Il peut également être consulté :&lt;/p&gt;&lt;p&gt;- au ministère de l&#39;agriculture et de l&#39;alimentation à la direction générale de la performance économique et environnementale des entreprises (bureau des viandes et productions animales spécialisées), 3, rue Barbet-de-Jouy, 75007 Paris ;&lt;br/&gt;&#xA;- au siège social du CIFOG, 7, rue du Faubourg-Poissonnière, 75009 Paris.&lt;/p&gt;</content>
     <published>2020-12-10 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637740"></link>
-    <summary type="">Avis relatif à l&#39;extension de l&#39;avenant à l&#39;accord interprofessionnel conclu le 30 juin 2020 dans le cadre du Comité interprofessionnel des palmipèdes à foie gras (CIFOG) et relatif au suivi d&#39;une étude expérimentale ANSES/DGAL/ENVT/CIFOG</summary>
     <author>
       <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
     </author>

@@ -29,10 +29,8 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 
 func transformLegifranceElement(element models.LegifranceElement) *feeds.AtomEntry {
 	return &feeds.AtomEntry{
-		Title: element.Nature + " - " + element.Id,
-
+		Title:     "[" + element.Nature + " - " + element.Id + "]: " + element.Description,
 		Links:     []feeds.AtomLink{feeds.AtomLink{Href: "https://www.legifrance.gouv.fr/jorf/id/" + element.Id}},
-		Summary:   &feeds.AtomSummary{Content: element.Description},
 		Category:  strings.Join(element.Category, "/"),
 		Author:    &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: element.Author}},
 		Published: element.Date,
