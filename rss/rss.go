@@ -18,6 +18,7 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 		ManagingEditor: "luca@di-carlo.fr (Luca Di Carlo)",
 		LastBuildDate:  now,
 		PubDate:        now,
+		Image:          &feeds.RssImage{Link: "https://www.legifrance.gouv.fr/contenu/logo"},
 	}
 
 	for _, legifranceElement := range input {
