@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Legifrance RSS - Autorité-de-la-concurrence</title>
-    <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
-    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-13 15:23:05.693926189 +0100 CET m=+14.573572161</pubDate>
-    <lastBuildDate>2020-12-13 15:23:05.693926189 +0100 CET m=+14.573572161</lastBuildDate>
-    <item>
-      <title>DECISION - JORFTEXT000042649244</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649244</link>
-      <description>Décision du 8 décembre 2020 portant cessation de fonctions d&#39;une rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence</description>
-      <author>Autorité de la concurrence</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de la concurrence</category>
-      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+  <title>Legifrance RSS - Autorité-de-la-concurrence</title>
+  <id></id>
+  <updated>2020-12-14 13:42:54.547907579 +0100 CET m=+256.229538122</updated>
+  <category>French Law</category>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>DECISION - JORFTEXT000042649244</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de la concurrence</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence exercées par Mme Marjolaine Potin, à compter du 1er janvier 2021.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-11 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649244"></link>
+    <summary type="">Décision du 8 décembre 2020 portant cessation de fonctions d&#39;une rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence</summary>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+</feed>

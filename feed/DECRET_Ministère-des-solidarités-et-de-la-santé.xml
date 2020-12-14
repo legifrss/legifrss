@@ -1,66 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - DECRET</title>
-    <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
-    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-13 15:23:05.710880949 +0100 CET m=+14.590526920</pubDate>
-    <lastBuildDate>2020-12-13 15:23:05.710880949 +0100 CET m=+14.590526920</lastBuildDate>
-    <item>
-      <title>DECRET - JORFTEXT000042636881</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636881</link>
-      <description>Décret n° 2020-1554 du 9 décembre 2020 relatif au versement du « forfait mobilités durables » dans les établissements publics de santé, sociaux et médico-sociaux</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042625553</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625553</link>
-      <description>Décret n° 2020-1536 du 7 décembre 2020 relatif au management de la qualité du circuit des dispositifs médicaux stériles dans les établissements de santé et les installations de chirurgie esthétique</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042613082</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613082</link>
-      <description>Décret n° 2020-1517 du 3 décembre 2020 mettant fin à la désignation par le ministre chargé de la santé des comités de protection des personnes compétents pour examiner les projets de recherches impliquant la personne humaine visant à lutter contre l&#39;épidémie de covid-19</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042613089</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613089</link>
-      <description>Décret n° 2020-1518 du 4 décembre 2020 relatif à l&#39;allocation d&#39;éducation de l&#39;enfant handicapé à Mayotte</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042613110</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613110</link>
-      <description>Décret n° 2020-1519 du 4 décembre 2020 modifiant le décret n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-05 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042607521</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607521</link>
-      <description>Décret n° 2020-1514 du 3 décembre 2020 modifiant le décret n° 2020-1387 du 14 novembre 2020 fixant la liste des professionnels de santé habilités à renseigner les systèmes d&#39;information mentionnés à l&#39;article 11 de la loi du 11 mai 2020 prorogeant l&#39;état d&#39;urgence sanitaire et complétant ses dispositions</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042602178</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602178</link>
-      <description>Décret n° 2020-1505 du 2 décembre 2020 modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+  <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - DECRET</title>
+  <id></id>
+  <updated>2020-12-14 13:42:54.568302976 +0100 CET m=+256.249933510</updated>
+  <category>French Law</category>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>DECRET - JORFTEXT000042636881</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le « forfait mobilités durables » est versé l&#39;année suivant celle du dépôt de la déclaration prévue à l&#39;article 4 par l&#39;employeur auprès duquel la déclaration a été déposée.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Lorsqu&#39;il a plusieurs employeurs publics, l&#39;agent dépose auprès de chacun d&#39;eux la déclaration prévue à l&#39;article 4 au plus tard le 31 décembre de l&#39;année au titre de laquelle le forfait est versé.&lt;br/&gt;Dans ce cas et par dérogation à l&#39;article 5, le montant du forfait versé par chaque employeur est déterminé en prenant en compte le total cumulé des heures travaillées. La prise en charge du forfait par chacun des employeurs est calculée au prorata du temps travaillé auprès de chaque employeur.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le montant du forfait mobilités durables et le nombre minimal de jours prévus à l&#39;article 2 sont fixés par l&#39;arrêté pris en application du décret 9 mai 2020 susvisé. Le nombre minimal de jours est modulé selon la quotité de temps de travail de l&#39;agent.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le bénéfice du « forfait mobilités durables » est subordonné au dépôt d&#39;une déclaration sur l&#39;honneur établie par l&#39;agent auprès de son employeur au plus tard le 31 décembre de l&#39;année au titre duquel le forfait est versé. Cette déclaration certifie l&#39;utilisation de l&#39;un ou des moyens de transport mentionnés à l&#39;article 1er.&lt;br/&gt;L&#39;utilisation effective du covoiturage fait l&#39;objet d&#39;un contrôle de la part de l&#39;employeur qui peut demander à l&#39;agent tout justificatif utile à cet effet.&lt;br/&gt;L&#39;utilisation du cycle ou du cycle à pédalage assisté personnel peut faire l&#39;objet d&#39;un contrôle de la part de l&#39;employeur.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par dérogation aux dispositions des articles 1er et 2, le présent décret n&#39;est pas applicable :&lt;br/&gt;1° Aux agents bénéficiant d&#39;un logement de fonction sur leur lieu de travail ;&lt;br/&gt;2° Aux agents bénéficiant d&#39;un véhicule de fonction ;&lt;br/&gt;3° Aux agents bénéficiant d&#39;un transport collectif gratuit entre leur domicile et leur lieu de travail ;&lt;br/&gt;4° Aux agents transportés gratuitement par leur employeur.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le montant du forfait et le nombre minimal de jours prévus à l&#39;article 2 peuvent être modulés à proportion de la durée de présence de l&#39;agent dans l&#39;année au titre de laquelle le forfait est versé dans les cas suivants :&lt;br/&gt;1° L&#39;agent a été recruté au cours de l&#39;année ;&lt;br/&gt;2° L&#39;agent est radié des cadres au cours de l&#39;année ;&lt;br/&gt;3° L&#39;agent a été placé dans une position autre que la position d&#39;activité pendant une partie de l&#39;année.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le versement du « forfait mobilités durables » est exclusif du versement mensuel de remboursement des frais de transports publics ou d&#39;abonnement à un service public de location de vélos prévus par le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000022374455&amp;categorieLien=cid&#39; title=&#39;Décret n°2010-676  du 21 juin 2010 (V)&#39;&gt;décret du 21 juin 2010 susvisé&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La ministre de la transition écologique, le ministre de l&#39;économie, des finances et de la relance, le ministre des solidarités et de la santé, la ministre de la transformation et de la fonction publiques, le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent décret s&#39;applique aux déplacements effectués par les agents à compter du 11 mai 2020.&lt;br/&gt;Par dérogation, à titre exceptionnel, pour l&#39;année 2020, les agents peuvent bénéficier à la fois du versement du « forfait mobilités durables » et du versement mensuel de remboursement des frais de transports publics ou d&#39;un abonnement à un service public de location de vélos prévue par le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000022374455&amp;categorieLien=cid&#39; title=&#39;Décret n°2010-676  du 21 juin 2010 (V)&#39;&gt;décret du 21 juin 2010 précité&lt;/a&gt;, à condition que leur versement intervienne au titre de périodes distinctes.&lt;br/&gt;Le montant du « forfait mobilités durables » et le nombre minimal de jour prévus à l&#39;article 2 sont réduits de moitié au titre des déplacements effectués au cours de l&#39;année 2020 en application du présent décret.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les agents peuvent bénéficier du « forfait mobilités durables » à condition d&#39;utiliser l&#39;un des deux moyens de transport éligibles mentionnés à l&#39;article 1er pour se déplacer entre leur résidence habituelle et leur lieu de travail pendant un nombre minimal de jours sur une année civile.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&amp;idArticle=LEGIARTI000006902930&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du travail - art. L3261-1 (V)&#39;&gt;L. 3261-1&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&amp;idArticle=LEGIARTI000031051377&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du travail - art. L3261-3-1 (M)&#39;&gt;L. 3261-3-1&lt;/a&gt; du code du travail, les agents publics des établissements mentionnés à l&#39;article 2 de la loi du 9 janvier 1986 susvisée peuvent bénéficier, dans les conditions prévues aux articles 2 à 7, du remboursement de tout ou partie des frais engagés au titre de leurs déplacements entre leur résidence habituelle et leur lieu de travail avec leur cycle ou cycle à pédalage assisté personnel ou en tant que conducteur ou passager en covoiturage, sous forme d&#39;un « forfait mobilités durables ».&lt;/p&gt;</content>
+    <published>2020-12-10 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636881"></link>
+    <summary type="">Décret n° 2020-1554 du 9 décembre 2020 relatif au versement du « forfait mobilités durables » dans les établissements publics de santé, sociaux et médico-sociaux</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042625553</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le code de la santé publique est ainsi modifié : &lt;br/&gt;1° Au 1° du I de l&#39;article R. 6111-10, les mots : « du patient défini » sont remplacés par les mots : « du patient et au management de la qualité du circuit des dispositifs médicaux stériles, selon des modalités définies » ; &lt;br/&gt;2° Au f du 1° de l&#39;article R. 6322-4, après le mot : « attestant », sont insérés les mots : « la mise en œuvre du management de la qualité du circuit des dispositifs médicaux stériles mentionné à l&#39;article R. 6111-10, » et après le mot : « système » sont insérés les mots : « permettant d&#39;assurer la qualité de la stérilisation des dispositifs médicaux » ; &lt;br/&gt;3° A l&#39;article R. 6322-16, après le mot : « chirurgie », sont insérés les mots : « esthétique veille à la mise en œuvre du management de la qualité du circuit des dispositifs médicaux stériles mentionné à l&#39;article R. 6111-10 et » et les mots : « la stérilisation des dispositifs médicaux » sont remplacés par les mots : « la stérilisation de ces dispositifs ».&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le ministre des solidarités et de la santé est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-09 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625553"></link>
+    <summary type="">Décret n° 2020-1536 du 7 décembre 2020 relatif au management de la qualité du circuit des dispositifs médicaux stériles dans les établissements de santé et les installations de chirurgie esthétique</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042613082</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le ministre des solidarités et de la santé est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin à la procédure dérogatoire mentionnée au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000041814597&amp;idArticle=JORFARTI000041814614&amp;categorieLien=cid&#39; title=&#39;Ordonnance n°2020-460 du 22 avril 2020 - art. 17 (V)&#39;&gt;I de l&#39;article 17 de l&#39;ordonnance du 22 avril 2020 susvisée&lt;/a&gt;.&lt;/p&gt;</content>
+    <published>2020-12-05 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613082"></link>
+    <summary type="">Décret n° 2020-1517 du 3 décembre 2020 mettant fin à la désignation par le ministre chargé de la santé des comités de protection des personnes compétents pour examiner les projets de recherches impliquant la personne humaine visant à lutter contre l&#39;épidémie de covid-19</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042613089</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance, le ministre des outre-mer, le ministre des solidarités et de la santé et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le code de la sécurité sociale est ainsi modifié : &lt;br/&gt;1° Le chapitre 8 bis du titre VI du livre 1er de la troisième partie est complété par un article D. 168-19 ainsi rédigé : &lt;br/&gt;« Le délai maximal du remboursement en plusieurs versements prévu à l&#39;article L. 168-13 est fixé à douze mois. » ; &lt;br/&gt;2° Le troisième alinéa du a du I de l&#39;article D. 553-1 du code de la sécurité sociale est remplacé par deux alinéas ainsi rédigés : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;«-durant les périodes de référence, définies à l&#39;article R. 822-3 du code de la construction et de l&#39;habitation, prises en compte, selon le type de ressources, pour le calcul des aides personnelles au logement ; &lt;br/&gt;«-à défaut durant l&#39;année civile de référence retenue pour la période de paiement des autres prestations. »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;I. - Les dispositions du 1° et du 2° de l&#39;article 1er et du 2° de l&#39;article 2 entrent en vigueur le 1er janvier 2021.&lt;br/&gt;II. - Les dispositions des 3° et 4° de l&#39;article 1er entrent en vigueur le 1er juin 2021.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le décret du 29 mars 2002 susvisé est ainsi modifié : &lt;br/&gt;1° Le troisième alinéa du a du I de l&#39;article 5 est remplacé par deux alinéas ainsi rédigés : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;«-durant les périodes de référence, définies à l&#39;article R. 822-3 du code de la construction et de l&#39;habitation, prises en compte, selon le type de ressources, pour le calcul des allocations de logement ; &lt;br/&gt;«-à défaut durant l&#39;année civile de référence retenue pour la période de paiement des autres prestations. » ; &lt;/p&gt;&lt;p&gt;&lt;br/&gt;2° Au dernier alinéa de l&#39;article 5, les mots : « du salaire minimum dans les conditions prévues à l&#39;article 10, par un arrêté des ministres chargés de la sécurité sociale, du budget et de l&#39;outre-mer. » sont remplacés par les mots : « en moyenne annuelle des prix à la consommation hors tabac de l&#39;année de référence. » ; &lt;br/&gt;3° L&#39;article 18 est ainsi rédigé : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 18.-Pour l&#39;application de l&#39;article 10-1 de l&#39;ordonnance du 7 février 2002 susvisée, les articles R. 541-1 à R. 541-10, à l&#39;exception du troisième alinéa de l&#39;article R. 541-7, et les &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000006737165&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la sécurité sociale. - art. D541-1 (M)&#39;&gt;articles D. 541-1 à D. 541-4 du code de la sécurité sociale &lt;/a&gt;sont applicables à Mayotte. » ; &lt;/p&gt;&lt;p&gt;&lt;br/&gt;4° Les articles 18-1 à 18-11 sont supprimés.&lt;/p&gt;</content>
+    <published>2020-12-05 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613089"></link>
+    <summary type="">Décret n° 2020-1518 du 4 décembre 2020 relatif à l&#39;allocation d&#39;éducation de l&#39;enfant handicapé à Mayotte</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042613110</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur et le ministre des solidarités et de la santé sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française et entrera en vigueur immédiatement.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 18 du décret du 29 octobre 2020 susvisé est remplacé par les dispositions suivantes : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 18.-I.-Les services mentionnés à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074073&amp;idArticle=LEGIARTI000006813196&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du tourisme. - art. L342-7 (V)&#39;&gt;article L. 342-7 du code du tourisme &lt;/a&gt;ne sont pas accessibles au public, sauf pour : &lt;br/&gt;« 1° Les professionnels dans l&#39;exercice de leur activité ; &lt;br/&gt;« 2° Les personnes autorisées à pratiquer une activité sportive en application des deuxième et cinquième alinéas du II de l&#39;article 42 ; &lt;br/&gt;« 3° Les pratiquants mineurs licenciés au sein d&#39;une association sportive affiliée à la Fédération française de ski. &lt;br/&gt;« Le préfet de département est habilité à autoriser, en fonction des circonstances locales, l&#39;accueil d&#39;autres usagers dans les services de transport collectif public de voyageurs par remontées mécaniques à vocation urbaine et interurbaine. &lt;br/&gt;« II.-Les exploitants des services mentionnés au I veillent, dans la mesure du possible, à la distanciation physique des passagers ou groupes de passagers voyageant ensemble à bord de chaque appareil, en tenant compte des contraintes propres à chaque moyen de transport. &lt;br/&gt;« Par dérogation, le I de l&#39;article 15 n&#39;est pas applicable : &lt;br/&gt;« 1° Aux téléskis ; &lt;br/&gt;« 2° Aux télésièges lorsqu&#39;ils sont exploités de façon à ce que chaque siège suspendu ne soit occupé que par une personne ou par des personnes laissant entre elles au moins une place vide. »&lt;/p&gt;</content>
+    <published>2020-12-05 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613110"></link>
+    <summary type="">Décret n° 2020-1519 du 4 décembre 2020 modifiant le décret n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042607521</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;L&#39;article 1er du décret du 14 novembre 2020 susvisé est complété par trois alinéas ainsi rédigés : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;«-chirurgiens-dentistes ; &lt;br/&gt;«-sages-femmes ; &lt;br/&gt;«-masseurs-kinésithérapeutes. »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le ministre des solidarités et de la santé est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française et entrera en vigueur immédiatement.&lt;/p&gt;</content>
+    <published>2020-12-04 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042607521"></link>
+    <summary type="">Décret n° 2020-1514 du 3 décembre 2020 modifiant le décret n° 2020-1387 du 14 novembre 2020 fixant la liste des professionnels de santé habilités à renseigner les systèmes d&#39;information mentionnés à l&#39;article 11 de la loi du 11 mai 2020 prorogeant l&#39;état d&#39;urgence sanitaire et complétant ses dispositions</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DECRET - JORFTEXT000042602178</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le décret du 29 octobre 2020 susvisé est ainsi modifié :&lt;br/&gt;1° Le III de l&#39;article 44 est complété par les mots : « , sauf pour l&#39;organisation des activités mentionnées aux deuxième à cinquième alinéas du II de l&#39;article 42 » ;&lt;br/&gt;2° L&#39;article 47 est ainsi modifié :&lt;br/&gt;a) Au I, les mots : « dans la limite de 30 personnes. » sont remplacés par les mots : « , pour lesquelles l&#39;accueil du public est organisé dans les conditions suivantes : » ;&lt;br/&gt;b) Le même I est complété par deux alinéas ainsi rédigés :&lt;br/&gt;« 1° Une distance minimale de deux emplacements est laissée entre ceux occupés par chaque personne ou groupe de personnes partageant le même domicile ;&lt;br/&gt;« 2° Une rangée sur deux est laissée inoccupée. » ;&lt;br/&gt;c) Au III, après les mots : « sortie de l&#39;édifice », sont insérés les mots : « et lors des cérémonies » ;&lt;br/&gt;3° Le deuxième alinéa de l&#39;annexe 2 est supprimé.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur, le ministre des outre-mer et le ministre des solidarités et de la santé sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française et entrera en vigueur immédiatement, à l&#39;exception des dispositions de l&#39;article 1er et du 3° de l&#39;article 2 qui entreront en vigueur le 8 décembre 2020.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le décret du 16 octobre 2020 susvisé est ainsi modifié :&lt;br/&gt;1° Au III de l&#39;article 51, après les mots : « En Polynésie française », sont insérés les mots : « et en Martinique » ;&lt;br/&gt;2° Avant le dernier alinéa de l&#39;annexe 2, est inséré l&#39;alinéa suivant :&lt;/p&gt;&lt;p&gt;&lt;br/&gt; « - Martinique ; ».&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent décret sont applicables aux collectivités de l&#39;article 74 de la Constitution et à la Nouvelle-Calédonie dans les mêmes conditions que les dispositions du décret du 16 octobre 2020 et du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042475143&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1310 du 29 octobre 2020 (V)&#39;&gt;décret du 29 octobre 2020 susvisés&lt;/a&gt; qu&#39;elles modifient.&lt;/p&gt;</content>
+    <published>2020-12-03 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602178"></link>
+    <summary type="">Décret n° 2020-1505 du 2 décembre 2020 modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</summary>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+</feed>

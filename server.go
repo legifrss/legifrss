@@ -43,7 +43,7 @@ func Start() (str string, result string) {
 
 	for i, element := range list {
 		result := dila.FetchJorfContent(token, element.Id)
-		list[i].Content = utils.ExtractContent(result.Sections)
+		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
 	}
 	fmt.Println(list)
 	generate.Generate(list)

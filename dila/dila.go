@@ -67,5 +67,6 @@ func FetchJorfContent(token string, jorfText string) (joContainerResult models.J
 
 	json.Unmarshal(body, &joContainerResult)
 	fmt.Println(joContainerResult.Id + " fetched")
+	fmt.Println(joContainerResult)
 	return joContainerResult
 }

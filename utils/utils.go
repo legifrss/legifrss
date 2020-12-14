@@ -64,14 +64,15 @@ func ErrCheckStr(str string) {
 	}
 }
 
-func ExtractContent(input []models.JorfContainerSection) string {
+func ExtractContent(articles []models.JorfArticle, sections []models.JorfContainerSection) string {
 	str := ""
-	for _, section := range input {
+	for _, article := range articles {
+		str += article.Content
+	}
+
+	for _, section := range sections {
 		str += section.Title
-		for _, article := range section.Articles {
-			str += article.Content
-		}
-		str += ExtractContent(section.Sections)
+		str += ExtractContent(section.Articles, section.Sections)
 
 	}
 	return str

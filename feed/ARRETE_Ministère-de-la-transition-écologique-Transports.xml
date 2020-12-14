@@ -1,106 +1,168 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Legifrance RSS - Ministère-de-la-transition-écologique-Transports - ARRETE</title>
-    <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
-    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-13 15:23:05.713025303 +0100 CET m=+14.592671276</pubDate>
-    <lastBuildDate>2020-12-13 15:23:05.713025303 +0100 CET m=+14.592671276</lastBuildDate>
-    <item>
-      <title>ARRETE - JORFTEXT000042660274</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660274</link>
-      <description>Arrêté du 30 novembre 2020 relatif aux informations nominatives relatives aux ouvriers dockers intermittents et aux ouvriers dockers mensualisés titulaires de la carte professionnelle transmises à l&#39;organisme national pour la tenue du registre prévu à l&#39;article L. 5343-2 du code des transports</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042660340</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660340</link>
-      <description>Arrêté du 8 décembre 2020 portant renouvellement du directeur d&#39;enquêtes et d&#39;analyses pour la sécurité de l&#39;aviation civile (BEA)</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-13 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042637396</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637396</link>
-      <description>Arrêté du 4 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe par filière pour l&#39;accès au corps des ingénieurs du contrôle de la navigation aérienne</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042637398</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637398</link>
-      <description>Arrêté du 7 décembre 2020 prorogeant les effets de l&#39;arrêté du 21 janvier 2016 déclarant d&#39;utilité publique les travaux de construction et d&#39;aménagement de la RN 102 à 2 × 2 voies entre l&#39;autoroute A 75 et l&#39;extrémité de la déviation de Largelier, emportant mise en compatibilité du plan d&#39;occupation des sols de la commune de Vergongheon, dans le département de la Haute-Loire, et classant au statut de route express la nouvelle section de la RN 102 comprise entre l&#39;autoroute A 75 et l&#39;extrémité de la déviation de Largelier, et de la section existante de la RN 102 correspondant à la déviation de Largelier, entre l&#39;extrémité de la nouvelle section et l&#39;échangeur de Brioude Nord</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042637544</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637544</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination de la directrice par intérim du bureau d&#39;enquêtes sur les accidents de transport terrestre</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-10 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042625967</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625967</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination au conseil de coordination interportuaire Antilles-Guyane</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-09 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042620449</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620449</link>
-      <description>Arrêté du 4 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe par filière pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-08 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042614572</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614572</link>
-      <description>Arrêté du 1er décembre 2020 portant modification d&#39;une licence d&#39;entreprise ferroviaire</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042608002</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608002</link>
-      <description>Arrêté du 26 novembre 2020 relatif à la modification d&#39;une habilitation en qualité d&#39;organisme de sûreté</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042608004</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608004</link>
-      <description>Arrêté du 30 novembre 2020 attribuant à la direction régionale de l&#39;environnement, de l&#39;aménagement et du logement de la région Normandie une compétence d&#39;appui au préfet de la région Centre-Val de Loire en matière de maîtrise d&#39;ouvrage de certaines opérations de développement et de modernisation du réseau routier national</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602498</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602498</link>
-      <description>Arrêté du 17 novembre 2020 portant retrait de la licence d&#39;exploitation de transporteur aérien de la société FINIST&#39;AIR</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602716</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602716</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination au conseil de surveillance du grand port maritime de Rouen</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+  <title>Legifrance RSS - Ministère-de-la-transition-écologique-Transports - ARRETE</title>
+  <id></id>
+  <updated>2020-12-14 13:42:54.647480122 +0100 CET m=+256.329110662</updated>
+  <category>French Law</category>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>ARRETE - JORFTEXT000042660274</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Pour la tenue et la mise à jour du registre des ouvriers dockers mensualisés ou intermittents mentionné au &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023086525&amp;idArticle=LEGIARTI000023073542&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des transports - art. L5343-2 (M)&#39;&gt;cinquième alinéa de l&#39;article L. 5343-2 du code des transports&lt;/a&gt;, les entreprises de manutention portuaire transmettent, chaque mois, par voie dématérialisée, les informations relatives aux ouvriers dockers intermittents et aux dockers mensualisés titulaires de la carte professionnelle énumérées à l&#39;article suivant du présent arrêté à la caisse de compensation de congés payés dont elles relèvent, qui transmet ces informations à l&#39;organisme national.&lt;br/&gt;Le nombre des dockers concernés est communiqué tous les ans à la commission paritaire nationale de l&#39;emploi de la branche.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les informations pour chaque ouvrier docker inscrit au registre mentionné au premier article sont les suivantes :&lt;br/&gt;1° Nom et prénom ;&lt;br/&gt;2° Date et lieu de naissance ;&lt;br/&gt;3° Adresse ;&lt;br/&gt;4° Numéro de carte professionnelle ;&lt;br/&gt;5° Dates de nomination dans les différentes catégories d&#39;ouvriers dockers prévues à l&#39;article L. 5343-2 ;&lt;br/&gt;6° Nombres de vacations travaillées, nombres de vacations chômées et périodes d&#39;inactivité pour maladie, accident du travail, absences, congés payés, repos compensateurs ;&lt;br/&gt;7° Montant des indemnités versées ;&lt;br/&gt;8° Le cas échéant, date de fin d&#39;activité professionnelle.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-13 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660274"></link>
+    <summary type="">Arrêté du 30 novembre 2020 relatif aux informations nominatives relatives aux ouvriers dockers intermittents et aux ouvriers dockers mensualisés titulaires de la carte professionnelle transmises à l&#39;organisme national pour la tenue du registre prévu à l&#39;article L. 5343-2 du code des transports</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042660340</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Par arrêté du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 8 décembre 2020, à compter du 1er janvier 2021, M. Rémi JOUTY, ingénieur général des ponts, des eaux et des forêts, est renouvelé en qualité de directeur du bureau d&#39;enquêtes et d&#39;analyse pour la sécurité de l&#39;aviation civile (BEA), pour une période de sept ans.&lt;/p&gt;</content>
+    <published>2020-12-13 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660340"></link>
+    <summary type="">Arrêté du 8 décembre 2020 portant renouvellement du directeur d&#39;enquêtes et d&#39;analyses pour la sécurité de l&#39;aviation civile (BEA)</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042637396</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;Par arrêté du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 4 décembre 2020, est autorisée, au titre de l&#39;année 2021, l&#39;ouverture d&#39;un concours externe par filière (MP, PC et PSI) pour l&#39;accès au corps des ingénieurs du contrôle de la navigation aérienne au ministère de la transition écologique - direction générale de l&#39;aviation civile.&lt;br/&gt;&#xA;Le nombre de places offertes pour chaque filière au concours externe sera fixé ultérieurement par arrêté.&lt;br/&gt;&#xA;Le nombre de places offertes au concours externe sera fixé ultérieurement par arrêté.&lt;br/&gt;&#xA;La date d&#39;ouverture des inscriptions est fixée au 10 décembre 2020.&lt;br/&gt;&#xA;La date de clôture des inscriptions est fixée au 12 janvier 2021 (terme de rigueur).&lt;br/&gt;&#xA;Les épreuves écrites d&#39;admissibilité débuteront le 3 mai 2021.&lt;br/&gt;&#xA;Les épreuves orales d&#39;admission débuteront le 21 juin 2021.&lt;br/&gt;&#xA;La composition du jury et la liste des candidats autorisés à concourir feront l&#39;objet d&#39;un arrêté du ministre chargé de l&#39;aviation civile.&lt;/p&gt;&lt;p&gt;Nota. - Pour tous renseignements concernant le concours externe, les candidats doivent s&#39;adresser au service du concours commun INP, CS 44410, 31405 Toulouse Cedex 4.&lt;br/&gt;&#xA;Site : &lt;a shape=&#39;rect&#39; href=&#39;http://www.concours-commun-inp.fr&#39; target=&#39;_blank&#39;&gt; http://www.concours-commun-inp.fr&lt;/a&gt;.&lt;/p&gt;</content>
+    <published>2020-12-10 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637396"></link>
+    <summary type="">Arrêté du 4 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe par filière pour l&#39;accès au corps des ingénieurs du contrôle de la navigation aérienne</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042637398</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le délai prévu à l&#39;article 2 de l&#39;arrêté du 21 janvier 2016 susvisé pour la réalisation des expropriations nécessaires à la réalisation du projet d&#39;aménagement de la RN 102 à 2 × 2 voies entre l&#39;autoroute A 75 et l&#39;extrémité de la déviation de Largelier est prorogé jusqu&#39;au 21 janvier 2026.&lt;/p&gt;</content>
+    <published>2020-12-10 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637398"></link>
+    <summary type="">Arrêté du 7 décembre 2020 prorogeant les effets de l&#39;arrêté du 21 janvier 2016 déclarant d&#39;utilité publique les travaux de construction et d&#39;aménagement de la RN 102 à 2 × 2 voies entre l&#39;autoroute A 75 et l&#39;extrémité de la déviation de Largelier, emportant mise en compatibilité du plan d&#39;occupation des sols de la commune de Vergongheon, dans le département de la Haute-Loire, et classant au statut de route express la nouvelle section de la RN 102 comprise entre l&#39;autoroute A 75 et l&#39;extrémité de la déviation de Largelier, et de la section existante de la RN 102 correspondant à la déviation de Largelier, entre l&#39;extrémité de la nouvelle section et l&#39;échangeur de Brioude Nord</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042637544</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Par arrêté du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 1er décembre 2020, Mme Marie-Thérèse Goux, ingénieure générale des ponts, des eaux et des forêts, est nommée directrice par intérim du bureau d&#39;enquêtes sur les accidents de transport terrestre.&lt;/p&gt;</content>
+    <published>2020-12-10 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637544"></link>
+    <summary type="">Arrêté du 1er décembre 2020 portant nomination de la directrice par intérim du bureau d&#39;enquêtes sur les accidents de transport terrestre</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042625967</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la mer et du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 1er décembre 2020, Mme MONTOUT (Sylvie), est renouvelée dans son mandat de membre du conseil de coordination interportuaire Antilles-Guyane en qualité de personnalité qualifiée en raison de ses compétences.&lt;/p&gt;</content>
+    <published>2020-12-09 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625967"></link>
+    <summary type="">Arrêté du 1er décembre 2020 portant nomination au conseil de coordination interportuaire Antilles-Guyane</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042620449</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;Par arrêté du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 4 décembre 2020, est autorisée au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe par filière (MP, PC et PSI) pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile au ministère de la transition écologique-direction générale de l&#39;aviation civile.&lt;br/&gt;&#xA;Le nombre de places offertes pour chaque filière au concours externe sera fixé ultérieurement par arrêté.&lt;br/&gt;&#xA;La date d&#39;ouverture des inscriptions est fixée au 10 décembre 2020.&lt;br/&gt;&#xA;La date de clôture des inscriptions est fixée au 12 janvier 2021 (terme de rigueur).&lt;br/&gt;&#xA;Les épreuves écrites d&#39;admissibilité débuteront le 3 mai 2021.&lt;br/&gt;&#xA;Les épreuves orales d&#39;admission débuteront le 21 juin 2021.&lt;/p&gt;&lt;p&gt;Nota. - Pour tous renseignements concernant le concours externe, les candidats doivent s&#39;adresser au service du concours commun INP, CS 44410, 31405 Toulouse Cedex 4.&lt;br/&gt;&#xA;Site : &lt;a shape=&#39;rect&#39; href=&#39;http://www.concours-commun-inp.fr&#39; target=&#39;_blank&#39;&gt; http://www.concours-commun-inp.fr&lt;/a&gt;.&lt;/p&gt;</content>
+    <published>2020-12-08 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620449"></link>
+    <summary type="">Arrêté du 4 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe par filière pour l&#39;accès au corps des ingénieurs des études et de l&#39;exploitation de l&#39;aviation civile</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042614572</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 12 juin 2015 susvisé est ainsi modifié en son article 1er : &lt;br/&gt;Les mots : « services de transport de marchandises » sont remplacés par les mots : « services de transport de marchandises et de traction seule ».&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La licence d&#39;entreprise ferroviaire délivrée à la société Compagnie de traction et de services ferroviaires par l&#39;arrêté du 12 juin 2015 précité fera l&#39;objet d&#39;un réexamen à l&#39;issue de la période prévue à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000784967&amp;idArticle=LEGIARTI000006884519&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°2003-194 du 7 mars 2003 - art. 11 (M)&#39;&gt;article 11 du décret du 7 mars 2003 susvisé&lt;/a&gt; à compter de la date du présent arrêté.&lt;/p&gt;</content>
+    <published>2020-12-06 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614572"></link>
+    <summary type="">Arrêté du 1er décembre 2020 portant modification d&#39;une licence d&#39;entreprise ferroviaire</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042608002</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la mer et du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 26 novembre 2020, il est mis fin, à sa demande, à compter de la date de publication du présent arrêté, à l&#39;habilitation en qualité d&#39;organisme de sûreté au titre de la catégorie mentionnée dans le tableau ci-après, de la société suivante :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;SOCIÉTÉ&lt;/th&gt;&lt;th&gt;&lt;br/&gt;ADRESSE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;CATÉGORIE&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;SECURYMIND&lt;/td&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;10, rue de Sèze, 75009 Paris&lt;/td&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Toutes installations portuaires&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <published>2020-12-04 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608002"></link>
+    <summary type="">Arrêté du 26 novembre 2020 relatif à la modification d&#39;une habilitation en qualité d&#39;organisme de sûreté</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042608004</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Dans les conditions prévues par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000249712&amp;idArticle=LEGIARTI000006401371&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°2004-374 du 29 avril 2004 - art. 24 (M)&#39;&gt;article 24 du décret du 29 avril 2004 susvisé&lt;/a&gt;, la direction régionale de l&#39;environnement, de l&#39;aménagement et du logement de la région Normandie est chargée d&#39;une mission d&#39;appui technique à la maîtrise d&#39;ouvrage des projets de développement et de modernisation du réseau routier national pour les opérations concernant la section de la RN10 située dans la région Centre-Val de Loire. Cette mission d&#39;appui technique à la maîtrise d&#39;ouvrage inclut notamment le projet de déviation de Marboué.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le préfet de la région Centre-Val de Loire, le préfet du Loiret et le préfet de la région Normandie, préfet de Seine-Maritime sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-04 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042608004"></link>
+    <summary type="">Arrêté du 30 novembre 2020 attribuant à la direction régionale de l&#39;environnement, de l&#39;aménagement et du logement de la région Normandie une compétence d&#39;appui au préfet de la région Centre-Val de Loire en matière de maîtrise d&#39;ouvrage de certaines opérations de développement et de modernisation du réseau routier national</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042602498</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 31 janvier 2003 relatif à l&#39;exploitation de services de transport aérien par la société FINIST&#39;AIR est abrogé.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 31 janvier 2003 portant octroi de licence d&#39;exploitation de transporteur aérien, au profit de la société FINIST&#39;AIR, est abrogé.&lt;/p&gt;</content>
+    <published>2020-12-03 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602498"></link>
+    <summary type="">Arrêté du 17 novembre 2020 portant retrait de la licence d&#39;exploitation de transporteur aérien de la société FINIST&#39;AIR</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ARRETE - JORFTEXT000042602716</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la mer et du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 27 novembre 2020, M. PARARD (Didier) est nommé membre du conseil de surveillance du grand port maritime de Rouen, en qualité de personnalité qualifiée, représentant le monde économique, choisi en raison de ses compétences, en remplacement de M. HENRY (Frédéric).&lt;/p&gt;</content>
+    <published>2020-12-03 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602716"></link>
+    <summary type="">Arrêté du 27 novembre 2020 portant nomination au conseil de surveillance du grand port maritime de Rouen</summary>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+</feed>

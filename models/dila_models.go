@@ -4,6 +4,7 @@ type JorfContainerResult struct {
 	Id       string                 `json:"cid"`
 	Title    string                 `json:"title"`
 	Sections []JorfContainerSection `json:"sections"`
+	Articles []JorfArticle          `json:"articles"`
 }
 
 type JorfContainerSection struct {

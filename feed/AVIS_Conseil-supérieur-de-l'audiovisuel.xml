@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Legifrance RSS - Conseil-supérieur-de-l&#39;audiovisuel - AVIS</title>
-    <link>https://github.com/ldicarlo/legifrance-rss</link>
-    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
-    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-13 15:23:05.718446773 +0100 CET m=+14.598092753</pubDate>
-    <lastBuildDate>2020-12-13 15:23:05.718446773 +0100 CET m=+14.598092753</lastBuildDate>
-    <item>
-      <title>AVIS - JORFTEXT000042649262</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649262</link>
-      <description>Avis n° 2020-10 du 25 novembre 2020 relatif à une demande d&#39;autorisation d&#39;exploitation d&#39;assignations de fréquences présentée par Thales Alenia Space France auprès de l&#39;Agence nationale des fréquences pour un système satellitaire basé sur une constellation non géostationnaire</description>
-      <author>Conseil supérieur de l&#39;audiovisuel</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
-      <pubDate>2020-12-11 01:00:00 +0100 CET</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+  <title>Legifrance RSS - Conseil-supérieur-de-l&#39;audiovisuel - AVIS</title>
+  <id></id>
+  <updated>2020-12-14 13:42:54.596379145 +0100 CET m=+256.278009691</updated>
+  <category>French Law</category>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>AVIS - JORFTEXT000042649262</title>
+    <updated></updated>
+    <id></id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    <content type="">&lt;p&gt;&lt;br/&gt;En application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&amp;idArticle=LEGIARTI000006465949&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des postes et des communications électroni... - art. L97-2 (M)&#39;&gt;article L. 97-2 du code des postes et des communications électroniques, le Conseil supérieur de l&#39;audiovisuel&lt;/a&gt; a été saisi pour avis, par courrier en date du 1er octobre 2020, d&#39;une demande d&#39;autorisation d&#39;exploitation d&#39;assignations de fréquences présentée par la société Thales Alenia Space France auprès de l&#39;Agence nationale des fréquences pour un système satellitaire basé sur une constellation non géostationnaire.&lt;br/&gt;Cette demande d&#39;avis porte sur les bandes de fréquences suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- bande 11,7 - 12,5 GHz en région 1 de l&#39;Union internationale des télécommunications (UIT) ;&lt;br/&gt;- bande 11,7 - 12,7 GHz en régions 2 et 3 de l&#39;UIT.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ces bandes de fréquences, affectées au Conseil supérieur de l&#39;audiovisuel dans le tableau national de répartition des bandes de fréquences arrêté par le Premier ministre, sont utilisées par des satellites géostationnaires pour la diffusion de services de télévision.&lt;br/&gt;Le Conseil relève que l&#39;article 22 du Règlement des radiocommunications de l&#39;UIT, qui s&#39;impose à la société demanderesse, prévoit que « les systèmes à satellites non géostationnaires ne doivent pas causer de brouillages inacceptables aux réseaux à satellite géostationnaire du service fixe par satellite et du service de radiodiffusion par satellite fonctionnant conformément aux dispositions du présent Règlement et […] ne doivent pas demander à bénéficier d&#39;une protection vis-à-vis de ces réseaux. »&lt;br/&gt;Il émet donc un avis favorable à la demande formulée par la société Thales Alenia Space France.&lt;br/&gt;Par ailleurs, la société Thales Alenia Space prévoit d&#39;exploiter également les bandes 10,7 - 11,7 GHz dans les régions 1, 2 et 3 de l&#39;UIT, et 12,5 - 12,75 GHz en région 1 de l&#39;UIT. Le Conseil rappelle que ces bandes de fréquences sont utilisées en France pour la diffusion et le transport de programmes de télévision et qu&#39;il convient d&#39;assurer la protection de ces services.&lt;br/&gt;Le présent avis sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-11 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649262"></link>
+    <summary type="">Avis n° 2020-10 du 25 novembre 2020 relatif à une demande d&#39;autorisation d&#39;exploitation d&#39;assignations de fréquences présentée par Thales Alenia Space France auprès de l&#39;Agence nationale des fréquences pour un système satellitaire basé sur une constellation non géostationnaire</summary>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+</feed>
