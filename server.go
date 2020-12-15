@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"time"
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/dila"
@@ -43,7 +44,7 @@ func Start() (str string, result string) {
 
 	total := len(list)
 	for i, element := range list {
-		fmt.Printf("Fetching the jorf content for %s (%d/%d)\n", element.Id, i+1, total)
+		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.Id, i+1, total)
 		result := dila.FetchJorfContent(token, element.Id)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
 
@@ -53,5 +54,9 @@ func Start() (str string, result string) {
 }
 
 func main() {
+	beginning := time.Now()
+
 	fmt.Println(Start())
+
+	fmt.Println("Execution time: " + time.Since(beginning).String())
 }

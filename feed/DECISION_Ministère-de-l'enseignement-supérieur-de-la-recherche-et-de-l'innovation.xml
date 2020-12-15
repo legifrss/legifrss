@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;enseignement-supérieur-de-la-recherche-et-de-l&#39;innovation - DECISION</title>
   <id></id>
-  <updated>2020-12-14 21:12:36.275986012 +0100 CET m=+250.399219611</updated>
+  <updated>2020-12-15 13:12:31.874749825 +0100 CET m=+331.965182032</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -12,7 +12,7 @@
   <entry>
     <title>Décision du 24 novembre 2020 portant délégation de signature (secrétariat général)</title>
     <updated></updated>
-    <id></id>
+    <id>JORFTEXT000042660144</id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
     <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à Mme Murielle TESSIER SOYER, ingénieure de recherche de 1re classe, adjointe au chef du bureau de la gestion prévisionnelle et du dialogue social au sein du service de l&#39;action administrative et des moyens, à l&#39;effet de signer, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets, dans la limite des attributions du bureau de la gestion prévisionnelle et du dialogue social.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-13 01:00:00 +0100 CET</published>

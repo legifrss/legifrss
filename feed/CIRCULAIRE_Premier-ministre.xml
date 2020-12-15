@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Premier-ministre - CIRCULAIRE</title>
   <id></id>
-  <updated>2020-12-14 21:12:36.262062912 +0100 CET m=+250.385296508</updated>
+  <updated>2020-12-15 13:12:31.825141819 +0100 CET m=+331.915573982</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -12,7 +12,7 @@
   <entry>
     <title>Circulaire relative à la journée de deuil national à la suite du décès de M. Valéry GISCARD d&#39;ESTAING, ancien Président de la République</title>
     <updated></updated>
-    <id></id>
+    <id>JORFTEXT000042607164</id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Paris, le 3 décembre 2020.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A Mesdames et Messieurs les membres du Gouvernement,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;OBJET : Journée de deuil national à la suite du décès de M. Valéry GISCARD d&#39;ESTAING, ancien Président de la République.&lt;br/&gt;J&#39;ai l&#39;honneur de vous faire connaître qu&#39;à la suite du décès de M. Valéry GISCARD d&#39;ESTAING, ancien Président de la République, le Chef de l&#39;Etat a décidé, sur ma proposition, de faire du 9 décembre 2020 une journée de deuil national.&lt;br/&gt;Vous donnerez les instructions nécessaires pour que les drapeaux soient mis en berne pendant cette journée sur tous les bâtiments et édifices publics.&lt;br/&gt;Selon des modalités qu&#39;il vous appartiendra de fixer et dans le strict respect des règles sanitaires, vous veillerez à organiser à 12 heures un moment de recueillement permettant aux agents des services publics relevant de votre autorité ou placés sous votre tutelle de s&#39;associer à ce deuil national.&lt;br/&gt;Les préfets prendront l&#39;attache des maires pour organiser les modalités selon lesquelles les Français qui le souhaitent pourront déposer un message d&#39;hommage.&lt;br/&gt;Les enseignants qui le souhaitent pourront également consacrer un cours de cette journée à l&#39;évocation de la mémoire de l&#39;ancien Chef de l&#39;Etat.&lt;/p&gt;</content>
     <published>2020-12-04 01:00:00 +0100 CET</published>

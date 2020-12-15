@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - LISTE</title>
   <id></id>
-  <updated>2020-12-14 21:12:36.056861039 +0100 CET m=+250.180094654</updated>
+  <updated>2020-12-15 13:12:31.663299133 +0100 CET m=+331.753731311</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -12,7 +12,7 @@
   <entry>
     <title>Liste des membres du Conseil supérieur de la magistrature (art. 65 de la Constitution, loi organique n° 94-100 du 5 février 1994 modifiée)</title>
     <updated></updated>
-    <id></id>
+    <id>JORFTEXT000042660311</id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste des membres du Conseil supérieur de la magistrature est modifiée ainsi qu&#39;il suit :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;I. - Personnalité extérieure désignée, membre commun aux trois formations :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Christophe GALLOUX, avocat au barreau de Paris, professeur agrégé de droit privé, et président de l&#39;institut de recherche en propriété intellectuelle, désigné par le Président du Sénat, en remplacement de M. Jean CABANNES, démissionnaire.&lt;/p&gt;</content>
     <published>2020-12-13 01:00:00 +0100 CET</published>

@@ -35,5 +35,6 @@ func transformLegifranceElement(element models.LegifranceElement) *feeds.AtomEnt
 		Author:    &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: element.Author}},
 		Published: element.Date,
 		Content:   &feeds.AtomContent{Content: element.Content},
+		Id:        element.Id,
 	}
 }

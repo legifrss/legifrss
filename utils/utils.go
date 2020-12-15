@@ -90,9 +90,11 @@ func sortArticles(articles []models.JorfArticle) {
 	sort.Sort(SortByOrder(articles))
 }
 
-func ToInt(str string) int {
+func toInt(str string) int {
 	i, err := strconv.Atoi(str)
-	ErrCheck(err)
+	if err != nil {
+		return -1
+	}
 	return i
 }
 
@@ -100,7 +102,7 @@ type SortByOrder []models.JorfArticle
 
 func (a SortByOrder) Len() int           { return len(a) }
 func (a SortByOrder) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
-func (a SortByOrder) Less(i, j int) bool { return ToInt(a[i].Order) < ToInt(a[j].Order) }
+func (a SortByOrder) Less(i, j int) bool { return toInt(a[i].Order) < toInt(a[j].Order) }
 
 type SortByArticleOrder []models.JorfContainerSection
 
@@ -115,6 +117,6 @@ func lowArticleOrderInSection(section models.JorfContainerSection) int {
 	if len(section.Articles) == 0 {
 		return -1
 	}
-	return ToInt(section.Articles[0].Order)
+	return toInt(section.Articles[0].Order)
 
 }
