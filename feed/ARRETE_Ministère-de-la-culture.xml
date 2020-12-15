@@ -4,8 +4,53 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.268922331 +0100 CET m=+18.919568370</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.268922331 +0100 CET m=+18.919568370</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.851415271 +0100 CET m=+19.220357022</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.851415271 +0100 CET m=+19.220357022</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>ARRETE - JORFTEXT000042665577</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665577</link>
+      <description>Arrêté du 10 novembre 2020 portant agrément pour la conservation d&#39;archives publiques courantes et intermédiaires</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665579</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665579</link>
+      <description>Arrêté du 10 décembre 2020 attribuant l&#39;appellation « musée de France » en application de l&#39;article L. 442-1 du code du patrimoine</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665949</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665949</link>
+      <description>Arrêté du 10 décembre 2020 portant nomination (directions régionales des affaires culturelles)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665951</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665951</link>
+      <description>Arrêté du 10 décembre 2020 portant nomination (directions régionales des affaires culturelles)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665953</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665953</link>
+      <description>Arrêté du 10 décembre 2020 portant nomination (directions régionales des affaires culturelles)</description>
+      <author>Ministère de la culture</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042659997</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659997</link>
@@ -189,30 +234,6 @@
       <author>Ministère de la culture</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602172</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602172</link>
-      <description>Arrêté du 27 novembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture des concours externe, interne et de l&#39;examen professionnel pour l&#39;accès au corps des architectes et urbanistes de l&#39;Etat</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602677</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602677</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination à la commission des collections du Domaine national de Chambord</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602679</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602679</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination (administration centrale)</description>
-      <author>Ministère de la culture</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la culture</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

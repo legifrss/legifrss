@@ -4,8 +4,445 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.261466587 +0100 CET m=+18.912112599</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.261466587 +0100 CET m=+18.912112599</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.81351009 +0100 CET m=+19.182451832</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.81351009 +0100 CET m=+19.182451832</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>ARRETE - JORFTEXT000042665563</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665563</link>
+      <description>Arrêté du 11 décembre 2020 modifiant l&#39;arrêté du 2 septembre 2020 portant délégation de signature (Conseil d&#39;Etat)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665570</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665570</link>
+      <description>Arrêté du 11 décembre 2020 modifiant l&#39;arrêté du 2 septembre 2020 portant délégation de signature pour tous les actes de gestion relatifs aux déplacements (Conseil d&#39;Etat)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665844</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665844</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665846</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665846</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665848</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665848</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665850</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665850</link>
+      <description>Arrêté du 4 décembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665852</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665852</link>
+      <description>Arrêté du 4 décembre 2020 constatant la reprise de fonctions d&#39;un notaire salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665854</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665854</link>
+      <description>Arrêté du 4 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665856</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665856</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665858</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665858</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665860</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665860</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665862</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665862</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665864</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665864</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665866</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665866</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665868</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665868</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la suppression d&#39;un office de notaire (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665870</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665870</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665872</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665872</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665874</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665874</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665876</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665876</link>
+      <description>Arrêté du 4 décembre 2020 relatif à la suppression d&#39;un bureau annexe (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665878</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665878</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;un huissier de justice salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665880</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665880</link>
+      <description>Arrêté du 4 décembre 2020 portant nomination d&#39;une huissière de justice salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665882</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665882</link>
+      <description>Arrêté du 4 décembre 2020 modifiant l&#39;arrêté du 24 novembre 2020 portant nomination d&#39;une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665884</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665884</link>
+      <description>Arrêté du 7 décembre 2020 annulant l&#39;arrêté du 20 août 2020 portant admission à la retraite (magistrature)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665886</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665886</link>
+      <description>Arrêté du 7 décembre 2020 constatant le transfert d&#39;un office de notaire et autorisant l&#39;ouverture d&#39;un bureau annexe (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665888</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665888</link>
+      <description>Arrêté du 7 décembre 2020 portant admission à la retraite (magistrature)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665890</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665890</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665892</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665892</link>
+      <description>Arrêté du 7 décembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665894</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665894</link>
+      <description>Arrêté du 7 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665896</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665896</link>
+      <description>Arrêté du 7 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665898</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665898</link>
+      <description>Arrêté du 7 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665900</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665900</link>
+      <description>Arrêté du 7 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665902</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665902</link>
+      <description>Arrêté du 7 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665904</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665904</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665906</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665906</link>
+      <description>Arrêté du 7 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665908</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665908</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665910</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665910</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665912</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665912</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665914</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665914</link>
+      <description>Arrêté du 7 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665916</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665916</link>
+      <description>Arrêté du 7 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665918</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665918</link>
+      <description>Arrêté du 8 décembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665920</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665920</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;une huissière de justice salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665922</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665922</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665924</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665924</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665926</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665926</link>
+      <description>Arrêté du 8 décembre 2020 constatant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665928</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665928</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665930</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665930</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665932</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665932</link>
+      <description>Arrêté du 8 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665934</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665934</link>
+      <description>Arrêté du 8 décembre 2020 relatif à une société à responsabilité limitée à associé unique (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665936</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665936</link>
+      <description>Arrêté du 8 décembre 2020 constatant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665938</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665938</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;un huissier de justice salarié (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665940</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665940</link>
+      <description>Arrêté du 8 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665942</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665942</link>
+      <description>Arrêté du 8 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665944</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665944</link>
+      <description>Arrêté du 8 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665946</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665946</link>
+      <description>Arrêté du 8 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</description>
+      <author>Ministère de la justice</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042658167</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658167</link>
@@ -1269,350 +1706,6 @@
       <author>Ministère de la justice</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602586</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602586</link>
-      <description>Arrêté du 25 novembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602588</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602588</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602590</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602590</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602592</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602592</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;un notaire salarié (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602594</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602594</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602596</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602596</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602598</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602598</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602600</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602600</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602602</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602602</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602604</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602604</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602606</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602606</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602608</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602608</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602610</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602610</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602612</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602612</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602614</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602614</link>
-      <description>Arrêté du 25 novembre 2020 portant annonce du projet d&#39;une greffière de tribunal de commerce d&#39;exercer son droit de présentation (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602616</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602616</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602618</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602618</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602620</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602620</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602622</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602622</link>
-      <description>Arrêté du 25 novembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602624</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602624</link>
-      <description>Arrêté du 25 novembre 2020 constatant la reprise de fonctions d&#39;un notaire salarié (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602626</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602626</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602628</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602628</link>
-      <description>Arrêté du 27 novembre 2020 relatif à une société civile professionnelle et à la nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602630</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602630</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;un notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602632</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602632</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;un notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602634</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602634</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602636</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602636</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602638</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602638</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602640</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602640</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602642</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602642</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602644</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602644</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602646</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602646</link>
-      <description>Arrêté du 27 novembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602648</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602648</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;un notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602650</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602650</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602652</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602652</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602654</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602654</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602656</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602656</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602658</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602658</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée à associé unique (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602660</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602660</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602662</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602662</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602664</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602664</link>
-      <description>Arrêté du 27 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602666</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602666</link>
-      <description>Arrêté du 30 novembre 2020 portant nomination d&#39;une notaire (officiers publics ou ministériels)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602668</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602668</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination (administration centrale)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602670</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602670</link>
-      <description>Arrêté du 1er décembre 2020 portant détachement (Conseil d&#39;Etat)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

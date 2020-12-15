@@ -4,8 +4,13 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.246467235 +0100 CET m=+18.897113257</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.246467235 +0100 CET m=+18.897113257</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.800355959 +0100 CET m=+19.169297712</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.800355959 +0100 CET m=+19.169297712</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
     <item>
       <title>DECRET - JORFTEXT000042659981</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659981</link>
@@ -173,22 +178,6 @@
       <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>RAPPORT - JORFTEXT000042602151</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602151</link>
-      <description>Rapport au Président de la République relatif à l&#39;ordonnance n° 2020-1504 du 2 décembre 2020 prorogeant et adaptant les conditions de gestion des programmes européens de la politique de cohésion et des affaires maritimes et de la pêche</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ORDONNANCE - JORFTEXT000042602156</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602156</link>
-      <description>Ordonnance n° 2020-1504 du 2 décembre 2020 prorogeant et adaptant les conditions de gestion des programmes européens de la politique de cohésion et des affaires maritimes et de la pêche</description>
-      <author>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

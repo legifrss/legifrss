@@ -4,8 +4,29 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.25945292 +0100 CET m=+18.910098941</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.25945292 +0100 CET m=+18.910098941</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.847734891 +0100 CET m=+19.216676665</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.847734891 +0100 CET m=+19.216676665</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECISION - JORFTEXT000042665708</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665708</link>
+      <description>Décision du 7 décembre 2020 modifiant la décision du 20 mai 2020 modifiant les montants des tarifs forfaitaires de responsabilité pour des groupes génériques</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042665713</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665713</link>
+      <description>Décision du 7 décembre 2020 fixant les prix de spécialités pharmaceutiques remboursables aux assurés sociaux</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042637016</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637016</link>

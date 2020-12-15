@@ -4,8 +4,77 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.24319295 +0100 CET m=+18.893838979</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.24319295 +0100 CET m=+18.893838979</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.798182667 +0100 CET m=+19.167124405</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.798182667 +0100 CET m=+19.167124405</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECISION - JORFTEXT000042665461</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665461</link>
+      <description>Décision n° 2020-809 DC du 10 décembre 2020</description>
+      <author>Conseil constitutionnel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/LOIS/Conseil constitutionnel</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042665708</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665708</link>
+      <description>Décision du 7 décembre 2020 modifiant la décision du 20 mai 2020 modifiant les montants des tarifs forfaitaires de responsabilité pour des groupes génériques</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042665713</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665713</link>
+      <description>Décision du 7 décembre 2020 fixant les prix de spécialités pharmaceutiques remboursables aux assurés sociaux</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042666144</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666144</link>
+      <description>Décision n° 2020-5687 SEN du 11 décembre 2020</description>
+      <author>Conseil constitutionnel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042666156</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666156</link>
+      <description>Décision n° 2020-5691/5694 SEN du 11 décembre 2020</description>
+      <author>Conseil constitutionnel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042666163</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666163</link>
+      <description>Décision n° 2020-5692/5693 AN du 11 décembre 2020</description>
+      <author>Conseil constitutionnel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil constitutionnel</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042666172</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666172</link>
+      <description>Décision du 3 décembre 2020 portant désignation d&#39;un référent déontologue de la Commission nationale de l&#39;informatique et des libertés</description>
+      <author>Commission nationale de l&#39;informatique et des libertés</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECISION - JORFTEXT000042666178</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666178</link>
+      <description>Décision n° 2020-840 du 9 décembre 2020 portant sanction pécuniaire à l&#39;encontre de la société RMC Découverte</description>
+      <author>Conseil supérieur de l&#39;audiovisuel</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECISION - JORFTEXT000042659893</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659893</link>
@@ -457,45 +526,6 @@
       <author>Commission nationale des comptes de campagne et des financements politiques</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602077</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602077</link>
-      <description>Décision du 26 novembre 2020 portant délégation de signature (direction centrale de la police judiciaire)</description>
-      <author>Ministère de l&#39;intérieur</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602162</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602162</link>
-      <description>Décision du 27 novembre 2020 portant délégation de signature (inspection générale de la justice)</description>
-      <author>Ministère de la justice</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602507</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602507</link>
-      <description>Décision du 24 novembre 2020 relative à l&#39;homologation de la décision n° 2018-094 du 20 décembre 2018 de l&#39;Autorité de régulation des activités ferroviaires et routières pour l&#39;horaire de service 2022</description>
-      <author>Ministère de la transition écologique Transports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la transition écologique/Transports</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602758</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602758</link>
-      <description>Décision n° 2020-1160 du 20 octobre 2020 relative au compte rendu et au résultat de la procédure d&#39;attribution d&#39;autorisations d&#39;utilisation de fréquences dans la bande 3,4 - 3,8 GHz en France métropolitaine pour établir et exploiter un réseau radioélectrique mobile ouvert au public</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Autorité de régulation des communications électroniques, des postes et de la distribution de la presse</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECISION - JORFTEXT000042602776</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602776</link>
-      <description>Décision n° 2020-2421 du 24 novembre 2020 portant modification du règlement intérieur de la Commission nationale des comptes de campagne et des financements politiques</description>
-      <author>Commission nationale des comptes de campagne et des financements politiques</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale des comptes de campagne et des financements politiques</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

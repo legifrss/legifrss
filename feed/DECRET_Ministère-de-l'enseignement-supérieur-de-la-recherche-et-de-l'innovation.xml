@@ -4,8 +4,21 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.258760099 +0100 CET m=+18.909406136</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.258760099 +0100 CET m=+18.909406136</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.852683581 +0100 CET m=+19.221625320</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.852683581 +0100 CET m=+19.221625320</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECRET - JORFTEXT000042665736</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665736</link>
+      <description>Décret du 14 décembre 2020 autorisant l&#39;acceptation d&#39;une donation</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042649206</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649206</link>
@@ -61,14 +74,6 @@
       <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
       <pubDate>2020-12-06 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042602330</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602330</link>
-      <description>Décret n° 2020-1506 du 1er décembre 2020 relatif à la communauté d&#39;universités et établissements « Université Paris-Est »</description>
-      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

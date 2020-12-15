@@ -4,8 +4,29 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.264980769 +0100 CET m=+18.915626781</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.264980769 +0100 CET m=+18.915626781</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.848220107 +0100 CET m=+19.217161870</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.848220107 +0100 CET m=+19.217161870</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>ARRETE - JORFTEXT000042665820</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665820</link>
+      <description>Arrêté du 9 décembre 2020 portant délégation de signature au cabinet de la ministre déléguée auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;industrie</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Industrie</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Industrie</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>ARRETE - JORFTEXT000042665985</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665985</link>
+      <description>Arrêté du 9 décembre 2020 portant nomination au cabinet de la ministre déléguée auprès du ministre de l&#39;économie, des finances et de la relance, chargée de l&#39;industrie</description>
+      <author>Ministère de l&#39;économie, des finances et de la relance Industrie</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Industrie</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042649223</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649223</link>

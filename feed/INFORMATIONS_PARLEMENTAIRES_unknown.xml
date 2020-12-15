@@ -4,8 +4,69 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.267447713 +0100 CET m=+18.918093730</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.267447713 +0100 CET m=+18.918093730</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.848837534 +0100 CET m=+19.217779291</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.848837534 +0100 CET m=+19.217779291</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666187</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666187</link>
+      <description>Ordre du jour</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666189</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666189</link>
+      <description>Commissions et organes de contrôle</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666191</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666191</link>
+      <description>Documents et publications</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666194</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666194</link>
+      <description>Documents déposés</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666196</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666196</link>
+      <description>Documents publiés</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666198</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666198</link>
+      <description>Assemblées parlementaires internationales</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666201</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666201</link>
+      <description>Commissions mixtes paritaires</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Commissions mixtes paritaires</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042666204</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666204</link>
+      <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042660380</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042660380</link>
@@ -530,90 +591,6 @@
       <description>Délégation parlementaire au renseignement</description>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602795</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602795</link>
-      <description>Ordre du jour</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602797</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602797</link>
-      <description>Commissions et organes de contrôle</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602799</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602799</link>
-      <description>Documents et publications</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602801</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602801</link>
-      <description>Informations diverses</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Assemblée nationale</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602804</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602804</link>
-      <description>Commissions / organes temporaires</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602806</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602806</link>
-      <description>Documents déposés</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602808</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602808</link>
-      <description>Documents publiés</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602810</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602810</link>
-      <description>Nominations et avis</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602812</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602812</link>
-      <description>Composition du sénat</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602814</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602814</link>
-      <description>Groupes politiques</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602816</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602816</link>
-      <description>Avis administratifs</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Sénat</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>INFORMATIONS_PARLEMENTAIRES - JORFTEXT000042602819</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602819</link>
-      <description>Office parlementaire d&#39;évaluation des choix scientifiques et technologiques</description>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Informations parlementaires/Offices et délégations</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

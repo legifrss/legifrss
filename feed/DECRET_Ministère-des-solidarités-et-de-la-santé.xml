@@ -4,8 +4,53 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.259367876 +0100 CET m=+18.910013899</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.259367876 +0100 CET m=+18.910013899</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.843770008 +0100 CET m=+19.212711776</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.843770008 +0100 CET m=+19.212711776</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECRET - JORFTEXT000042665584</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665584</link>
+      <description>Décret n° 2020-1580 du 14 décembre 2020 portant modification des décrets n° 2020-568 du 14 mai 2020 et n° 2020-711 du 12 juin 2020 relatifs au versement d&#39;une prime exceptionnelle allouée à certains agents mobilisés à la suite de la prorogation de l&#39;état d&#39;urgence sanitaire dans le cadre de l&#39;épidémie de covid-19</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042665606</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665606</link>
+      <description>Décret n° 2020-1581 du 14 décembre 2020 prorogeant le mandat des membres désignés des assemblées des unions régionales des professionnels de santé</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042665612</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665612</link>
+      <description>Décret n° 2020-1582 du 14 décembre 2020 modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042665956</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665956</link>
+      <description>Décret du 14 décembre 2020 portant nomination de la directrice générale de l&#39;Agence nationale de sécurité du médicament et des produits de santé</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+    <item>
+      <title>DECRET - JORFTEXT000042665958</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665958</link>
+      <description>Décret du 14 décembre 2020 portant intégration (inspection générale des affaires sociales) - Mme SANDEAU-GRUBER (Anne-Caroline)</description>
+      <author>Ministère des solidarités et de la santé</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère des solidarités et de la santé</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>DECRET - JORFTEXT000042636881</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042636881</link>
@@ -53,14 +98,6 @@
       <author>Ministère des solidarités et de la santé</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>DECRET - JORFTEXT000042602178</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602178</link>
-      <description>Décret n° 2020-1505 du 2 décembre 2020 modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</description>
-      <author>Ministère des solidarités et de la santé</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

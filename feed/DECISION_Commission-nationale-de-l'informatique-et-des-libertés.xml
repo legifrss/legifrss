@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS - Commission-nationale-de-l&#39;informatique-et-des-libertés - DECISION</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-15 09:55:36.853304612 +0100 CET m=+19.222246350</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.853304612 +0100 CET m=+19.222246350</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECISION - JORFTEXT000042666172</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666172</link>
+      <description>Décision du 3 décembre 2020 portant désignation d&#39;un référent déontologue de la Commission nationale de l&#39;informatique et des libertés</description>
+      <author>Commission nationale de l&#39;informatique et des libertés</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
+  </channel>
+</rss>

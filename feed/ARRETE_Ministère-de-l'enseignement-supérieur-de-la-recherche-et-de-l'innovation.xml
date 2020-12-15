@@ -4,8 +4,21 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.258211008 +0100 CET m=+18.908857024</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.258211008 +0100 CET m=+18.908857024</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.852778158 +0100 CET m=+19.221719900</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.852778158 +0100 CET m=+19.221719900</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>ARRETE - JORFTEXT000042665970</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665970</link>
+      <description>Arrêté du 9 décembre 2020 portant nomination au cabinet de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</description>
+      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042649054</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649054</link>
@@ -125,14 +138,6 @@
       <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602696</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602696</link>
-      <description>Arrêté du 9 novembre 2020 portant nomination au conseil scientifique de l&#39;Institut national de recherche pour l&#39;agriculture, l&#39;alimentation et l&#39;environnement</description>
-      <author>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>

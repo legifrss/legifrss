@@ -4,8 +4,21 @@
     <link>https://github.com/ldicarlo/legifrance-rss</link>
     <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
     <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
-    <pubDate>2020-12-14 13:13:41.253755317 +0100 CET m=+18.904401332</pubDate>
-    <lastBuildDate>2020-12-14 13:13:41.253755317 +0100 CET m=+18.904401332</lastBuildDate>
+    <pubDate>2020-12-15 09:55:36.803661151 +0100 CET m=+19.172602895</pubDate>
+    <lastBuildDate>2020-12-15 09:55:36.803661151 +0100 CET m=+19.172602895</lastBuildDate>
+    <image>
+      <url></url>
+      <title></title>
+      <link>https://www.legifrance.gouv.fr/contenu/logo</link>
+    </image>
+    <item>
+      <title>DECRET - JORFTEXT000042665836</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665836</link>
+      <description>Décret du 14 décembre 2020 portant nomination d&#39;un directeur académique des services de l&#39;éducation nationale et de quatre directeurs académiques adjoints des services de l&#39;éducation nationale</description>
+      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
+      <pubDate>2020-12-15 01:00:00 +0100 CET</pubDate>
+    </item>
     <item>
       <title>ARRETE - JORFTEXT000042659911</title>
       <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659911</link>
@@ -125,14 +138,6 @@
       <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
       <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
       <pubDate>2020-12-04 01:00:00 +0100 CET</pubDate>
-    </item>
-    <item>
-      <title>ARRETE - JORFTEXT000042602533</title>
-      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042602533</link>
-      <description>Arrêté du 1er décembre 2020 portant nomination (administration centrale)</description>
-      <author>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</author>
-      <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-      <pubDate>2020-12-03 01:00:00 +0100 CET</pubDate>
     </item>
   </channel>
 </rss>
