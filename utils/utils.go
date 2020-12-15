@@ -3,6 +3,7 @@ package utils
 import (
 	"fmt"
 	"sort"
+	"strconv"
 	"time"
 
 	"github.com/ldicarlo/legifrss/server/models"
@@ -81,9 +82,39 @@ func ExtractContent(articles []models.JorfArticle, sections []models.JorfContain
 }
 
 func sortContent(sections []models.JorfContainerSection) {
-	sort.Sort(models.SortByArticleOrder(sections))
+
+	sort.Sort(SortByArticleOrder(sections))
 }
 
 func sortArticles(articles []models.JorfArticle) {
-	sort.Sort(models.SortByOrder(articles))
+	sort.Sort(SortByOrder(articles))
+}
+
+func ToInt(str string) int {
+	i, err := strconv.Atoi(str)
+	ErrCheck(err)
+	return i
+}
+
+type SortByOrder []models.JorfArticle
+
+func (a SortByOrder) Len() int           { return len(a) }
+func (a SortByOrder) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a SortByOrder) Less(i, j int) bool { return ToInt(a[i].Order) < ToInt(a[j].Order) }
+
+type SortByArticleOrder []models.JorfContainerSection
+
+func (a SortByArticleOrder) Len() int      { return len(a) }
+func (a SortByArticleOrder) Swap(i, j int) { a[i], a[j] = a[j], a[i] }
+func (a SortByArticleOrder) Less(i, j int) bool {
+
+	return lowArticleOrderInSection(a[i]) < lowArticleOrderInSection(a[j])
+}
+
+func lowArticleOrderInSection(section models.JorfContainerSection) int {
+	if len(section.Articles) == 0 {
+		return -1
+	}
+	return ToInt(section.Articles[0].Order)
+
 }
