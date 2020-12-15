@@ -28,6 +28,7 @@ func TestSortArticles(t *testing.T) {
 }
 
 func TestSortContent(t *testing.T) {
+	// JORFTEXT000042665307 is a good complex example.
 	input := []models.JorfContainerSection{
 		{
 			Title:    "3",
@@ -35,8 +36,11 @@ func TestSortContent(t *testing.T) {
 			Sections: []models.JorfContainerSection{},
 		}, {
 			Title:    "2",
-			Articles: getArticlesList(5),
-			Sections: []models.JorfContainerSection{},
+			Articles: []models.JorfArticle{},
+			Sections: []models.JorfContainerSection{{
+				Title:    "Haha",
+				Sections: []models.JorfContainerSection{},
+				Articles: getArticlesList(5)}},
 		}, {
 			Title:    "4",
 			Articles: getArticlesList(15),

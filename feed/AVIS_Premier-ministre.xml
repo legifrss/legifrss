@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Premier-ministre - AVIS</title>
   <id></id>
-  <updated>2020-12-15 13:12:31.82465285 +0100 CET m=+331.915085012</updated>
+  <updated>2020-12-15 13:35:54.007022033 +0100 CET m=+276.263273611</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>

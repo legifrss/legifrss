@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Autorité-nationale-des-jeux - CONVENTION</title>
   <id></id>
-  <updated>2020-12-15 13:12:31.892976545 +0100 CET m=+331.983408712</updated>
+  <updated>2020-12-15 13:35:53.996481982 +0100 CET m=+276.252733558</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>

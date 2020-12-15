@@ -4,20 +4,18 @@
 
 Tout est écrit en anglais, mais vous pouvez [ouvrir des tickets](https://github.com/ldicarlo/legifrance-rss/issues/new) en français ou en anglais.
 
-_Pourquoi ce projet_: Il me manquait un moyen de consulter chaque modification de loi indépendamment.
+_Pourquoi ce projet_: Il me manquait un moyen de consulter chaque modification de loi indépendamment au lieu de les recevoir par groupes.
 
-__TODO Translate following__
+Legifrance propose de les recevoir par newsletter, mais ce n'est pas optimal.
 
-Legifrance provides a way to receive newsletters, but sadly they're not optimal.
+Ce projet n'est pas encore stable.
 
-Note that this project is at its ALPHA stage, it's more of a PoC for now.
+## Comment utiliser
 
-## How to use
+Il suffit d'ajouter un lien dans votre lecteur de RSS préféré, par exemple: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all.xml`
 
-Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all.xml`
+Si vous voulez un émetteur (Ministère) particulier ou une nature (Décret) particulière, regardez les liens qui se trouvent [ici](https://github.com/ldicarlo/legifrance-rss/tree/master/feed). Il suffit de modifier le lien du fichier pour qu'il commence par `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/`
 
-If you want a specific NATURE or AUTHOR, you can find them [here](https://github.com/ldicarlo/legifrance-rss/tree/master/feed). Just add the file name to `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/`
+(Exemple: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_Commission-nationale-du-débat-public.xml`)
 
-(Example: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_Commission-nationale-du-débat-public.xml`)
-
-It works in [Feedly](https://feedly.com).
+Testé dans [Feedly](https://feedly.com).

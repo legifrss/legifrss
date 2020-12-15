@@ -115,7 +115,10 @@ func (a SortByArticleOrder) Less(i, j int) bool {
 
 func lowArticleOrderInSection(section models.JorfContainerSection) int {
 	if len(section.Articles) == 0 {
-		return -1
+		if len(section.Sections) == 0 {
+			return -1
+		}
+		return lowArticleOrderInSection(section.Sections[0])
 	}
 	return toInt(section.Articles[0].Order)
 

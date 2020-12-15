@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Commission-d&#39;enrichissement-de-la-langue-française</title>
   <id></id>
-  <updated>2020-12-15 13:12:31.729256405 +0100 CET m=+331.819688597</updated>
+  <updated>2020-12-15 13:35:53.914188591 +0100 CET m=+276.170440163</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
