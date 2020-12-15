@@ -30,16 +30,20 @@ func TestSortArticles(t *testing.T) {
 func TestSortContent(t *testing.T) {
 	input := []models.JorfContainerSection{
 		{
+			Title:    "3",
+			Articles: getArticlesList(10),
+			Sections: []models.JorfContainerSection{},
+		}, {
 			Title:    "2",
 			Articles: getArticlesList(5),
 			Sections: []models.JorfContainerSection{},
 		}, {
-			Title:    "1",
-			Articles: getArticlesList(10),
+			Title:    "4",
+			Articles: getArticlesList(15),
 			Sections: []models.JorfContainerSection{},
 		}, {
-			Title:    "3",
-			Articles: getArticlesList(15),
+			Title:    "1",
+			Articles: []models.JorfArticle{},
 			Sections: []models.JorfContainerSection{},
 		},
 	}
