@@ -17,6 +17,7 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 		Subtitle: "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss" + feedDesc.DescriptionSuffix,
 		Author:   &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: "Luca Di Carlo", Email: "luca@di-carlo.fr"}},
 		Updated:  now,
+		Logo:     "https://www.legifrance.gouv.fr/contenu/logo",
 		Category: "French Law",
 	}
 
