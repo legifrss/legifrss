@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-du-travail-de-l&#39;emploi-et-de-l&#39;insertion</title>
   <id></id>
-  <updated>2020-12-15 13:35:53.891629241 +0100 CET m=+276.147880807</updated>
+  <updated>2020-12-15 20:47:56.959449924 +0100 CET m=+238.541665729</updated>
   <category>French Law</category>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
