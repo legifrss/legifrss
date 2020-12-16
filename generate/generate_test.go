@@ -16,6 +16,7 @@ func TestSanitizeName(t *testing.T) {
 		"ministère-de-l-intérieur.xml":                                        "Ministère-de-l'intérieur.xml",
 		"autorité-nationale-des-jeux.xml":                                     "Autorité-nationale-des-jeux.xml",
 		"èéôû-ç-éàè":                                                          "èéôû'ç ,ÉÀÈ",
+		"ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports.xml": "ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports-sports.xml",
 	}
 
 	for expectedOutput, input := range results {

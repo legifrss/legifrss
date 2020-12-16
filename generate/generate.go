@@ -11,12 +11,16 @@ import (
 )
 
 func Generate(result []models.LegifranceElement) {
+	for i, element := range result {
+		result[i].Author = sanitizeName(element.Author)
+		result[i].Nature = sanitizeName(element.Nature)
+	}
+
 	natureMap := mapByNature(result)
 	for key, posts := range natureMap {
-		var k = sanitizeName(key)
 
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/" + k + "_all.xml")
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: "", DescriptionSuffix: ""})
+		f, err := os.Create("feed/" + key + "_all.xml")
 
 		utils.ErrCheck(err)
 
@@ -28,10 +32,9 @@ func Generate(result []models.LegifranceElement) {
 	}
 	authorMap := mapByAuthor(result)
 	for key, posts := range authorMap {
-		var k = sanitizeName(key)
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + k, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/all_" + k + ".xml")
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: "", DescriptionSuffix: ""})
 
+		f, err := os.Create("feed/all_" + key + ".xml")
 		utils.ErrCheck(err)
 
 		elem, err := feeds.ToXML(feed)
@@ -42,12 +45,11 @@ func Generate(result []models.LegifranceElement) {
 	}
 	authorNatureMap := mapByAuthorAndNature(result)
 	for key1, maps := range authorNatureMap {
-		k1 := sanitizeName(key1)
-		for key2, item := range maps {
-			k2 := sanitizeName(key2)
-			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + k1 + " - " + k2, LinkSuffix: "", DescriptionSuffix: ""})
-			f, err := os.Create("feed/" + k2 + "_" + k1 + ".xml")
 
+		for key2, item := range maps {
+
+			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + key1 + " - " + key2, LinkSuffix: "", DescriptionSuffix: ""})
+			f, err := os.Create("feed/" + key2 + "_" + key1 + ".xml")
 			utils.ErrCheck(err)
 
 			elem, err := feeds.ToXML(feed)
@@ -103,8 +105,19 @@ func sanitizeName(str string) string {
 		newStr = replacer.Replace(newStr)
 
 	}
-	return newStr
+	return customReplacements(newStr)
 
+}
+
+func customReplacements(str string) string {
+	replacements := map[string]string{
+		"ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports-sports.xml": "ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports.xml",
+		"ministère-du-travail-de-l-emploi-et-de-l-insertion-insertion.xml":           "ministère-du-travail-de-l-emploi-et-de-l-insertion.xml",
+	}
+	if value, found := replacements[str]; found {
+		return value
+	}
+	return str
 }
 
 func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[string][]models.LegifranceElement {
@@ -125,4 +138,25 @@ func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[strin
 	}
 
 	return result
+}
+
+func appendToFile(feed feeds.AtomFeed, path string) {
+	if _, err := os.Stat(path); err == nil || len(feed.Entries) > 500 {
+		write(feed, path)
+	}
+
+	// loadExisting()
+
+	// append oldfeed.Items to feed.Items
+	// keep limit
+}
+
+func write(feed feeds.AtomFeed, path string) {
+	f, err := os.Create(path)
+	utils.ErrCheck(err)
+
+	elem, err := feeds.ToXML(&feed)
+	utils.ErrCheck(err)
+
+	f.WriteString(elem)
 }
