@@ -2,7 +2,7 @@ package generate
 
 import (
 	"os"
-	"regexp"
+	"strings"
 
 	"github.com/gorilla/feeds"
 	"github.com/ldicarlo/legifrss/server/models"
@@ -96,9 +96,14 @@ func sanitizeName(str string) string {
 	if str == "" {
 		return "unknown"
 	}
-	re := regexp.MustCompile("[[:^ascii:]]")
-	return re.ReplaceAllLiteralString(str, "")
-	// return strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(str, "  ", " "), ",", ""), " ", "-")
+	str = strings.ToLower(str)
+	replacer := strings.NewReplacer("  ", " ", ",", "", " ", "-", "'", "-", "--", "-")
+	newStr := str
+	for newStr != replacer.Replace(newStr) {
+		newStr = replacer.Replace(newStr)
+
+	}
+	return newStr
 
 }
 
