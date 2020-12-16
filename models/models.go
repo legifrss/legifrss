@@ -1,15 +1,17 @@
 package models
 
 type LegifranceElement struct {
-	Title       string
-	Id          string
-	Nature      string
-	Link        string
-	Description string
-	Category    []string
-	Author      string
-	Date        string
-	Content     string
+	Title           string
+	Id              string
+	Nature          string
+	Link            string
+	Description     string
+	Category        []string
+	Author          string
+	SanitizedAuthor string
+	SanitizedNature string
+	Date            string
+	Content         string
 }
 
 type FeedDescription struct {

@@ -14,8 +14,8 @@ import (
 
 func Generate(result []models.LegifranceElement) {
 	for i, element := range result {
-		result[i].Author = sanitizeName(element.Author)
-		result[i].Nature = sanitizeName(element.Nature)
+		result[i].SanitizedAuthor = sanitizeName(element.Author)
+		result[i].SanitizedNature = sanitizeName(element.Nature)
 	}
 
 	natureMap := mapByNature(result)
@@ -75,10 +75,10 @@ func Generate(result []models.LegifranceElement) {
 func mapByNature(input []models.LegifranceElement) map[string][]models.LegifranceElement {
 	var result = make(map[string][]models.LegifranceElement)
 	for _, item := range input {
-		if result[item.Nature] != nil {
-			result[item.Nature] = append(result[item.Nature], item)
+		if result[item.SanitizedNature] != nil {
+			result[item.SanitizedNature] = append(result[item.SanitizedNature], item)
 		} else {
-			result[item.Nature] = []models.LegifranceElement{item}
+			result[item.SanitizedNature] = []models.LegifranceElement{item}
 		}
 	}
 	return result
@@ -87,10 +87,10 @@ func mapByNature(input []models.LegifranceElement) map[string][]models.Legifranc
 func mapByAuthor(input []models.LegifranceElement) map[string][]models.LegifranceElement {
 	var result = make(map[string][]models.LegifranceElement)
 	for _, item := range input {
-		if result[item.Author] != nil {
-			result[item.Author] = append(result[item.Author], item)
+		if result[item.SanitizedAuthor] != nil {
+			result[item.SanitizedAuthor] = append(result[item.SanitizedAuthor], item)
 		} else {
-			result[item.Author] = []models.LegifranceElement{item}
+			result[item.SanitizedAuthor] = []models.LegifranceElement{item}
 		}
 	}
 	return result
@@ -125,15 +125,15 @@ func customReplacements(str string) string {
 func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[string][]models.LegifranceElement {
 	var result = make(map[string]map[string][]models.LegifranceElement)
 	for _, item := range input {
-		if result[item.Author] == nil {
-			result[item.Author] = make(map[string][]models.LegifranceElement)
-			result[item.Author][item.Nature] = []models.LegifranceElement{item}
+		if result[item.SanitizedAuthor] == nil {
+			result[item.SanitizedAuthor] = make(map[string][]models.LegifranceElement)
+			result[item.SanitizedAuthor][item.SanitizedNature] = []models.LegifranceElement{item}
 
 		} else {
-			if result[item.Author][item.Nature] == nil {
-				result[item.Author][item.Nature] = []models.LegifranceElement{item}
+			if result[item.SanitizedAuthor][item.SanitizedNature] == nil {
+				result[item.SanitizedAuthor][item.SanitizedNature] = []models.LegifranceElement{item}
 			} else {
-				result[item.Author][item.Nature] = append(result[item.Author][item.Nature], item)
+				result[item.SanitizedAuthor][item.SanitizedNature] = append(result[item.SanitizedAuthor][item.SanitizedNature], item)
 			}
 
 		}

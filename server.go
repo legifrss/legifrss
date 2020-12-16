@@ -47,7 +47,9 @@ func Start() (str string, result string) {
 		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.Id, i+1, total)
 		result := dila.FetchJorfContent(token, element.Id)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
-
+		if i >= 100 {
+			break
+		}
 	}
 	generate.Generate(list)
 	return "", "ok"
