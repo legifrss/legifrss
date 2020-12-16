@@ -1,6 +1,8 @@
 package generate
 
 import (
+	"encoding/xml"
+	"io/ioutil"
 	"os"
 	"strings"
 
@@ -141,14 +143,26 @@ func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[strin
 }
 
 func appendToFile(feed feeds.AtomFeed, path string) {
-	if _, err := os.Stat(path); err == nil || len(feed.Entries) > 500 {
+	limit := 50
+	if _, err := os.Stat(path); err == nil || len(feed.Entries) > limit {
 		write(feed, path)
 	}
 
-	// loadExisting()
+	file, err := os.Open(path)
+	utils.ErrCheck(err)
 
-	// append oldfeed.Items to feed.Items
-	// keep limit
+	byteValue, _ := ioutil.ReadAll(file)
+
+	var oldFeed feeds.AtomFeed
+	xml.Unmarshal(byteValue, &oldFeed)
+
+	feed = mergeFeeds(feed, oldFeed, limit)
+	write(feed, path)
+}
+
+func mergeFeeds(newFeed feeds.AtomFeed, oldFeed feeds.AtomFeed, limit int) feeds.AtomFeed {
+	newFeed.Entries = append(newFeed.Entries, oldFeed.Entries...)[:limit]
+	return newFeed
 }
 
 func write(feed feeds.AtomFeed, path string) {

@@ -3,6 +3,7 @@ package generate
 import (
 	"testing"
 
+	"github.com/gorilla/feeds"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -27,4 +28,18 @@ func TestSanitizeName(t *testing.T) {
 
 func helper(t *testing.T, expectedOutput string, input string) {
 	assert.Equal(t, expectedOutput, sanitizeName(input))
+}
+
+func TestMergeFeeds(t *testing.T) {
+	feed1 := feeds.AtomFeed{
+		Entries: []*feeds.AtomEntry{
+			{Id: "1"}, {Id: "2"}, {Id: "3"}},
+	}
+	feed2 := feeds.AtomFeed{
+		Entries: []*feeds.AtomEntry{
+			{Id: "4"}},
+	}
+	f := mergeFeeds(feed2, feed1, 2)
+	assert.Equal(t, "4", f.Entries[0].Id)
+	assert.Equal(t, 2, len(f.Entries))
 }
