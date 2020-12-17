@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-justice - LISTE</title>
   <id></id>
-  <updated>2020-12-15 20:47:57.147148743 +0100 CET m=+238.729364563</updated>
+  <updated>2020-12-17 10:41:40.343143615 +0100 CET m=+303.595415233</updated>
   <category>French Law</category>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
   <author>

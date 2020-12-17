@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;intérieur - DECISION</title>
   <id></id>
-  <updated>2020-12-15 20:47:57.093127683 +0100 CET m=+238.675343472</updated>
+  <updated>2020-12-17 10:41:40.365564019 +0100 CET m=+303.617835642</updated>
   <category>French Law</category>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décision du 11 décembre 2020 modifiant la décision du 30 juillet 2019 modifiée portant délégation de signature (direction des ressources humaines)</title>
+    <updated></updated>
+    <id>JORFTEXT000042677333</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 4 de la décision du 30 juillet 2019 susvisée est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 4. - Délégation est donnée à Mme Christine Torres, administratrice civile, adjointe au sous-directeur des personnels, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables et ordonnances de délégation, dans la limite des attributions de la sous-direction des personnels. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 13 de la même décision, les mots : « à Mmes Marjorie Autain et Claire Lorcerie-Lesaint, attachées principales d&#39;administration de l&#39;Etat, » sont remplacés par les mots : « à Mme Marjorie Autain, attachée principale d&#39;administration de l&#39;Etat, ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 16 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 16. - Délégation est donnée à Mme Claire Wanderoild, administratrice civile, adjointe au sous-directeur du recrutement et de la formation et chef du bureau du pilotage de la politique de formation, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables, ordonnances de paiement et ordonnances de délégation, dans la limite des attributions de la sous-direction du recrutement et de la formation. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 20 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 20. - Délégation est donnée à Mmes Fanny Duportic et Sophie Boudjema, attachées d&#39;administration de l&#39;Etat, directement placées sous l&#39;autorité du chef du bureau du centre national de la formation, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous arrêtés, décisions, pièces comptables et ordonnances de délégation, dans la limite des attributions du bureau du centre national de la formation. »&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 22 de la même décision, les mots : « à Mme Nadira Douma, attachée principale d&#39;administration de l&#39;Etat, et » sont supprimés.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 23 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 23. - Délégation est donnée à Mme Marianne Pussiau, administratrice civile hors classe, adjointe à la sous-directrice de l&#39;action sociale et de l&#39;accompagnement du personnel, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables, ordonnances de paiement et ordonnances de délégation, dans la limite des attributions de la sous-direction de l&#39;action sociale et de l&#39;accompagnement du personnel. »&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-17 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
   <entry>
     <title>Décision du 8 décembre 2020 modifiant la décision du 30 août 2018 modifiée portant délégation de signature (direction de l&#39;accueil, de l&#39;accompagnement des étrangers et de la nationalité)</title>
     <updated></updated>
