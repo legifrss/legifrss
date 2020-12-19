@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;intérieur - DECRET</title>
   <id></id>
-  <updated>2020-12-17 10:41:40.365896854 +0100 CET m=+303.618168471</updated>
+  <updated>2020-12-19 13:56:21.355132632 +0100 CET m=+226.197487122</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret n° 2020-1474 du 30 novembre 2020 fixant les modalités d&#39;organisation des concours et examens professionnels des cadres d&#39;emplois de sapeurs-pompiers professionnels (rectificatif)</title>
+    <updated></updated>
+    <id>JORFTEXT000042700323</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel n° 290 du 1er décembre 2020, texte n° 6, les &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042580186&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1474 du 30 novembre 2020 (V)&#39;&gt;annexes au décret n° 2020-1474 du 30 novembre 2020&lt;/a&gt; fixant les modalités d&#39;organisation des concours et examens professionnels des cadres d&#39;emplois de sapeurs-pompiers professionnels sont ainsi rétablies :&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;« ANNEXES&lt;br/&gt;ANNEXE I&lt;br/&gt;RUBRIQUES DE LA FICHE INDIVIDUELLE DE RENSEIGNEMENT (CONCOURS EXTERNES)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Identification du candidat&lt;br/&gt;2. Etudes et formations&lt;br/&gt;Titres et/ou diplômes détenus ou, le cas échéant, qualifications équivalentes.&lt;br/&gt;Formations et stages.&lt;br/&gt;3. Expérience professionnelle et extra-professionnelle (deux pages maximum)&lt;br/&gt;Le candidat a la possibilité de présenter les principales activités qu&#39;il a pu exercer en tant que salarié, non salarié, fonctionnaire (ou assimilé) ainsi que, le cas échéant, les travaux de recherche auxquels il a pu participer et les responsabilités électives, associatives ou syndicales qu&#39;il a pu exercer en précisant les principales compétences acquises et développées dans ces activités.&lt;br/&gt;4. Présentation du projet professionnel (une page maximum)&lt;br/&gt;Le candidat motivera son souhait d&#39;intégrer la filière sapeur-pompier.&lt;br/&gt;5. Rubrique réservée aux titulaires d&#39;un doctorat (une page maximum)&lt;br/&gt;Intitulé de la thèse/Date d&#39;obtention/Section du Conseil national des universités.&lt;br/&gt;Le candidat présentera les acquis de son expérience professionnelle résultant de la formation à la recherche et par la recherche.&lt;br/&gt;6. Déclaration sur l&#39;honneur de l&#39;exactitude des informations déclarées&lt;br/&gt;7. Annexe facultative&lt;br/&gt;Synthèse de travaux réalisés (mémoire, rapport de recherche…) (deux pages maximum).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;ANNEXE II&lt;br/&gt;RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L&#39;EXPÉRIENCE PROFESSIONNELLE (CONCOURS INTERNES ET EXAMENS PROFESSIONNELS)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Identification du candidat ;&lt;br/&gt;2. Exposé de l&#39;expérience professionnelle du candidat au regard de son parcours professionnel et de sa formation professionnelle et continue :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- description du parcours professionnel en précisant les domaines fonctionnels dans lesquels le candidat a exercé ses fonctions ainsi que les compétences acquises et développées à chaque étape de ce parcours, y compris dans l&#39;exercice d&#39;une activité syndicale ;&lt;br/&gt;- description des formations dont le candidat a bénéficié et qui lui paraîtront illustrer le mieux les compétences acquises au cours de son parcours professionnel ;&lt;br/&gt;- description d&#39;une expérience professionnelle marquante, ou réalisation d&#39;un projet choisi par le candidat pour illustrer ses compétences et la manière dont il les a mobilisées ;&lt;br/&gt;- description des motivations pour se présenter au concours interne ou à l&#39;examen professionnel d&#39;accès au grade concerné de sapeurs-pompiers professionnels (trois pages maximum).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3. Déclaration sur l&#39;honneur de l&#39;exactitude des informations déclarées&lt;br/&gt;4. Annexe facultative&lt;br/&gt;Synthèse de travaux réalisés (note, rapport, étude…) (deux documents maximum). »&lt;/p&gt;</content>
+    <published>2020-12-19 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700323"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret du 7 décembre 2020 portant admission à la retraite d&#39;un préfet - M. ROUSSET (Yves)</title>
     <updated></updated>
@@ -258,18 +270,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 décembre 2020, Mme Françoise PLOUVIEZ-DIAZ, administratrice civile hors classe, est nommée sous-préfète, sous-préfète de Coutances.&lt;/p&gt;</content>
     <published>2020-12-09 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625908"></link>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 7 décembre 2020 portant nomination (inspection générale de l&#39;administration)</title>
-    <updated></updated>
-    <id>JORFTEXT000042620548</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 7 décembre 2020, M. Adrien CHATARD est nommé inspecteur de l&#39;administration de 2e classe à l&#39;inspection générale de l&#39;administration à compter du 15 octobre 2020.&lt;br/&gt;M. Adrien SPERRY est nommé inspecteur de l&#39;administration de 2e classe à l&#39;inspection générale de l&#39;administration à compter du 15 octobre 2020.&lt;/p&gt;</content>
-    <published>2020-12-08 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042620548"></link>
     <author>
       <name>Ministère de l&#39;intérieur</name>
     </author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Commission-nationale-du-débat-public</title>
   <id></id>
-  <updated>2020-12-17 10:41:40.27439733 +0100 CET m=+303.526668952</updated>
+  <updated>2020-12-19 13:56:21.217966861 +0100 CET m=+226.060321351</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -114,18 +114,6 @@
     <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le plafond du montant global de l&#39;indemnité allouée au président et aux membres de la commission particulière du débat public sur le projet de liaison routière Fos-Salon est majoré de 25 %.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-09 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042626060"></link>
-    <author>
-      <name>Commission nationale du débat public</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décision n° 2020-133/LIAISON FOS-SALON/8 du 26 novembre 2020 Consultation électronique Projet de liaison routière Fos-Salon (13)</title>
-    <updated></updated>
-    <id>JORFTEXT000042614696</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale du débat public</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le calendrier du débat public est prolongé jusqu&#39;au 31 janvier 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités du débat sont ajustées pour tenir compte du contexte sanitaire et de la modification du calendrier :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- des forums territoriaux sur les variantes du tracé et des aménagements du projet ainsi qu&#39;une séance de l&#39;atelier citoyen se tiendront en janvier 2021 ;&lt;br/&gt;- la séance de clôture du débat aura lieu fin janvier 2021.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-06 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614696"></link>
     <author>
       <name>Commission nationale du débat public</name>
     </author>

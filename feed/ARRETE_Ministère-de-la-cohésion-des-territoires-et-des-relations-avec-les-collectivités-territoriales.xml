@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales - ARRETE</title>
   <id></id>
-  <updated>2020-12-17 10:41:40.311039504 +0100 CET m=+303.563311130</updated>
+  <updated>2020-12-19 13:56:21.335680733 +0100 CET m=+226.178035222</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 18 novembre 2020 modifiant l&#39;arrêté du 24 janvier 2020 portant ouverture de concours pour le recrutement d&#39;attachés territoriaux (session 2020) pour les collectivités territoriales de l&#39;interrégion Est, organisé par le centre de gestion de Meurthe-et-Moselle</title>
+    <updated></updated>
+    <id>JORFTEXT000042694966</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du président du centre de gestion de la fonction publique territoriale de Meurthe-et-Moselle en date du 18 novembre 2020, modifiant l&#39;arrêté du 24 janvier 2020 portant ouverture de concours pour le recrutement d&#39;attachés territoriaux (session 2020) pour les collectivités territoriales de l&#39;interrégion Est, organisé par le centre de gestion de Meurthe-et-Moselle.&lt;br/&gt;Les épreuves des concours externe, interne et troisième concours organisées pour le recrutement des attachés territoriaux (session 2020) sont reportées.&lt;br/&gt;Un nouvel arrêté fixera ultérieurement la date des épreuves écrites d&#39;admissibilité, après concertation des centres de gestion organisateurs, ainsi que celle des épreuves orales d&#39;admission, également reportées par voie de conséquence.&lt;br/&gt;Tout renseignement complémentaire pourra être communiqué sur simple demande adressée au président du centre de gestion de Meurthe-et-Moselle.&lt;/p&gt;</content>
+    <published>2020-12-18 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042694966"></link>
+    <author>
+      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 23 novembre 2020 portant ouverture d&#39;un examen professionnel donnant accès au grade d&#39;assistant territorial socio-éducatif de classe exceptionnelle (session 2021)</title>
     <updated></updated>
@@ -102,30 +114,6 @@
     <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application des dispositions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000036339197&amp;idArticle=JORFARTI000036339367&amp;categorieLien=cid&#39; title=&#39;LOI n°2017-1837 du 30 décembre 2017 - art. 159 (M)&#39;&gt;article 159 de la loi n° 2017-1837 du 30 décembre 2017&lt;/a&gt; de finances pour 2018, le produit de la fiscalité directe locale des régions dont la liste figure en annexe est diminué au titre de l&#39;année 2020 à hauteur du montant figurant dans cette même annexe.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général des collectivités locales, le directeur général des finances publiques, les préfets et les directeurs régionaux des finances publiques des régions concernées sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;LISTE DES RÉGIONS QUI FONT L&#39;OBJET D&#39;UN PRÉLÈVEMENT SUR FISCALITÉ AU TITRE DE L&#39;ANNÉE 2020 EN APPLICATION DES DISPOSITIONS PRÉVUES À L&#39;ARTICLE 159 DE LA &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036339197&amp;categorieLien=cid&#39; title=&#39;LOI n°2017-1837 du 30 décembre 2017 (V)&#39;&gt;LOI NO 2017-1837 DU 30 DÉCEMBRE 2017&lt;/a&gt; DE FINANCES POUR 2018&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Code région&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Nom de la région&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Prélèvement sur fiscalité 2020 au titre du renouvellement de la contribution au redressement des finances publiques (Article 159 de la &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036339197&amp;categorieLien=cid&#39; title=&#39;LOI n°2017-1837 du 30 décembre 2017 (V)&#39;&gt;loi n° 2017-1837&lt;/a&gt; de finances pour 2018)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;01&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;GUADELOUPE&lt;/td&gt;&lt;td align=&#39;right&#39;&gt;&lt;br/&gt;33 406&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;03&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;GUYANE&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;right&#39;&gt;&lt;br/&gt;574 966&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;94&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;CORSE&lt;/td&gt;&lt;td align=&#39;right&#39;&gt;&lt;br/&gt;3 466 086&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Total des prélèvements sur fiscalité opérés en 2020 au titre du renouvellement de la contribution au redressement des finances publiques des régions&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;right&#39;&gt;&lt;br/&gt;4 074 458&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2020-12-09 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625467"></link>
-    <author>
-      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 23 novembre 2020 portant nomination d&#39;un représentant de l&#39;Etat au sein de la commission consultative sur l&#39;évaluation des charges</title>
-    <updated></updated>
-    <id>JORFTEXT000042614623</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales en date du 23 novembre 2020, M. Pierre CHAVY, administrateur du Sénat, sous-directeur chargé de la cinquième sous-direction à la direction du budget à l&#39;administration centrale du ministère de l&#39;économie, des finances et de la relance, est désigné en qualité de représentant de l&#39;Etat au sein de chacune des sections de la commission consultative sur l&#39;évaluation des charges, en remplacement de M. François DESMADRYL, appelé à d&#39;autres fonctions.&lt;/p&gt;</content>
-    <published>2020-12-06 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614623"></link>
-    <author>
-      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 25 novembre 2020 portant nomination au conseil d&#39;administration de la Caisse nationale des autoroutes</title>
-    <updated></updated>
-    <id>JORFTEXT000042614625</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales en date du 25 novembre 2020, sont nommés en qualité de représentants du ministre de l&#39;intérieur au conseil d&#39;administration de la Caisse nationale des autoroutes :&lt;br/&gt;Mme Magali ROQUES, attachée principale d&#39;administration, cheffe du bureau des interventions économiques et de l&#39;aménagement du territoire, en tant que membre titulaire, et M François ROBINET, attaché principal d&#39;administration, adjoint à la cheffe du bureau des interventions économiques et de l&#39;aménagement du territoire, en tant que membre suppléant.&lt;/p&gt;</content>
-    <published>2020-12-06 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614625"></link>
     <author>
       <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
     </author>
