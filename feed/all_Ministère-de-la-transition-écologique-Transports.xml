@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-transition-écologique-Transports</title>
   <id></id>
-  <updated>2020-12-19 13:56:21.252628235 +0100 CET m=+226.094982740</updated>
+  <updated>2020-12-20 14:18:49.383881659 +0100 CET m=+197.040636082</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -234,18 +234,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 1er décembre 2020, Mme Marie-Thérèse Goux, ingénieure générale des ponts, des eaux et des forêts, est nommée directrice par intérim du bureau d&#39;enquêtes sur les accidents de transport terrestre.&lt;/p&gt;</content>
     <published>2020-12-10 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042637544"></link>
-    <author>
-      <name>Ministère de la transition écologique Transports</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 1er décembre 2020 portant nomination au conseil de coordination interportuaire Antilles-Guyane</title>
-    <updated></updated>
-    <id>JORFTEXT000042625967</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la transition écologique/Transports</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la mer et du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 1er décembre 2020, Mme MONTOUT (Sylvie), est renouvelée dans son mandat de membre du conseil de coordination interportuaire Antilles-Guyane en qualité de personnalité qualifiée en raison de ses compétences.&lt;/p&gt;</content>
-    <published>2020-12-09 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042625967"></link>
     <author>
       <name>Ministère de la transition écologique Transports</name>
     </author>
