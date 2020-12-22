@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Premier-ministre - DECRET</title>
   <id></id>
-  <updated>2020-12-21 12:29:19.623044537 +0100 CET m=+200.908375016</updated>
+  <updated>2020-12-22 10:09:09.007156532 +0100 CET m=+229.986880935</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant nomination au Conseil supérieur des chambres régionales des comptes - M. LACHKAR (Jean)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709458</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020, M. Jean LACHKAR, conseiller maître honoraire, est nommé membre du Conseil supérieur des chambres régionales des comptes, en remplacement de M. Thierry MOURIER des GAYETS, conseiller maître honoraire.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709458"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant admission à la retraite et maintien en activité (Cour des comptes) - Mme PITTET Marie</title>
     <updated></updated>

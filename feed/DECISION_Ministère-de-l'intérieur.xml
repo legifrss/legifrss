@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;intérieur - DECISION</title>
   <id></id>
-  <updated>2020-12-21 12:29:19.688050462 +0100 CET m=+200.973380943</updated>
+  <updated>2020-12-22 10:09:09.001493699 +0100 CET m=+229.981218099</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décision du 17 décembre 2020 portant désignation aux fonctions de secrétaire général adjoint du comité interministériel de prévention de la délinquance et de la radicalisation (CIPDR)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709484</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Pierre LAFFITE, magistrat, est désigné pour exercer les fonctions de secrétaire général adjoint du comité interministériel de prévention de la délinquance et de la radicalisation (CIPDR).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709484"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
   <entry>
     <title>Décision du 14 décembre 2020 modifiant la décision du 26 juin 2020 portant délégation de signature (direction générale de la gendarmerie nationale, direction des personnels militaires de la gendarmerie nationale)</title>
     <updated></updated>
@@ -42,18 +54,6 @@
     <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 4 de la décision du 30 juillet 2019 susvisée est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 4. - Délégation est donnée à Mme Christine Torres, administratrice civile, adjointe au sous-directeur des personnels, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables et ordonnances de délégation, dans la limite des attributions de la sous-direction des personnels. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 13 de la même décision, les mots : « à Mmes Marjorie Autain et Claire Lorcerie-Lesaint, attachées principales d&#39;administration de l&#39;Etat, » sont remplacés par les mots : « à Mme Marjorie Autain, attachée principale d&#39;administration de l&#39;Etat, ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 16 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 16. - Délégation est donnée à Mme Claire Wanderoild, administratrice civile, adjointe au sous-directeur du recrutement et de la formation et chef du bureau du pilotage de la politique de formation, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables, ordonnances de paiement et ordonnances de délégation, dans la limite des attributions de la sous-direction du recrutement et de la formation. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 20 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 20. - Délégation est donnée à Mmes Fanny Duportic et Sophie Boudjema, attachées d&#39;administration de l&#39;Etat, directement placées sous l&#39;autorité du chef du bureau du centre national de la formation, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous arrêtés, décisions, pièces comptables et ordonnances de délégation, dans la limite des attributions du bureau du centre national de la formation. »&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 22 de la même décision, les mots : « à Mme Nadira Douma, attachée principale d&#39;administration de l&#39;Etat, et » sont supprimés.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 23 de la même décision est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 23. - Délégation est donnée à Mme Marianne Pussiau, administratrice civile hors classe, adjointe à la sous-directrice de l&#39;action sociale et de l&#39;accompagnement du personnel, à l&#39;effet de signer, au nom du ministre de l&#39;intérieur, tous actes, arrêtés, décisions, pièces comptables, ordonnances de paiement et ordonnances de délégation, dans la limite des attributions de la sous-direction de l&#39;action sociale et de l&#39;accompagnement du personnel. »&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333"></link>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décision du 8 décembre 2020 modifiant la décision du 30 août 2018 modifiée portant délégation de signature (direction de l&#39;accueil, de l&#39;accompagnement des étrangers et de la nationalité)</title>
-    <updated></updated>
-    <id>JORFTEXT000042648945</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;intérieur</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le 3° du I (Direction) de l&#39;article 1er de la décision du 30 août 2018 susvisée est supprimé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le 12° du II (Sous-direction de l&#39;accès à la nationalité française) de l&#39;article 1er de la décision du 30 août 2018 susvisée est ainsi rédigé :&lt;br/&gt;« 12° M. Adrien Le Meur, attaché principal d&#39;administration de l&#39;Etat, adjoint au chef du bureau des décrets de naturalisation ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après le 12° du II (Sous-direction de l&#39;accès à la nationalité française) de l&#39;article 1er de la décision du 30 août 2018 susvisée, est ajouté un 13° :&lt;br/&gt;« 13° Mme Elodie Airaud, attachée principale d&#39;administration de l&#39;Etat, chef du bureau des affaires réservées et de la modernisation ».&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le III (Sous-direction de l&#39;accueil et de l&#39;accompagnement des étrangers) de l&#39;article 1er de la décision du 30 août 2018 susvisée est modifié comme suit :&lt;br/&gt;1° Au III, les mots : « Sous-direction de l&#39;accueil et de l&#39;accompagnement des étrangers » sont remplacés par les mots : « Sous-direction de l&#39;intégration des étrangers » ;&lt;br/&gt;2° Au 2°, les mots : « Mme Isabelle Ayrault, attachée d&#39;administration de l&#39;Etat hors classe » sont remplacés par les mots : « Mme Eugénie Marie, attachée principale d&#39;administration de l&#39;Etat » ;&lt;br/&gt;3° Au 3°, les mots : « M. François Pinel, attaché principal d&#39;administration de l&#39;Etat » sont remplacés par les mots : « M. Philippe Arrondeau, attaché d&#39;administration de l&#39;Etat » ;&lt;br/&gt;4° Au 6°, les mots : « M. Thierry Johnson, attaché principal d&#39;administration de l&#39;Etat, chef du bureau des ressources et de la synthèse » sont remplacés par les mots : « Mme Hatice Huyuk, attachée principale d&#39;administration de l&#39;Etat, chef du bureau des ressources et de la synthèse » ;&lt;br/&gt;5° Le 7° est ainsi rédigé :&lt;br/&gt;« 7° M. Matthieu Leblic, attaché principal d&#39;administration de l&#39;Etat, adjoint à la chef du bureau des ressources et de la synthèse, à compter du 15 décembre 2020. »&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648945"></link>
     <author>
       <name>Ministère de l&#39;intérieur</name>
     </author>

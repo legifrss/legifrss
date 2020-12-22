@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;économie-des-finances-et-de-la-relance - ARRETE</title>
   <id></id>
-  <updated>2020-12-21 12:29:19.612039204 +0100 CET m=+200.897369681</updated>
+  <updated>2020-12-22 10:09:08.989599946 +0100 CET m=+229.969324339</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,114 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 15 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société CM CREATION, fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042708992</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera six cent mille (600 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société CM CREATION (379 485 675).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société CM CREATION et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708992"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours interne pour le recrutement d&#39;administrateurs stagiaires de l&#39;Institut national de la statistique et des études économiques</title>
+    <updated></updated>
+    <id>JORFTEXT000042708997</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 16 décembre 2020, est autorisée au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours interne pour le recrutement d&#39;administrateurs stagiaires de l&#39;Institut national de la statistique et des études économiques.&lt;br/&gt;Le nombre total de places offertes sera fixé ultérieurement par arrêté du ministre de l&#39;économie, des finances et de la relance. Les ressortissants communautaires admis au concours n&#39;ont pas accès aux emplois dont les attributions soit ne sont pas séparables de l&#39;exercice de la souveraineté, soit comportent une participation directe ou indirecte à l&#39;exercice de prérogatives de puissance publique de l&#39;Etat ou des autres collectivités publiques.&lt;br/&gt;Les demandes d&#39;inscription sont effectuées par téléprocédure, du 4 janvier 2021 au 5 février 2021 à minuit, heure de métropole, sur le site internet de l&#39;INSEE à l&#39;adresse suivante : https://www.insee.fr, rubrique « Travailler à l&#39;INSEE : concours et offres d&#39;emploi/Liste et dates des concours/Administrateur ».&lt;br/&gt;En cas d&#39;impossibilité d&#39;effectuer cette démarche par internet, les candidats pourront obtenir une demande d&#39;inscription à compléter, en adressant un courrier par voie postale en recommandé avec accusé de réception au service concours de l&#39;INSEE au plus tard le 18 janvier 2021 le cachet de la poste faisant foi.&lt;br/&gt;Les dossiers d&#39;inscription doivent ensuite être envoyés à l&#39;adresse suivante : Institut national de la statistique et des études économiques, section concours et examens, timbre C 930, bureau 1-D-566, 88, avenue Verdier, CS 70058, 92541 Montrouge Cedex.&lt;br/&gt;La date limite d&#39;envoi de ces dossiers d&#39;inscription est fixée au 5 février 2021 (le cachet de la poste faisant foi), terme de rigueur.&lt;br/&gt;Ils peuvent être également déposés à la section concours et examens jusqu&#39;à 17 heures ce même jour.&lt;br/&gt;Aucun dossier posté hors délai ne sera pris en considération.&lt;br/&gt;Les épreuves d&#39;admissibilité auront lieu les 3 et 4 mars 2021 à Paris exclusivement.&lt;br/&gt;Les épreuves orales d&#39;admission auront lieu à partir du 18 mai 2021 à Paris exclusivement.&lt;br/&gt;La composition du jury fera l&#39;objet d&#39;un arrêté du ministre de l&#39;économie, des finances et de la relance.&lt;br/&gt;Pour toute demande de renseignements, les candidats peuvent s&#39;adresser à cette même adresse ou bien envoyer un courriel à concours@insee.fr. Les candidats peuvent également se renseigner sur les sites suivants : http://www.ensae.fr et http://www.insee.fr.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708997"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société FORGITAL FMDL SAS fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042708999</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera huit cent soixante-quinze mille (875 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société FORGITAL FMDL SAS (584 504 419).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société FORGITAL FMDL SAS et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708999"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société SAS NIMOTEL LA BRANDADE fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042709004</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera sept cent mille (700 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société SAS NIMOTEL LA BRANDADE (481 775 633).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société SAS NIMOTEL LA BRANDADE et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709004"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société SAS AP2E fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042709009</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera trois cent cinquante mille (350 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société SAS AP2E (491 649 067).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société SAS AP2E et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709009"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société FONDERIES DU NORD fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042709014</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera cinq cent cinquante mille (550 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société FONDERIES DU NORD (n° SIREN 446350118).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société FONDERIES DU NORD et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709014"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 21 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société ACAT LE HAVRE, fragilisée par la crise du covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042709019</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera quatre cent dix-huit mille (418 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société ACAT LE HAVRE (n° SIREN 348333287).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société ACAT LE HAVRE et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709019"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 21 octobre 2020 portant admission à la retraite (contrôle général économique et financier)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709470</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 21 octobre 2020, Mme Elisabeth Roure, contrôleur général de 2e classe, est admise, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er février 2021.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709470"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 novembre 2020 portant admission à la retraite (contrôle général économique et financier)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709472</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 16 novembre 2020, M. René-Marc Viala, chef de mission de contrôle général économique et financier, est admis, par limite d&#39;âge, à faire valoir ses droits à la retraite, à compter du 30 mars 2021.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709472"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
     <updated></updated>
@@ -546,222 +654,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du ministre de l&#39;économie, des finances et de la relance en date du 10 décembre 2020, Mme Fabienne DEBAUX, administratrice générale, est nommée sous-directrice, cheffe de l&#39;inspection des services à la direction générale des douanes et droits indirects, à l&#39;administration centrale du ministère de l&#39;économie, des finances et de la relance, à compter du 1er janvier 2021, pour une durée de trois ans avec une période probatoire de six mois.&lt;/p&gt;</content>
     <published>2020-12-12 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658274"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 3 décembre 2020 portant adaptation des épreuves de l&#39;examen professionnel pour l&#39;accès au corps des contrôleurs des douanes et droits indirects organisé au titre de l&#39;année 2020 en raison de la crise sanitaire née de l&#39;épidémie de covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648828</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions de l&#39;arrêté du 2 novembre 2012 susvisé sont adaptées dans les conditions prévues par le présent arrêté pour le déroulement des épreuves de l&#39;examen professionnel pour l&#39;accès au corps des contrôleurs des douanes et droits indirects organisé au titre de l&#39;année 2020 par arrêté du 31 janvier 2020 susvisé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application des dispositions de l&#39;article 1er de l&#39;arrêté du 2 novembre 2012 susvisé, l&#39;examen professionnel pour l&#39;accès au corps des contrôleurs des douanes et droits indirects comporte une épreuve unique d&#39;admission.&lt;br/&gt;L&#39;épreuve écrite d&#39;admissibilité prévue au I de l&#39;article 1er du même arrêté devient l&#39;épreuve unique d&#39;admission.&lt;br/&gt;Cette épreuve unique d&#39;admission est notée de 0 à 20. Toute note inférieure à 5 sur 20 est éliminatoire.&lt;br/&gt;L&#39;épreuve orale d&#39;admission prévue au II de l&#39;article 1er du même arrêté est suspendue.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;application des dispositions de l&#39;article 2 du même arrêté est suspendue.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;issue de l&#39;épreuve unique d&#39;admission, le jury établit par ordre de mérite, la liste des candidats admis. Il peut établir, dans les mêmes conditions, une liste complémentaire.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La directrice générale des douanes et droits indirects est chargée de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648828"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 3 décembre 2020 portant adaptation des épreuves du concours professionnel d&#39;avancement au grade de contrôleur principal des douanes et droits indirects organisé au titre de l&#39;année 2020 en raison de la crise sanitaire née de l&#39;épidémie de covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648843</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions de l&#39;arrêté du 31 décembre 2012 susvisé sont adaptées dans les conditions prévues par le présent arrêté pour le déroulement des épreuves du concours professionnel d&#39;avancement au grade de contrôleur principal des douanes et droits indirects organisé au titre de l&#39;année 2020 par arrêté du 11 mai 2020 susvisé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application des dispositions de l&#39;article 1er de l&#39;arrêté du 31 décembre 2012 susvisé, le concours professionnel d&#39;avancement au grade de contrôleur principal des douanes et droits indirects comporte une épreuve unique d&#39;admission.&lt;br/&gt;L&#39;épreuve écrite d&#39;admissibilité prévue au I de l&#39;article 1er du même arrêté devient l&#39;épreuve unique d&#39;admission.&lt;br/&gt;Cette épreuve unique d&#39;admission est notée de 0 à 20. Toute note inférieure à 5 sur 20 est éliminatoire.&lt;br/&gt;L&#39;épreuve orale d&#39;admission prévue au II de l&#39;article 1er du même arrêté est suspendue.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;application des dispositions de l&#39;article 2 du même arrêté est suspendue.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;issue de l&#39;épreuve unique d&#39;admission, le jury établit, par ordre de mérite, la liste des candidats admis. Il peut établir, dans les mêmes conditions, une liste complémentaire.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La directrice générale des douanes et droits indirects est chargée de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648843"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 3 décembre 2020 portant adaptation des épreuves des concours externe et interne d&#39;inspecteurs des douanes et droits indirects dans la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » organisés au titre de l&#39;année 2021 en raison de la crise sanitaire née de l&#39;épidémie de covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648858</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions de l&#39;arrêté du 21 juin 2004 susvisé sont adaptées dans les conditions prévues au présent arrêté pour les épreuves des concours externe et interne d&#39;inspecteurs des douanes et droits indirects dans la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » organisés au titre de l&#39;année 2021 ouverts par l&#39;arrêté du 22 juin 2020 susvisé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application des dispositions de l&#39;article 8 de l&#39;arrêté du 21 juin 2004 susvisé, le concours externe pour le recrutement d&#39;inspecteurs des douanes et droits indirects comporte au titre de la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » deux épreuves d&#39;admissibilité et trois épreuves d&#39;admission.&lt;br/&gt;Les épreuves d&#39;admissibilité n° 1 et n° 2 sont celles prévues au I de l&#39;article 8 du même arrêté.&lt;br/&gt;L&#39;épreuve d&#39;admissibilité n° 3 prévue au I de l&#39;article 8 est supprimée.&lt;br/&gt;L&#39;épreuve d&#39;admission n° 1 prévue au II de l&#39;article 8 du même arrêté est affectée du coefficient 2.&lt;br/&gt;L&#39;épreuve d&#39;admission n° 2 prévue au II de l&#39;article 8 du même arrêté est adaptée comme suit :&lt;br/&gt;(préparation : quinze minutes ; exposé et questions : quarante-cinq minutes ; coefficient 3) : interrogation portant sur l&#39;informatique.&lt;br/&gt;L&#39;épreuve se compose de deux parties :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- exposé sur un sujet parmi deux tirés au sort par le candidat, pendant une durée de cinq minutes ;&lt;br/&gt;- échange avec le jury à partir de l&#39;exposé et questionnement en rapport avec le sujet et/ou éventuellement le programme pendant quarante minutes.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute note inférieure à 10 sur 20 à cette épreuve est éliminatoire.&lt;br/&gt;L&#39;épreuve d&#39;admission n° 3 est celle prévue au II de l&#39;article 8 du même arrêté.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application des dispositions de l&#39;article 9 de l&#39;arrêté du 21 juin 2004 susvisé, le concours interne pour le recrutement d&#39;inspecteurs des douanes et droits indirects comporte au titre de la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » deux épreuves d&#39;admissibilité et trois épreuves d&#39;admission.&lt;br/&gt;Les épreuves d&#39;admissibilité n° 1 et n° 2 sont celles prévues au I de l&#39;article 9 du même arrêté.&lt;br/&gt;L&#39;épreuve d&#39;admissibilité n° 3 prévue au I de l&#39;article 9 est supprimée.&lt;br/&gt;L&#39;épreuve d&#39;admission n° 1 prévue au II de l&#39;article 9 du même arrêté est affectée du coefficient 2.&lt;br/&gt;L&#39;épreuve orale d&#39;admission n° 2 prévue au II de l&#39;article 9 du même arrêté est adaptée comme suit :&lt;br/&gt;(préparation : quinze minutes ; exposé et questions : quarante-cinq minutes ; coefficient 3) : interrogation portant sur l&#39;informatique.&lt;br/&gt;L&#39;épreuve se compose de deux parties :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- exposé sur un sujet parmi deux tirés au sort par le candidat, pendant une durée de cinq minutes ;&lt;br/&gt;- échange avec le jury à partir de l&#39;exposé et questionnement en rapport avec le sujet et/ou éventuellement le programme pendant quarante minutes.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute note inférieure à 10 sur 20 à cette épreuve est éliminatoire.&lt;br/&gt;L&#39;épreuve d&#39;admission n° 3 est celle prévue au II de l&#39;article 9 du même arrêté.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648858"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 3 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société MEUNIER SA, fragilisée par la crise du covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648875</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera un million deux cent mille (1 200 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société MEUNIER SA (309 825 156).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société MEUNIER SA et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648875"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 modifiant l&#39;arrêté du 18 décembre 2019 portant organisation de la direction du budget</title>
-    <updated></updated>
-    <id>JORFTEXT000042648880</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 2 de l&#39;arrêté du 18 décembre 2019 susviséest complété par un alinéa ainsi rédigé : &lt;br/&gt;« Elle contribue à la régulation du secteur des jeux d&#39;argent et de hasard. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648880"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société THURMELEC, fragilisée par la crise du covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648886</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera quatre cent quarante mille (440 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société THURMELEC (453 730 749).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société THURMELEC et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648886"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 portant délégation de signature des conseillers techniques de service social (secrétariat général du ministère de l&#39;économie, des finances et de la relance)</title>
-    <updated></updated>
-    <id>JORFTEXT000042648891</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les conseillers techniques régionaux de service social relevant d&#39;autorité hiérarchique de la sous-direction des politiques sociales et des conditions de travail du service des ressources humaines du secrétariat général dont les noms suivent en annexe, reçoivent délégation de signature à effet de les habiliter à signer les décisions d&#39;aides pécuniaires, de prêts sociaux et les décisions relevant du dispositif (aide et prêt) en faveur des agents victimes d&#39;un sinistre immobilier sauf en ce qui concerne les décisions dont ils seraient bénéficiaires directs.&lt;br/&gt;Cette délégation s&#39;étend aux décisions concernant les régions auxquelles ils ne sont pas spécifiquement rattachés, afin de permettre l&#39;organisation d&#39;une continuité de service.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 27 février 2017 modifié portant délégation de signature des conseillers techniques régionaux de service social (service des ressources humaines du secrétariat général) est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;LISTE DES CONSEILLERS TECHNIQUES RÉGIONAUX DU SERVICE SOCIAL&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mme Pascale Blanchon, conseillère technique régionale.&lt;br/&gt;Mme Martine Bonnerot, conseillère technique régionale.&lt;br/&gt;Mme Sylvie Chazal, conseillère technique régionale.&lt;br/&gt;Mme Christine Chieu, conseillère technique régionale.&lt;br/&gt;Mme Michèle Giresse, conseillère technique régionale.&lt;br/&gt;M. Patrice Lafolé, conseiller technique régional.&lt;br/&gt;Mme Isabelle Larbain, conseillère technique régionale.&lt;br/&gt;Mme Véronique Lebreton, conseillère technique régionale.&lt;br/&gt;Mme Béatrice Mourlane, conseillère technique régionale.&lt;br/&gt;Mme Véronique Sagliet, conseillère technique régionale.&lt;br/&gt;Mme Valérie Zachara, conseillère technique régionale.&lt;br/&gt;Mme Bariza Zoubir, conseillère technique régionale.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648891"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société DOM EAU PRESTIGE, fragilisée par la crise du covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648900</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera deux cent mille (200 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société DOM EAU PRESTIGE (401 258 504).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société DOM EAU PRESTIGE et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648900"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648905</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Oubayda KHAIBAR, né le 19 mars 1998 à Larache (Maroc), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau, 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance, 139, rue de Bercy, 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy, 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648905"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648909</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Azmi GUVEN, né le 1er juin 1952 à Mus (Turquie), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau, 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance, 139, rue de Bercy, 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy, 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648909"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648913</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Mehmet GUNERI, né le 31 octobre 1983 à Urfa (Turquie), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance, 139, rue de Bercy, 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy, 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648913"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648917</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Seyithan AKTAR, né le 15 juin 1980 à Varto (Turquie), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance, 139, rue de Bercy 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648917"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648921</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Emrah FIRAT, né le 15 décembre 1988 à Ozmangazi (Turquie), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau, 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance, 139, rue de Bercy, 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy, 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648921"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant application des articles L. 562-2 et suivants du code monétaire et financier</title>
-    <updated></updated>
-    <id>JORFTEXT000042648925</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre de l&#39;intérieur en date du 9 décembre 2020, vu le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072026&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code monétaire et financier (V)&#39;&gt;code monétaire et financier&lt;/a&gt;, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Faruk SOYLEMEZ, né le 2 septembre 1962 à Malazgirt (Turquie), font l&#39;objet d&#39;une mesure de gel des avoirs pour une durée de six mois.&lt;br/&gt;La mise à disposition, directe ou indirecte, et l&#39;utilisation de fonds ou ressources économiques au profit de cette personne sont interdites pour une durée de six mois.&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance et le ministre de l&#39;intérieur sont chargés, chacun en ce qui le concerne, de la mise en œuvre du présent arrêté qui entre en vigueur à la date de sa publication par extrait au Journal officiel de la République française.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Notification des voies et délais de recours&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté peut être contesté dans les deux mois à compter de sa notification :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- par recours gracieux adressé au ministre de l&#39;intérieur, direction des libertés publiques et des affaires juridiques, place Beauvau, 75800 Paris Cedex 08 ou au ministre de l&#39;économie, des finances et de la relance 139, rue de Bercy, 75572 Paris Cedex 12, télédoc 233, liste-nationale@dgtresor.gouv.fr ; ou&lt;br/&gt;- par recours contentieux auprès du tribunal administratif de Paris, 7, rue de Jouy, 75181 Paris Cedex 04, téléphone : 01-44-59-44-00, télécopie : 01-44-59-46-46, urgences télécopie référés : 01-44-59-44-99, greffe.ta-paris@juradm.fr.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648925"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société ELITE PARE-BRISE, fragilisée par la crise du covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042648929</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera sept cent mille (700 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société ELITE PARE-BRISE HANDLING (n° SIREN 799475116).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société ELITE PARE-BRISE et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042648929"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 2 décembre 2020 portant nomination d&#39;un commissaire du Gouvernement auprès de la Société interprofessionnelle artisanale de garantie immobilière (SIAGI)</title>
-    <updated></updated>
-    <id>JORFTEXT000042649133</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 2 décembre 2020, M. Bernard ZAKIA, contrôleur général économique et financier est nommé commissaire du Gouvernement auprès de la Société interprofessionnelle artisanale de garantie immobilière (SIAGI).&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649133"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 portant nomination à la commission d&#39;examen des pratiques commerciales</title>
-    <updated></updated>
-    <id>JORFTEXT000042649135</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance et du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des petites et moyennes entreprises, en date du 7 décembre 2020, M. Pierre PERROY, responsable des affaires juridiques de la Confédération du commerce de gros et international (&lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006069577&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général des impôts, CGI. (V)&#39;&gt;CGI&lt;/a&gt;), est nommé membre suppléant de la commission d&#39;examen des pratiques commerciales, au titre des représentants des grossistes et distributeurs, en remplacement de M. Hugues POUZIN, directeur général de la &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006069577&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général des impôts, CGI. (V)&#39;&gt;CGI&lt;/a&gt;, pour la durée du mandat restant à courir.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649135"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 portant nomination aux commissions intergouvernementales des tunnels routiers du Fréjus et du Mont-Blanc</title>
-    <updated></updated>
-    <id>JORFTEXT000042649139</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 7 décembre 2020, sont nommés membres des délégations françaises aux commissions intergouvernementales des tunnels routiers du Fréjus et du Mont-Blanc en tant que représentants du ministre chargé de l&#39;économie et des finances :&lt;br/&gt;Mme Isabelle BUI KHOI HUNG, administratrice civile hors classe, directrice de participations à l&#39;Agence des participations de l&#39;Etat, en qualité de membre titulaire ;&lt;br/&gt;M. Hugo BRUEL, administrateur civil, chargé de participations à l&#39;Agence des participations de l&#39;Etat, en qualité de membre suppléant.&lt;br/&gt;L&#39;arrêté du 29 mai 2019 portant nomination aux commissions intergouvernementales des tunnels routiers du Fréjus et du Mont-Blanc est abrogé.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649139"></link>
     <author>
       <name>Ministère de l&#39;économie, des finances et de la relance</name>
     </author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;agriculture-et-de-l&#39;alimentation - ARRETE</title>
   <id></id>
-  <updated>2020-12-21 12:29:19.631125055 +0100 CET m=+200.916455527</updated>
+  <updated>2020-12-22 10:09:08.923670743 +0100 CET m=+229.903395146</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,30 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 15 décembre 2020 homologuant le règlement technique annexe de la production, du contrôle et de la certification des semences de betteraves sucrières, fourragères et de chicorée industrielle</title>
+    <updated></updated>
+    <id>JORFTEXT000042709393</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le règlement technique annexe de la production, du contrôle et de la certification des semences de betteraves sucrières, fourragères et de chicorée industrielle est homologué. Ce règlement technique est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation et peut être consulté à l&#39;adresse suivante :&lt;br/&gt;http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-2296c599-dc3b-423f-ad35-26df94f368ad.&lt;br/&gt;Il peut être également consulté sur le site du service officiel de contrôle et de certification : www.gnis.fr.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 20 juillet 2020 homologuant le règlement technique annexe de la production, du contrôle et de la certification des semences de betteraves sucrières, fourragères et de chicorée industrielle est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709393"></link>
+    <author>
+      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 décembre 2020 relatif à la composition des dossiers de demande de renouvellement d&#39;autorisation de mise sur le marché arrivant à échéance, lorsque les modalités de renouvellement des produits phytopharmaceutiques prévues au paragraphe 2 de l&#39;article 43 du règlement (CE) n° 1107/2009 ne sont pas applicables</title>
+    <updated></updated>
+    <id>JORFTEXT000042709400</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Lorsque les modalités de renouvellement des autorisations de mise sur le marché des produits phytopharmaceutiques prévues au paragraphe 2 de l&#39;article 43 du règlement (CE) n° 1107/2009 susvisé ne sont pas applicables, la demande de renouvellement de l&#39;autorisation de mise sur le marché, mentionnée au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000030820688&amp;idArticle=JORFARTI000030820772&amp;categorieLien=cid&#39; title=&#39;DÉCRET n°2015-791 du 30 juin 2015 - art. 2 (V)&#39;&gt;I de l&#39;article 2 du décret n° 2015-791 du 30 juin 2015 susvisé&lt;/a&gt;, est accompagnée d&#39;un dossier qui comprend :&lt;br/&gt;1° Le formulaire relatif à une autorisation de mise sur le marché d&#39;un produit phytopharmaceutique, adjuvant ou produit mixte ;&lt;br/&gt;2° L&#39;attestation mentionnée au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000030820688&amp;idArticle=JORFARTI000030820772&amp;categorieLien=cid&#39; title=&#39;DÉCRET n°2015-791 du 30 juin 2015 - art. 2 (V)&#39;&gt;I de l&#39;article 2 du décret n° 2015-791 du 30 juin 2015 susvisé&lt;/a&gt; ;&lt;br/&gt;3° Les attestations prévues pour l&#39;instruction du dossier telles que précisées dans la notice explicative accompagnant le formulaire relatif à une autorisation de mise sur le marché d&#39;un produit phytopharmaceutique, adjuvant ou produit mixte ;&lt;br/&gt;4° La copie de la décision d&#39;autorisation de mise sur le marché du produit en France ;&lt;br/&gt;5° Le formulaire de composition intégrale du produit ;&lt;br/&gt;6° Les fiches de données de sécurité du produit et de ses composants ;&lt;br/&gt;7° Le projet d&#39;étiquette du produit.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Chaque dossier est présenté sous l&#39;une des formes suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- soit une version numérique transmise sur un support de stockage de données ;&lt;br/&gt;- soit une version numérique déposée sur une plateforme de téléchargement en un unique fichier compressé ;&lt;br/&gt;- soit un envoi par courriel en un unique fichier compressé.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La présentation du dossier respecte la nomenclature et la structuration mentionnées dans la notice accompagnant le formulaire de soumission.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 30 juillet 2015 relatif à la composition des dossiers de demande de renouvellement d&#39;autorisation de mise sur le marché arrivant à échéance, lorsque les modalités de renouvellement des produits phytopharmaceutiques prévues au paragraphe 2 de l&#39;article 43 du règlement (CE) n° 1107/2009 ne sont pas applicables, est abrogé.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709400"></link>
+    <author>
+      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant reconnaissance de la Société coopérative agricole (SCA) Coopérative EUREDEN en qualité d&#39;organisation de producteurs dans le secteur du lait de vache</title>
     <updated></updated>
@@ -642,66 +666,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;agriculture et de l&#39;alimentation en date du 1er décembre 2020, M. Dominique Riffard, inspecteur général de l&#39;agriculture de 1re classe, affecté au conseil général de l&#39;alimentation, de l&#39;agriculture et des espaces ruraux, est admis, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er février 2021.&lt;/p&gt;</content>
     <published>2020-12-12 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042658330"></link>
-    <author>
-      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 décembre 2020 portant homologation du cahier des charges du label rouge n° LA 13/97 « Lapin fermier »</title>
-    <updated></updated>
-    <id>JORFTEXT000042649061</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;Est homologué, à compter de la date de publication du présent arrêté au Journal officiel de la République française, le cahier des charges du label rouge n° LA 13/97 &#34; Lapin fermier &#34;.&lt;br/&gt;&#xA;Ce cahier des charges est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation et peut être consulté à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-018dbe58-b8dd-41a5-9e12-18d422e2cea1&#39; target=&#39;_blank&#39;&gt; http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-018dbe58-b8dd-41a5-9e12-18d422e2cea1&lt;/a&gt;.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est abrogé l&#39;arrêté du 13 juillet 2015 portant homologation du cahier des charges du label rouge LA n° 13-97 « Lapin ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649061"></link>
-    <author>
-      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 décembre 2020 portant homologation du cahier des charges du label rouge n° LA 02/20 « Pomme de terre de consommation à chair ferme »</title>
-    <updated></updated>
-    <id>JORFTEXT000042649067</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;Est homologué, à compter de la date de publication du présent arrêté au Journal officiel de la République française, le cahier des charges du label rouge n° LA 02/20 &#34; Pomme de terre de consommation à chair ferme &#34;.&lt;br/&gt;&#xA;Ce cahier des charges est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation et peut être consulté à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-cab85944-d968-4e48-afb6-fbeee4f92444&#39; target=&#39;_blank&#39;&gt; http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-cab85944-d968-4e48-afb6-fbeee4f92444&lt;/a&gt;.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649067"></link>
-    <author>
-      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 décembre 2020 portant homologation du cahier des charges du label rouge n° LA 07/09 « Noix de Saint-Jacques (Pecten maximus) fraîches ou surgelées »</title>
-    <updated></updated>
-    <id>JORFTEXT000042649071</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;Est homologué, à compter de la date de publication du présent arrêté au Journal officiel de la République française, le cahier des charges du label rouge n° LA 07/09 &#34; Noix de Saint-Jacques (Pecten maximus) fraîches ou surgelées .&lt;br/&gt;&#xA;Ce cahier des charges est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation et peut être consulté à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-5a166b73-939f-479f-a16a-2c918c99f484&#39; target=&#39;_blank&#39;&gt; http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-5a166b73-939f-479f-a16a-2c918c99f484&lt;/a&gt;.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est abrogé l&#39;arrêté du 22 octobre 2015 portant homologation du cahier des charges du label rouge LA n° 07-09 « Noix de Saint-Jacques (Pecten maximus) fraîches ou surgelées ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649071"></link>
-    <author>
-      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 décembre 2020 fixant le nombre de places offertes au titre de l&#39;année 2021 aux concours d&#39;accès à la deuxième et à la quatrième catégories des emplois de professeurs des établissements d&#39;enseignement agricole privés mentionnés à l&#39;article L. 813-8 du code rural et de la pêche maritime</title>
-    <updated></updated>
-    <id>JORFTEXT000042649077</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;agriculture et de l&#39;alimentation et du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, en date du 4 décembre 2020, le nombre total des places offertes aux concours d&#39;accès aux emplois de professeurs des établissements d&#39;enseignement agricole privés au titre de l&#39;année 2021 est fixé à 67 qui se répartissent comme suit :&lt;br/&gt;Accès à la deuxième catégorie :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- concours externe : 12 places ;&lt;br/&gt;- concours interne : 27 places.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Accès à la quatrième catégorie :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- concours externe : 8 places ;&lt;br/&gt;- concours interne : 20 places.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ces places sont réparties entre les différentes sections de la manière suivante :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours externe d&#39;accès à la deuxième catégorie&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mathématiques : 4 places ;&lt;br/&gt;Biologie-écologie : 4 places ;&lt;br/&gt;Sciences et techniques agronomiques :&lt;br/&gt;Option B : Productions végétales : 4 places.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours interne d&#39;accès à la deuxième catégorie&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Anglais : 5 places ;&lt;br/&gt;Histoire-géographie : 5 places ;&lt;br/&gt;Documentation : 4 places ;&lt;br/&gt;Mathématiques : 5 places ;&lt;br/&gt;Biologie-écologie : 4 places ;&lt;br/&gt;Sciences et techniques agronomiques :&lt;br/&gt;Option B : Productions végétales : 4 places.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours externe d&#39;accès à la quatrième catégorie&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Lettres-histoire : 4 places ;&lt;br/&gt;Sciences économiques et sociales, et gestion :&lt;br/&gt;Option A : Sciences économiques et gestion de l&#39;entreprise : 4 places.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours interne d&#39;accès à la quatrième catégorie&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Lettres-histoire : 4 places ;&lt;br/&gt;Education socioculturelle : 5 places ;&lt;br/&gt;Sciences économiques et sociales, et gestion :&lt;br/&gt;Option A : Sciences économiques et gestion de l&#39;entreprise : 5 places ;&lt;br/&gt;Option C : Sciences économiques et économie sociale et familiale : 6 places.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649077"></link>
-    <author>
-      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 relatif à l&#39;extension de l&#39;accord interprofessionnel conclu dans le cadre du Centre national interprofessionnel de l&#39;économie laitière portant création d&#39;une cotisation pour le financement d&#39;actions au bénéfice de la filière laitière de l&#39;Ouest (régions Bretagne et Pays de la Loire)</title>
-    <updated></updated>
-    <id>JORFTEXT000042649079</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;agriculture et de l&#39;alimentation</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions de l&#39;accord conclu le 12 novembre 2019 dans le cadre du Centre national interprofessionnel de l&#39;économie laitière, portant création d&#39;une cotisation pour le financement d&#39;actions au bénéfice de la filière laitière de l&#39;Ouest, sont étendues du 1er janvier 2021 au 31 décembre 2022 aux producteurs de lait de vache et aux entreprises collectrices de lait de vache de la filière laitière de l&#39;Ouest (régions Bretagne et Pays de la Loire).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;L&#39;accord est publié au Bulletin officiel du ministère de l&#39;agriculture et de l&#39;alimentation (BO Agri) et peut être consulté à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-09f30802-6b82-499b-b7b4-dc5e86d9b5fc&#39; target=&#39;_blank&#39;&gt; http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-09f30802-6b82-499b-b7b4-dc5e86d9b5fc&lt;/a&gt;.&lt;br/&gt;&#xA;Il peut également être consulté :&lt;/p&gt;&lt;p&gt;- au ministère de l&#39;agriculture et de l&#39;alimentation, bureau lait, produits laitiers et sélection animale, 3, rue Barbet-de-Jouy, 75349 Paris SP 07 ;&lt;br/&gt;&#xA;- au siège du Centre national interprofessionnel de l&#39;économie laitière, 42, rue de Châteaudun, 75009 Paris.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-11 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042649079"></link>
     <author>
       <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
     </author>

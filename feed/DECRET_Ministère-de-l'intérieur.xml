@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;intérieur - DECRET</title>
   <id></id>
-  <updated>2020-12-21 12:29:19.688378251 +0100 CET m=+200.973708729</updated>
+  <updated>2020-12-22 10:09:09.001255322 +0100 CET m=+229.980979730</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,30 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret du 9 décembre 2020 portant admission à la retraite d&#39;un préfet - M. LAMBERT (Pierre)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709480</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 9 décembre 2020, M. Pierre LAMBERT, préfet, est admis, après prolongation d&#39;activité, à faire valoir ses droits à la retraite à compter du 1er mars 2021.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709480"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 14 décembre 2020 portant admission à la retraite d&#39;un préfet - M. LALANNE (François)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709482</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;intérieur</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 14 décembre 2020, M. François LALANNE, préfet, est admis, à sa demande, à faire valoir ses droits à la retraite à compter du 1er mars 2021.&lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709482"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret n° 2020-1474 du 30 novembre 2020 fixant les modalités d&#39;organisation des concours et examens professionnels des cadres d&#39;emplois de sapeurs-pompiers professionnels (rectificatif)</title>
     <updated></updated>
