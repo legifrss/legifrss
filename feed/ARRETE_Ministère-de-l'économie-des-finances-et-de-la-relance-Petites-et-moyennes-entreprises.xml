@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;économie-des-finances-et-de-la-relance-Petites-et-moyennes-entreprises - ARRETE</title>
   <id></id>
-  <updated>2020-12-22 10:09:09.000674325 +0100 CET m=+229.980398730</updated>
+  <updated>2020-12-23 08:26:58.573223291 +0100 CET m=+224.416383580</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 portant nomination au cabinet du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des petites et moyennes entreprises</title>
+    <updated></updated>
+    <id>JORFTEXT000042723314</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance/Petites et moyennes entreprises</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Romain DESAIX est nommé conseiller en charge des services et de l&#39;innovation entrepreneuriale au cabinet du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des petites et moyennes entreprises, à compter du 14 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723314"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Petites et moyennes entreprises</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 relatif à la cession d&#39;actif de la société coopérative de production IMPRIMERIE HELIO CORBEIL</title>
     <updated></updated>

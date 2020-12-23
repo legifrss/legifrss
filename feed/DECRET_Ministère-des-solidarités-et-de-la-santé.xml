@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-des-solidarités-et-de-la-santé - DECRET</title>
   <id></id>
-  <updated>2020-12-22 10:09:08.963926669 +0100 CET m=+229.943651069</updated>
+  <updated>2020-12-23 08:26:58.502465537 +0100 CET m=+224.345625827</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret n° 2020-1643 du 22 décembre 2020 modifiant le décret n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</title>
+    <updated></updated>
+    <id>JORFTEXT000042722634</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère des solidarités et de la santé</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;I. - Le décret du 29 octobre 2020 susvisé est ainsi modifié :&lt;br/&gt;1° Le I de l&#39;article 40 est ainsi modifié :&lt;br/&gt;a) Au septième alinéa, les mots : « et de vente à emporter » sont supprimés ;&lt;br/&gt;b) Le I est complété par un alinéa ainsi rédigé :&lt;br/&gt;« Ces établissements peuvent en outre accueillir du public pour les besoins de la vente à emporter entre 6 heures et 20 heures. » ;&lt;br/&gt;2° Au septième alinéa du I de l&#39;article 45, après le mot : « périscolaires, », sont insérés les mots : « ainsi que les activités encadrées à destination exclusive des personnes mineures, » ;&lt;br/&gt;3° A l&#39;article 55, les mots : « , dans la rédaction de ce décret en vigueur au 29 octobre 2020, sauf pour le V de l&#39;article 6, qui leur est applicable dans sa rédaction en vigueur au 11 novembre 2020 » sont supprimés ;&lt;br/&gt;4° L&#39;article 56-2 est complété par quatre alinéas ainsi rédigés :&lt;br/&gt;« A compter du 23 décembre 2020 à zéro heure et jusqu&#39;au 6 janvier 2021 inclus, toute personne arrivant en France en provenance du Royaume-Uni présente, à l&#39;entreprise de transport, avant son embarquement :&lt;br/&gt;« 1° Une déclaration sur l&#39;honneur attestant qu&#39;elle ne présente pas de symptôme d&#39;infection au covid-19 et qu&#39;elle n&#39;a pas connaissance d&#39;avoir été en contact avec un cas confirmé de covid-19 dans les quatorze jours précédant son trajet ;&lt;br/&gt;« 2° Si elle est âgée de onze ans ou plus, le résultat d&#39;un test ou d&#39;un examen biologique de dépistage virologique réalisé moins de 72 heures avant l&#39;embarquement ne concluant pas à une contamination par le covid-19. Les seuls tests antigéniques pouvant être valablement présentés pour l&#39;application du présent 2° sont ceux permettant la détection de la protéine N du SARS-CoV-2.&lt;br/&gt;« Sans préjudice des sanctions pénales prévues à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006687899&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. L3136-1 (M)&#39;&gt;article L. 3136-1 du code de la santé publique&lt;/a&gt;, à défaut de présentation de ces documents, l&#39;embarquement est refusé et la personne est reconduite à l&#39;extérieur des espaces concernés. ».&lt;br/&gt;II. - Les dispositions du présent décret sont applicables aux collectivités de l&#39;article 74 de la Constitution et à la Nouvelle-Calédonie dans les mêmes conditions que les dispositions du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042475143&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1310 du 29 octobre 2020 (V)&#39;&gt;décret du 29 octobre 2020 susvisé&lt;/a&gt; qu&#39;elles modifient.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur, le ministre des outre-mer et le ministre des solidarités et de la santé sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française et entrera en vigueur immédiatement.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722634"></link>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret n° 2020-1629 du 21 décembre 2020 relatif au plan d&#39;actions pluriannuel régional d&#39;amélioration de la pertinence des soins</title>
     <updated></updated>

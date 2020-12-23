@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - DELIBERATION</title>
   <id></id>
-  <updated>2020-12-22 10:09:08.836970664 +0100 CET m=+229.816695059</updated>
+  <updated>2020-12-23 08:26:58.381001268 +0100 CET m=+224.224161565</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,42 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Délibération n° 2020/CA/34 du 8 décembre 2020 modifiant le règlement général des aides financières du Centre national du cinéma et de l&#39;image animée et relative à la possibilité d&#39;investissement des sommes inscrites sur les comptes automatiques pour besoins de trésorerie liés à l&#39;épidémie de covid-19</title>
+    <updated></updated>
+    <id>JORFTEXT000042722624</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la culture</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après l&#39;article 911-1, il est inséré un article 911-1-1 ainsi rédigé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 911-1-1. - Jusqu&#39;à la date de cessation de l&#39;état d&#39;urgence sanitaire déclaré par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000042424377&amp;idArticle=JORFARTI000042424379&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1257 du 14 octobre 2020 - art. 1 (V)&#39;&gt;article 1er du décret n° 2020-1257 du 14 octobre 2020&lt;/a&gt; déclarant l&#39;état d&#39;urgence sanitaire et prorogé jusqu&#39;au 16 février 2021 inclus par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000042520662&amp;idArticle=JORFARTI000042520663&amp;categorieLien=cid&#39; title=&#39;LOI n°2020-1379 du 14 novembre 2020 - art. 1 (V)&#39;&gt;article 1er de la loi n° 2020-1379 du 14 novembre 2020&lt;/a&gt; autorisant la prorogation de l&#39;état d&#39;urgence sanitaire et portant diverses mesures de gestion de la crise sanitaire, les sommes inscrites sur les comptes automatiques mentionnés aux articles 211-22, 221-6, 232-5, 232-8, 232-9, 311-26, 611-9 et 721-11 ouverts respectivement au nom des entreprises de production d&#39;œuvres cinématographiques, au nom des entreprises de distribution d&#39;œuvres cinématographiques, au titre des établissements de spectacles cinématographiques, au nom des entreprises de production d&#39;œuvres audiovisuelles, au nom des éditeurs de vidéogrammes et au nom des entreprises de vente à l&#39;étranger peuvent être investies pour faire face à des besoins de liquidité pressants découlant directement des conséquences de l&#39;épidémie de covid-19, lorsque le titulaire d&#39;un ou plusieurs de ces comptes fait l&#39;objet d&#39;une procédure de sauvegarde ou de redressement judiciaire.&lt;br/&gt;« Les sommes inscrites sur le compte automatique du titulaire concerné peuvent être investies dans la limite de 50 % de leur montant.&lt;br/&gt;« L&#39;investissement des sommes est subordonné à une autorisation du président du Centre national du cinéma et de l&#39;image animée.&lt;br/&gt;« Pour l&#39;obtention de l&#39;autorisation, le titulaire du compte justifie qu&#39;il a été particulièrement touché par les conséquences économiques et financières de l&#39;épidémie de covid-19 et des mesures prises pour en éviter la propagation. Il indique les conditions dans lesquelles l&#39;entreprise a été placée en procédure de sauvegarde ou de redressement judiciaire. La situation du titulaire du compte est appréciée en tenant compte des mesures de soutien mises en place par l&#39;Etat dont il a bénéficié. Il sera également tenu compte des conditions dans lesquelles il envisage la poursuite de l&#39;activité de l&#39;entreprise et de ses projets dans le cadre de la procédure de sauvegarde ou de redressement judiciaire dont elle fait l&#39;objet et postérieurement à la période mentionnée au premier alinéa.&lt;br/&gt;« Le titulaire du compte remplit, par voie électronique, un formulaire de demande établi par le Centre national du cinéma et de l&#39;image animée. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente délibération sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722624"></link>
+    <author>
+      <name>Ministère de la culture</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
+    <updated></updated>
+    <id>JORFTEXT000042723438</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 16 décembre 2020, le Conseil supérieur de l&#39;audiovisuel a décidé, en application de l&#39;article 30-5 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, au regard des impératifs prioritaires mentionnés au sixième alinéa de l&#39;article 29 de la même loi, d&#39;autoriser la SARL Don&#39;s Music à diffuser par voie hertzienne terrestre un service de sonorisation « drive-in » dans le cadre d&#39;un spectacle Comedy Show, le 20 décembre 2020.&lt;br/&gt;Site : parking Hyper U, ZI Collery, 97300 Cayenne.&lt;br/&gt;Puissance apparente rayonnée (PAR) : 5 Watts.&lt;br/&gt;Fréquence : 102,5 MHz.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723438"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
+    <updated></updated>
+    <id>JORFTEXT000042723440</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Conseil supérieur de l&#39;audiovisuel</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 16 décembre 2020, le Conseil supérieur de l&#39;audiovisuel a décidé, en application de l&#39;article 30-5 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, au regard des impératifs prioritaires mentionnés au sixième alinéa de l&#39;article 29 de la même loi, d&#39;autoriser l&#39;Office de la culture du Lamentin à diffuser par voie hertzienne terrestre un service de sonorisation « drive-in » les 18 et 19 décembre 2020.&lt;br/&gt;Site : parking du stade Georges Gratiant, place d&#39;Armes, 97232 Le Lamentin.&lt;br/&gt;Puissance apparente rayonnée (PAR) : 5 Watts.&lt;br/&gt;Fréquence : 88,3 MHz.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723440"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
   <entry>
     <title>Délibération n° 2020-295 du 9 décembre 2020 portant décision sur l&#39;évolution du revenu autorisé des opérateurs de stockage souterrain de gaz naturel Storengy, Teréga et Géométhane pour l&#39;année 2021</title>
     <updated></updated>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;enseignement-supérieur-de-la-recherche-et-de-l&#39;innovation - DECRET</title>
   <id></id>
-  <updated>2020-12-22 10:09:08.926988401 +0100 CET m=+229.906712815</updated>
+  <updated>2020-12-23 08:26:58.579614549 +0100 CET m=+224.422774845</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,42 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
+    <updated></updated>
+    <id>JORFTEXT000042723279</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020, M. Nicolas WINSSINGER, professeur des universités (32e section) à l&#39;université de Strasbourg, est radié des cadres pour abandon de poste, à compter du 1er août 2020.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723279"></link>
+    <author>
+      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
+    <updated></updated>
+    <id>JORFTEXT000042723281</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020 :&lt;br/&gt;1° La démission des professeurs des universités dont les noms suivent, affectés dans les établissements d&#39;enseignement supérieur désignés ci-après, est acceptée à compter des dates précisées. Les intéressés sont radiés des cadres à la même date.&lt;br/&gt;a) A compter du 1er août 2020 :&lt;br/&gt;M. Pierluigi CRESCENZI (27e section), Université de Paris ;&lt;br/&gt;b) A compter du 1er septembre 2020 :&lt;br/&gt;Mme Angélique BONNAUD (16e section), Université de Nantes ;&lt;br/&gt;M. Michel BENOÎT (60e section), Ecole centrale de Marseille ;&lt;br/&gt;c) A compter du 1er novembre 2020 :&lt;br/&gt;Mme Luisa DE COLA (31e section), Université de Strasbourg ;&lt;br/&gt;2° Les professeurs des universités dont les noms suivent, en disponibilité pour convenances personnelles, sont réintégrés, pour ordre, dans leur corps d&#39;origine et radiés des cadres aux dates précisées ci-après :&lt;br/&gt;a) A compter du 1er juin 2020 :&lt;br/&gt;Mme Françoise DARSES-DE MONTMOLLIN (16e section), Université Paris-Saclay ;&lt;br/&gt;b) A compter du 1er septembre 2020 :&lt;br/&gt;M. Alain SCHATT (6e section), Université de Dijon ;&lt;br/&gt;Mme Bénédicte VAUTHIER (14e section), Université de Tours ;&lt;br/&gt;M. Serge SULTAN (16e section), Université de Paris.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723281"></link>
+    <author>
+      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant retrait d&#39;une nomination de professeurs associés des universités (disciplines médicales)</title>
+    <updated></updated>
+    <id>JORFTEXT000042723283</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020, les dispositions du décret du 22 octobre 2020 portant nomination de professeurs associés des universités (disciplines médicales) sont retirées en ce qui concerne Mme RUGGIERI PARK Julie, l&#39;intéressée ayant renoncé à prendre ses fonctions de professeur associé des universités à temps plein sur emploi du contingent national auprès de l&#39;unité de formation et de recherche de médecine relevant de l&#39;université de Paris-Saclay.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723283"></link>
+    <author>
+      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination, titularisation et affectation (enseignements supérieurs)</title>
     <updated></updated>

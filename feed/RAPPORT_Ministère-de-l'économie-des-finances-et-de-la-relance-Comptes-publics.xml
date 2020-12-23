@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;économie-des-finances-et-de-la-relance-Comptes-publics - RAPPORT</title>
   <id></id>
-  <updated>2020-12-22 10:09:08.984359466 +0100 CET m=+229.964083869</updated>
+  <updated>2020-12-23 08:26:58.523612529 +0100 CET m=+224.366772806</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,30 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Rapport relatif au décret n° 2020-1648 du 22 décembre 2020 portant virement de crédits</title>
+    <updated></updated>
+    <id>JORFTEXT000042723077</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 468 453 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 220 « Statistiques et études économiques » de la mission « Économie » vers le programme 134 « Développement des entreprises et régulations » de la mission « Economie ».&lt;br/&gt;Ce virement est destiné au financement d&#39;une aide à la filière équestre, pour un total de 8 millions d&#39;euros. Ces crédits ont été ouverts à cette fin sur la mission « Economie » en commission mixte paritaire lors de l&#39;élaboration du texte de la quatrième loi de finances rectificative pour 2020.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723077"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rapport relatif au décret n° 2020-1649 du 22 décembre 2020 portant virement de crédits</title>
+    <updated></updated>
+    <id>JORFTEXT000042723086</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance/Comptes publics</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 23 000 000 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 230 « Vie de l&#39;élève » de la mission « Enseignement scolaire » vers le programme 139 « Enseignement privé du premier et du second degrés » de la mission « Enseignement scolaire ».&lt;br/&gt;Ce décret de virement est destiné au redéploiement des crédits de personnel dans le cadre des travaux de fin de gestion.&lt;/p&gt;</content>
+    <published>2020-12-23 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723086"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
   <entry>
     <title>Rapport relatif au décret n° 2020-1604 du 15 décembre 2020 portant virement de crédits</title>
     <updated></updated>
