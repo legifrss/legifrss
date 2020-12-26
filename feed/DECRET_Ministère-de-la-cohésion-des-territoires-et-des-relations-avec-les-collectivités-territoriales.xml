@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales - DECRET</title>
   <id></id>
-  <updated>2020-12-23 08:26:58.588540196 +0100 CET m=+224.431700520</updated>
+  <updated>2020-12-26 09:18:37.16306653 +0100 CET m=+238.552289788</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -11,6 +11,18 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Décret du 22 décembre 2020 portant nomination au comité des finances locales institué par l&#39;article L. 1211-1 du code général des collectivités territoriales</title>
+    <updated></updated>
+    <id>JORFTEXT000042731591</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret en date du 22 décembre 2020, sont désignés au comité des finances locales, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070633&amp;idArticle=LEGIARTI000006389111&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général des collectivités territoriales - art. L1211-2 (V)&#39;&gt;article L. 1211-2 du code général des collectivités territoriales&lt;/a&gt; :&lt;br/&gt;Mme Adélie RAYNAGUET, adjointe au chef du bureau des concours financiers de l&#39;Etat à la direction générale des collectivités locales au ministère de la cohésion des territoires et des relations avec les collectivités territoriales, en qualité de représentante de l&#39;Etat au comité des finances locales, en remplacement de Mme Béatrice MARCHAL ;&lt;br/&gt;M. Sébastien SIMOES, adjoint au sous-directeur des finances locales et de l&#39;action économique à la direction générale des collectivités locales au ministère de la cohésion des territoires et des relations avec les collectivités territoriales, en qualité de suppléant de M. Arnaud MENGUY, en remplacement de M. Etienne BRUN-ROVET.&lt;/p&gt;</content>
+    <published>2020-12-24 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731591"></link>
+    <author>
+      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
+    </author>
+  </entry>
+  <entry>
     <title>Décret n° 2020-1622 du 18 décembre 2020 relatif aux modalités de versement de l&#39;aide financière exceptionnelle pour le recrutement d&#39;apprentis par les collectivités territoriales et les établissements publics en relevant</title>
     <updated></updated>
     <id>JORFTEXT000042702330</id>
@@ -18,18 +30,6 @@
     <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les collectivités territoriales et leurs établissements publics perçoivent une aide exceptionnelle forfaitaire de 3 000 euros versée en une seule fois pour chaque contrat d&#39;apprentissage conclu entre le 1er juillet 2020 et le 28 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agence de services et de paiement assure pour le compte de l&#39;Etat la gestion administrative, technique et financière de l&#39;aide exceptionnelle versée aux collectivités territoriales et aux établissements publics en relevant pour chaque contrat d&#39;apprentissage conclu pendant la période visée à l&#39;article 1er suivant les modalités prévues par voie de convention en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000033668906&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D313-15 (V)&#39;&gt;article D. 313-15 du code rural et de la pêche maritime&lt;/a&gt;.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent décret s&#39;appliquent aux contrats d&#39;apprentissage conclus entre le 1er juillet 2020 et le 28 février 2021.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance, la ministre du travail, de l&#39;emploi et de l&#39;insertion, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-20 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702330"></link>
-    <author>
-      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret n° 2020-1575 du 11 décembre 2020 relatif à l&#39;habilitation et à l&#39;assermentation des agents des collectivités territoriales en application de l&#39;article L. 541-44-1 du code de l&#39;environnement</title>
-    <updated></updated>
-    <id>JORFTEXT000042659981</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après la sous-section 6 de la section 7 du chapitre Ier du titre IV du livre V de la partie réglementaire du code de l&#39;environnement, il est inséré une sous-section 7 ainsi rédigée : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Sous-section 7&lt;br/&gt;« Habilitation et assermentation des agents des collectivités territoriales &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. R. 541-85-1.-L&#39;habilitation des agents des collectivités territoriales pour constater les infractions prévues aux articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&amp;idArticle=LEGIARTI000006419531&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code pénal - art. R632-1 (V)&#39;&gt;R. 632-1&lt;/a&gt;, R. 634-2 et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&amp;idArticle=LEGIARTI000006419546&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code pénal - art. R635-8 (M)&#39;&gt;R. 635-8 &lt;/a&gt;du code pénal est délivrée par l&#39;autorité de nomination. &lt;br/&gt;« Cette autorité vérifie que l&#39;agent a suivi une formation, notamment de droit pénal et de procédure pénale, et dispose des compétences techniques et juridiques nécessaires. &lt;br/&gt;« La décision d&#39;habilitation précise l&#39;objet de l&#39;habilitation. &lt;br/&gt;« Lorsque l&#39;agent ne remplit plus les conditions prévues au deuxième alinéa ou que son comportement se révèle incompatible avec le bon exercice de ses missions, l&#39;habilitation peut être suspendue ou retirée. Le procureur de la République du tribunal judiciaire de la résidence administrative de l&#39;agent est informé de la décision de suspension ou de retrait. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. R. 541-85-2.-Les agents désignés conformément aux dispositions de l&#39;article R. 541-85-1 prêtent serment devant le tribunal judiciaire de leur résidence administrative, au siège de ce tribunal ou, le cas échéant, de l&#39;une de ses chambres de proximité. Un procès-verbal en est dressé et une copie remise à l&#39;intéressé. &lt;br/&gt;« La formule du serment est la suivante : &lt;br/&gt;« “ Je jure et promets de bien et loyalement remplir mes fonctions et d&#39;observer en tout les devoirs qu&#39;elles m&#39;imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l&#39;occasion de l&#39;exercice de mes fonctions. ” &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. R. 541-85-3.-L&#39;autorité chargée de l&#39;habilitation délivre à l&#39;agent une carte d&#39;habilitation qui comporte la photo de son titulaire, mentionne ses nom et prénom ainsi que ses attributions. Elle atteste de son assermentation. L&#39;agent est muni de sa carte d&#39;habilitation lorsqu&#39;il exerce les missions définies à l&#39;article R. 541-85-1. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le garde des sceaux, ministre de la justice, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-13 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042659981"></link>
     <author>
       <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales</name>
     </author>
