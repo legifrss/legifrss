@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - decret</title>
-  <id></id>
-  <updated>2020-12-16 13:25:08.283128832 +0100 CET m=+229.221493687</updated>
-  <category>French Law</category>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:00:53+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,73 +10,144 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>Décret n° 2020-1586 du 15 décembre 2020 relatif à l&#39;entrée en vigueur immédiate d&#39;un arrêté</title>
-    <updated></updated>
-    <id>JORFTEXT000042671814</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Premier ministre</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Entre en vigueur immédiatement, à compter de sa publication au Journal officiel de la République française, l&#39;arrêté du 15 décembre 2020 modifiant l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française et entrera en vigueur immédiatement.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042671814"></link>
+    <title>Décret du 24 décembre 2020 portant promotion (chambres régionales des comptes)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743057</id>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Premier ministre en date du 24 décembre 2020, les premiers conseillers de chambre régionale des comptes dont les noms suivent sont promus présidents de section de chambre régionale des comptes dans les conditions indiquées ci-après :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;N°&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOM et prénom&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Date d&#39;effet&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LEGLASTIN Frédéric&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/02/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LE GALL Jean-Marc&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;3&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;CECCHI Sébastien&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;PLANTARD Patrick&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/04/2021&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <published>2020-12-27T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743057"></link>
     <author>
       <name>Premier ministre</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 14 décembre 2020 portant recul de limite d&#39;âge à titre personnel, mise à la retraite et maintien en activité (Cour des comptes) - M. BASSET (Jacques)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672181</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 14 décembre 2020, M. Jacques BASSET, conseiller maître à la Cour des comptes, bénéficie d&#39;un recul de limite d&#39;âge d&#39;un an à compter du 3 janvier 2021 et est autorisé à ce titre à poursuivre son activité jusqu&#39;au 2 janvier 2022.&lt;br/&gt;A compter du 3 janvier 2022, M. Jacques BASSET est admis à faire valoir ses droits à la retraite, par limite d&#39;âge.&lt;br/&gt;M. Jacques BASSET est, sur sa demande, maintenu en activité au-delà de la limite d&#39;âge dans les conditions fixées par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000693693&amp;idArticle=LEGIARTI000006450488&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 86-1304 du 23 décembre 1986 - art. 1 (V)&#39;&gt;article 1er de la loi n° 86-1304 du 23 décembre 1986&lt;/a&gt; modifiée relative à la limite d&#39;âge et aux modalités de recrutement de certains fonctionnaires pour la période du 3 janvier 2022 au 2 juin 2023 inclus.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672181"></link>
+    <title>Décret n° 2020-1650 du 23 décembre 2020 relatif à l&#39;entrée en vigueur immédiate de trois arrêtés</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730151</id>
+    <content type=""></content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730151"></link>
     <author>
       <name>Premier ministre</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 14 décembre 2020 portant admission à la retraite et maintien en activité (Cour des comptes)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672184</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 14 décembre 2020, M. Gérard TERRIEN, président de chambre à la Cour des comptes, est admis à faire valoir ses droits à la retraite, par limite d&#39;âge, à compter du 15 juillet 2021.&lt;br/&gt;M. Gérard TERRIEN est, sur sa demande, maintenu en activité au-delà de la limite d&#39;âge dans les conditions fixées par l&#39;article 1er de la loi du 23 décembre 1986 modifiée relative à la limite d&#39;âge et aux modalités de recrutement de certains fonctionnaires civils de l&#39;Etat, pour la période du 15 juillet 2021 au 14 décembre 2022 inclus.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672184"></link>
+    <title>Décret du 21 décembre 2020 portant nomination d&#39;un conseiller maître en service extraordinaire à la Cour des comptes - M. SCHENBERG (Rémi)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723149</id>
+    <content type=""></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723149"></link>
     <author>
       <name>Premier ministre</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 15 décembre 2020 portant nomination d&#39;un membre de l&#39;Autorité de sûreté nucléaire - Mme PINA JOMIR (Géraldine)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672186</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 15 décembre 2020, Mme Géraldine PINA JOMIR est nommée membre du collège de l&#39;Autorité de sûreté nucléaire au titre de membre désigné par le Président de la République.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672186"></link>
+    <title>Décret du 21 décembre 2020 portant réintégration et radiation des cadres (Cour des comptes) - M. GIRRE (Xavier)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723153</id>
+    <content type=""></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723153"></link>
     <author>
       <name>Premier ministre</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 3 décembre 2020 portant radiation des cadres (corps des administrateurs civils)</title>
-    <updated></updated>
-    <id>JORFTEXT000042613292</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 3 décembre 2020, la démission de M. Cyrille BERNADIN, administrateur civil, affecté à la Caisse des dépôts et consignations, est acceptée, à compter du 1er décembre 2020.&lt;br/&gt;A compter de la même date, M. Cyrille BERNADIN est radié du corps des administrateurs civils.&lt;br/&gt;L&#39;intéressé est astreint à verser au Trésor public la somme prévue à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000029762859&amp;idArticle=JORFARTI000029762864&amp;categorieLien=cid&#39; title=&#39;DÉCRET n°2014-1370 du 14 novembre 2014 - art. 1 (V)&#39;&gt;article 1er du décret n° 2014-1370 du 14 novembre 2014&lt;/a&gt; modifié relatif à la rupture de l&#39;engagement de servir des anciens élèves de l&#39;Ecole nationale d&#39;administration.&lt;/p&gt;</content>
-    <published>2020-12-05 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613292"></link>
+    <title>Décret du 21 décembre 2020 portant nomination (Cour des comptes) - M. CAIANI (Patrick)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723156</id>
+    <content type=""></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723156"></link>
     <author>
       <name>Premier ministre</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 3 décembre 2020 portant nomination (chambres régionales des comptes)</title>
-    <updated></updated>
-    <id>JORFTEXT000042613295</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Premier ministre</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 3 décembre 2020, M. Jean-Marc ANDRE, administrateur civil hors classe, est nommé, durant la durée de son détachement, premier conseiller du corps des magistrats de chambre régionale des comptes, à compter du 30 décembre 2020.&lt;/p&gt;</content>
-    <published>2020-12-05 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042613295"></link>
+    <title>Décret du 21 décembre 2020 portant nomination (chambres régionales des comptes)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723158</id>
+    <content type=""></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723158"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant radiation des cadres (corps des administrateurs civils)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723160</id>
+    <content type=""></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723160"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 21 décembre 2020 portant nomination au Conseil supérieur des chambres régionales des comptes - M. LACHKAR (Jean)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709458</id>
+    <content type=""></content>
+    <published>2020-12-22T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709458"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 18 décembre 2020 portant admission à la retraite et maintien en activité (Cour des comptes) - Mme PITTET Marie</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702601</id>
+    <content type=""></content>
+    <published>2020-12-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702601"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 décembre 2020 portant cessation de fonctions et admission à la retraite (Cour des comptes) - Mme RENONDIN (Catherine)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700750</id>
+    <content type=""></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700750"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 décembre 2020 portant nomination (chambres régionales des comptes)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700752</id>
+    <content type=""></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700752"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1591 du 16 décembre 2020 portant dissolution de l&#39;Institut national des hautes études de la sécurité et de la justice</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677075</id>
+    <content type=""></content>
+    <published>2020-12-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677075"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1592 du 16 décembre 2020 tirant les conséquences de la dissolution de l&#39;Institut national des hautes études de la sécurité et de la justice</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677128</id>
+    <content type=""></content>
+    <published>2020-12-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677128"></link>
     <author>
       <name>Premier ministre</name>
     </author>

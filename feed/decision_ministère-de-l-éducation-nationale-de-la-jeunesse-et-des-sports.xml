@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports - decision</title>
-  <id></id>
-  <updated>2020-12-16 13:25:08.264257894 +0100 CET m=+229.202622754</updated>
-  <category>French Law</category>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:00:53+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,25 +10,23 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>Décision du 24 novembre 2020 portant délégation de signature (direction générale des ressources humaines)</title>
-    <updated></updated>
-    <id>JORFTEXT000042614367</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à M. Sébastien CALLUT, attaché d&#39;administration hors classe, chef du bureau des IA-IPR et des IEN, à l&#39;effet de signer, au nom du ministre chargé de l&#39;éducation nationale, de la jeunesse et des sports, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets, dans la limite des attributions du bureau des IA-IPR et des IEN.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-06 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614367"></link>
+    <title>Décision du 14 décembre 2020 modifiant la décision du 28 mai 2019 portant délégation de signature (direction des affaires financières)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730336</id>
+    <content type=""></content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730336"></link>
     <author>
       <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</name>
     </author>
   </entry>
   <entry>
-    <title>Décision du 24 novembre 2020 portant délégation de signature (secrétariat général)</title>
-    <updated></updated>
-    <id>JORFTEXT000042614372</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;éducation nationale, de la jeunesse et des sports</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à Mme Murielle TESSIER SOYER, ingénieure de recherche de 1re classe, adjointe au chef du bureau de la gestion prévisionnelle et du dialogue social au sein du service de l&#39;action administrative et des moyens, à l&#39;effet de signer, au nom du ministre chargé de l&#39;éducation nationale, de la jeunesse et des sports, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets, dans la limite des attributions du bureau de la gestion prévisionnelle et du dialogue social.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-06 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042614372"></link>
+    <title>Décision du 8 décembre 2020 portant délégation de signature (secrétariat général)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700038</id>
+    <content type=""></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700038"></link>
     <author>
       <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports</name>
     </author>

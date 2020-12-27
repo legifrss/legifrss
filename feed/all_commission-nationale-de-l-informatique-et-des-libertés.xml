@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - commission-nationale-de-l-informatique-et-des-libertés</title>
-  <id></id>
-  <updated>2020-12-16 13:25:08.160464495 +0100 CET m=+229.098829355</updated>
-  <category>French Law</category>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:00:53+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,13 +10,12 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
-    <title>Décision du 3 décembre 2020 portant désignation d&#39;un référent déontologue de la Commission nationale de l&#39;informatique et des libertés</title>
-    <updated></updated>
-    <id>JORFTEXT000042666172</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Commission nationale de l&#39;informatique et des libertés</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Olivier JAPIOT, conseiller d&#39;Etat, est désigné référent déontologue de la Commission nationale de l&#39;informatique et des libertés pour une durée de trois ans à compter du 3 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le secrétaire général est chargé de l&#39;exécution de la présente décision, qui sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-15 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042666172"></link>
+    <title>Délibération n° 2020-126 du 10 décembre 2020 portant avis sur un projet de décret autorisant la création d&#39;un traitement de données à caractère personnel relatif à la gestion et au suivi des vaccinations contre le coronavirus SARS-CoV-2 (demande d&#39;avis n° 20020767)</title>
+    <updated>2020-12-27T21:00:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740251</id>
+    <content type=""></content>
+    <published>2020-12-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740251"></link>
     <author>
       <name>Commission nationale de l&#39;informatique et des libertés</name>
     </author>
