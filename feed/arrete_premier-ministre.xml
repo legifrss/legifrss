@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - arrete</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 23 décembre 2020 relatif à l&#39;approbation du cahier des charges de l&#39;appel à projets « France très haut débit - Cohésion numérique des territoires »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741814</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « France Très Haut Débit - Cohésion Numérique des Territoires » relatif à l&#39;action « Développement de l&#39;économie numérique » et du plan « France très haut débit » du Programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « France Très Haut Débit - Cohésion Numérique des Territoires » relatif à l&#39;action « Développement de l&#39;économie numérique » et du plan « France très haut débit » du Programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741814"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 portant approbation des modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Groupement d&#39;intérêt public pour le dispositif national d&#39;assistance aux victimes d&#39;actes de cybermalveillance »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741819</id>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre, du ministre de l&#39;économie, des finances et de la relance, de la ministre des armées, du ministre de l&#39;intérieur, du garde des sceaux, ministre de la justice, du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, et du secrétaire d&#39;État auprès du ministre de l&#39;économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, en date du 24 décembre 2020, les modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Groupement d&#39;intérêt public pour le dispositif national d&#39;assistance aux victimes d&#39;actes de cybermalveillance », adoptées par délibération de son Assemblée générale le 18 novembre 2020, sont approuvées.&lt;br/&gt;En application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000025202222&amp;idArticle=JORFARTI000025202246&amp;categorieLien=cid&#39; title=&#39;Décret n°2012-91  du 26 janvier 2012 - art. 4 (V)&#39;&gt;1° du IV de l&#39;article 4 du décret n° 2012-91 du 26 janvier 2012&lt;/a&gt; modifié relatif aux groupements d&#39;intérêt public, le texte de la convention constitutive résultant de ces modifications, dont des extraits sont publiés en annexe au présent arrêté, peut être consulté sur le site internet du groupement.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;EXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFIÉE DU GROUPEMENT D&#39;INTÉRÊT PUBLIC DENOMMÉ « GROUPEMENT D&#39;INTÉRÊT PUBLIC POUR LE DISPOSITIF NATIONAL D&#39;ASSISTANCE AUX VICTIMES D&#39;ACTES DE CYBERMALVEILLANCE »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Article 2&lt;br/&gt;Objet&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le Groupement a pour objet d&#39;assurer :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- une mission d&#39;intérêt général de lutte contre les cybermenaces, portant en particulier sur la prévention, l&#39;accompagnement et l&#39;assistance aux particuliers, aux entreprises, aux associations et aux administrations victimes d&#39;actes de cybermalveillance par la mise en place d&#39;un « guichet unique ». Plus particulièrement, le groupement s&#39;attachera d&#39;une part, à permettre la mise en relation avec des acteurs de proximité capables de procéder à la sécurisation et à la reprise d&#39;activité des victimes et d&#39;autre part, à fournir l&#39;aide aux démarches administratives requises pour le dépôt de plainte ;&lt;br/&gt;- la sensibilisation du public sur les enjeux de la sécurité et de la protection de la vie privée numérique en lien avec les autorités compétentes et le développement de campagnes de prévention en la matière ;&lt;br/&gt;- la fourniture d&#39;éléments statistiques offrant une vue réelle et consolidée de la menace cyber afin de mieux l&#39;anticiper à travers la création d&#39;un observatoire dédié.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Article 19&lt;br/&gt;Directeur général du Groupement&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le Conseil d&#39;administration nomme, sur proposition de l&#39;Etat, le Directeur général du Groupement. Il peut être révoqué dans les mêmes formes.&lt;br/&gt;Le Directeur général assure, sous l&#39;autorité du Conseil d&#39;administration, la direction et le fonctionnement du Groupement.&lt;br/&gt;Le Directeur général prend toutes dispositions pour assurer efficacement la bonne marche du Groupement, conformément aux décisions prises par le Conseil d&#39;administration auquel il rend compte. En cas d&#39;urgence il peut prendre toute mesure conservatoire nécessaire au fonctionnement du Groupement.&lt;br/&gt;Le Directeur général peut consentir des délégations de signature dans les conditions fixées par le Règlement intérieur.&lt;br/&gt;Dans ses rapports avec les tiers, le Directeur général engage le Groupement pour tous les actes entrant dans son objet social.&lt;br/&gt;Un comité social d&#39;administration (CSA) ainsi qu&#39;une commission consultative paritaire sont placés auprès du Directeur général.&lt;/p&gt;</content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre, du ministre de l&#39;économie, des finances et de la relance, de la ministre des armées, du ministre de l&#39;intérieur, du garde des sceaux, ministre de la justice, du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, et du secrétaire d&#39;État auprès du ministre de l&#39;économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, en date du 24 décembre 2020, les modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Groupement d&#39;intérêt public pour le dispositif national d&#39;assistance aux victimes d&#39;actes de cybermalveillance », adoptées par délibération de son Assemblée générale le 18 novembre 2020, sont approuvées.&lt;br/&gt;En application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000025202222&amp;idArticle=JORFARTI000025202246&amp;categorieLien=cid&#39; title=&#39;Décret n°2012-91  du 26 janvier 2012 - art. 4 (V)&#39;&gt;1° du IV de l&#39;article 4 du décret n° 2012-91 du 26 janvier 2012&lt;/a&gt; modifié relatif aux groupements d&#39;intérêt public, le texte de la convention constitutive résultant de ces modifications, dont des extraits sont publiés en annexe au présent arrêté, peut être consulté sur le site internet du groupement.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;EXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFIÉE DU GROUPEMENT D&#39;INTÉRÊT PUBLIC DENOMMÉ « GROUPEMENT D&#39;INTÉRÊT PUBLIC POUR LE DISPOSITIF NATIONAL D&#39;ASSISTANCE AUX VICTIMES D&#39;ACTES DE CYBERMALVEILLANCE »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Article 2&lt;br/&gt;Objet&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le Groupement a pour objet d&#39;assurer :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- une mission d&#39;intérêt général de lutte contre les cybermenaces, portant en particulier sur la prévention, l&#39;accompagnement et l&#39;assistance aux particuliers, aux entreprises, aux associations et aux administrations victimes d&#39;actes de cybermalveillance par la mise en place d&#39;un « guichet unique ». Plus particulièrement, le groupement s&#39;attachera d&#39;une part, à permettre la mise en relation avec des acteurs de proximité capables de procéder à la sécurisation et à la reprise d&#39;activité des victimes et d&#39;autre part, à fournir l&#39;aide aux démarches administratives requises pour le dépôt de plainte ;&lt;br/&gt;- la sensibilisation du public sur les enjeux de la sécurité et de la protection de la vie privée numérique en lien avec les autorités compétentes et le développement de campagnes de prévention en la matière ;&lt;br/&gt;- la fourniture d&#39;éléments statistiques offrant une vue réelle et consolidée de la menace cyber afin de mieux l&#39;anticiper à travers la création d&#39;un observatoire dédié.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Article 19&lt;br/&gt;Directeur général du Groupement&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le Conseil d&#39;administration nomme, sur proposition de l&#39;Etat, le Directeur général du Groupement. Il peut être révoqué dans les mêmes formes.&lt;br/&gt;Le Directeur général assure, sous l&#39;autorité du Conseil d&#39;administration, la direction et le fonctionnement du Groupement.&lt;br/&gt;Le Directeur général prend toutes dispositions pour assurer efficacement la bonne marche du Groupement, conformément aux décisions prises par le Conseil d&#39;administration auquel il rend compte. En cas d&#39;urgence il peut prendre toute mesure conservatoire nécessaire au fonctionnement du Groupement.&lt;br/&gt;Le Directeur général peut consentir des délégations de signature dans les conditions fixées par le Règlement intérieur.&lt;br/&gt;Dans ses rapports avec les tiers, le Directeur général engage le Groupement pour tous les actes entrant dans son objet social.&lt;br/&gt;Un comité social d&#39;administration (CSA) ainsi qu&#39;une commission consultative paritaire sont placés auprès du Directeur général.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741819"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 4 décembre 2015 modifié portant approbation du règlement intérieur de l&#39;Ecole nationale d&#39;administration</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730156</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730156"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant nomination au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731511</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731511"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 19 décembre 2020 portant cessation de fonctions et nomination au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731516</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731516"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 portant nomination au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731522</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731522"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 9 novembre 2017 fixant le montant des rémunérations dues en contrepartie des services rendus par la direction de l&#39;information légale et administrative</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702042</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702042"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 relatif à l&#39;organisation en 2021 de la journée de solidarité dans les services du Premier ministre</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702049</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702049"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 fixant le contingent d&#39;emplois offerts au titre de l&#39;année 2021 aux officiers candidats à des emplois d&#39;administrateur civil</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700014</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700014"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant inscription au tableau d&#39;avancement à la hors classe dans le corps des administrateurs civils au titre de l&#39;année 2021 (rectificatif)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700754</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700754"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 pris pour l&#39;application du second alinéa du II de l&#39;article 1er du décret n° 2020-1591 du 16 décembre 2020 portant dissolution de l&#39;Institut national des hautes études de la sécurité et de la justice</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687968</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687968"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant cessation de fonctions au cabinet du secrétaire d&#39;État auprès du Premier ministre, porte-parole du Gouvernement</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695262</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695262"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant inscription au tableau d&#39;avancement à la hors classe dans le corps des administrateurs civils au titre de l&#39;année 2021</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695267</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695267"></link>
     <author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-europe-et-des-affaires-étrangères</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 11 décembre 2020 fixant les listes de fonctions des services de l&#39;Etat du ministère de l&#39;Europe et des affaires étrangères prévues aux articles R. 2124-65 et R. 2124-68 du code général de la propriété des personnes publiques pouvant ouvrir droit à l&#39;attribution d&#39;une concession de logement par nécessité absolue de service ou d&#39;une convention d&#39;occupation précaire avec astreinte</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738128</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738128"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décret du 24 décembre 2020 portant radiation du corps des ministres plénipotentiaires (agents diplomatiques et consulaires) - M. MAIN DE BOISSIERE (Jean-Baptiste)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740074</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740074"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant admission à la retraite (agents diplomatiques et consulaires)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740076</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740076"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant admission à la retraite (agents diplomatiques et consulaires)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740078</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740078"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 fixant par pays et par groupe les taux de l&#39;indemnité d&#39;expatriation, de l&#39;indemnité de résidence à l&#39;étranger et de l&#39;indemnité supplémentaire</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730214</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730214"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil artistique de la Casa de Velázquez</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731528</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731528"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Institut français d&#39;archéologie orientale du Caire</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731530</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731530"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil scientifique de l&#39;Ecole française d&#39;Athènes</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731532</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731532"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil scientifique de la Casa de Velázquez</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731534</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731534"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Ecole française de Rome</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731536</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731536"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil scientifique de l&#39;Institut français d&#39;archéologie orientale</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731538</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731538"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil d&#39;administration de la Casa de Velázquez</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731540</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731540"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil scientifique de l&#39;Ecole française de Rome</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731542</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731542"></link>
     <author>
@@ -154,9 +154,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination au conseil scientifique de l&#39;Ecole française d&#39;Extrême-Orient</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731544</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731544"></link>
     <author>
@@ -165,9 +165,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Ecole française d&#39;Extrême-Orient</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731546</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731546"></link>
     <author>
@@ -176,9 +176,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1631 du 21 décembre 2020 portant publication des résolutions 2019-I-10 et 2019-I-11 de la Commission centrale pour la navigation du Rhin (CCNR) relatives au règlement de visite des bateaux du Rhin (RVBR), au règlement de police pour la navigation du Rhin (RPNR) et au règlement relatif au personnel de la navigation sur le Rhin (RPN), adoptées à Strasbourg le 29 mai 2019 (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713148</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713148"></link>
     <author>
@@ -187,9 +187,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 prorogeant l&#39;arrêté du 11 mars 2020 portant suspension temporaire des procédures d&#39;adoption internationale concernant les enfants de nationalité haïtienne résidant en Haïti</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713175</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713175"></link>
     <author>
@@ -198,9 +198,9 @@
   </entry>
   <entry>
     <title>Décision du 21 décembre 2020 portant délégation de signature (direction générale de l&#39;administration et de la modernisation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713180</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713180"></link>
     <author>
@@ -209,9 +209,9 @@
   </entry>
   <entry>
     <title>Arrêté du 5 novembre 2020 portant nomination au conseil d&#39;administration de l&#39;Ecole française d&#39;Athènes</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723163</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723163"></link>
     <author>
@@ -220,9 +220,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant titularisation dans le corps des attachés des systèmes d&#39;information et de communication (agents diplomatiques et consulaires)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723165</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723165"></link>
     <author>
@@ -231,9 +231,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant la liste des établissements d&#39;enseignement français à l&#39;étranger relevant de l&#39;agence pour l&#39;enseignement français à l&#39;étranger</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702056</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702056"></link>
     <author>
@@ -242,9 +242,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1611 du 17 décembre 2020 portant publication de l&#39;accord entre le Gouvernement de la République française et le Gouvernement de la République italienne portant sur le partenariat dans le domaine de la construction navale militaire, signé à Naples le 27 février 2020 (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700018</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700018"></link>
     <author>
@@ -253,9 +253,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1612 du 17 décembre 2020 portant publication de l&#39;accord entre le Gouvernement de la République française et le Gouvernement de la République du Sénégal relatif à la création de l&#39;établissement public à caractère administratif du Campus franco-sénégalais, signé à Paris le 12 novembre 2020 (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700027</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700027"></link>
     <author>
@@ -264,9 +264,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant titularisation dans le corps des traducteurs</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700757</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700757"></link>
     <author>
@@ -275,9 +275,9 @@
   </entry>
   <entry>
     <title>Arrêté du 27 novembre 2020 pris pour l&#39;application de l&#39;article 2 du décret n° 2020-1368 du 10 novembre 2020 relatif aux attributions des ambassadeurs et des chefs de poste consulaire en matière de certification matérielle de signature sur les actes sous seing privé</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687973</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687973"></link>
     <author>
@@ -286,9 +286,9 @@
   </entry>
   <entry>
     <title>Arrêté du 27 novembre 2020 modifiant l&#39;arrêté du 3 septembre 2007 relatif aux conditions d&#39;application du décret n° 2007-1205 du 10 août 2007 relatif aux attributions du ministre des affaires étrangères, des ambassadeurs et des chefs de poste consulaire en matière de légalisation d&#39;actes</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687987</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687987"></link>
     <author>
@@ -297,9 +297,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 pris pour l&#39;application de l&#39;article 1er du décret n° 2020-1370 du 10 novembre 2020 relatif à la légalisation des actes publics établis par une autorité étrangère</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687998</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042687998"></link>
     <author>
@@ -308,9 +308,9 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination d&#39;un ambassadeur extraordinaire et plénipotentiaire de la République française auprès de la République kirghize - M. DELAHOUSSE (François)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695270</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695270"></link>
     <author>
@@ -319,9 +319,9 @@
   </entry>
   <entry>
     <title>Arrêté du 25 novembre 2020 portant modification de l&#39;arrêté du 24 janvier 2011 portant abrogation des arrêtés des 3 mars 1982 et 30 avril 1999 modifiés fixant la liste des établissements et organismes de diffusion culturelle et d&#39;enseignement dotés de l&#39;autonomie financière</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677145</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677145"></link>
     <author>
@@ -330,9 +330,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant désignation d&#39;un commissaire du Gouvernement auprès du groupement d&#39;intérêt économique « Atout France, agence de développement touristique de la France »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677666</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677666"></link>
     <author>
@@ -341,9 +341,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant nomination au sein de la société par actions simplifiées dénommée « Agence France-Muséums »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677668</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677668"></link>
     <author>

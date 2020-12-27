@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-la-justice - arrete</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant approbation du règlement intérieur de la chambre des notaires de l&#39;Isère</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739230</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739230"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant approbation d&#39;une modification du règlement intérieur de la chambre des notaires de La Réunion</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739232</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739232"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 portant ouverture et fixant le nombre de postes de l&#39;examen professionnel ouvert à titre dérogatoire pour l&#39;accès au corps de commandement dans le grade de lieutenant pénitentiaire (session 2020)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739234</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739234"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant organisation de la formation statutaire des directeurs pénitentiaires d&#39;insertion et de probation</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739239</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739239"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 portant approbation du référentiel d&#39;accréditation des organismes certificateurs et du référentiel de certification des services en ligne de conciliation, de médiation et d&#39;arbitrage</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739278</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739278"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 portant désignation des magistrats composant la commission dont l&#39;avis conforme est requis pour la désignation des officiers de police judiciaire</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740133</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740133"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 complétant la liste des magistrats administratifs honoraires</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740136</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740136"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant désignation d&#39;assesseurs des tribunaux pour enfants (2e liste CA Saint-Denis de La Réunion, sauf Mamoudzou)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740139</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740139"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 complétant la liste des magistrats administratifs honoraires</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740141</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740141"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant renouvellement dans les fonctions de président de formation de jugement à la Cour nationale du droit d&#39;asile (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740144</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740144"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 portant nomination (administration centrale)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740146</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740146"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant approbation d&#39;une modification au règlement intérieur de la chambre des notaires des Alpes-Maritimes</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730813</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730813"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 modifiant l&#39;arrêté du 2 septembre 2020 portant délégation de signature (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730815</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730815"></link>
     <author>
@@ -154,9 +154,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 complétant la liste des magistrats administratifs honoraires</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731597</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731597"></link>
     <author>
@@ -165,9 +165,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731600</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731600"></link>
     <author>
@@ -176,9 +176,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731602</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731602"></link>
     <author>
@@ -187,9 +187,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731604</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731604"></link>
     <author>
@@ -198,9 +198,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731606</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731606"></link>
     <author>
@@ -209,9 +209,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731608</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731608"></link>
     <author>
@@ -220,9 +220,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731610</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731610"></link>
     <author>
@@ -231,9 +231,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731612</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731612"></link>
     <author>
@@ -242,9 +242,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731614</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731614"></link>
     <author>
@@ -253,9 +253,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731616</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731616"></link>
     <author>
@@ -264,9 +264,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731618</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731618"></link>
     <author>
@@ -275,9 +275,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731620</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731620"></link>
     <author>
@@ -286,9 +286,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731622</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731622"></link>
     <author>
@@ -297,9 +297,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731624</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731624"></link>
     <author>
@@ -308,9 +308,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant l&#39;arrêté du 8 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731626</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731626"></link>
     <author>
@@ -319,9 +319,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant nomination au mandat d&#39;assesseure suppléante de la Cour nationale de l&#39;incapacité et de la tarification de l&#39;assurance des accidents du travail (CNITAAT)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731628</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731628"></link>
     <author>
@@ -330,9 +330,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 portant nomination complémentaire de conseillers prud&#39;hommes pour le mandat prud&#39;homal 2018-2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731630</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731630"></link>
     <author>
@@ -341,9 +341,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731642</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731642"></link>
     <author>
@@ -352,9 +352,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 9 mars 2020 relatif aux modalités de communication de la date de première audience devant le tribunal judiciaire</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722564</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722564"></link>
     <author>
@@ -363,9 +363,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723235</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723235"></link>
     <author>
@@ -374,9 +374,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723237</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723237"></link>
     <author>
@@ -385,9 +385,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723239</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723239"></link>
     <author>
@@ -396,9 +396,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723241</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723241"></link>
     <author>
@@ -407,9 +407,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723243</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723243"></link>
     <author>
@@ -418,9 +418,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723245</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723245"></link>
     <author>
@@ -429,9 +429,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723247</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723247"></link>
     <author>
@@ -440,9 +440,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à la dissolution d&#39;une société d&#39;exercice libéral à responsabilité limitée à associé unique et à la nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723249</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723249"></link>
     <author>
@@ -451,9 +451,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723251</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723251"></link>
     <author>
@@ -462,9 +462,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723253</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723253"></link>
     <author>
@@ -473,9 +473,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723255</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723255"></link>
     <author>
@@ -484,9 +484,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723257</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723257"></link>
     <author>
@@ -495,9 +495,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée à associé unique (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723259</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723259"></link>
     <author>
@@ -506,9 +506,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723261</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723261"></link>
     <author>
@@ -517,9 +517,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723263</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723263"></link>
     <author>
@@ -528,9 +528,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 modifiant l&#39;arrêté du 7 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723265</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723265"></link>
     <author>
@@ -539,9 +539,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant nomination au conseil d&#39;administration du Fonds de garantie des victimes des actes de terrorisme et d&#39;autres infractions</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723267</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723267"></link>
     <author>
@@ -550,9 +550,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant attribution de fonctions (tribunaux administratifs et cours administratives d&#39;appel)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723269</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723269"></link>
     <author>
@@ -561,9 +561,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 portant placement dans la position de disponibilité (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723271</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723271"></link>
     <author>
@@ -572,9 +572,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours externe sur titres pour le recrutement d&#39;éducateurs de la protection judiciaire de la jeunesse</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709162</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709162"></link>
     <author>
@@ -583,9 +583,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709491</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709491"></link>
     <author>
@@ -594,9 +594,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709493</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709493"></link>
     <author>
@@ -605,9 +605,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709495</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709495"></link>
     <author>
@@ -616,9 +616,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 constatant la reprise de fonctions d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709497</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709497"></link>
     <author>
@@ -627,9 +627,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709499</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709499"></link>
     <author>
@@ -638,9 +638,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709501</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709501"></link>
     <author>
@@ -649,9 +649,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709503</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709503"></link>
     <author>
@@ -660,9 +660,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709505</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709505"></link>
     <author>
@@ -671,9 +671,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709507</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709507"></link>
     <author>
@@ -682,9 +682,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709509</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709509"></link>
     <author>
@@ -693,9 +693,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709511</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709511"></link>
     <author>
@@ -704,9 +704,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709513</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709513"></link>
     <author>
@@ -715,9 +715,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant l&#39;arrêté du 28 janvier 2016 fixant la liste des emplois de directeur fonctionnel des services de greffe judiciaires</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702343</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702343"></link>
     <author>
@@ -726,9 +726,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant nomination d&#39;une présidente de chambre de la section du contentieux (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702625</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702625"></link>
     <author>
@@ -737,9 +737,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la nomination d&#39;une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700794</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700794"></link>
     <author>
@@ -748,9 +748,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700796</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700796"></link>
     <author>
@@ -759,9 +759,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée et portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700798</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700798"></link>
     <author>
@@ -770,9 +770,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700800</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700800"></link>
     <author>
@@ -781,9 +781,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 constatant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700802</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700802"></link>
     <author>
@@ -792,9 +792,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à l&#39;attribution à titre définitif des minutes d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700804</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700804"></link>
     <author>
@@ -803,9 +803,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700806</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700806"></link>
     <author>
@@ -814,9 +814,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700808</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700808"></link>
     <author>
@@ -825,9 +825,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700810</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700810"></link>
     <author>
@@ -836,9 +836,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 constatant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700812</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700812"></link>
     <author>
@@ -847,9 +847,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700814</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700814"></link>
     <author>
@@ -858,9 +858,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700816</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700816"></link>
     <author>
@@ -869,9 +869,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;un huissier de justice salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700818</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700818"></link>
     <author>
@@ -880,9 +880,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la transformation d&#39;une société civile professionnelle en société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700820</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700820"></link>
     <author>
@@ -891,9 +891,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700822</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700822"></link>
     <author>
@@ -902,9 +902,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700824</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700824"></link>
     <author>
@@ -913,9 +913,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700826</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700826"></link>
     <author>
@@ -924,9 +924,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 relatif à la transformation d&#39;une société civile professionnelle en société d&#39;exercice libéral à responsabilité limitée à associé unique (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700828</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700828"></link>
     <author>
@@ -935,9 +935,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700830</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700830"></link>
     <author>
@@ -946,9 +946,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 constatant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700832</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700832"></link>
     <author>
@@ -957,9 +957,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant réintégration (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700834</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700834"></link>
     <author>
@@ -968,9 +968,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant détachement (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700836</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700836"></link>
     <author>
@@ -979,9 +979,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant maintien dans la position de disponibilité (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700838</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700838"></link>
     <author>
@@ -990,9 +990,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695303</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695303"></link>
     <author>
@@ -1001,9 +1001,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination de deux notaires salariées (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695305</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695305"></link>
     <author>
@@ -1012,9 +1012,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695307</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695307"></link>
     <author>
@@ -1023,9 +1023,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695309</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695309"></link>
     <author>
@@ -1034,9 +1034,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695311</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695311"></link>
     <author>
@@ -1045,9 +1045,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695313</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695313"></link>
     <author>
@@ -1056,9 +1056,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination d&#39;un notaire associé (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695315</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695315"></link>
     <author>
@@ -1067,9 +1067,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695317</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695317"></link>
     <author>
@@ -1078,9 +1078,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695319</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695319"></link>
     <author>
@@ -1089,9 +1089,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695321</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695321"></link>
     <author>
@@ -1100,9 +1100,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695323</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695323"></link>
     <author>
@@ -1111,9 +1111,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695325</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695325"></link>
     <author>
@@ -1122,9 +1122,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant nomination et titularisation dans le corps interministériel des attachés d&#39;administration de l&#39;Etat (Conseil d&#39;Etat et Cour nationale du droit d&#39;asile)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695327</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695327"></link>
     <author>
@@ -1133,9 +1133,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677796</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677796"></link>
     <author>
@@ -1144,9 +1144,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677798</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677798"></link>
     <author>
@@ -1155,9 +1155,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677800</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677800"></link>
     <author>
@@ -1166,9 +1166,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677802</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677802"></link>
     <author>
@@ -1177,9 +1177,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677804</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677804"></link>
     <author>
@@ -1188,9 +1188,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677806</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677806"></link>
     <author>
@@ -1199,9 +1199,9 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677808</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677808"></link>
     <author>
@@ -1210,9 +1210,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant renouvellement de mandat d&#39;assesseure titulaire de la Cour nationale de l&#39;incapacité et de la tarification de l&#39;assurance des accidents du travail (CNITAAT)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677810</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677810"></link>
     <author>
@@ -1221,9 +1221,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant réintégration et affectation (tribunaux administratifs et cours administratives d&#39;appel)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677812</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677812"></link>
     <author>
@@ -1232,9 +1232,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant détachement (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677814</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677814"></link>
     <author>

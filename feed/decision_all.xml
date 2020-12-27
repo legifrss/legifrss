@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - decision</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Décision du 24 décembre 2020 portant délégation de signature (commission pour l&#39;indemnisation des victimes de spoliations intervenues du fait des législations antisémites en vigueur pendant l&#39;Occupation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741824</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à Mme Nathalie Leclercq, secrétaire administrative de classe normale, gestionnaire administrative et financière, à l&#39;effet de signer, au nom du président de la commission pour l&#39;indemnisation des victimes de spoliations intervenues du fait des législations antisémites en vigueur pendant l&#39;Occupation, les actes relevant de ses attributions, et de valider, de façon électronique dans l&#39;outil informatique « Chorus Formulaires », dans la limite des attributions du service, les demandes d&#39;achat et l&#39;attestation du service fait.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à Mme Nathalie Leclercq, secrétaire administrative de classe normale, gestionnaire administrative et financière, à l&#39;effet de signer, au nom du président de la commission pour l&#39;indemnisation des victimes de spoliations intervenues du fait des législations antisémites en vigueur pendant l&#39;Occupation, les actes relevant de ses attributions, et de valider, de façon électronique dans l&#39;outil informatique « Chorus Formulaires », dans la limite des attributions du service, les demandes d&#39;achat et l&#39;attestation du service fait.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741824"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décision n° 01-40-16 du 30 novembre 2020 du comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie à l&#39;égard de la société Enedis</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743148</id>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le comité de règlement des différends et des sanctions,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Saisine du comité de règlement des différends et des sanctions&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une saisine enregistrée le 22 avril 2016 sous le numéro 01-40-16, la société Nucleosun, dont le siège social est situé 41, rue de Villeneuve à Saint-Hilaire-de-Riez (85 270), représentée par M. B…, demande au comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie (« le comité ») de prononcer une sanction à l&#39;encontre de la société ERDF, devenue Enedis, en raison du non-respect par cette dernière de la décision n° 05-38-14 du comité du 15 avril 2015.&lt;br/&gt;Elle soutient :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- que par sa décision n° 05-38-14 du 15 avril 2015, le comité a enjoint à la société ERDF, devenue Enedis, de refaire l&#39;ensemble des études électriques pour chacun des quatre projets photovoltaïques de la société Nucleosun, et de lui transmettre, dans un délai de deux mois, une nouvelle proposition technique et financière pour chaque projet, ou une proposition unique, après avoir recueilli son accord ;&lt;br/&gt;- qu&#39;en dépit de cette décision de règlement de différend devenue définitive, la société Enedis n&#39;a transmis à la société Nucleosun aucune nouvelle proposition de raccordement.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;2. Instruction de la demande de sanction&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une décision du 13 mai 2019, le président du comité a désigné M. DE LAROSIERE DE CHAMPFEU (ci-après « membre désigné ») pour l&#39;instruction de la demande de sanction présentée par la société Nucleosun, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747713&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-30 (V)&#39;&gt;article R. 134-30 du code de l&#39;énergie&lt;/a&gt;.&lt;br/&gt;Par des lettres du 20 décembre 2019, le membre désigné a transmis aux sociétés Nucleosun et Enedis la décision le désignant pour l&#39;instruction de la demande de sanction et a demandé à ces sociétés de lui indiquer les mesures qui ont été prises pour parvenir à l&#39;exécution de la décision du comité du 15 avril 2015.&lt;br/&gt;Par une lettre du 28 janvier 2020, la société Enedis s&#39;interroge sur la recevabilité du recours présentée par la société Nucleosun, au regard des moyens qui y sont développés. Elle indique que la société Nucleosun avait exprimé, à l&#39;occasion d&#39;une procédure conduite devant le tribunal de commerce de Nanterre, clôturée par un jugement du 20 juillet 2018 devenu définitif, qu&#39;elle avait abandonné le projet photovoltaïque en cause. La société Enedis ajoute avoir formellement adressé quatre propositions techniques et financières de raccordement à la société Nucleosun, le 3 janvier 2017, dont elle a adressé copie au membre désigné.&lt;br/&gt;Par des lettres du 5 mars 2020, le membre désigné a invité la société Enedis et la société Nucleosun à lui transmettre leurs éventuelles nouvelles observations.&lt;br/&gt;Par une lettre du 30 mars 2020, la société Enedis soutient que le dossier déposé le 27 janvier 2020 par la société Nucleosun sur la plateforme électronique du greffe du comité sous la rubrique « demande de sanction » est incomplet, puisqu&#39;il ne contient que l&#39;une des quatre propositions de raccordement qu&#39;elle lui avait adressées. Elle considère que ce dépôt de pièces ne peut s&#39;analyser comme une nouvelle saisine du comité, puisque, déposée plus de trois ans après les faits, elle serait prescrite en application des &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (M)&#39;&gt;dispositions de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt;. Elle serait en outre irrecevable, faute de respecter les formalités de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747711&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-29 (V)&#39;&gt;article R. 134-29 du code de l&#39;énergie&lt;/a&gt;.&lt;br/&gt;Par un courrier du 22 juin 2020, le membre désigné a invité la société Nucleosun à s&#39;expliquer sur l&#39;éventuel abandon de ses projets de centrales photovoltaïques.&lt;br/&gt;Par un courriel du 6 juillet 2020, la société Nucleosun a indiqué que l&#39;abandon des projets résultait de l&#39;inaction de la société Enedis s&#39;agissant de l&#39;assurance du bénéfice du tarif d&#39;achat. Elle soutient en effet qu&#39;elle avait demandé à la société Enedis d&#39;avoir la certitude de bénéficier d&#39;un tarif d&#39;achat en cas d&#39;acceptation des propositions techniques et financières, mais qu&#39;elle n&#39;avait pas eu de réponse à ce sujet. Elle affirme qu&#39;il n&#39;y avait aucun intérêt à payer les propositions techniques et financières en janvier 2017 sans avoir la possibilité de vendre l&#39;électricité produite à EDF OA au tarif d&#39;achat.&lt;br/&gt;Par un courrier du 20 juillet 2020, le membre désigné a invité la société Enedis à présenter ses éventuelles observations sur les dernières écritures de la société Nucleosun.&lt;br/&gt;Par un courrier du 17 août 2020, la société Enedis indique, d&#39;une part, que la question de la perte du tarif d&#39;achat est hors du champ de la décision du comité et qu&#39;il n&#39;y a pas lieu d&#39;examiner cet argument dans le cadre de la présente procédure. Elle soutient en outre que cet argument avait déjà été soulevé par la société Nucleosun devant le tribunal de commerce de Nanterre, qui a jugé qu&#39;aucune faute ne pouvait être reprochée à la société Enedis.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3. Notification des griefs&lt;br/&gt;3.1. Rappel de la procédure suivie par le membre désigné&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985812&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-28 (M)&#39;&gt;article L. 134-28 du code de l&#39;énergie&lt;/a&gt; prévoit que : « Les sanctions énumérées à l&#39;article L. 134-27 sont également encourues, sur saisine des parties au règlement de différend, du ministre chargé de l&#39;énergie, du président de la Commission de régulation de l&#39;énergie, d&#39;une organisation professionnelle, d&#39;une association agréée d&#39;utilisateurs ou de toute autre personne concernée, lorsque le gestionnaire, l&#39;opérateur, l&#39;exploitant ou l&#39;utilisateur d&#39;un réseau, d&#39;un ouvrage ou d&#39;une installation ou le fournisseur d&#39;électricité ou de gaz naturel mentionné à l&#39;article L. 134-25 ne s&#39;est pas conformé dans les délais requis à une décision prise par le comité en application des articles L. 134-20 et L. 134-22, sans qu&#39;il y ait lieu de le mettre préalablement en demeure. »&lt;br/&gt;Aux termes de l&#39;article R. 134-30 du même code : « Pour chaque affaire, le président du comité de règlement des différends et des sanctions désigne un membre de ce comité chargé, avec le concours des agents de la Commission de régulation de l&#39;énergie, de l&#39;instruction. Le cas échéant, ce membre adresse la mise en demeure prévue à l&#39;article L. 134-26 et notifie les griefs. Il peut ne pas donner suite à la saisine. / Ce membre peut entendre, s&#39;il l&#39;estime nécessaire, toute personne susceptible de contribuer à son information, y compris la personne poursuivie. » L&#39;article R. 134-32 du même code prévoit notamment : « La notification des griefs mentionne les sanctions éventuellement encourues et le délai pendant lequel la personne concernée par cette notification peut consulter le dossier et présenter des observations écrites. / Après la notification des griefs, le membre du comité désigné en application de l&#39;article R. 134-30 transmet l&#39;ensemble des pièces du dossier d&#39;instruction ainsi que cette notification au président du comité de règlement des différends et des sanctions. »&lt;br/&gt;Aux termes de l&#39;article 14 du règlement intérieur du comité : « S&#39;il y a lieu, le membre désigné notifie les griefs, les sanctions encourues et la sanction qu&#39;il entend proposer au comité de règlement des différends et des sanctions. Cette notification est adressée à la personne mise en cause qui dispose d&#39;un délai ne pouvant pas être inférieur à quinze jours pour présenter au comité de règlement des différends et des sanctions ses observations écrites. »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3.2. Grief retenu par le membre désigné&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une décision du 21 septembre 2020, le membre désigné a notifié des griefs à la société Enedis. Il fait grief à la société Enedis de ne pas avoir transmis à la société Nucleosun, en application de l&#39;article 2 de la décision du comité du 15 avril 2015, une proposition technique et financière pour chacun des quatre projets photovoltaïques de cette société et de lui proposer de les traiter de manière groupée, si celle-ci le souhaite, dans un délai de deux mois à compter de la notification de cette décision soit à la date du 25 août 2015.&lt;br/&gt;Le membre désigné fait valoir que la société Enedis n&#39;a transmis une proposition technique et financière à la société Nucleosun que le 3 janvier 2017, soit avec un retard d&#39;un an et cinq mois (497 jours), sans que ce retard paraisse pouvoir être expliqué par des obstacles techniques insurmontables. Il estime qu&#39;il appartiendra au comité, après avoir apprécié si l&#39;action est prescrite au regard de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;article L. 134-33 du code de l&#39;énergie&lt;/a&gt;, de tirer les conséquences d&#39;un tel retard.&lt;br/&gt;Conformément aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747717&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-32 (V)&#39;&gt;dispositions de l&#39;article R. 134-32 du code de l&#39;énergie&lt;/a&gt;, la société Enedis a été invitée par la notification des griefs à présenter ses observations en réponse avant le 22 octobre 2020 et à consulter le dossier.&lt;br/&gt;Par un courrier électronique en date du 28 septembre 2020, la société Enedis a demandé à consulter le dossier.&lt;br/&gt;Le 2 octobre 2020, la société Enedis a eu accès à l&#39;ensemble des pièces du dossier de la notification des griefs au sein des locaux de la Commission de régulation de l&#39;énergie. Un exemplaire papier contenant l&#39;ensemble des pièces du dossier a également été remis.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;4. Observations en réponse à la notification des griefs&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par des observations en réponse du 21 octobre 2020, la société Enedis soutient :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à titre principal, que la saisine du comité par la société Nucleosun est irrecevable ;&lt;br/&gt;- à titre subsidiaire, que l&#39;absence de transmission à la société Nucleosun d&#39;une proposition technique et financière dans le délai imparti par la décision du comité du 15 avril 2015 est justifiée par la circonstance que la société Nucleosun avait déjà abandonné son projet lorsque cette décision a été rendue. En outre, elle a cru de bonne foi que la société Nucleosun avait renoncé à obtenir des propositions techniques et financières compte tenu du comportement qu&#39;elle a adopté à son égard après l&#39;adoption de la décision du 15 avril 2015. Elle s&#39;est néanmoins attachée à transmettre à la société Nucleosun les propositions techniques et financières en cause dès lors que cette dernière l&#39;a, par une lettre du 13 décembre 2016, mise en demeure de les lui transmettre ;&lt;br/&gt;- qu&#39;en ce qui concerne la sanction éventuellement prononcée à son encontre, le comité devrait adopter une sanction proportionnée au manquement constaté, à l&#39;absence de dommage qui en a résulté pour la société Nucléosun et à l&#39;absence d&#39;avantage tiré par la société Enedis de l&#39;exécution tardive de la décision du comité du 15 avril 2015.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;5. Procédure de sanction&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Vu :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000023983208&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie (V)&#39;&gt;code de l&#39;énergie&lt;/a&gt;, notamment ses articles L. 134-25 à L. 134-34 et R. 134-29 à R. 134-37 ;&lt;br/&gt;- la décision du 13 février 2019 portant adoption du règlement intérieur du comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie ;&lt;br/&gt;- la décision du 19 octobre 2020 par laquelle le président du comité a désigné M. David MASLARSKI rapporteur de l&#39;affaire enregistrée le 22 avril 2016 sous le n° 01-40-16 ;&lt;br/&gt;- le courrier électronique du 18 novembre 2020 par lequel la société Enedis a communiqué la liste des représentants assistant à la séance publique ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les sociétés Nucléosun et Enedis ayant été convoquées à la séance publique, qui s&#39;est tenue par visio-conférence le 23 novembre 2020, du comité de règlement des différends et des sanctions, composé de M. Thierry TUOT, président, Mme Hélène VESTUR et M. Nicolas MAZIAU, membres, après vérification de l&#39;identité des parties et de leurs représentants, en présence de :&lt;br/&gt;M. Henri DE LAROSIERE DE CHAMPFEU, membre désigné par le président du comité de règlement des différends et des sanctions,&lt;br/&gt;M. Emmanuel RODRIGUEZ, adjoint à la directrice des affaires juridiques,&lt;br/&gt;M. David MASLARSKI, rapporteur,&lt;br/&gt;Les représentants de la société Enedis, assistés de Me DE POUZILHAC et de Me BERGEROT,&lt;br/&gt;Le représentant de la société Nucléosun.&lt;br/&gt;Les représentants des sociétés Enedis et Nucleosun ayant été informés qu&#39;à tout moment, le président du comité peut décider de lever la séance pour qu&#39;elle soit prorogée à une date ultérieure en cas de difficulté matérielle, notamment liée à la capacité de connexion de l&#39;un des participants, ne permettant pas le déroulement normal de la séance.&lt;br/&gt;L&#39;ensemble des participants ayant confirmé la bonne qualité de la liaison électronique et avoir été informé des modalités de convocation à la séance publique.&lt;br/&gt;Après avoir entendu :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- le rapport de M. David MASLARSKI, présentant les conclusions et moyens des parties ;&lt;br/&gt;- le rapport de M. Henri DE LAROSIERE DE CHAMPFEU, présentant ses observations au soutien des griefs notifiés ;&lt;br/&gt;- les observations de M. B… pour la société Nucléosun ;&lt;br/&gt;- les observations de Me DE POUZILHAC pour la société Enedis ; la société Enedis persiste dans ses moyens et conclusions et soutient que les faits qui font l&#39;objet de la procédure de sanction sont prescrits ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le président du comité ayant invité la personne mise en cause et l&#39;auteur de la saisine à présenter des observations sur l&#39;application de la prescription triennale à la procédure de sanction ;&lt;br/&gt;La parole ayant été donnée à Me DE POUZILHAC pour la société Enedis en dernier.&lt;br/&gt;Le comité de règlement des différends et des sanctions en ayant délibéré, après que le membre désigné, le rapporteur, la partie mise en cause et les agents des services se sont retirés.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;6. Analyse du comité de règlement des différends et des sanctions&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985810&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-27 (M)&#39;&gt;article L. 134-27 du code de l&#39;énergie&lt;/a&gt; énumère les sanctions susceptibles d&#39;être prononcées par le comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie. Aux termes de l&#39;article L. 134-28 du même code : « Les sanctions énumérées à l&#39;article L. 134-27 sont également encourues lorsque le gestionnaire (…) d&#39;un réseau (…) ne s&#39;est pas conformé dans les délais requis à une décision prise par le comité en application des articles L. 134-20 et L. 134-22, sans qu&#39;il y ait lieu de le mettre préalablement en demeure. »&lt;br/&gt;Par une décision de règlement de différend n° 05-38-14 du 15 avril 2015 notifiée le 25 juin 2015, le comité, statuant sur le fondement de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985794&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-20 (M)&#39;&gt;article L. 134-20 du code de l&#39;énergie&lt;/a&gt;, a décidé que la société Électricité Réseau Distribution France (ERDF), avait méconnu sa procédure de traitement des demandes de raccordement de la société Nucleosun et a enjoint à la société ERDF « de refaire l&#39;ensemble des études électriques pour chacun des projets, de transmettre à la société NUCLEOSUN une proposition technique et financière pour chacun des projets et le cas échéant de lui proposer de les traiter de manière groupée, si celle-ci le souhaite, dans un délai de deux mois. » Par la saisine visée ci-dessus, la société Nucleosun demande au comité de sanctionner la société ERDF, devenue Enedis au motif que cette dernière ne se serait pas conformée dans les délais requis à cette décision de règlement de différend.&lt;br/&gt;Sur la prescription :&lt;br/&gt;Aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;termes de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt; : « Le comité ne peut être saisi, ni se saisir, en vue du prononcé d&#39;une sanction, de faits remontant à plus de trois ans s&#39;il n&#39;a été fait, pendant ce délai, aucun acte tendant à leur recherche, leur constatation ou leur sanction. » Eu égard à la nature et à l&#39;objet de la prescription ainsi instituée, le comité de règlement des différends et des sanctions doit vérifier, lorsqu&#39;il statue sur les faits dont il a été saisi, que cette prescription triennale n&#39;a pas été acquise.&lt;br/&gt;En l&#39;espèce, si le cours du délai de la prescription triennale instituée par les &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;dispositions de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt; citées ci-dessus a été interrompu le 22 avril 2016, date d&#39;enregistrement de la saisine de la société Nucleosun tendant à ce qu&#39;une sanction soit prononcée à l&#39;encontre de la société Enedis, il ne ressort toutefois pas des pièces du dossier qu&#39;un acte tendant à la recherche, à la constatation ou à la sanction des faits reprochés à la société Enedis ait été réalisé dans un délai de trois ans à compter de cette date. En particulier, ni la décision du 13 mai 2019 désignant le membre du comité chargé de l&#39;instruction de l&#39;affaire, ni celle du 18 décembre 2019 par laquelle ce membre a notifié des griefs à la société Enedis n&#39;ont pu, en tout état de cause, influer sur l&#39;écoulement du délai de prescription triennale, dès lors que ces actes sont postérieurs au 22 avril 2019, date à laquelle la prescription des faits litigieux a été acquise. Aucune autre cause interruptive ou suspensive de prescription ne ressort des pièces du dossier.&lt;br/&gt;Dans ces conditions, il y a lieu pour le comité de constater d&#39;office que les faits qui font l&#39;objet de la présente procédure de sanction sont atteints par la prescription et de mettre par suite la société Enedis hors de cause.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Décide :&lt;/p&gt;Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Copie de la présente décision sera adressée à la société Nucleosun.&lt;/p&gt;Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les faits objets de la présente procédure de sanction sont atteints par la prescription.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société Enedis est mise hors de cause.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera notifiée à la société Enedis. Elle sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le comité de règlement des différends et des sanctions,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Saisine du comité de règlement des différends et des sanctions&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une saisine enregistrée le 22 avril 2016 sous le numéro 01-40-16, la société Nucleosun, dont le siège social est situé 41, rue de Villeneuve à Saint-Hilaire-de-Riez (85 270), représentée par M. B…, demande au comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie (« le comité ») de prononcer une sanction à l&#39;encontre de la société ERDF, devenue Enedis, en raison du non-respect par cette dernière de la décision n° 05-38-14 du comité du 15 avril 2015.&lt;br/&gt;Elle soutient :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- que par sa décision n° 05-38-14 du 15 avril 2015, le comité a enjoint à la société ERDF, devenue Enedis, de refaire l&#39;ensemble des études électriques pour chacun des quatre projets photovoltaïques de la société Nucleosun, et de lui transmettre, dans un délai de deux mois, une nouvelle proposition technique et financière pour chaque projet, ou une proposition unique, après avoir recueilli son accord ;&lt;br/&gt;- qu&#39;en dépit de cette décision de règlement de différend devenue définitive, la société Enedis n&#39;a transmis à la société Nucleosun aucune nouvelle proposition de raccordement.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;2. Instruction de la demande de sanction&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une décision du 13 mai 2019, le président du comité a désigné M. DE LAROSIERE DE CHAMPFEU (ci-après « membre désigné ») pour l&#39;instruction de la demande de sanction présentée par la société Nucleosun, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747713&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-30 (V)&#39;&gt;article R. 134-30 du code de l&#39;énergie&lt;/a&gt;.&lt;br/&gt;Par des lettres du 20 décembre 2019, le membre désigné a transmis aux sociétés Nucleosun et Enedis la décision le désignant pour l&#39;instruction de la demande de sanction et a demandé à ces sociétés de lui indiquer les mesures qui ont été prises pour parvenir à l&#39;exécution de la décision du comité du 15 avril 2015.&lt;br/&gt;Par une lettre du 28 janvier 2020, la société Enedis s&#39;interroge sur la recevabilité du recours présentée par la société Nucleosun, au regard des moyens qui y sont développés. Elle indique que la société Nucleosun avait exprimé, à l&#39;occasion d&#39;une procédure conduite devant le tribunal de commerce de Nanterre, clôturée par un jugement du 20 juillet 2018 devenu définitif, qu&#39;elle avait abandonné le projet photovoltaïque en cause. La société Enedis ajoute avoir formellement adressé quatre propositions techniques et financières de raccordement à la société Nucleosun, le 3 janvier 2017, dont elle a adressé copie au membre désigné.&lt;br/&gt;Par des lettres du 5 mars 2020, le membre désigné a invité la société Enedis et la société Nucleosun à lui transmettre leurs éventuelles nouvelles observations.&lt;br/&gt;Par une lettre du 30 mars 2020, la société Enedis soutient que le dossier déposé le 27 janvier 2020 par la société Nucleosun sur la plateforme électronique du greffe du comité sous la rubrique « demande de sanction » est incomplet, puisqu&#39;il ne contient que l&#39;une des quatre propositions de raccordement qu&#39;elle lui avait adressées. Elle considère que ce dépôt de pièces ne peut s&#39;analyser comme une nouvelle saisine du comité, puisque, déposée plus de trois ans après les faits, elle serait prescrite en application des &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (M)&#39;&gt;dispositions de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt;. Elle serait en outre irrecevable, faute de respecter les formalités de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747711&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-29 (V)&#39;&gt;article R. 134-29 du code de l&#39;énergie&lt;/a&gt;.&lt;br/&gt;Par un courrier du 22 juin 2020, le membre désigné a invité la société Nucleosun à s&#39;expliquer sur l&#39;éventuel abandon de ses projets de centrales photovoltaïques.&lt;br/&gt;Par un courriel du 6 juillet 2020, la société Nucleosun a indiqué que l&#39;abandon des projets résultait de l&#39;inaction de la société Enedis s&#39;agissant de l&#39;assurance du bénéfice du tarif d&#39;achat. Elle soutient en effet qu&#39;elle avait demandé à la société Enedis d&#39;avoir la certitude de bénéficier d&#39;un tarif d&#39;achat en cas d&#39;acceptation des propositions techniques et financières, mais qu&#39;elle n&#39;avait pas eu de réponse à ce sujet. Elle affirme qu&#39;il n&#39;y avait aucun intérêt à payer les propositions techniques et financières en janvier 2017 sans avoir la possibilité de vendre l&#39;électricité produite à EDF OA au tarif d&#39;achat.&lt;br/&gt;Par un courrier du 20 juillet 2020, le membre désigné a invité la société Enedis à présenter ses éventuelles observations sur les dernières écritures de la société Nucleosun.&lt;br/&gt;Par un courrier du 17 août 2020, la société Enedis indique, d&#39;une part, que la question de la perte du tarif d&#39;achat est hors du champ de la décision du comité et qu&#39;il n&#39;y a pas lieu d&#39;examiner cet argument dans le cadre de la présente procédure. Elle soutient en outre que cet argument avait déjà été soulevé par la société Nucleosun devant le tribunal de commerce de Nanterre, qui a jugé qu&#39;aucune faute ne pouvait être reprochée à la société Enedis.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3. Notification des griefs&lt;br/&gt;3.1. Rappel de la procédure suivie par le membre désigné&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985812&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-28 (M)&#39;&gt;article L. 134-28 du code de l&#39;énergie&lt;/a&gt; prévoit que : « Les sanctions énumérées à l&#39;article L. 134-27 sont également encourues, sur saisine des parties au règlement de différend, du ministre chargé de l&#39;énergie, du président de la Commission de régulation de l&#39;énergie, d&#39;une organisation professionnelle, d&#39;une association agréée d&#39;utilisateurs ou de toute autre personne concernée, lorsque le gestionnaire, l&#39;opérateur, l&#39;exploitant ou l&#39;utilisateur d&#39;un réseau, d&#39;un ouvrage ou d&#39;une installation ou le fournisseur d&#39;électricité ou de gaz naturel mentionné à l&#39;article L. 134-25 ne s&#39;est pas conformé dans les délais requis à une décision prise par le comité en application des articles L. 134-20 et L. 134-22, sans qu&#39;il y ait lieu de le mettre préalablement en demeure. »&lt;br/&gt;Aux termes de l&#39;article R. 134-30 du même code : « Pour chaque affaire, le président du comité de règlement des différends et des sanctions désigne un membre de ce comité chargé, avec le concours des agents de la Commission de régulation de l&#39;énergie, de l&#39;instruction. Le cas échéant, ce membre adresse la mise en demeure prévue à l&#39;article L. 134-26 et notifie les griefs. Il peut ne pas donner suite à la saisine. / Ce membre peut entendre, s&#39;il l&#39;estime nécessaire, toute personne susceptible de contribuer à son information, y compris la personne poursuivie. » L&#39;article R. 134-32 du même code prévoit notamment : « La notification des griefs mentionne les sanctions éventuellement encourues et le délai pendant lequel la personne concernée par cette notification peut consulter le dossier et présenter des observations écrites. / Après la notification des griefs, le membre du comité désigné en application de l&#39;article R. 134-30 transmet l&#39;ensemble des pièces du dossier d&#39;instruction ainsi que cette notification au président du comité de règlement des différends et des sanctions. »&lt;br/&gt;Aux termes de l&#39;article 14 du règlement intérieur du comité : « S&#39;il y a lieu, le membre désigné notifie les griefs, les sanctions encourues et la sanction qu&#39;il entend proposer au comité de règlement des différends et des sanctions. Cette notification est adressée à la personne mise en cause qui dispose d&#39;un délai ne pouvant pas être inférieur à quinze jours pour présenter au comité de règlement des différends et des sanctions ses observations écrites. »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3.2. Grief retenu par le membre désigné&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par une décision du 21 septembre 2020, le membre désigné a notifié des griefs à la société Enedis. Il fait grief à la société Enedis de ne pas avoir transmis à la société Nucleosun, en application de l&#39;article 2 de la décision du comité du 15 avril 2015, une proposition technique et financière pour chacun des quatre projets photovoltaïques de cette société et de lui proposer de les traiter de manière groupée, si celle-ci le souhaite, dans un délai de deux mois à compter de la notification de cette décision soit à la date du 25 août 2015.&lt;br/&gt;Le membre désigné fait valoir que la société Enedis n&#39;a transmis une proposition technique et financière à la société Nucleosun que le 3 janvier 2017, soit avec un retard d&#39;un an et cinq mois (497 jours), sans que ce retard paraisse pouvoir être expliqué par des obstacles techniques insurmontables. Il estime qu&#39;il appartiendra au comité, après avoir apprécié si l&#39;action est prescrite au regard de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;article L. 134-33 du code de l&#39;énergie&lt;/a&gt;, de tirer les conséquences d&#39;un tel retard.&lt;br/&gt;Conformément aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000031747717&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. R134-32 (V)&#39;&gt;dispositions de l&#39;article R. 134-32 du code de l&#39;énergie&lt;/a&gt;, la société Enedis a été invitée par la notification des griefs à présenter ses observations en réponse avant le 22 octobre 2020 et à consulter le dossier.&lt;br/&gt;Par un courrier électronique en date du 28 septembre 2020, la société Enedis a demandé à consulter le dossier.&lt;br/&gt;Le 2 octobre 2020, la société Enedis a eu accès à l&#39;ensemble des pièces du dossier de la notification des griefs au sein des locaux de la Commission de régulation de l&#39;énergie. Un exemplaire papier contenant l&#39;ensemble des pièces du dossier a également été remis.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;4. Observations en réponse à la notification des griefs&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par des observations en réponse du 21 octobre 2020, la société Enedis soutient :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à titre principal, que la saisine du comité par la société Nucleosun est irrecevable ;&lt;br/&gt;- à titre subsidiaire, que l&#39;absence de transmission à la société Nucleosun d&#39;une proposition technique et financière dans le délai imparti par la décision du comité du 15 avril 2015 est justifiée par la circonstance que la société Nucleosun avait déjà abandonné son projet lorsque cette décision a été rendue. En outre, elle a cru de bonne foi que la société Nucleosun avait renoncé à obtenir des propositions techniques et financières compte tenu du comportement qu&#39;elle a adopté à son égard après l&#39;adoption de la décision du 15 avril 2015. Elle s&#39;est néanmoins attachée à transmettre à la société Nucleosun les propositions techniques et financières en cause dès lors que cette dernière l&#39;a, par une lettre du 13 décembre 2016, mise en demeure de les lui transmettre ;&lt;br/&gt;- qu&#39;en ce qui concerne la sanction éventuellement prononcée à son encontre, le comité devrait adopter une sanction proportionnée au manquement constaté, à l&#39;absence de dommage qui en a résulté pour la société Nucléosun et à l&#39;absence d&#39;avantage tiré par la société Enedis de l&#39;exécution tardive de la décision du comité du 15 avril 2015.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;5. Procédure de sanction&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Vu :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000023983208&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie (V)&#39;&gt;code de l&#39;énergie&lt;/a&gt;, notamment ses articles L. 134-25 à L. 134-34 et R. 134-29 à R. 134-37 ;&lt;br/&gt;- la décision du 13 février 2019 portant adoption du règlement intérieur du comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie ;&lt;br/&gt;- la décision du 19 octobre 2020 par laquelle le président du comité a désigné M. David MASLARSKI rapporteur de l&#39;affaire enregistrée le 22 avril 2016 sous le n° 01-40-16 ;&lt;br/&gt;- le courrier électronique du 18 novembre 2020 par lequel la société Enedis a communiqué la liste des représentants assistant à la séance publique ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les sociétés Nucléosun et Enedis ayant été convoquées à la séance publique, qui s&#39;est tenue par visio-conférence le 23 novembre 2020, du comité de règlement des différends et des sanctions, composé de M. Thierry TUOT, président, Mme Hélène VESTUR et M. Nicolas MAZIAU, membres, après vérification de l&#39;identité des parties et de leurs représentants, en présence de :&lt;br/&gt;M. Henri DE LAROSIERE DE CHAMPFEU, membre désigné par le président du comité de règlement des différends et des sanctions,&lt;br/&gt;M. Emmanuel RODRIGUEZ, adjoint à la directrice des affaires juridiques,&lt;br/&gt;M. David MASLARSKI, rapporteur,&lt;br/&gt;Les représentants de la société Enedis, assistés de Me DE POUZILHAC et de Me BERGEROT,&lt;br/&gt;Le représentant de la société Nucléosun.&lt;br/&gt;Les représentants des sociétés Enedis et Nucleosun ayant été informés qu&#39;à tout moment, le président du comité peut décider de lever la séance pour qu&#39;elle soit prorogée à une date ultérieure en cas de difficulté matérielle, notamment liée à la capacité de connexion de l&#39;un des participants, ne permettant pas le déroulement normal de la séance.&lt;br/&gt;L&#39;ensemble des participants ayant confirmé la bonne qualité de la liaison électronique et avoir été informé des modalités de convocation à la séance publique.&lt;br/&gt;Après avoir entendu :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- le rapport de M. David MASLARSKI, présentant les conclusions et moyens des parties ;&lt;br/&gt;- le rapport de M. Henri DE LAROSIERE DE CHAMPFEU, présentant ses observations au soutien des griefs notifiés ;&lt;br/&gt;- les observations de M. B… pour la société Nucléosun ;&lt;br/&gt;- les observations de Me DE POUZILHAC pour la société Enedis ; la société Enedis persiste dans ses moyens et conclusions et soutient que les faits qui font l&#39;objet de la procédure de sanction sont prescrits ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le président du comité ayant invité la personne mise en cause et l&#39;auteur de la saisine à présenter des observations sur l&#39;application de la prescription triennale à la procédure de sanction ;&lt;br/&gt;La parole ayant été donnée à Me DE POUZILHAC pour la société Enedis en dernier.&lt;br/&gt;Le comité de règlement des différends et des sanctions en ayant délibéré, après que le membre désigné, le rapporteur, la partie mise en cause et les agents des services se sont retirés.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;6. Analyse du comité de règlement des différends et des sanctions&lt;/p&gt;&lt;p&gt;&lt;br/&gt;L&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985810&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-27 (M)&#39;&gt;article L. 134-27 du code de l&#39;énergie&lt;/a&gt; énumère les sanctions susceptibles d&#39;être prononcées par le comité de règlement des différends et des sanctions de la Commission de régulation de l&#39;énergie. Aux termes de l&#39;article L. 134-28 du même code : « Les sanctions énumérées à l&#39;article L. 134-27 sont également encourues lorsque le gestionnaire (…) d&#39;un réseau (…) ne s&#39;est pas conformé dans les délais requis à une décision prise par le comité en application des articles L. 134-20 et L. 134-22, sans qu&#39;il y ait lieu de le mettre préalablement en demeure. »&lt;br/&gt;Par une décision de règlement de différend n° 05-38-14 du 15 avril 2015 notifiée le 25 juin 2015, le comité, statuant sur le fondement de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985794&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-20 (M)&#39;&gt;article L. 134-20 du code de l&#39;énergie&lt;/a&gt;, a décidé que la société Électricité Réseau Distribution France (ERDF), avait méconnu sa procédure de traitement des demandes de raccordement de la société Nucleosun et a enjoint à la société ERDF « de refaire l&#39;ensemble des études électriques pour chacun des projets, de transmettre à la société NUCLEOSUN une proposition technique et financière pour chacun des projets et le cas échéant de lui proposer de les traiter de manière groupée, si celle-ci le souhaite, dans un délai de deux mois. » Par la saisine visée ci-dessus, la société Nucleosun demande au comité de sanctionner la société ERDF, devenue Enedis au motif que cette dernière ne se serait pas conformée dans les délais requis à cette décision de règlement de différend.&lt;br/&gt;Sur la prescription :&lt;br/&gt;Aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;termes de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt; : « Le comité ne peut être saisi, ni se saisir, en vue du prononcé d&#39;une sanction, de faits remontant à plus de trois ans s&#39;il n&#39;a été fait, pendant ce délai, aucun acte tendant à leur recherche, leur constatation ou leur sanction. » Eu égard à la nature et à l&#39;objet de la prescription ainsi instituée, le comité de règlement des différends et des sanctions doit vérifier, lorsqu&#39;il statue sur les faits dont il a été saisi, que cette prescription triennale n&#39;a pas été acquise.&lt;br/&gt;En l&#39;espèce, si le cours du délai de la prescription triennale instituée par les &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023985822&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L134-33 (V)&#39;&gt;dispositions de l&#39;article L. 134-33 du code de l&#39;énergie&lt;/a&gt; citées ci-dessus a été interrompu le 22 avril 2016, date d&#39;enregistrement de la saisine de la société Nucleosun tendant à ce qu&#39;une sanction soit prononcée à l&#39;encontre de la société Enedis, il ne ressort toutefois pas des pièces du dossier qu&#39;un acte tendant à la recherche, à la constatation ou à la sanction des faits reprochés à la société Enedis ait été réalisé dans un délai de trois ans à compter de cette date. En particulier, ni la décision du 13 mai 2019 désignant le membre du comité chargé de l&#39;instruction de l&#39;affaire, ni celle du 18 décembre 2019 par laquelle ce membre a notifié des griefs à la société Enedis n&#39;ont pu, en tout état de cause, influer sur l&#39;écoulement du délai de prescription triennale, dès lors que ces actes sont postérieurs au 22 avril 2019, date à laquelle la prescription des faits litigieux a été acquise. Aucune autre cause interruptive ou suspensive de prescription ne ressort des pièces du dossier.&lt;br/&gt;Dans ces conditions, il y a lieu pour le comité de constater d&#39;office que les faits qui font l&#39;objet de la présente procédure de sanction sont atteints par la prescription et de mettre par suite la société Enedis hors de cause.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Décide :&lt;/p&gt;Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Copie de la présente décision sera adressée à la société Nucleosun.&lt;/p&gt;Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les faits objets de la présente procédure de sanction sont atteints par la prescription.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société Enedis est mise hors de cause.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera notifiée à la société Enedis. Elle sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743148"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-LY-13 du 27 novembre 2020 autorisant l&#39;association ADHTV Production à utiliser une ressource radioélectrique pour la diffusion temporaire par voie hertzienne terrestre du service de télévision à vocation locale dénommé Alpe d&#39;Huez TV dans la zone de l&#39;Alpe d&#39;Huez</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743395</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743395"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-904 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743410</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743410"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-905 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743436</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743436"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-911 du 9 décembre 2020 autorisant l&#39;association Radio Campus à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Radio Campus Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743462</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743462"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-927 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743488</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743488"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-930 du 9 décembre 2020 autorisant la SAS Média Bonheur France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Bonheur 100 % Chansons françaises dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743514</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743514"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-811 DC du 21 décembre 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738082</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738082"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-810 DC du 21 décembre 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738090</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738090"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Décision du 22 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours externe et interne pour le recrutement des techniciens supérieurs de la météorologie de première classe</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739873</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739873"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant désignation de l&#39;autorité d&#39;homologation du plan achat de l&#39;Etat (PAE)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740069</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740069"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-901 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740263</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740263"></link>
     <author>
@@ -154,9 +154,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-902 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740289</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740289"></link>
     <author>
@@ -165,9 +165,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-903 du 9 décembre 2020 autorisant la SARL Générations RNT à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Générations dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740315</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740315"></link>
     <author>
@@ -176,9 +176,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-906 du 9 décembre 2020 portant abrogation de la décision n° 2011-1333 du 22 novembre 2011 autorisant le syndicat intercommunal de télévision de la région d&#39;Olargues (Hérault) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Saint-Vincent-d&#39;Olargues</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740341</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740341"></link>
     <author>
@@ -187,9 +187,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-912 du 9 décembre 2020 autorisant l&#39;association Radio européenne nantaise à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Euradio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740347</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740347"></link>
     <author>
@@ -198,9 +198,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-913 du 9 décembre 2020 autorisant la SAS Alouette à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Alouette dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740373</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740373"></link>
     <author>
@@ -209,9 +209,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-914 du 9 décembre 2020 autorisant la SAS Plus FM Multimédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM Centre dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740399</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740399"></link>
     <author>
@@ -220,9 +220,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-915 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Val de Loire dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740425</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740425"></link>
     <author>
@@ -231,9 +231,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-916 du 9 décembre 2020 autorisant la SAS NRJ Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé NRJ Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740451</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740451"></link>
     <author>
@@ -242,9 +242,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-918 du 9 décembre 2020 autorisant la SA Africa Média à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Africa Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740477</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740477"></link>
     <author>
@@ -253,9 +253,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-919 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740503</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740503"></link>
     <author>
@@ -264,9 +264,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-920 du 9 décembre 2020 autorisant la SARL Virage Radio DAB à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Virage Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740529</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740529"></link>
     <author>
@@ -275,9 +275,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-921 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740555</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740555"></link>
     <author>
@@ -286,9 +286,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-922 du 9 décembre 2020 autorisant l&#39;association Radio Maria France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Maria dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740581</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740581"></link>
     <author>
@@ -297,9 +297,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-923 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740607</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740607"></link>
     <author>
@@ -308,9 +308,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-924 du 9 décembre 2020 autorisant l&#39;Association chrétienne centre ouest des radios diocésaines (ACCORDS Poitou) à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Poitou dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740633</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740633"></link>
     <author>
@@ -319,9 +319,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-925 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740659</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740659"></link>
     <author>
@@ -330,9 +330,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-926 du 9 décembre 2020 autorisant la SARL Leader Médias à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Mixx FM dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740685</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740685"></link>
     <author>
@@ -341,9 +341,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-929 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740711</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740711"></link>
     <author>
@@ -352,9 +352,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-931 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740737</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740737"></link>
     <author>
@@ -363,9 +363,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-932 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740763</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740763"></link>
     <author>
@@ -374,9 +374,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-933 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740789</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740789"></link>
     <author>
@@ -385,9 +385,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-934 du 9 décembre 2020 autorisant la SAS Swigg France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Swigg dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740815</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740815"></link>
     <author>
@@ -396,9 +396,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-935 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740841</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740841"></link>
     <author>
@@ -407,9 +407,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-936 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740867</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740867"></link>
     <author>
@@ -418,9 +418,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-937 du 9 décembre 2020 autorisant la SAS Native Média à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé CapSao dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740893</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740893"></link>
     <author>
@@ -429,9 +429,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-939 du 9 décembre 2020 autorisant l&#39;association Les radios associatives du Limousin à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Émergence dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740919</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740919"></link>
     <author>
@@ -440,9 +440,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-940 du 9 décembre 2020 autorisant la SARL VH COM à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740945</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740945"></link>
     <author>
@@ -451,9 +451,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-941 du 9 décembre 2020 autorisant la SARL Proximédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Flash FM dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740971</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740971"></link>
     <author>
@@ -462,9 +462,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-942 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740997</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740997"></link>
     <author>
@@ -473,9 +473,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-943 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Poitiers dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741023</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741023"></link>
     <author>
@@ -484,9 +484,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-944 du 9 décembre 2020 autorisant la SAS Regroupement des radios musulmanes de France-Radio Orient à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Orient dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741049</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741049"></link>
     <author>
@@ -495,9 +495,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-945 du 9 décembre 2020 autorisant la SARL Bleu Pomme à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé AMI dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741075</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741075"></link>
     <author>
@@ -506,9 +506,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-946 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741101</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741101"></link>
     <author>
@@ -517,9 +517,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-947 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741127</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741127"></link>
     <author>
@@ -528,9 +528,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-948 du 9 décembre 2020 autorisant l&#39;association Radio Maria France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Maria dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741153</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741153"></link>
     <author>
@@ -539,9 +539,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 modifiant la décision du 28 mai 2019 portant délégation de signature (direction des affaires financières)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730336</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730336"></link>
     <author>
@@ -550,9 +550,9 @@
   </entry>
   <entry>
     <title>Décision du 22 décembre 2020 portant délégation de signature (sous-direction chargée de la préfiguration de l&#39;agence ministérielle de gestion)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730549</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730549"></link>
     <author>
@@ -561,9 +561,9 @@
   </entry>
   <entry>
     <title>Décision du 21 décembre 2020 portant délégation de signature (direction de l&#39;immigration)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730713</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730713"></link>
     <author>
@@ -572,9 +572,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 modifiant la décision du 28 mai 2019 portant délégation de signature (direction des affaires financières)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731437</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731437"></link>
     <author>
@@ -583,9 +583,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours spécial pour le recrutement d&#39;élèves-ingénieurs des travaux de la météorologie</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731506</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731506"></link>
     <author>
@@ -594,9 +594,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2021 (armée active)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731566</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731566"></link>
     <author>
@@ -605,9 +605,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement spécial pour l&#39;année 2021 (armée active)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731568</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731568"></link>
     <author>
@@ -616,9 +616,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2021 (corps d&#39;officiers de la marine nationale administrés par le ministère de la mer)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731570</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731570"></link>
     <author>
@@ -627,9 +627,9 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2020 (réserve)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731572</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731572"></link>
     <author>
@@ -638,9 +638,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-907 du 2 décembre 2020 portant changement de titulaire et de catégorie de l&#39;autorisation délivrée pour l&#39;exploitation du service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Lyon étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732595</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732595"></link>
     <author>
@@ -649,9 +649,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-855 du 9 décembre 2020 modifiant la décision n° 2016-29 du 13 janvier 2016 autorisant la SAS Eurocontact à exploiter un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Evasion</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732601</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732601"></link>
     <author>
@@ -660,9 +660,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-856 du 9 décembre 2020 modifiant la décision n° 2020-463 du 15 juillet 2020 portant reconduction de l&#39;autorisation délivrée à la SAS Eurocontact pour l&#39;exploitation d&#39;un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Evasion</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732607</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732607"></link>
     <author>
@@ -671,9 +671,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-857 du 9 décembre 2020 modifiant la décision n° 2017-123 du 15 février 2017 portant reconduction de l&#39;autorisation délivrée à la SAS Radio Classique pour l&#39;exploitation d&#39;un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Radio Classique</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732613</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732613"></link>
     <author>
@@ -682,9 +682,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-858 du 9 décembre 2020 modifiant la décision n° 2017-776 du 4 octobre 2017 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Radio FG</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732619</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732619"></link>
     <author>
@@ -693,9 +693,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-859 du 9 décembre 2020 modifiant la décision n° 2016-38 du 13 janvier 2016 autorisant la SAS RTL France Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RTL</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732625</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732625"></link>
     <author>
@@ -704,9 +704,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-860 du 9 décembre 2020 modifiant la décision n° 2020-465 du 15 juillet 2020 portant reconduction de l&#39;autorisation délivrée à la SAS RTL France Radio pour l&#39;exploitation d&#39;un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RTL</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732631</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732631"></link>
     <author>
@@ -715,9 +715,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-861 du 9 décembre 2020 modifiant la décision n° 2017-553 du 28 juin 2017 portant reconduction de l&#39;autorisation délivrée à la SAS Europe 2 Entreprises pour l&#39;exploitation d&#39;un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Virgin Radio</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732637</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732637"></link>
     <author>
@@ -726,9 +726,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-862 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Orléans dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732643</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732643"></link>
     <author>
@@ -737,9 +737,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-863 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Poitou dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732662</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732662"></link>
     <author>
@@ -748,9 +748,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-864 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Touraine dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732681</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732681"></link>
     <author>
@@ -759,9 +759,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-865 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732700</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732700"></link>
     <author>
@@ -770,9 +770,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-866 du 9 décembre 2020 autorisant l&#39;association Radio chrétienne francophone Touraine Saint-Martin à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Touraine Saint-Martin dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732726</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732726"></link>
     <author>
@@ -781,9 +781,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-867 du 9 décembre 2020 autorisant la SARL Fréquence Ille à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Clazz dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732752</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732752"></link>
     <author>
@@ -792,9 +792,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-868 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732778</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732778"></link>
     <author>
@@ -803,9 +803,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-869 du 9 décembre 2020 autorisant la SAS Regroupement des radios musulmanes de France-Radio Orient à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Orient dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732804</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732804"></link>
     <author>
@@ -814,9 +814,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-870 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732830</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732830"></link>
     <author>
@@ -825,9 +825,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-871 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732856</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732856"></link>
     <author>
@@ -836,9 +836,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-872 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732882</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732882"></link>
     <author>
@@ -847,9 +847,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-873 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732908</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732908"></link>
     <author>
@@ -858,9 +858,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-874 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732934</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732934"></link>
     <author>
@@ -869,9 +869,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-875 du 9 décembre 2020 autorisant la SARL Générations RNT à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Générations dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732960</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732960"></link>
     <author>
@@ -880,9 +880,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-876 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732986</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732986"></link>
     <author>
@@ -891,9 +891,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-877 du 9 décembre 2020 autorisant l&#39;association Les amis de la radio à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Citeradio dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733012</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733012"></link>
     <author>
@@ -902,9 +902,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-878 du 9 décembre 2020 autorisant l&#39;association Radio européenne nantaise à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Euradio dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733038</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733038"></link>
     <author>
@@ -913,9 +913,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-880 du 9 décembre 2020 autorisant la SAS Plus FM Multimédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM Centre dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733064</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733064"></link>
     <author>
@@ -924,9 +924,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-881 du 9 décembre 2020 autorisant la SARL Nantes Médias à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Hit West dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733090</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733090"></link>
     <author>
@@ -935,9 +935,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-882 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733116</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733116"></link>
     <author>
@@ -946,9 +946,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-883 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Val de Loire dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733142</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733142"></link>
     <author>
@@ -957,9 +957,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-884 du 9 décembre 2020 autorisant la SAS NRJ Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé NRJ Tours dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733168</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733168"></link>
     <author>
@@ -968,9 +968,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-885 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733194</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733194"></link>
     <author>
@@ -979,9 +979,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-886 du 9 décembre 2020 autorisant la SARL Virage Radio DAB à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Virage Radio dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733220</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733220"></link>
     <author>
@@ -990,9 +990,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-887 du 9 décembre 2020 autorisant la SAS Swigg France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Swigg dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733246</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733246"></link>
     <author>
@@ -1001,9 +1001,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-888 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733272</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733272"></link>
     <author>
@@ -1012,9 +1012,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-889 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733298</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733298"></link>
     <author>
@@ -1023,9 +1023,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-894 du 9 décembre 2020 autorisant l&#39;association RCF Loiret à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Loiret dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733324</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733324"></link>
     <author>
@@ -1034,9 +1034,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-895 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733350</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733350"></link>
     <author>
@@ -1045,9 +1045,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-896 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733376</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733376"></link>
     <author>
@@ -1056,9 +1056,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-897 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733402</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733402"></link>
     <author>
@@ -1067,9 +1067,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-898 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733428</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733428"></link>
     <author>
@@ -1078,9 +1078,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-899 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733454</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733454"></link>
     <author>
@@ -1089,9 +1089,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-900 du 9 décembre 2020 autorisant la SAS Aime C2 à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Beur FM dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733480</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733480"></link>
     <author>
@@ -1100,9 +1100,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-910 du 9 décembre 2020 modifiant le nom du service Judaïques FM</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733506</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733506"></link>
     <author>
@@ -1111,9 +1111,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-917 du 9 décembre 2020 autorisant la SAS Radio Nostalgie Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Nostalgie Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733510</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733510"></link>
     <author>
@@ -1122,9 +1122,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-928 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733536</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733536"></link>
     <author>
@@ -1133,9 +1133,9 @@
   </entry>
   <entry>
     <title>Décision du 21 décembre 2020 portant délégation de signature (direction générale de l&#39;administration et de la modernisation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713180</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713180"></link>
     <author>
@@ -1144,9 +1144,9 @@
   </entry>
   <entry>
     <title>Décision du 21 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723113</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723113"></link>
     <author>
@@ -1155,9 +1155,9 @@
   </entry>
   <entry>
     <title>Décision du 21 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723124</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723124"></link>
     <author>
@@ -1166,9 +1166,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-841 du 2 décembre 2020 modifiant la décision n° 2015-418 du 18 novembre 2015 autorisant la SAS Société de gestion du réseau R1 (GR1) à utiliser une ressource radioélectrique pour le multiplexage des programmes des services de communication audiovisuelle diffusés par voie hertzienne terrestre en mode numérique sur le réseau R1</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723328</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723328"></link>
     <author>
@@ -1177,9 +1177,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-844 du 9 décembre 2020 modifiant la décision n° 2015-418 du 18 novembre 2015 autorisant la SAS Société de gestion du réseau R1 (GR1) à utiliser une ressource radioélectrique pour le multiplexage des programmes des services de communication audiovisuelle diffusés par voie hertzienne terrestre en mode numérique sur le réseau R1</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723335</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723335"></link>
     <author>
@@ -1188,9 +1188,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-845 du 9 décembre 2020 portant abrogation de la décision n° 2011-47 modifiée du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone du Cozzano</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723341</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723341"></link>
     <author>
@@ -1199,9 +1199,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-846 du 9 décembre 2020 portant abrogation de la décision n° 2011-252 modifiée du 27 avril 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Palnéca</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723349</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723349"></link>
     <author>
@@ -1210,9 +1210,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-847 du 9 décembre 2020 portant abrogation de la décision n° 2011-46 du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Zicavo</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723357</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723357"></link>
     <author>
@@ -1221,9 +1221,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-848 du 9 décembre 2020 portant abrogation de la décision n° 2011-48 du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone du Frasseto</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723365</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723365"></link>
     <author>
@@ -1232,9 +1232,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-849 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Cozzano</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723373</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723373"></link>
     <author>
@@ -1243,9 +1243,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-850 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Frasseto</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723384</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723384"></link>
     <author>
@@ -1254,9 +1254,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-851 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Palnéca</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723395</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723395"></link>
     <author>
@@ -1265,9 +1265,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-852 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Zicavo</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723406</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723406"></link>
     <author>
@@ -1276,9 +1276,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-853 du 9 décembre 2020 autorisant la commune de Saint-Vincent-d&#39;Olargues (Hérault) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Saint-Vincent-d&#39;Olargues</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723417</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723417"></link>
     <author>
@@ -1287,9 +1287,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-854 du 9 décembre 2020 modifiant la décision n° 92-1167 du 8 décembre 1992 portant autorisation d&#39;usage de fréquences à la société nationale de programme Radio France</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723428</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723428"></link>
     <author>
@@ -1298,9 +1298,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-289 L du 21 décembre 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708958</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708958"></link>
     <author>
@@ -1309,9 +1309,9 @@
   </entry>
   <entry>
     <title>Décision du 11 décembre 2020 portant prolongation de la décision du 27 mars 2017 portant désignation de prestataires de services d&#39;assistance en escale autorisés à exercer sur l&#39;aéroport de Paris-Charles-de-Gaulle</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709436</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709436"></link>
     <author>
@@ -1320,9 +1320,9 @@
   </entry>
   <entry>
     <title>Décision du 11 décembre 2020 portant prolongation des décisions du 2 juin 2014 portant désignation de prestataires de services d&#39;assistance en escale autorisés à exercer sur l&#39;aéroport de Paris-Orly, du 27 mars 2017 portant désignation de prestataires de services d&#39;assistance en escale autorisés à exercer sur l&#39;aéroport de Paris-Orly - aérogare Ouest et du 13 mars 2018 prise en application de l&#39;article 3 des décisions du 2 juin 2014 et du 27 mars 2017 portant désignation de prestataires de services d&#39;assistance en escale autorisés à exercer sur l&#39;aéroport de Paris-Orly</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709441</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709441"></link>
     <author>
@@ -1331,9 +1331,9 @@
   </entry>
   <entry>
     <title>Décision du 17 décembre 2020 portant désignation aux fonctions de secrétaire général adjoint du comité interministériel de prévention de la délinquance et de la radicalisation (CIPDR)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709484</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709484"></link>
     <author>
@@ -1342,9 +1342,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-48 du 4 novembre 2020 portant approbation du transfert, par voie de fusion-absorption, du portefeuille de contrats d&#39;une société d&#39;assurance</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709529</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709529"></link>
     <author>
@@ -1353,9 +1353,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-69 du 16 décembre 2020 portant agrément d&#39;une entreprise d&#39;assurance</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709535</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709535"></link>
     <author>
@@ -1364,9 +1364,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-908 du 4 novembre 2020 relative au candidat recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-466 du 29 juillet 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans plusieurs zones de Corse</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709546</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709546"></link>
     <author>
@@ -1375,9 +1375,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-909 du 4 novembre 2020 relative au candidat recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-411 du 24 juin 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans la zone de Tours</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709550</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709550"></link>
     <author>
@@ -1386,9 +1386,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-879 du 9 décembre 2020 autorisant la SARL Disc Nohain à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Radio Numéro 1 dans la zone Tours local</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709554</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709554"></link>
     <author>
@@ -1397,9 +1397,9 @@
   </entry>
   <entry>
     <title>Décision du Défenseur des droits n° 2020-213 du 15 décembre 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709581</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709581"></link>
     <author>
@@ -1408,9 +1408,9 @@
   </entry>
   <entry>
     <title>Décision du 16 décembre 2020 modifiant la décision du 22 septembre 2020 fixant pour les ministères en charge de la transition écologique, de la cohésion des territoires et des relations avec les collectivités territoriales et de la mer, la liste des emplois éligibles à la nouvelle bonification indiciaire et le montant de la nouvelle bonification indiciaire attribué à chacun d&#39;eux</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702113</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702113"></link>
     <author>
@@ -1419,9 +1419,9 @@
   </entry>
   <entry>
     <title>Décision du 17 décembre 2020 portant délégation de signature pour les directions régionales et interrégionales de l&#39;Institut national de la statistique et des études économiques</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702221</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702221"></link>
     <author>
@@ -1430,9 +1430,9 @@
   </entry>
   <entry>
     <title>Décision du 17 décembre 2020 portant délégation de signature (Institut national de la statistique et des études économiques)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702238</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702238"></link>
     <author>
@@ -1441,9 +1441,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-66 du 16 décembre 2020 portant approbation du transfert partiel du portefeuille d&#39;opérations d&#39;une mutuelle</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702672</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702672"></link>
     <author>
@@ -1452,9 +1452,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-67 du 16 décembre 2020 portant approbation du transfert total du portefeuille d&#39;opérations d&#39;une union de mutuelles</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702677</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702677"></link>
     <author>
@@ -1463,9 +1463,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-68 du 16 décembre 2020 portant approbation du transfert total du portefeuille d&#39;opérations d&#39;une mutuelle et caducité de ses agréments</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702682</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702682"></link>
     <author>
@@ -1474,9 +1474,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-71 du 16 décembre 2020 portant agrément d&#39;un fonds de retraite professionnelle supplémentaire et approbation du transfert partiel du portefeuille de contrats d&#39;une entreprise d&#39;assurance vers un fonds de retraite professionnelle supplémentaire</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702688</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702688"></link>
     <author>
@@ -1485,9 +1485,9 @@
   </entry>
   <entry>
     <title>Décision du 8 décembre 2020 portant délégation de signature (secrétariat général)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700038</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700038"></link>
     <author>
@@ -1496,9 +1496,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 modifiant la décision du 26 juin 2020 portant délégation de signature (direction générale de la gendarmerie nationale, direction des personnels militaires de la gendarmerie nationale)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700294</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700294"></link>
     <author>
@@ -1507,9 +1507,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant délégation de signature (direction centrale de la police judiciaire)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700304</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700304"></link>
     <author>
@@ -1518,9 +1518,9 @@
   </entry>
   <entry>
     <title>Décision du 17 décembre 2020 fixant le tarif de responsabilité, le prix limite de vente au public (PLV) en euros TTC et les prix de cession en euros HT des pompes à insuline externes, portables et programmables inscrites sous description générique sur la liste visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700560</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700560"></link>
     <author>
@@ -1529,9 +1529,9 @@
   </entry>
   <entry>
     <title>Décision du 17 décembre 2020 fixant le tarif de responsabilité, le prix limite de vente au public (PLV) en euros TTC et le prix de cession en euros HT du système OMNIPOD de la société INSULET inscrit sur la liste visée à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700568</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700568"></link>
     <author>
@@ -1540,9 +1540,9 @@
   </entry>
   <entry>
     <title>Décision du 8 décembre 2020 portant délégation de signature (secrétariat général)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700590</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700590"></link>
     <author>
@@ -1551,9 +1551,9 @@
   </entry>
   <entry>
     <title>Décision du 16 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700722</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700722"></link>
     <author>
@@ -1562,9 +1562,9 @@
   </entry>
   <entry>
     <title>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim (rectificatif)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700771</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700771"></link>
     <author>
@@ -1573,9 +1573,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-C-59 du 11 décembre 2020 portant délégation de compétences du collège de supervision de l&#39;Autorité de contrôle prudentiel et de résolution au secrétaire général</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700993</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700993"></link>
     <author>
@@ -1584,9 +1584,9 @@
   </entry>
   <entry>
     <title>Décision du 7 décembre 2020 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701150</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701150"></link>
     <author>
@@ -1595,9 +1595,9 @@
   </entry>
   <entry>
     <title>Décisions du 7 décembre 2020 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701152</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701152"></link>
     <author>
@@ -1606,9 +1606,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-22 du 18 novembre 2020 modifiant la décision n° 2017-101 du 22 février 2017 autorisant l&#39;association Chiconi FM à exploiter un service de radio de catégorie A par voie hertzienne terrestre en modulation de fréquence dénommé Chiconi FM</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701155</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701155"></link>
     <author>
@@ -1617,9 +1617,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-23 du 18 novembre 2020 modifiant le nom du service RDJ Réunion</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701162</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701162"></link>
     <author>
@@ -1628,9 +1628,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-24 du 18 novembre 2020 modifiant le nom du service RDJ Mayotte</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701169</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701169"></link>
     <author>
@@ -1639,9 +1639,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant nomination d&#39;une rapporteure générale adjointe des services d&#39;instruction de l&#39;Autorité de la concurrence</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695423</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695423"></link>
     <author>
@@ -1650,9 +1650,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant attribution de fonctions</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695428</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695428"></link>
     <author>
@@ -1661,9 +1661,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 relative au versement forfaitaire à effectuer à l&#39;Agence centrale des organismes de sécurité sociale</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677328</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677328"></link>
     <author>
@@ -1672,9 +1672,9 @@
   </entry>
   <entry>
     <title>Décision du 11 décembre 2020 modifiant la décision du 30 juillet 2019 modifiée portant délégation de signature (direction des ressources humaines)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333"></link>
     <author>
@@ -1683,9 +1683,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant nomination au sein de la société par actions simplifiées dénommée « Agence France-Muséums »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677668</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677668"></link>
     <author>
@@ -1694,9 +1694,9 @@
   </entry>
   <entry>
     <title>Décision du 9 décembre 2020 portant attribution du niveau de qualification hospitalière de praticien certifié sur titre à des praticiens des armées</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677746</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677746"></link>
     <author>
@@ -1705,9 +1705,9 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 portant cessation de fonctions d&#39;un rapporteur général adjoint des services d&#39;instruction de l&#39;Autorité de la concurrence</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677912</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677912"></link>
     <author>
@@ -1716,9 +1716,9 @@
   </entry>
   <entry>
     <title>Décision n° 2020-VP-60 du 11 décembre 2020 portant approbation du transfert, par voie de fusion-absorption, du portefeuille d&#39;opérations d&#39;une union de mutuelles</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677918</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677918"></link>
     <author>
@@ -1727,9 +1727,9 @@
   </entry>
   <entry>
     <title>Décision DP n° 2020-86 du 14 décembre 2020 portant délégation de signature</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677967</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677967"></link>
     <author>

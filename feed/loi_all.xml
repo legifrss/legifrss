@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - loi</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,72 +11,72 @@
   </author>
   <entry>
     <title>LOI organique n° 2020-1669 du 24 décembre 2020 relative aux délais d&#39;organisation des élections législatives et sénatoriales partielles (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737966</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737966"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1670 du 24 décembre 2020 relative aux délais d&#39;organisation des élections municipales partielles et des élections des membres des commissions syndicales (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737968</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737968"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1671 du 24 décembre 2020 relative à la prorogation des chapitres VI à X du titre II du livre II et de l&#39;article L. 851-3 du code de la sécurité intérieure (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737973</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737973"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737977</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042737977"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1673 du 24 décembre 2020 relative à la restitution de biens culturels à la République du Bénin et à la République du Sénégal (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738023</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738023"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1674 du 24 décembre 2020 de programmation de la recherche pour les années 2021 à 2030 et portant diverses dispositions relatives à la recherche et à l&#39;enseignement supérieur (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738027</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738027"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1630 du 22 décembre 2020 relative à la répartition des sièges de conseiller à l&#39;Assemblée de Guyane entre les sections électorales (1)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713137</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713137"></link>
     <author></author>
   </entry>
   <entry>
     <title>LOI n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2020 (rectificatif)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700009</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700009"></link>
     <author></author>

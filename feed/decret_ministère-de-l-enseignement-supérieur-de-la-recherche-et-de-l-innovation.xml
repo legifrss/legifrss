@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-enseignement-supérieur-de-la-recherche-et-de-l-innovation - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Décret n° 2020-1692 du 22 décembre 2020 relatif au diplôme national des métiers d&#39;art et du design</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739593</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739593"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1693 du 23 décembre 2020 modifiant le décret n° 2019-1600 du 31 décembre 2019 portant dissolution de chancelleries</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739609</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739609"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723279</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723279"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723281</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723281"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant retrait d&#39;une nomination de professeurs associés des universités (disciplines médicales)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723283</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723283"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination, titularisation et affectation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700845</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700845"></link>
     <author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-la-transition-écologique - arrete</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 1er décembre 2020 fixant la liste des produits chimiques mentionnés au 7° de l&#39;article L. 541-10-1 du code de l&#39;environnement</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741911</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste des produits chimiques pouvant présenter un risque significatif pour la santé et l&#39;environnement mentionnés au &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000006834455&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;environnement - art. L541-10-1 (V)&#39;&gt;7° de l&#39;article L. 541-10-1 du code de l&#39;environnement&lt;/a&gt; figure en annexe du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 16 août 2012 fixant la liste des produits chimiques pouvant présenter un risque significatif pour la santé et l&#39;environnement prévue aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000025110553&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;environnement - art. R543-228 (V)&#39;&gt;I et III de l&#39;article R. 543-228 du code de l&#39;environnement&lt;/a&gt; ainsi que les critères prévus au 1° du II du même article est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent arrêté sont applicables à compter du 1er janvier 2021.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de la prévention des risques est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les produits visés à l&#39;article 1er du présent arrêté sont les produits conditionnés pour la vente au détail figurant dans le tableau ci-après.&lt;br/&gt;Lorsque ces produits sont vendus en lot, les seuils mentionnés dans le tableau ci-après s&#39;appliquent à chaque unité constituant le lot.&lt;br/&gt;Les produits biocides dont la vente à des utilisateurs non professionnels est interdite en application de la section 5 du chapitre II du titre II du livre V du code de l&#39;environnement sont exclus du tableau figurant ci-après ainsi que les produits phytopharmaceutiques mentionnés au &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000025851634&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D253-8 (M)&#39;&gt;1° du I de l&#39;article D. 253-8 du code rural et de la pêche maritime&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Catégories et nature du produit&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Conditionnement maximal du contenu&lt;br/&gt;(poids ou volume du contenu)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1. Produits pyrotechniques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Engins de signalisation de détresse (fusées de détresse à main, fumigènes, fusées parachutes).&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ou le volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;2. Extincteurs et autres appareils à fonction extinctrice&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Extincteurs et appareils à fonction extinctrice sous pression, à poudre ou à eau, qu&#39;ils soient fixes ou mobiles&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Extincteurs et appareils à fonction extinctrice : ≤ 2 kg&lt;br/&gt;Extincteurs et appareils à fonction extinctrice : ≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;3. Produits à base d&#39;hydrocarbures&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Combustibles liquides conditionnés pour tout usage dont les appareils de chauffage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Recharges de combustibles liquides pour briquets et allumeurs&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 300 cm ³&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Paraffine (pour le bricolage)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Vaseline (pour le bricolage)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Allume-feux (solides, liquides et gélifiés)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 2 l&lt;br/&gt;Solide : ≤ 1 kg&lt;br/&gt;Gélifié : ≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;4. Produits d&#39;adhésion, d&#39;étanchéité et de réparation&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Mastics (y compris les mastics de vitrier, les mastics colles, les mastics pour les joints d&#39;étanchéité)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Mastics de vitrier : ≤ 5 kg&lt;br/&gt;Autres mastics :&lt;br/&gt;- en conditionnement cartouches : ≤ 0,3 l&lt;br/&gt;- autres types de conditionnement : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles de bricolage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Colles en phase aqueuse : ≤ 5 kg&lt;br/&gt;Colles en phase solvantée : ≤ 1 kg&lt;br/&gt;Colles réactives : ≤ 500 g&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles pour usage scolaire et colles multi-usages / fixation ou petite fixation décorative, sans solvant&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ≥ 80 g&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles autres usages tels sols, murs et carrelage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Colles murs et sols : ≤ 25 kg&lt;br/&gt;Colles carrelage : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Résines de type mousses Polyuréthane / mousses expansives quel qu&#39;en soit le mode d&#39;application&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Aérosols ≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Résines non conditionnées en aérosols&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;5. Produits de traitement et de revêtement des matériaux et produits de préparation de surface&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement des matériaux hors bois&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement du bois&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peintures, vernis, lasures et dérivés (y compris laques, sous-couches, hydrofuges-oléofuges de surface) quel qu&#39;en soit le mode d&#39;application&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peintures et produits utilisés pour lutter contre le développement et le dépôt d&#39;organismes salissants&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 2,5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Pigments, couleurs, teintes et autres additifs pour les peintures et les enduits décoratifs, hors produits pour machines à teinter&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Enduits intérieurs / extérieurs minéraux et organiques pour murs ou sols : enduits décoratifs, enduits de réparation, de rebouchage, de ragréage, de finition, de jointement et de lissage, mortier colle, mortiers divers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pâte : ≤ 25 kg&lt;br/&gt;Poudre : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6. Produits d&#39;entretien spéciaux ou de protection&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Polish extérieur pour véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Filtres à huile et à gasoil des véhicules particuliers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le volume ou le poids&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Préparation antigel et liquides de dégivrage des véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits anti-goudron&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Liquides de refroidissement des véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits vendus aux particuliers pour ramoner les cheminées&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Nettoyants et décapants pour cheminées et inserts et appareils de chauffage ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Liquide de protection des circuits de chauffage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Préparation antigel chaudières et canalisations&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Déboucheurs pour canalisations&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Décapants pour appareils de cuisson ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits imperméabilisants et / ou de protection textiles et / ou cuir et / ou daim&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 500 ml&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement de piscine ne figurant pas dans la catégorie 9 : biocides et phytosanitaires ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 5 l&lt;br/&gt;Solide : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Générateurs d&#39;aérosols à fonction extinctrice&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Aérosols : ≤ 1 kg ou 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;7. Produits chimiques usuels&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits antirouille non soumis aux 4 (a), 4 (b) et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&amp;idArticle=LEGIARTI000006615178&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des douanes - art. 266 sexies (M)&#39;&gt;4 (c) de l&#39;article 266 sexies du code des douanes&lt;/a&gt;&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide chlorhydrique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide nitrique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide phosphorique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide sulfurique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide oxalique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide sulfamique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Soude (hydroxyde de sodium) sous toutes ses formes : lessive de soude, soude caustique, …&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Alcools (y compris alcool ménager, alcool à brûler)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peroxyde d&#39;hydrogène ou eau oxygénée&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Ammoniaque sous toutes ses formes&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 6 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;8. Solvants et diluants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;White-spirit non utilisé comme combustible&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Essence de térébenthine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acétone&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Solvants, dissolvants et diluants organiques utilisés par les ménages&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 10 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Décapants&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;9. Produits biocides et phytopharmaceutiques ménagers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Insecticides acaricides et produits pour lutter contre les arthropodes 0&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide (y compris aérosols) : ≤ 1 l&lt;br/&gt;Solide (y compris en sachet) : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Rodenticides&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Solide : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Répulsifs et appâts&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide (y compris aérosols) : ≤ 1 l&lt;br/&gt;Solide (y compris en sachet) : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits antimousses et produits antimoisissures&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits phytopharmaceutiques, à l&#39;exception des préparations naturelles peu préoccupantes composées exclusivement de substances de base et portant la mention emploi autorisé dans les jardins=&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ou le volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de désinfection des piscines des particuliers : chlore pur&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 20 l&lt;br/&gt;Solide : ≤ 10 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de désinfection des piscines des particuliers autres que chlore pur&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 20 l&lt;br/&gt;Solide : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;10. Engrais ménagers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Engrais pour jardin des ménages, à l&#39;exclusion des engrais organiques, des engrais dont l&#39;usage est autorisé dans le cadre de l&#39;agriculture biologique conformément au règlement (CE) n° 834/2007 et des préparations naturelles peu préoccupantes composées exclusivement de substances naturelles à usage biostimulant&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 5 l&lt;br/&gt;Solide : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste des produits chimiques pouvant présenter un risque significatif pour la santé et l&#39;environnement mentionnés au &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000006834455&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;environnement - art. L541-10-1 (V)&#39;&gt;7° de l&#39;article L. 541-10-1 du code de l&#39;environnement&lt;/a&gt; figure en annexe du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 16 août 2012 fixant la liste des produits chimiques pouvant présenter un risque significatif pour la santé et l&#39;environnement prévue aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000025110553&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;environnement - art. R543-228 (V)&#39;&gt;I et III de l&#39;article R. 543-228 du code de l&#39;environnement&lt;/a&gt; ainsi que les critères prévus au 1° du II du même article est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent arrêté sont applicables à compter du 1er janvier 2021.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de la prévention des risques est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les produits visés à l&#39;article 1er du présent arrêté sont les produits conditionnés pour la vente au détail figurant dans le tableau ci-après.&lt;br/&gt;Lorsque ces produits sont vendus en lot, les seuils mentionnés dans le tableau ci-après s&#39;appliquent à chaque unité constituant le lot.&lt;br/&gt;Les produits biocides dont la vente à des utilisateurs non professionnels est interdite en application de la section 5 du chapitre II du titre II du livre V du code de l&#39;environnement sont exclus du tableau figurant ci-après ainsi que les produits phytopharmaceutiques mentionnés au &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000025851634&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D253-8 (M)&#39;&gt;1° du I de l&#39;article D. 253-8 du code rural et de la pêche maritime&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Catégories et nature du produit&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Conditionnement maximal du contenu&lt;br/&gt;(poids ou volume du contenu)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1. Produits pyrotechniques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Engins de signalisation de détresse (fusées de détresse à main, fumigènes, fusées parachutes).&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ou le volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;2. Extincteurs et autres appareils à fonction extinctrice&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Extincteurs et appareils à fonction extinctrice sous pression, à poudre ou à eau, qu&#39;ils soient fixes ou mobiles&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Extincteurs et appareils à fonction extinctrice : ≤ 2 kg&lt;br/&gt;Extincteurs et appareils à fonction extinctrice : ≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;3. Produits à base d&#39;hydrocarbures&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Combustibles liquides conditionnés pour tout usage dont les appareils de chauffage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Recharges de combustibles liquides pour briquets et allumeurs&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 300 cm ³&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Paraffine (pour le bricolage)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Vaseline (pour le bricolage)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Allume-feux (solides, liquides et gélifiés)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 2 l&lt;br/&gt;Solide : ≤ 1 kg&lt;br/&gt;Gélifié : ≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;4. Produits d&#39;adhésion, d&#39;étanchéité et de réparation&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Mastics (y compris les mastics de vitrier, les mastics colles, les mastics pour les joints d&#39;étanchéité)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Mastics de vitrier : ≤ 5 kg&lt;br/&gt;Autres mastics :&lt;br/&gt;- en conditionnement cartouches : ≤ 0,3 l&lt;br/&gt;- autres types de conditionnement : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles de bricolage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Colles en phase aqueuse : ≤ 5 kg&lt;br/&gt;Colles en phase solvantée : ≤ 1 kg&lt;br/&gt;Colles réactives : ≤ 500 g&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles pour usage scolaire et colles multi-usages / fixation ou petite fixation décorative, sans solvant&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ≥ 80 g&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Colles autres usages tels sols, murs et carrelage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Colles murs et sols : ≤ 25 kg&lt;br/&gt;Colles carrelage : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Résines de type mousses Polyuréthane / mousses expansives quel qu&#39;en soit le mode d&#39;application&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Aérosols ≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Résines non conditionnées en aérosols&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;5. Produits de traitement et de revêtement des matériaux et produits de préparation de surface&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement des matériaux hors bois&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement du bois&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peintures, vernis, lasures et dérivés (y compris laques, sous-couches, hydrofuges-oléofuges de surface) quel qu&#39;en soit le mode d&#39;application&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l et ≤ 30 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peintures et produits utilisés pour lutter contre le développement et le dépôt d&#39;organismes salissants&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 2,5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Pigments, couleurs, teintes et autres additifs pour les peintures et les enduits décoratifs, hors produits pour machines à teinter&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Enduits intérieurs / extérieurs minéraux et organiques pour murs ou sols : enduits décoratifs, enduits de réparation, de rebouchage, de ragréage, de finition, de jointement et de lissage, mortier colle, mortiers divers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pâte : ≤ 25 kg&lt;br/&gt;Poudre : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6. Produits d&#39;entretien spéciaux ou de protection&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Polish extérieur pour véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Filtres à huile et à gasoil des véhicules particuliers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le volume ou le poids&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Préparation antigel et liquides de dégivrage des véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits anti-goudron&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Liquides de refroidissement des véhicules&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits vendus aux particuliers pour ramoner les cheminées&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Nettoyants et décapants pour cheminées et inserts et appareils de chauffage ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Liquide de protection des circuits de chauffage&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Préparation antigel chaudières et canalisations&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Déboucheurs pour canalisations&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 2 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Décapants pour appareils de cuisson ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits imperméabilisants et / ou de protection textiles et / ou cuir et / ou daim&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 500 ml&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de traitement de piscine ne figurant pas dans la catégorie 9 : biocides et phytosanitaires ménagers&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 5 l&lt;br/&gt;Solide : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Générateurs d&#39;aérosols à fonction extinctrice&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Aérosols : ≤ 1 kg ou 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;7. Produits chimiques usuels&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits antirouille non soumis aux 4 (a), 4 (b) et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071570&amp;idArticle=LEGIARTI000006615178&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des douanes - art. 266 sexies (M)&#39;&gt;4 (c) de l&#39;article 266 sexies du code des douanes&lt;/a&gt;&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide chlorhydrique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide nitrique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide phosphorique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide sulfurique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide oxalique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acide sulfamique&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 1 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Soude (hydroxyde de sodium) sous toutes ses formes : lessive de soude, soude caustique, …&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Alcools (y compris alcool ménager, alcool à brûler)&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Peroxyde d&#39;hydrogène ou eau oxygénée&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Ammoniaque sous toutes ses formes&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 6 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;8. Solvants et diluants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;White-spirit non utilisé comme combustible&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Essence de térébenthine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Acétone&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 5 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Solvants, dissolvants et diluants organiques utilisés par les ménages&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 10 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Décapants&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 20 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;9. Produits biocides et phytopharmaceutiques ménagers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Insecticides acaricides et produits pour lutter contre les arthropodes 0&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide (y compris aérosols) : ≤ 1 l&lt;br/&gt;Solide (y compris en sachet) : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Rodenticides&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Solide : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Répulsifs et appâts&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide (y compris aérosols) : ≤ 1 l&lt;br/&gt;Solide (y compris en sachet) : ≤ 1,5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits antimousses et produits antimoisissures&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;≤ 25 l&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits phytopharmaceutiques, à l&#39;exception des préparations naturelles peu préoccupantes composées exclusivement de substances de base et portant la mention emploi autorisé dans les jardins=&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Quel que soit le poids ou le volume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de désinfection des piscines des particuliers : chlore pur&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 20 l&lt;br/&gt;Solide : ≤ 10 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Produits de désinfection des piscines des particuliers autres que chlore pur&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 20 l&lt;br/&gt;Solide : ≤ 5 kg&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;2&#39; align=&#39;center&#39;&gt;&lt;br/&gt;10. Engrais ménagers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Engrais pour jardin des ménages, à l&#39;exclusion des engrais organiques, des engrais dont l&#39;usage est autorisé dans le cadre de l&#39;agriculture biologique conformément au règlement (CE) n° 834/2007 et des préparations naturelles peu préoccupantes composées exclusivement de substances naturelles à usage biostimulant&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Liquide : ≤ 5 l&lt;br/&gt;Solide : ≤ 25 kg&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741911"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 fixant les modalités d&#39;application de l&#39;arrêté du 9 juin 1948 modifié portant statut des ouvriers temporaires professionnels qualifiés de l&#39;Institut géographique national admis au bénéfice des dispositions de la loi du 21 mars 1928</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741929</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;effet des dispositions du premier alinéa de l&#39;article 4 de l&#39;arrêté du 9 juin 1948 susvisé est suspendu à compter du 1er janvier 2021 et jusqu&#39;au 31 décembre 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Institut national de l&#39;information géographique et forestière est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;effet des dispositions du premier alinéa de l&#39;article 4 de l&#39;arrêté du 9 juin 1948 susvisé est suspendu à compter du 1er janvier 2021 et jusqu&#39;au 31 décembre 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Institut national de l&#39;information géographique et forestière est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741929"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 19 août 2019 fixant l&#39;organisation générale, la nature et le programme des épreuves des concours externe et interne pour l&#39;accès au corps des ingénieurs du contrôle de la navigation aérienne</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741933</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 6 de l&#39;arrêté du 19 août 2019 susvisé est complété par les dispositions suivantes :&lt;br/&gt;« Les candidats doivent produire avant le début des épreuves écrites soit un certificat médical de classe 2 (pilote privé) tel que prévu par le règlement UE n°1178/2011 susvisé, soit une attestation de visite médicale auprès d&#39;un ophtalmologiste ou orthoptiste. La forme de cette attestation ainsi que les modalités de sa production (moyen, date limite) sont définies par la notice des concours communs des instituts nationaux polytechniques (CC-INP). »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les six premiers alinéas du b de l&#39;article 11 de l&#39;arrêté du 19 août 2019 susvisé sont remplacés par les dispositions suivantes :&lt;br/&gt;« b) Epreuve d&#39;entretien avec le jury organisée par l&#39;Ecole nationale de l&#39;aviation civile :&lt;br/&gt;« Cet entretien avec le jury, d&#39;une durée de 30 minutes, ne nécessite pas de temps de préparation, et peut se tenir à distance dans les conditions fixées par les décrets du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036252167&amp;categorieLien=cid&#39; title=&#39;Décret n°2017-1748 du 22 décembre 2017 (V)&#39;&gt;22 décembre 2017&lt;/a&gt; et du 16 avril 2020 susvisés.&lt;br/&gt;« Il comporte deux parties :&lt;br/&gt;« La première partie de l&#39;entretien est fixé à 10 minutes au plus. Elle consiste en un échange sur une question ouverte en lien avec le domaine aéronautique et permettant de déterminer les capacités d&#39;adaptation et d&#39;analyse du candidat.&lt;br/&gt;« Dans une seconde partie, le jury interroge le candidat sur son parcours, sur ses motivations et ses connaissances des missions dévolues au corps des ingénieurs du contrôle de la navigation aérienne afin d&#39;évaluer son aptitude à exercer lesdites missions.&lt;br/&gt;« Pour cela, le jury utilise une grille d&#39;évaluation dont le contenu est chaque année mis en ligne sur le site internet du ministère chargé de l&#39;aviation civile. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 6 de l&#39;arrêté du 19 août 2019 susvisé est complété par les dispositions suivantes :&lt;br/&gt;« Les candidats doivent produire avant le début des épreuves écrites soit un certificat médical de classe 2 (pilote privé) tel que prévu par le règlement UE n°1178/2011 susvisé, soit une attestation de visite médicale auprès d&#39;un ophtalmologiste ou orthoptiste. La forme de cette attestation ainsi que les modalités de sa production (moyen, date limite) sont définies par la notice des concours communs des instituts nationaux polytechniques (CC-INP). »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les six premiers alinéas du b de l&#39;article 11 de l&#39;arrêté du 19 août 2019 susvisé sont remplacés par les dispositions suivantes :&lt;br/&gt;« b) Epreuve d&#39;entretien avec le jury organisée par l&#39;Ecole nationale de l&#39;aviation civile :&lt;br/&gt;« Cet entretien avec le jury, d&#39;une durée de 30 minutes, ne nécessite pas de temps de préparation, et peut se tenir à distance dans les conditions fixées par les décrets du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036252167&amp;categorieLien=cid&#39; title=&#39;Décret n°2017-1748 du 22 décembre 2017 (V)&#39;&gt;22 décembre 2017&lt;/a&gt; et du 16 avril 2020 susvisés.&lt;br/&gt;« Il comporte deux parties :&lt;br/&gt;« La première partie de l&#39;entretien est fixé à 10 minutes au plus. Elle consiste en un échange sur une question ouverte en lien avec le domaine aéronautique et permettant de déterminer les capacités d&#39;adaptation et d&#39;analyse du candidat.&lt;br/&gt;« Dans une seconde partie, le jury interroge le candidat sur son parcours, sur ses motivations et ses connaissances des missions dévolues au corps des ingénieurs du contrôle de la navigation aérienne afin d&#39;évaluer son aptitude à exercer lesdites missions.&lt;br/&gt;« Pour cela, le jury utilise une grille d&#39;évaluation dont le contenu est chaque année mis en ligne sur le site internet du ministère chargé de l&#39;aviation civile. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741933"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 portant agrément de la société de coordination « Valophis SC, société de coordination »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741955</id>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transition écologique en date du 21 décembre 2020, la société de coordination « Valophis SC, société de coordination », dont le siège social est situé à Créteil (94), est agréée pour l&#39;exercice de son activité sur le territoire national.&lt;/p&gt;</content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transition écologique en date du 21 décembre 2020, la société de coordination « Valophis SC, société de coordination », dont le siège social est situé à Créteil (94), est agréée pour l&#39;exercice de son activité sur le territoire national.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741955"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 relatif à l&#39;entrée en vigueur du décret n° 2020-1593 du 15 décembre 2020 autorisant la société Orano Recyclage à prendre en charge l&#39;exploitation des installations nucléaires de base n° 33, n° 38, n° 47, n° 80, n° 116, n° 117 et n° 118 actuellement exploitées par la société Orano Cycle sur le site de La Hague (département de la Manche) et l&#39;exploitation de l&#39;installation nucléaire de base n° 151 actuellement exploitée par la société Orano Cycle sur le site de Marcoule (département du Gard)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741957</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;autorisation du changement d&#39;exploitant des installations nucléaires de base n° 33, n° 38, n° 47, n° 80, n° 116, n° 117, n° 118 et n° 151, accordée par le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042677155&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1593 du 15 décembre 2020, v. init.&#39;&gt;décret n° 2020-1593 du 15 décembre 2020 susvisé&lt;/a&gt;, prend effet le 31 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;autorisation du changement d&#39;exploitant des installations nucléaires de base n° 33, n° 38, n° 47, n° 80, n° 116, n° 117, n° 118 et n° 151, accordée par le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042677155&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1593 du 15 décembre 2020, v. init.&#39;&gt;décret n° 2020-1593 du 15 décembre 2020 susvisé&lt;/a&gt;, prend effet le 31 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741957"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 relatif à l&#39;entrée en vigueur du décret n° 2020-1594 du 15 décembre 2020 autorisant la société Orano Chimie-Enrichissement à prendre en charge l&#39;exploitation des installations nucléaires de base n° 93, n° 105, n° 138, n° 155, n° 168, n° 176, n° 178 et n° 179 actuellement exploitées par la société Orano Cycle sur le site du Tricastin (départements de la Drôme et de Vaucluse) et l&#39;exploitation de l&#39;installation nucléaire de base n° 175 actuellement exploitée par la société Orano Cycle sur le site de Malvési (département de l&#39;Aude)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741969</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;autorisation du changement d&#39;exploitant des installations nucléaires de base n° 93, n° 105, n° 138, n° 155, n° 168, n° 175, n° 176, n° 178 et n° 179, accordée par &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042677181&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1594 du 15 décembre 2020, v. init.&#39;&gt;décret n° 2020-1594 du 15 décembre 2020 susvisé&lt;/a&gt;, prend effet le 31 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;autorisation du changement d&#39;exploitant des installations nucléaires de base n° 93, n° 105, n° 138, n° 155, n° 168, n° 175, n° 176, n° 178 et n° 179, accordée par &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042677181&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-1594 du 15 décembre 2020, v. init.&#39;&gt;décret n° 2020-1594 du 15 décembre 2020 susvisé&lt;/a&gt;, prend effet le 31 décembre 2020.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741969"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 portant désignation des responsables des programmes budgétaires pour le ministère de la transition écologique</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743060</id>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transition écologique en date du 24 décembre 2020, en application de l&#39;article 70 du décret du 7 novembre 2012 susvisé, les responsables des programmes budgétaires relevant du ministère de la transition écologique sont, à compter du 1er janvier 2021, désignés conformément au tableau suivant :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Mission&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Programme&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Responsable du programme&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;7&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Écologie, développement et mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;203 - Infrastructures et services de transports&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;113 - Paysages, eau et biodiversité&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;159 - Expertise, économie sociale et solidaire, information géographique et météorologie&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le commissaire général au développement durable&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;181 - Prévention des risques&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de la prévention des risques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;174 - Énergie, climat et après-mines&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;345 - Service public de l&#39;énergie&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;217 - Conduite et pilotage des politiques de l&#39;écologie, du développement et de la mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La secrétaire générale du ministère de la transition écologique, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Mission&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Programme&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Responsable du programme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;3&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Cohésion des territoires&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;177 - Hébergement, parcours vers le logement et insertion des personnes vulnérables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le délégué interministériel à l&#39;hébergement et à l&#39;accès au logement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;109 - Aide à l&#39;accès au logement&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;135 - Urbanisme, territoires et amélioration de l&#39;habitat&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Recherche et enseignement supérieur&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;190 - Recherche dans les domaines de l&#39;énergie, du développement et de la mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le commissaire général au développement durable&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Régimes sociaux et de retraite&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;198 - Régimes sociaux et de retraite des transports terrestres&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;3&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Contrôle et exploitation aériens&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;613 - Soutien aux prestations de l&#39;aviation civile&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;612 - Navigation aérienne&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;614 - Transports aériens, surveillance et certification&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Financement des aides aux collectivités pour l&#39;électrification rurale&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;793 - Électrification rurale&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;794 - Opérations de maîtrise de la demande d&#39;électricité, de production d&#39;électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Prêts et avances à des particuliers ou à des organismes privés&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;869 - Prêts à la société concessionnaire de la liaison express entre Paris et l&#39;aéroport Paris-Charles de Gaulle&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transition écologique en date du 24 décembre 2020, en application de l&#39;article 70 du décret du 7 novembre 2012 susvisé, les responsables des programmes budgétaires relevant du ministère de la transition écologique sont, à compter du 1er janvier 2021, désignés conformément au tableau suivant :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Mission&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Programme&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Responsable du programme&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;7&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Écologie, développement et mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;203 - Infrastructures et services de transports&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;113 - Paysages, eau et biodiversité&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;159 - Expertise, économie sociale et solidaire, information géographique et météorologie&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le commissaire général au développement durable&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;181 - Prévention des risques&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de la prévention des risques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;174 - Énergie, climat et après-mines&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;345 - Service public de l&#39;énergie&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;217 - Conduite et pilotage des politiques de l&#39;écologie, du développement et de la mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La secrétaire générale du ministère de la transition écologique, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Mission&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Programme&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Responsable du programme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;3&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Cohésion des territoires&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;177 - Hébergement, parcours vers le logement et insertion des personnes vulnérables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le délégué interministériel à l&#39;hébergement et à l&#39;accès au logement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;109 - Aide à l&#39;accès au logement&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;135 - Urbanisme, territoires et amélioration de l&#39;habitat&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;La directrice générale de l&#39;aménagement, du logement et de la nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Recherche et enseignement supérieur&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;190 - Recherche dans les domaines de l&#39;énergie, du développement et de la mobilité durables&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le commissaire général au développement durable&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Régimes sociaux et de retraite&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;198 - Régimes sociaux et de retraite des transports terrestres&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;3&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Contrôle et exploitation aériens&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;613 - Soutien aux prestations de l&#39;aviation civile&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;612 - Navigation aérienne&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;614 - Transports aériens, surveillance et certification&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;aviation civile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Financement des aides aux collectivités pour l&#39;électrification rurale&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;793 - Électrification rurale&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;794 - Opérations de maîtrise de la demande d&#39;électricité, de production d&#39;électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général de l&#39;énergie et du climat&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Prêts et avances à des particuliers ou à des organismes privés&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;869 - Prêts à la société concessionnaire de la liaison express entre Paris et l&#39;aéroport Paris-Charles de Gaulle&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Le directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743060"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 22 août 2016 portant désignation du site Natura 2000 Ruisseaux du Boën, Ban et Font d&#39;Aix (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738144</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738144"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 5 décembre 2016 portant désignation du site Natura 2000 Adrets de Tarentaise (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738150</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738150"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 5 décembre 2016 portant désignation du site Natura 2000 Massif de la Lauzière (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738156</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738156"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 27 octobre 2015 portant désignation du site Natura 2000 Vallée et palus du Moron (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738162</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738162"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 21 août 2006 portant désignation du site Natura 2000 Vallée de l&#39;Euille (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738169</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738169"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 23 septembre 2016 portant désignation du site Natura 2000 Marais du Haut Médoc (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738176</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738176"></link>
     <author>
@@ -154,9 +154,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 novembre 2020 modifiant l&#39;arrêté du 21 décembre 2007 relatif aux modalités d&#39;établissement des redevances pour pollution de l&#39;eau et pour modernisation des réseaux de collecte</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738183</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738183"></link>
     <author>
@@ -165,9 +165,9 @@
   </entry>
   <entry>
     <title>Arrêté du 29 novembre 2020 modifiant l&#39;arrêté du 30 mars 2012 portant création et organisation d&#39;un service à compétence nationale dénommé « centre ministériel de valorisation des ressources humaines »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738192</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738192"></link>
     <author>
@@ -176,9 +176,9 @@
   </entry>
   <entry>
     <title>Arrêté du 30 novembre 2020 relatif à la prévention de l&#39;introduction et de la propagation des espèces animales exotiques envahissantes sur le territoire de Saint-Martin - interdiction de toutes activités portant sur des spécimens vivants</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738200</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738200"></link>
     <author>
@@ -187,9 +187,9 @@
   </entry>
   <entry>
     <title>Arrêté du 30 novembre 2020 relatif à la prévention de l&#39;introduction et de la propagation des espèces végétales exotiques envahissantes sur le territoire de Saint-Martin - interdiction de toutes activités portant sur des spécimens vivants</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738214</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738214"></link>
     <author>
@@ -198,9 +198,9 @@
   </entry>
   <entry>
     <title>Arrêté du 30 novembre 2020 modifiant l&#39;arrêté du 24 avril 2006 portant désignation du site Natura 2000 « Lac Léman » (zone de protection spéciale)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738225</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738225"></link>
     <author>
@@ -209,9 +209,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant les taux de promotion dans les corps des dessinateurs, des adjoints administratifs des administrations de l&#39;Etat, des adjoints techniques des administrations de l&#39;Etat, des agents techniques de l&#39;environnement et des experts techniques des services techniques du ministère de la transition écologique pour les années 2021 et 2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738233</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738233"></link>
     <author>
@@ -220,9 +220,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 20 janvier 1987 relatif à la signalisation complémentaire des véhicules d&#39;intervention urgente et des véhicules à progression lente</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738246</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738246"></link>
     <author>
@@ -231,9 +231,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 fixant la liste et le classement par groupe des emplois de directeur interrégional et de directeur interrégional adjoint ainsi que le nombre des emplois de directeur interrégional adjoint au sein des directions interrégionales de la mer</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738258</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738258"></link>
     <author>
@@ -242,9 +242,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant suppression de la régie d&#39;avances auprès de l&#39;administration centrale du ministère de la transition écologique et solidaire pour le compte du Commissariat général au développement durable (site d&#39;Orléans)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738272</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738272"></link>
     <author>
@@ -253,9 +253,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 fixant le taux de promotion dans le corps des géomètres de l&#39;Institut national de l&#39;information géographique et forestière au titre de l&#39;année 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738281</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738281"></link>
     <author>
@@ -264,9 +264,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740081</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740081"></link>
     <author>
@@ -275,9 +275,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740083</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740083"></link>
     <author>
@@ -286,9 +286,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 7 mai 2018 portant nomination au Conseil supérieur de la prévention des risques technologiques</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740085</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740085"></link>
     <author>
@@ -297,9 +297,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 7 mai 2018 portant nomination au Conseil supérieur de la prévention des risques technologiques</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740088</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740088"></link>
     <author>
@@ -308,9 +308,9 @@
   </entry>
   <entry>
     <title>Arrêté du 30 novembre 2020 relatif aux signalétiques et marquages pouvant induire une confusion sur la règle de tri ou d&#39;apport du déchet issu du produit</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730234</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730234"></link>
     <author>
@@ -319,9 +319,9 @@
   </entry>
   <entry>
     <title>Arrêté du 30 novembre 2020 modifiant l&#39;arrêté du 7 mars 2006 portant désignation du site Natura 2000 « Etang de Thau et lido de Sète à Agde » (zone de protection spéciale)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730244</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730244"></link>
     <author>
@@ -330,9 +330,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 fixant le nombre d&#39;emplois d&#39;inspecteur technique de l&#39;action sociale des administrations de l&#39;Etat relevant du ministère de la transition écologique, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de la mer</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730252</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730252"></link>
     <author>
@@ -341,9 +341,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 fixant la liste des emplois d&#39;inspecteur technique de l&#39;action sociale des administrations de l&#39;Etat relevant des ministères de la transition écologique, de la cohésion des territoires et des relations avec les collectivités territoriales et de la mer</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730258</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730258"></link>
     <author>
@@ -352,9 +352,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 30 octobre 1987 relatif aux dispositifs spéciaux de signalisation des véhicules d&#39;intervention urgente</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730265</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730265"></link>
     <author>
@@ -363,9 +363,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 3 octobre 2010 relatif au stockage en réservoirs aériens manufacturés de liquides inflammables, exploités au sein d&#39;une installation classée pour la protection de l&#39;environnement soumise à autorisation de la législation des installations classées pour la protection de l&#39;environnement</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730269</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730269"></link>
     <author>
@@ -374,9 +374,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 autorisant l&#39;ouverture de l&#39;examen professionnel pour le recrutement des secrétaires d&#39;administration et de contrôle du développement durable de classe supérieure, spécialité administration générale, au titre de l&#39;année 2021</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730278</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730278"></link>
     <author>
@@ -385,9 +385,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant modification et création de programmes dans le cadre du dispositif des certificats d&#39;économies d&#39;énergie</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730285</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730285"></link>
     <author>
@@ -396,9 +396,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant le nombre de postes offerts au titre de l&#39;examen professionnalisé réservé aux agents non titulaires pour l&#39;accès au grade de secrétaire d&#39;administration et de contrôle du développement durable de classe supérieure, spécialité administration générale, ouvert au titre de l&#39;année 2020</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730294</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730294"></link>
     <author>
@@ -407,9 +407,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 novembre 2020 portant extension de l&#39;accord du 19 décembre 2018 constitutif de l&#39;opérateur de compétences interindustriel « OPCO 2i »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731672</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731672"></link>
     <author>
@@ -418,9 +418,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 portant reconduction et création de programmes dans le cadre du dispositif des certificats d&#39;économies d&#39;énergie</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713202</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713202"></link>
     <author>
@@ -429,9 +429,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant les taux de promotion dans les corps des directeurs de recherche du développement durable et des chargés de recherche du développement durable au titre des années 2021 et 2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713226</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713226"></link>
     <author>
@@ -440,9 +440,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant le taux de promotion dans le corps des officiers de port adjoints au titre des années 2021 et 2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713236</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713236"></link>
     <author>
@@ -451,9 +451,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant les taux de promotion dans le corps interministériel des chargés d&#39;études documentaires au titre des années 2021 et 2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713245</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042713245"></link>
     <author>
@@ -462,9 +462,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 modifiant l&#39;arrêté du 3 janvier 2019 portant désignation des membres du collège ayant la fonction de référent déontologue au sein du ministère de la transition écologique et solidaire, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de la mer</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723168</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723168"></link>
     <author>
@@ -473,9 +473,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant agrément de la société de coordination « Horizon Habitat, société de coordination »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708976</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708976"></link>
     <author>
@@ -484,9 +484,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 autorisant la transformation de la SOCOMA - Société coopérative de production d&#39;HLM de l&#39;Yvelines et du Mantois en société coopérative d&#39;intérêt collectif (SCIC) d&#39;HLM</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708981</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708981"></link>
     <author>
@@ -495,9 +495,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 fixant les listes des fonctions des services de Voies navigables de France prévues aux articles R. 2124-65 et R. 2124-68 du code général de la propriété des personnes publiques pouvant ouvrir droit à l&#39;attribution d&#39;une concession de logement par nécessité absolue de service ou d&#39;une convention d&#39;occupation précaire avec astreinte</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708983</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708983"></link>
     <author>
@@ -506,9 +506,9 @@
   </entry>
   <entry>
     <title>Arrêté du 1er décembre 2020 modifiant l&#39;arrêté du 4 novembre 2020 portant nomination d&#39;un directeur régional adjoint de l&#39;environnement, de l&#39;aménagement et du logement (région Auvergne-Rhône-Alpes)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709461</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709461"></link>
     <author>
@@ -517,9 +517,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 portant nomination du directeur interdépartemental des routes Méditerranée</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709463</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709463"></link>
     <author>
@@ -528,9 +528,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 portant attribution de fonctions par intérim (direction interdépartementale des routes Centre-Ouest)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709465</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709465"></link>
     <author>
@@ -539,9 +539,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant attribution du diplôme d&#39;ingénieur des travaux publics de l&#39;Etat (ITPE)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709467</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709467"></link>
     <author>
@@ -550,9 +550,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 modifiant l&#39;arrêté du 4 septembre 2014 fixant la liste des éléments d&#39;une demande de certificats d&#39;économies d&#39;énergie et les documents à archiver par le demandeur</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702068</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702068"></link>
     <author>
@@ -561,9 +561,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant l&#39;arrêté du 22 septembre 2020 fixant pour les ministères en charge de la transition écologique, de la cohésion des territoires et des relations avec les collectivités territoriales et de la mer, la répartition du montant global en points d&#39;indice majoré de la nouvelle bonification indiciaire pouvant être attribuée aux agents exerçant des fonctions supérieures de direction, d&#39;encadrement ou d&#39;expertise</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702094</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702094"></link>
     <author>
@@ -572,9 +572,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant les taux de promotion dans le corps des ingénieurs des travaux publics de l&#39;Etat au titre des années 2021 et 2022</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702101</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702101"></link>
     <author>
@@ -583,9 +583,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un concours interne à caractère professionnel pour l&#39;accès au corps des ingénieurs des ponts, des eaux et des forêts</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702110</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702110"></link>
     <author>
@@ -594,9 +594,9 @@
   </entry>
   <entry>
     <title>Arrêté du 1er décembre 2020 portant nomination au comité du système de distribution publique d&#39;électricité</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702605</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702605"></link>
     <author>
@@ -605,9 +605,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant ouverture au titre de l&#39;année 2021 d&#39;une classe préparatoire intégrée au concours externe d&#39;accès au corps des techniciens supérieurs principaux du développement durable - spécialité techniques générales</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700035</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700035"></link>
     <author>
@@ -616,9 +616,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant nomination d&#39;une directrice adjointe de l&#39;environnement, de l&#39;aménagement et du logement de la Martinique</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700760</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700760"></link>
     <author>
@@ -627,9 +627,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 22 avril 2014 portant désignation du site Natura 2000 Vallée de l&#39;Allier nord (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688011</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688011"></link>
     <author>
@@ -638,9 +638,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 22 avril 2014 portant désignation du site Natura 2000 Vallée de l&#39;Allier sud (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688018</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688018"></link>
     <author>
@@ -649,9 +649,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 5 novembre 2016 portant désignation du site Natura 2000 Vallée de l&#39;Eyrieux et de ses affluents renommé « Vallée de l&#39;Eyrieux et ses affluents » (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688025</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688025"></link>
     <author>
@@ -660,9 +660,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 novembre 2020 modifiant l&#39;arrêté du 23 juillet 2015 portant désignation du site Natura 2000 Bois-Noirs (zone spéciale de conservation)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688032</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688032"></link>
     <author>
@@ -671,9 +671,9 @@
   </entry>
   <entry>
     <title>Arrêté du 25 novembre 2020 définissant les conditions d&#39;application des points 3° et 4° de l&#39;article L. 329-20 du code de la route</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688039</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688039"></link>
     <author>
@@ -682,9 +682,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 13 mars 2020 autorisant par dérogation la mise à disposition sur le marché et l&#39;utilisation temporaires de certains produits hydro-alcooliques utilisés en tant que biocides désinfectants pour l&#39;hygiène humaine</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688068</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042688068"></link>
     <author>
@@ -693,9 +693,9 @@
   </entry>
   <entry>
     <title>Arrêté du 7 décembre 2020 modifiant l&#39;arrêté du 23 novembre 1987 relatif à la sécurité des navires (division 411 du règlement annexé)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677196</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677196"></link>
     <author>
@@ -704,9 +704,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant agrément de FMD comme organisme de formation des conducteurs de véhicules effectuant le transport de marchandises dangereuses</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677230</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677230"></link>
     <author>
@@ -715,9 +715,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 novembre 2020 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677677</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677677"></link>
     <author>
@@ -726,9 +726,9 @@
   </entry>
   <entry>
     <title>Arrêté du 20 novembre 2020 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677679</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677679"></link>
     <author>
@@ -737,9 +737,9 @@
   </entry>
   <entry>
     <title>Arrêté du 2 décembre 2020 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677681</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677681"></link>
     <author>
@@ -748,9 +748,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination d&#39;un directeur adjoint de l&#39;environnement, de l&#39;aménagement et du logement de Mayotte</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677683</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677683"></link>
     <author>
@@ -759,9 +759,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination (administration centrale)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677685</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677685"></link>
     <author>
@@ -770,9 +770,9 @@
   </entry>
   <entry>
     <title>Arrêté du 24 novembre 2020 portant extension d&#39;un accord et trois avenants conclus dans la branche des industries électriques et gazières</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677856</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677856"></link>
     <author>

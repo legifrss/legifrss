@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Décret du 24 décembre 2020 portant promotion (chambres régionales des comptes)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743057</id>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Premier ministre en date du 24 décembre 2020, les premiers conseillers de chambre régionale des comptes dont les noms suivent sont promus présidents de section de chambre régionale des comptes dans les conditions indiquées ci-après :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;N°&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOM et prénom&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Date d&#39;effet&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LEGLASTIN Frédéric&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/02/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LE GALL Jean-Marc&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;3&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;CECCHI Sébastien&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;PLANTARD Patrick&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/04/2021&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Premier ministre en date du 24 décembre 2020, les premiers conseillers de chambre régionale des comptes dont les noms suivent sont promus présidents de section de chambre régionale des comptes dans les conditions indiquées ci-après :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;N°&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOM et prénom&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Date d&#39;effet&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LEGLASTIN Frédéric&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/02/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;LE GALL Jean-Marc&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;3&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;CECCHI Sébastien&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/01/2021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;PLANTARD Patrick&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;01/04/2021&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743057"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1650 du 23 décembre 2020 relatif à l&#39;entrée en vigueur immédiate de trois arrêtés</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730151</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730151"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination d&#39;un conseiller maître en service extraordinaire à la Cour des comptes - M. SCHENBERG (Rémi)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723149</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723149"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant réintégration et radiation des cadres (Cour des comptes) - M. GIRRE (Xavier)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723153</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723153"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination (Cour des comptes) - M. CAIANI (Patrick)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723156</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723156"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination (chambres régionales des comptes)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723158</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723158"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant radiation des cadres (corps des administrateurs civils)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723160</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723160"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination au Conseil supérieur des chambres régionales des comptes - M. LACHKAR (Jean)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709458</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709458"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant admission à la retraite et maintien en activité (Cour des comptes) - Mme PITTET Marie</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702601</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702601"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant cessation de fonctions et admission à la retraite (Cour des comptes) - Mme RENONDIN (Catherine)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700750</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700750"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination (chambres régionales des comptes)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700752</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700752"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1591 du 16 décembre 2020 portant dissolution de l&#39;Institut national des hautes études de la sécurité et de la justice</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677075</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677075"></link>
     <author>
@@ -143,9 +143,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1592 du 16 décembre 2020 tirant les conséquences de la dissolution de l&#39;Institut national des hautes études de la sécurité et de la justice</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677128</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677128"></link>
     <author>

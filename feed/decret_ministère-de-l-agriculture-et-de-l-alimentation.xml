@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-agriculture-et-de-l-alimentation - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Décret n° 2020-1647 du 21 décembre 2020 modifiant le décret n° 2019-1570 du 30 décembre 2019 relatif à des modalités exceptionnelles de recrutement dans certains corps relevant du ministre chargé de l&#39;agriculture</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722968</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722968"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination de la directrice générale de l&#39;enseignement et de la recherche - Mme BADUEL (Valérie)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723286</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723286"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1625 du 18 décembre 2020 portant diverses mesures relatives au bien-être des animaux d&#39;élevage et de compagnie</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702498</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702498"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1600 du 16 décembre 2020 relatif à la composition, à l&#39;organisation et au fonctionnement du conseil de surveillance prévu à l&#39;article L. 253-8 du code rural et de la pêche maritime</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677455</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677455"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1601 du 16 décembre 2020 fixant la liste des substances actives de la famille des néonicotinoïdes ou présentant des modes d&#39;action identiques à ceux de ces substances interdites en application de l&#39;article L. 253-8 du code rural et de la pêche maritime</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677471</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677471"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Décret du 15 décembre 2020 portant nomination du médiateur de la coopération agricole</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677832</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677832"></link>
     <author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-agriculture-et-de-l-alimentation - avis</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;indication géographique protégée « Comtés Rhodaniens »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701266</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701266"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;indication géographique protégée « Méditerranée »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701270</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701270"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Touraine »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701276</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701276"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Béarn »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701281</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701281"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Moulis »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701286</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701286"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Côtes du Marmandais »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701291</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701291"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Bordeaux »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701296</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701296"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Avis relatif à l&#39;ouverture d&#39;une procédure nationale d&#39;opposition pour la demande de modification du cahier des charges relatif à l&#39;appellation d&#39;origine contrôlée « Bordeaux supérieur »</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701301</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701301"></link>
     <author>

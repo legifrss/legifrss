@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-la-cohésion-des-territoires-et-des-relations-avec-les-collectivités-territoriales</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:00:53+01:00</updated>
+  <updated>2020-12-27T21:03:15+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 28 septembre 2001 relatif aux indemnités de fonctions des présidents et des vice-présidents des centres de gestion de la fonction publique territoriale</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742419</id>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 28 septembre 2001 susvisé est modifié conformément aux dispositions des articles 2 à 5 du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 1er est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 1. - Les présidents, les vice-présidents du bureau et les membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions dans les conditions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000320434&amp;idArticle=LEGIARTI000006366606&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 84-53 du 26 janvier 1984 - art. 13 (V)&#39;&gt;article 13 de la loi du 26 janvier 1984 susvisée&lt;/a&gt; des centres de gestion peuvent percevoir une indemnité de fonction votée par le conseil d&#39;administration sur le budget de ces établissements dans les conditions définies ci-après. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 5 est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 5. - Le montant total des indemnités de fonction des membres du conseil d&#39;administration ne peut excéder le montant total des indemnités susceptibles d&#39;être allouées au président et aux vice-présidents.&lt;br/&gt;« L&#39;indemnité allouée à un vice-président peut dépasser le maximum prévu à l&#39;article 4, dans la limite prévue au premier alinéa.&lt;br/&gt;« Les membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions peuvent percevoir une indemnité allouée par le conseil d&#39;administration dans la limite prévue au premier alinéa. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 6, après les mots : « à un vice-président », sont ajoutés les mots : « ou à un membre du conseil d&#39;administration titulaire d&#39;une délégation d&#39;attributions ».&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 7, les mots : « et aux vice-présidents de » sont remplacés par les mots : « , aux vice-présidents et aux membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions du ».&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 28 septembre 2001 susvisé est modifié conformément aux dispositions des articles 2 à 5 du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 1er est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 1. - Les présidents, les vice-présidents du bureau et les membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions dans les conditions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000320434&amp;idArticle=LEGIARTI000006366606&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 84-53 du 26 janvier 1984 - art. 13 (V)&#39;&gt;article 13 de la loi du 26 janvier 1984 susvisée&lt;/a&gt; des centres de gestion peuvent percevoir une indemnité de fonction votée par le conseil d&#39;administration sur le budget de ces établissements dans les conditions définies ci-après. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 5 est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 5. - Le montant total des indemnités de fonction des membres du conseil d&#39;administration ne peut excéder le montant total des indemnités susceptibles d&#39;être allouées au président et aux vice-présidents.&lt;br/&gt;« L&#39;indemnité allouée à un vice-président peut dépasser le maximum prévu à l&#39;article 4, dans la limite prévue au premier alinéa.&lt;br/&gt;« Les membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions peuvent percevoir une indemnité allouée par le conseil d&#39;administration dans la limite prévue au premier alinéa. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 6, après les mots : « à un vice-président », sont ajoutés les mots : « ou à un membre du conseil d&#39;administration titulaire d&#39;une délégation d&#39;attributions ».&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 7, les mots : « et aux vice-présidents de » sont remplacés par les mots : « , aux vice-présidents et aux membres du conseil d&#39;administration titulaires d&#39;une délégation d&#39;attributions du ».&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742419"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 portant désignation des responsables des programmes budgétaires pour le ministère de la cohésion des territoires et des relations avec les collectivités territoriales</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739200</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739200"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Office national des forêts</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740130</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740130"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 20 novembre 2020 portant ouverture par le centre de gestion du Tarn, en convention avec les centres de gestion des régions Occitanie et Nouvelle-Aquitaine, des concours externe et interne d&#39;accès au grade d&#39;ingénieur territorial, spécialité « ingénierie, gestion technique et architecture » (session 2021)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730750</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730750"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant ouverture des concours externe, interne et troisième concours de rédacteur territorial organisés par le centre de gestion de la Martinique (session 2021)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730752</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730752"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Décret du 22 décembre 2020 portant nomination au comité des finances locales institué par l&#39;article L. 1211-1 du code général des collectivités territoriales</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731591</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731591"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 13 octobre 2020 portant inscription sur une liste d&#39;aptitude (conservateurs territoriaux du patrimoine)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731594</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731594"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant nomination au cabinet du secrétaire d&#39;État auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ruralité</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723215</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723215"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant ouverture des concours externe et interne sur épreuves d&#39;ingénieur territorial organisés par le centre de gestion de la fonction publique territoriale du Nord et pour les centres de gestion des Hauts-de-France (Aisne, Oise, Pas-de-Calais et Somme) (session 2021)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709152</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709152"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1622 du 18 décembre 2020 relatif aux modalités de versement de l&#39;aide financière exceptionnelle pour le recrutement d&#39;apprentis par les collectivités territoriales et les établissements publics en relevant</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702330</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702330"></link>
     <author>
@@ -121,9 +121,9 @@
   </entry>
   <entry>
     <title>Arrêté du 18 novembre 2020 modifiant l&#39;arrêté du 24 janvier 2020 portant ouverture de concours pour le recrutement d&#39;attachés territoriaux (session 2020) pour les collectivités territoriales de l&#39;interrégion Est, organisé par le centre de gestion de Meurthe-et-Moselle</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042694966</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042694966"></link>
     <author>
@@ -132,9 +132,9 @@
   </entry>
   <entry>
     <title>Arrêté du 23 novembre 2020 portant ouverture d&#39;un examen professionnel donnant accès au grade d&#39;assistant territorial socio-éducatif de classe exceptionnelle (session 2021)</title>
-    <updated>2020-12-27T21:00:53+01:00</updated>
+    <updated>2020-12-27T21:03:15+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677380</id>
-    <content type=""></content>
+    <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677380"></link>
     <author>
