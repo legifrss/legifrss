@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-des-solidarités-et-de-la-santé - arrete</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:07:36+01:00</updated>
+  <updated>2020-12-27T21:12:20+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/arrete_ministère-des-solidarités-et-de-la-santé.xml" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Arrêté du 8 décembre 2020 relatif à l&#39;expérimentation de microstructures médicales post covid-19 : Accompagnement médical, social et psychologique des patients fragilisés par la covid-19 et le confinement dans le cadre des microstructures médicales</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742455</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;expérimentation « Microstructures médicales post covid » pour le financement d&#39;un modèle d&#39;organisation et de financement innovant permettant une prise en charge coordonnée des patients fragilisés par l&#39;impact de la crise sanitaire « covid-19 » par une équipe pluri-professionnelle centrée autour du médecin traitant, est autorisée à compter de la date de publication du présent arrêté, dans les conditions précisées par le cahier des charges en annexe.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La durée de l&#39;expérimentation est fixée à 2 ans à compter de l&#39;inclusion du premier patient.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié ainsi que ses annexes au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXES&lt;br/&gt;CAHIER DES CHARGES RELATIF À L&#39;EXPÉRIMENTATION&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 fixant les listes des établissements participant aux études nationales de coûts mentionnées à l&#39;article L. 6113-11 du code de la santé publique</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742463</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Conformément à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000033167210&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. R6113-58 (V)&#39;&gt;article R. 6113-58 du code de la santé publique&lt;/a&gt;, les listes par champ d&#39;activité des établissements de santé admis à participer aux études nationales de coûts prévues aux articles R. 6113-56 et R. 6113-57 au titre de l&#39;exercice 2021 figurent en annexe du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 modifiant l&#39;arrêté du 17 octobre 2016 fixant le nombre d&#39;emplois de conseiller d&#39;administration des affaires sociales</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742468</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 1er de l&#39;arrêté du 17 octobre 2016 susvisé, le nombre : « 78 » est remplacé par le nombre : « 74 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté qui entre en vigueur le 1er janvier 2021 sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 abrogeant l&#39;arrêté du 8 décembre 2020 et autorisant l&#39;expérimentation « Mise en œuvre d&#39;un programme de prévention adapté auprès d&#39;une population prédiabétique au sein des structures de soins mutualistes (centres et maisons de santé) »</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742474</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 8 décembre 2020 relatif à l&#39;expérimentation « Mise en œuvre d&#39;un programme de prévention adapté auprès d&#39;une population prédiabétique au sein des structures de soins mutualistes (centres et maisons de santé) » est abrogé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;expérimentation « Mise en œuvre d&#39;un programme de prévention adapté auprès d&#39;une population prédiabétique au sein des structures de soins mutualistes (centres et maisons de santé) » dans les régions Nouvelle-Aquitaine, Bourgogne-Franche-Comté, Occitanie et Ile-de-France est autorisée à compter de la date de publication du présent arrêté, dans les conditions précisées par le cahier des charges en annexe.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La durée de l&#39;expérimentation est fixée à 3 ans à compter de la première inclusion du patient du dernier centre qui démarrera l&#39;expérimentation.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié ainsi que ses annexes au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;CAHIER DES CHARGES RELATIF À L&#39;EXPÉRIMENTATION&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 fixant les règles d&#39;organisation générale, la composition du jury et la nature des épreuves du concours de recrutement pour l&#39;accès au corps des auxiliaires médicaux exerçant en pratique avancée de la fonction publique hospitalière</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742483</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités d&#39;organisation des concours sur titres pour l&#39;accès au corps des auxiliaires médicaux exerçant en pratique avancée de la fonction publique hospitalière, sont fixées à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000041721752&amp;idArticle=JORFARTI000041721772&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-244 du 12 mars 2020 - art. 3 (V)&#39;&gt;article 3 du décret du 12 mars 2020 susvisé&lt;/a&gt; et par les dispositions du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les concours sur titres pour l&#39;accès à la classe normale du corps mentionné ci-dessus, sont ouverts, dans les établissements mentionnés à l&#39;article 2 de la loi du 9 janvier 1986 susvisée, par l&#39;autorité investie du pouvoir de nomination qui fixe la date de clôture des inscriptions, la date des épreuves et le nombre d&#39;emplois offerts dans le cadre de ces recrutements.&lt;br/&gt;Les avis annonçant les concours sont affichés deux mois avant la date des épreuves, de manière à être accessibles au public, dans les locaux de l&#39;établissement ainsi que, le cas échéant, sur le site internet de l&#39;établissement concerné. Ils peuvent également être portés à la connaissance des candidats par tout autre moyen d&#39;information.&lt;br/&gt;Ils peuvent également être affichés dans les agences locales pour l&#39;emploi de l&#39;institution mentionnée à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&amp;idArticle=LEGIARTI000006903765&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du travail - art. L5312-1 (M)&#39;&gt;article L. 5312-1 du code du travail&lt;/a&gt; situées dans les mêmes départements et être portés à la connaissance du public par tout autre moyen d&#39;information.&lt;br/&gt;Les demandes d&#39;admission à participer au concours doivent parvenir un mois avant la date des épreuves au directeur de l&#39;établissement organisateur du recrutement.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le concours sur titres est ouvert aux candidats remplissant les conditions de titre de formation et de durée d&#39;exercice minimum fixés par le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006072665&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique (V)&#39;&gt;code de la santé publique&lt;/a&gt; pour l&#39;exercice de leur profession en pratique avancée.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les concours sur titres pour l&#39;accès à la classe normale du corps mentionné à l&#39;article 1er du présent arrêté consistent en l&#39;évaluation par le jury, d&#39;un dossier soutenu par les candidats au cours d&#39;une audition prévue à cet effet, d&#39;une durée de vingt-cinq minutes au plus.&lt;br/&gt;Lors de son audition, le candidat présente son parcours professionnel à partir du dossier transmis au jury et les acquis de son expérience professionnelle, les compétences mises en œuvre dans le cadre des activités exercées, ainsi que les diverses formations professionnelles dont il a bénéficié. L&#39;exposé est suivi d&#39;une discussion avec le jury qui porte sur les éléments présentés par le candidat au cours de son exposé.&lt;br/&gt;Le dossier transmis, dans le délai fixé au dernier alinéa de l&#39;article 2 ci-dessus, comporte les pièces suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- un curriculum vitae limité à deux pages dactylographiées au plus ;&lt;br/&gt;- un relevé des diplômes, titres et travaux éventuels en rapport avec un emploi d&#39;infirmier en pratique avancée ;&lt;br/&gt;- une note de deux pages au plus décrivant les emplois qu&#39;il a pu occuper, les stages qu&#39;il a effectués et la nature des activités et, le cas échéant, des travaux qu&#39;il a réalisés ou auxquels il a pris part.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le jury évalue la capacité de réflexion et les compétences du candidat attendues au regard du profil de poste lors de la présentation par ce dernier de son dossier.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le jury est composé comme suit :&lt;br/&gt;1° Le directeur de l&#39;établissement organisateur du concours ou son représentant, président ;&lt;br/&gt;2° Un praticien hospitalier désigné par le directeur de l&#39;établissement organisateur du concours.&lt;br/&gt;En cas de partage des voix, la voix du président est prépondérante.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le jury établit par ordre de mérite, la liste des candidats admis ainsi qu&#39;une liste complémentaire.&lt;br/&gt;Les candidats admis sont nommés dans l&#39;ordre d&#39;inscription sur la liste principale puis, le cas échéant, dans l&#39;ordre d&#39;inscription sur la liste complémentaire.&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La directrice générale de l&#39;offre de soins est chargée de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant nomination à la présidence de la commission des circonstances de l&#39;exposition à l&#39;amiante visée à l&#39;article 7 du décret n° 2001-963 du 23 octobre 2001 relatif au Fonds d&#39;indemnisation des victimes de l&#39;amiante institué par l&#39;article 53 de la loi n° 2000-1257 du 23 décembre 2000 de financement de la sécurité sociale pour 2001</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743081</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, du ministre des solidarités et de la santé, du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, et du secrétaire d&#39;État auprès de la ministre du travail, de l&#39;emploi et de l&#39;insertion, chargé des retraites et de la santé au travail, en date du 17 décembre 2020, sont nommés, pour une durée de trois ans :&lt;br/&gt;M. le professeur Jean-Claude PAIRON, en qualité de président titulaire de la commission d&#39;examen des circonstances de l&#39;exposition à l&#39;amiante visée à l&#39;article 7 du décret du 23 octobre 2001 relatif au Fonds d&#39;indemnisation des victimes de l&#39;amiante institué par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000579088&amp;idArticle=LEGIARTI000006758311&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 2000-1257 du 23 décembre 2000 - art. 53 (V)&#39;&gt;article 53 de la loi n° 2000-1257 du 23 décembre 2000&lt;/a&gt; de financement de la sécurité sociale pour 2001.&lt;br/&gt;Mme le professeur Bénédicte CLIN-GODARD, en qualité de suppléante du professeur Jean-Claude PAIRON.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant cessation de fonctions du directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale de Nouvelle-Aquitaine</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743084</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;éducation nationale, de la jeunesse et des sports, de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et du ministre des solidarités et de la santé en date du 18 décembre 2020, il est mis fin, à sa demande, aux fonctions exercées par M. Patrick BAHEGNE, inspecteur de la jeunesse et des sports de classe exceptionnelle, en qualité de directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale de Nouvelle-Aquitaine (groupe I).&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant nomination à la Commission nationale des accidents médicaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743086</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice et du ministre des solidarités et de la santé en date du 22 décembre 2020, sont nommés membres de la Commission nationale des accidents médicaux instituée par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006686010&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. L1142-10 (M)&#39;&gt;article L. 1142-10 du code de la santé publique&lt;/a&gt; :&lt;br/&gt;1° Au titre des experts professionnels de santé :&lt;br/&gt;a) Professionnels exerçant à titre libéral, proposés par le Centre national des professions de santé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Dr Pascal KARSENTI, membre titulaire,&lt;br/&gt;- Dr Pierre-Paul SCHLEGEL, membre titulaire ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;b) Praticiens des établissements publics de santé, proposés par les présidents des conférences nationales de présidents de commission médicale :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Dr Laurent BOIDIN, membre titulaire ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;2° Au titre de représentants des usagers :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Mme Marianick CAVALLINI-LAMBERT, Mouvement Familles Rurales, membre titulaire ;&lt;br/&gt;- M. Rodolphe HALAMA, association Le Lien, membre suppléant ;&lt;br/&gt;- Mme Jacqueline HOUDAYER, Conseil, Aide et Défense des Usagers de la Santé (CADUS), membre titulaire ;&lt;br/&gt;- Mme Aude BOURDEN, Association des Paralysés de France-France Handicap membre suppléante ;&lt;br/&gt;- M. Marc MOREL, directeur de France Assos Santé, membre titulaire ;&lt;br/&gt;- Mme Florence NAVATTONI, France Assos Santé, membre suppléant ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;3° Au titre des personnalités qualifiées choisies en raison de leurs compétences dans le domaine du droit de la réparation des accidents médicaux ou de la responsabilité médicale ou dans la formation en matière d&#39;expertise :&lt;br/&gt;a) Personnalités représentant le Conseil national de l&#39;ordre des médecins :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Dr Jean-Marcel MOURGUES, membre titulaire ;&lt;br/&gt;- Dr Anne-Marie TRARIEUX, membre suppléant ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;b) Autres personnalités :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- M. Gérard MÉMETEAU, membre titulaire ;&lt;br/&gt;- Mme Marion GIRER, membre suppléant ;&lt;br/&gt;- Mme Johanne SAISON, membre titulaire ;&lt;br/&gt;- M. Christophe RADÉ, membre suppléant ;&lt;br/&gt;- Dr Philippe HUBINOIS, membre titulaire ;&lt;br/&gt;- Pr Jacques MILLIEZ, membre suppléant ;&lt;br/&gt;- Dr Lucile TUCHTAN, membre titulaire ;&lt;br/&gt;- Mme Aurore CATHERINE, membre suppléante ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;4° Au titre des personnalités qualifiées choisies en raison de leurs compétences scientifiques :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Pr Brigitte MAUROY, membre titulaire ;&lt;br/&gt;- Pr Catherine BUFFET, membre suppléante ;&lt;br/&gt;- Pr Veronique-Nathalie BRION, membre titulaire ;&lt;br/&gt;- Pr Cécile MANAOUIL, membre suppléante ;&lt;br/&gt;- Dr Pierre KIEGEL, membre titulaire ;&lt;br/&gt;- Dr Houtin BAGHDADI, membre suppléant ;&lt;br/&gt;- Pr André LIENHART, membre titulaire ;&lt;br/&gt;- Pr Bernard CHICHE, membre suppléant ;&lt;br/&gt;- Dr Jacqueline ROSSANT, membre titulaire ;&lt;br/&gt;- Dr Bérengère CHIGNON-SICARD, membre suppléante ;&lt;br/&gt;- Pr Jean-Sébastien RAUL, membre titulaire ;&lt;br/&gt;- Dr Bertrand GACHOT, membre suppléant&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Jean TROTEL, conseiller honoraire à la cour de cassation, est nommé président de la Commission nationale des accidents médicaux.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « Hématologie » en application des dispositions de l&#39;article L. 4111-2 (I) du code de la santé publique et du IV de l&#39;article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 modifiée</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743089</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre des solidarités et de la santé en date du 24 décembre 2020, sont autorisées à exercer en France la profession de médecin dans la spécialité « Hématologie » en application des dispositions de l&#39;article &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006688647&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. L4111-2 (M)&#39;&gt;L. 4111-2&lt;/a&gt; (I) du code de la santé publique et du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000817095&amp;idArticle=LEGIARTI000006759339&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 2006-1640 du 21 décembre 2006 - art. 83 (M)&#39;&gt;IV de l&#39;article 83 de la loi n° 2006-1640 du 21 décembre 2006&lt;/a&gt; de financement de la sécurité sociale pour 2007 modifiée, les personnes dont les noms suivent :&lt;br/&gt;Hématologie - option « maladies du sang » :&lt;br/&gt;M. ALANI (Mustafa), né le 5 juin 1988 à Bagdad (Irak).&lt;br/&gt;Mme M&#39;HAMMEDI-BOUZINA (Fella), épouse BOUBEZOUL, née le 23 avril 1982 à Alger (Algérie).&lt;br/&gt;Hématologie - option « onco-hématologie » :&lt;br/&gt;Mme ROMDHANI (Mariem), née le 9 mai 1986 à Kairouan (Tunisie).&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Arrêté du 27 août 2020 modifiant l&#39;arrêté du 9 décembre 1968 fixant le montant des cotisations à verser par les assurés volontaires au titre de l&#39;article L. 742-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739485</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 11 octobre 2013 fixant la liste et la localisation des emplois de conseiller d&#39;administration des affaires sociales</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739495</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 relatif à la mobilisation de la réserve sanitaire</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739500</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -143,7 +143,7 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 modifiant l&#39;arrêté du 3 novembre 2020 relatif à la mobilisation de la réserve sanitaire en Polynésie française dans le cadre de l&#39;épidémie de covid-19</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739505</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -154,7 +154,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 fixant le montant de l&#39;indemnité compensatrice prévu à l&#39;article 3 du décret n° 2020-1685 du 23 décembre 2020 portant dérogation temporaire aux règles en matière de congés non pris applicables aux agents de la fonction publique hospitalière</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739510</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -165,7 +165,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 relatif aux prestations du régime spécial d&#39;assurance maladie et maternité des industries électriques et gazières</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739515</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -176,7 +176,7 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 relatif à la formation et aux attestations de formation des médiateurs de lutte anti-Covid-19 mentionnés à l&#39;article 25-1 de l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739522</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -187,7 +187,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 décembre 2020 portant ouverture des épreuves classantes nationales anonymes donnant accès au troisième cycle des études médicales au titre de l&#39;année universitaire 2021-2022</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739544</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -198,7 +198,7 @@
   </entry>
   <entry>
     <title>Arrêté du 24 décembre 2020 modifiant l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739553</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -209,7 +209,7 @@
   </entry>
   <entry>
     <title>Arrêté du 4 décembre 2020 précisant les modalités d&#39;imputation des dépenses du fonds de prospective et de performance de la sécurité sociale sur les budgets des organismes de sécurité sociale contributeurs</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731230</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -220,7 +220,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 relatif à l&#39;agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731235</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -231,7 +231,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif à l&#39;expérimentation « Parcours d&#39;accompagnement du patient obèse opéré en amont et en aval de la chirurgie bariatrique par filière de suivi dédiée (Baria-up) » dans les territoires de Lille, Lyon et de Toulouse</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731251</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -242,7 +242,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif au plan comptable M. 22 applicable aux établissements et services publics sociaux et médico-sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731259</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -253,7 +253,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à la tarification des risques d&#39;accidents du travail et de maladies professionnelles pour l&#39;année 2021</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731279</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -264,7 +264,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à la tarification des risques d&#39;accidents du travail et de maladies professionnelles dans les exploitations minières et assimilées pour l&#39;année 2021</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731320</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 12 juin 2018 modifié relatif au service sanitaire pour les étudiants en santé</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731332</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -286,7 +286,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant autorisation temporaire d&#39;exercice de la médecine en France</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731645</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -297,7 +297,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « chirurgie infantile » en application des dispositions du I de l&#39;article L. 4111-2 du code de la santé publique et des dispositions du IV de l&#39;article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 modifiée</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731647</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -308,7 +308,7 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 fixant la liste des personnes ayant suivi avec succès le cycle de formation CapDirigeants (CapDIR) en 2019-2020</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731650</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -319,7 +319,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 portant nomination (administration centrale)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731652</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -330,7 +330,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant renouvellement d&#39;inscription de l&#39;obturateur de stomie IRYFIX de la société B. BRAUN MEDICAL inscrit au titre I de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722652</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -341,7 +341,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 modifiant l&#39;arrêté du 9 mai 1995 relatif au montant des honoraires dû aux professeurs des universités-praticiens hospitaliers en application de l&#39;article D. 461-27 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722659</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -352,7 +352,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 relatif au plan comptable applicable aux établissements et services privés sociaux et médico-sociaux relevant du I de l&#39;article L. 312-1 du code de l&#39;action sociale et des familles</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722672</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -363,7 +363,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif aux conditions de prise en charge de spécialités pharmaceutiques disposant d&#39;une autorisation de mise sur le marché inscrites sur la liste visée à l&#39;article L. 5126-6 du code de la santé publique</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722684</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -374,7 +374,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722694</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -385,7 +385,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques agréées à l&#39;usage des collectivités et divers services publics</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722705</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -396,7 +396,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722713</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -407,7 +407,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant le montant des majorations prévues à l&#39;article D. 242-6-9 du code de la sécurité sociale pour l&#39;année 2021</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722726</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -418,7 +418,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif à la prise en charge au titre de l&#39;article L. 165-1-1 du code de la sécurité sociale du dispositif eCLIPs</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722732</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -429,7 +429,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 relatif à l&#39;agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722752</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -440,7 +440,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 13 novembre 2020 fixant pour l&#39;année 2020 le montant des crédits attribués aux agences régionales de santé au titre du fonds d&#39;intervention régional et le montant des transferts prévus à l&#39;article L. 174-1-2 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722767</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -451,7 +451,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 24 mars 1967 relatif aux conditions d&#39;attribution de primes de service aux personnels de certains établissements énumérés à l&#39;article 2 de la loi du 9 janvier 1986</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722779</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -462,7 +462,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 relatif à la contribution des régimes obligatoires d&#39;assurance maladie au financement des agences régionales de santé pour l&#39;année 2020 et pour l&#39;année 2021</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722788</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -473,7 +473,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 établissant la liste des organisations syndicales habilitées à désigner des représentants au comité national de concertation des agences régionales de santé et le nombre de sièges auquel elles ont droit</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722799</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -484,7 +484,7 @@
   </entry>
   <entry>
     <title>Arrêté du 21 décembre 2020 fixant le modèle de proposition des commissions régionales d&#39;autorisation d&#39;exercice à la commission d&#39;autorisation d&#39;exercice prévu par le décret n° 2020-1017 du 7 août 2020 portant application du IV et du V de l&#39;article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 et relatif à l&#39;exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien par les titulaires de diplômes obtenus hors de l&#39;Union européenne et de l&#39;Espace économique européen</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722805</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -495,7 +495,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 10 juillet 2020 prescrivant les mesures d&#39;organisation et de fonctionnement du système de santé nécessaires pour faire face à l&#39;épidémie de covid-19 dans le cadre de l&#39;état d&#39;urgence sanitaire</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722816</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -506,7 +506,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant nomination au sein du conseil de gestion du fonds d&#39;indemnisation des victimes de pesticides</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723275</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -517,7 +517,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif au financement de la prestation spécifique de restauration scolaire dans les établissements des départements et collectivités d&#39;outre-mer pour l&#39;année 2020</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709172</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -528,7 +528,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant inscription de la denrée alimentaire destinée à des fins médicales spéciales pour nutrition orale CLINUTREN THICKENUP CLEAR de la société NESTLE HEALTH SCIENCE France au titre I de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709179</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -539,7 +539,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant renouvellement d&#39;inscription des électrodes LAMITRODE 88, TRIPOLE 16, TRIPOLE 16C, PENTA, QUATTRODE 3/4, QUATTRODE 3/6, OCTRODE, LAMITRODE 44C, LAMITRODE 44, LAMITRODE 4, S-SERIES S-8 de la société ABBOTT MEDICAL France inscrites au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709188</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -550,7 +550,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant approbation des comptes de la Caisse nationale et des caisses locales déléguées pour la sécurité sociale des travailleurs indépendants relatifs à l&#39;exercice 2019</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709196</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -561,7 +561,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 modifiant l&#39;arrêté du 17 octobre 1995 relatif à la tarification des risques d&#39;accidents du travail et de maladies professionnelles</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709205</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -572,7 +572,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques agréées à l&#39;usage des collectivités et divers services publics</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709227</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -583,7 +583,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709235</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -594,7 +594,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques agréées à l&#39;usage des collectivités et divers services publics</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709251</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -605,7 +605,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709259</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -616,7 +616,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant la liste des spécialités pharmaceutiques agréées à l&#39;usage des collectivités et divers services publics</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709270</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -627,7 +627,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant au titre de l&#39;exercice 2019 le montant de la contribution mentionnée à l&#39;article L. 241-3 du code de la sécurité sociale couvrant les dépenses supplémentaires engendrées par les départs en retraite à l&#39;âge fixé en application de l&#39;article L. 351-1-4 du même code et les dépenses supplémentaires engendrées par les départs en retraite mentionnées au 3° du I de l&#39;article L. 4163-7 du code du travail</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709278</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -638,7 +638,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709284</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -649,7 +649,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant renouvellement d&#39;inscription du produit de nutrition entérale FRESUBIN DB CONTROL de la société FRESENIUS KABI France inscrit au titre I de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709293</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -660,7 +660,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant inscription de l&#39;insert en polyéthylène hautement réticulé HIGHCROSS compatible avec les cupules non cimentées ou cimentées pour cotyles double mobilité VERSAFITCUP DM (sans ciment), MPACT DM (sans ciment), VERSACEM (à cimenter) de la société MEDACTA France au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709301</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -671,7 +671,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 pris en application de l&#39;article L. 162-22-7 du code de la sécurité sociale et modifiant l&#39;arrêté du 2 mars 2005 modifié fixant la liste des produits et prestations mentionnés à l&#39;article L. 165-1 du code de la sécurité sociale pris en charge en sus des prestations d&#39;hospitalisation</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709308</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -682,7 +682,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant inscription des stents flow diverter SILK VISTA et SILK VISTA BABY de la société BALT Extrusion au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709317</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -693,7 +693,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 pris en application de l&#39;article L. 162-22-7 du code de la sécurité sociale et modifiant l&#39;arrêté du 2 mars 2005 modifié fixant la liste des produits et prestations mentionnés à l&#39;article L. 165-1 du code de la sécurité sociale pris en charge en sus des prestations d&#39;hospitalisation</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709328</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -704,7 +704,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant inscription de la solution stérile de chlorure de sodium pour nébulisation NEBUSAL de la société TEVA SANTE au titre I de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709338</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -715,7 +715,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant renouvellement d&#39;inscription de l&#39;obturateur à ciment centro-médullaire BIOSTOP G de la société JOHNSON &amp; JOHNSON MEDICAL SAS inscrit au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709345</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -726,7 +726,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant renouvellement d&#39;inscription et radiation de références pour la prothèse vasculaire hybride E VITA OPEN PLUS de la société JOTEC GmbH inscrite au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709352</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -737,7 +737,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant renouvellement d&#39;inscription et modification des conditions d&#39;inscription de l&#39;insert en polyéthylène hautement réticulé TRIDENT X3 de la société STRYKER France SAS inscrit au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709359</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -748,7 +748,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant l&#39;arrêté du 21 décembre 2011 relatif à la tarification des accidents du travail et des maladies professionnelles et fixant les risques bénéficiant des mesures d&#39;ajustement des coûts moyens</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709366</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -759,7 +759,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant approbation de l&#39;avenant n° 8 à la convention constitutive du groupement d&#39;intérêt public dénommé « Institut national de la transfusion sanguine »</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709375</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -770,7 +770,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant création du comité d&#39;hygiène, de sécurité et des conditions de travail ministériel placé auprès des ministres chargés des affaires sociales et de la santé</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702403</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -781,7 +781,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 modifiant des modèles de documents prévus dans le chapitre IV du titre Ier du livre III du code de l&#39;action sociale et des familles</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702418</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -792,7 +792,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 fixant le montant des indemnités allouées aux membres du conseil de gestion et de la commission d&#39;indemnisation des enfants victimes d&#39;une exposition prénatale aux pesticides constitués au sein du fonds d&#39;indemnisation des victimes de pesticides</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702472</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -803,7 +803,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant fixation du montant de la seconde part du fonds spécial destiné au financement des unions d&#39;associations familiales attribuée à l&#39;Union nationale des associations familiales pour l&#39;année 2020</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702482</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -814,7 +814,7 @@
   </entry>
   <entry>
     <title>Arrêté du 9 décembre 2020 portant nomination au conseil scientifique et d&#39;orientation du groupement d&#39;intérêt public « Agence nationale d&#39;appui à la performance des établissements de santé et médico-sociaux »</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702631</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -825,7 +825,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant autorisation temporaire d&#39;exercice de la médecine en France</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702633</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -836,7 +836,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant autorisation temporaire d&#39;exercice de la médecine en France</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702636</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -847,7 +847,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « radiodiagnostic et imagerie médicale » en application des dispositions du I de l&#39;article L. 4111-2 du code de la santé publique et des dispositions du IV de l&#39;article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 modifiée</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702639</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -858,7 +858,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant nomination (administration centrale)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702643</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -869,7 +869,7 @@
   </entry>
   <entry>
     <title>Arrêté du 1er décembre 2020 relatif au compte financier des établissements publics de santé</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700524</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -880,7 +880,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 portant renouvellement d&#39;inscription de la pompe externe à insuline OMNIPOD de la société INSULET France SAS inscrite au titre I de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700554</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -891,7 +891,7 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 portant admission à la retraite (inspection générale des affaires sociales)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700842</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -902,7 +902,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif au montant des plafonds de ressources de certaines prestations familiales et aux tranches du barème applicable au recouvrement des indus et à la saisie des prestations</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042694981</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -913,7 +913,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif au montant des plafonds de ressources de certaines prestations familiales et aux tranches du barème applicable au recouvrement des indus et à la saisie des prestations à Saint-Pierre-et-Miquelon</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695000</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -924,7 +924,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 relatif au montant des plafonds de ressources de certaines prestations familiales et aux tranches du barème applicable au recouvrement des indus et à la saisie des prestations à Mayotte</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695009</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -935,7 +935,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant inscription et modification des conditions d&#39;inscription des endoprothèses aortique thoraco-abdominales ZENITH fenêtrée et ZENITH multibranche de la société COOK France au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695019</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -946,7 +946,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant inscription de l&#39;endoprothèse vasculaire ZENITH UNIVERSAL DISTAL BODY de la société COOK France au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695027</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -957,7 +957,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 portant inscription de l&#39;endoprothèse vasculaire thoraco-abdominale ZENITH T-BRANCH de la société COOK France au titre III de la liste des produits et prestations remboursables prévue à l&#39;article L. 165-1 du code de la sécurité sociale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695035</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -968,7 +968,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 pris en application de l&#39;article L. 162-22-7 du code de la sécurité sociale et modifiant l&#39;arrêté du 2 mars 2005 modifié fixant la liste des produits et prestations mentionnés à l&#39;article L. 165-1 du code de la sécurité sociale pris en charge en sus des prestations d&#39;hospitalisation</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695043</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -979,7 +979,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 pris en application de l&#39;article L. 162-22-7 du code de la sécurité sociale et modifiant l&#39;arrêté du 2 mars 2005 modifié fixant la liste des produits et prestations mentionnés à l&#39;article L. 165-1 du code de la sécurité sociale pris en charge en sus des prestations d&#39;hospitalisation</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695053</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -990,7 +990,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant l&#39;arrêté du 28 mars 2019 limitant la pratique de l&#39;acte de pose de bioprothèses valvulaires aortiques par voie transcathéter à certains établissements de santé en application des dispositions de l&#39;article L. 1151-1 du code de santé publique</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695063</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1001,7 +1001,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 décembre 2020 modifiant les conditions d&#39;organisation de l&#39;examen professionnel pour l&#39;accès au corps interministériel des attachés d&#39;administration de l&#39;Etat au titre de l&#39;année 2020 ouvert par arrêté du 24 février 2020</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695070</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1012,7 +1012,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 décembre 2020 portant nomination au cabinet du ministre des solidarités et de la santé</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695339</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1023,7 +1023,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant renouvellement de nomination (directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale et directeur régional de la jeunesse, des sports et de la cohésion sociale)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695344</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1034,7 +1034,7 @@
   </entry>
   <entry>
     <title>Arrêté du 14 décembre 2020 portant renouvellement de nomination (directeur régional adjoint de la jeunesse, des sports et de la cohésion sociale)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695346</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1045,7 +1045,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 fixant la liste d&#39;aptitude aux emplois d&#39;agent de direction des organismes de sécurité sociale du régime général mentionnée à l&#39;article R. 123-45 du code de la sécurité sociale valable à compter du 1er janvier 2021</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695348</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -1056,7 +1056,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 relatif à l&#39;expérimentation « PAiement d&#39;un Parcours coordonné pour une correction de la Dénutrition pré-Opératoire des Patients (PAP-DOP) » dans les régions d&#39;Ile-de-France, Pays de la Loire et Provence-Alpes-Côte d&#39;Azur</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677416</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -1067,7 +1067,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 décembre 2020 relatif à l&#39;expérimentation « Mise en œuvre d&#39;un programme de prévention adapté auprès d&#39;une population prédiabétique au sein des structures de soins mutualistes (centres et maisons de santé) »</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677422</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -1078,7 +1078,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 relatif aux indemnités de stage versées aux étudiants inscrits dans les instituts de formation de certaines professions de santé</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677429</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -1089,7 +1089,7 @@
   </entry>
   <entry>
     <title>Arrêté du 27 novembre 2020 portant modification de l&#39;arrêté du 5 novembre 2020 fixant la liste des personnes autorisées à exercer en France la profession de pharmacien dans la spécialité « biologie médicale » en application des dispositions de l&#39;article L. 4221-14-1 du code de la santé publique</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677824</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -1100,7 +1100,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant nomination (administration centrale)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677826</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>

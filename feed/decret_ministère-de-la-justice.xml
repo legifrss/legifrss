@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-la-justice - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:07:36+01:00</updated>
+  <updated>2020-12-27T21:12:20+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decret_ministère-de-la-justice.xml" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Décret du 23 décembre 2020 portant changements de noms (Accès protégé)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743077</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000031366350&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des relations entre le public et l&#39;administration (V)&#39;&gt;code des relations entre le public et l&#39;administration&lt;/a&gt;, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1682 du 23 décembre 2020 relatif à la procédure d&#39;accréditation des organismes certificateurs délivrant la certification des services en ligne fournissant des prestations de conciliation, de médiation et d&#39;arbitrage</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739203</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1683 du 24 décembre 2020 portant renouvellement de la commission pluridisciplinaire unique prévue par les dispositions de l&#39;article D. 90 du code de procédure pénale</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739220</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1655 du 22 décembre 2020 relatif à l&#39;emploi de conseiller d&#39;administration du ministère de la justice</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730759</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1656 du 22 décembre 2020 relatif au conseil de prud&#39;hommes de Mamoudzou et à la prestation de serment des conseillers prud&#39;hommes</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730776</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1657 du 22 décembre 2020 modifiant l&#39;échelonnement indiciaire applicable à l&#39;emploi de conseiller d&#39;administration du ministère de la justice</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730803</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1640 du 21 décembre 2020 renforçant l&#39;efficacité des procédures pénales et les droits de victimes</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722470</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1641 du 22 décembre 2020 reportant la date d&#39;entrée en vigueur de l&#39;assignation à date dans les procédures autres que celles de divorce et de séparation de corps judiciaires</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722539</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723221</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination de premiers conseillers (tribunaux administratifs et cours administratives d&#39;appel)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723224</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant décharge de fonctions (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723226</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant maintien en détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723228</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -143,7 +143,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723230</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -154,7 +154,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723233</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -165,7 +165,7 @@
   </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702619</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -176,7 +176,7 @@
   </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant maintien en détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702621</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -187,7 +187,7 @@
   </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant acceptation de démission et radiation des cadres (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702623</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -198,7 +198,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1616 du 17 décembre 2020 relatif à la participation de membres des juridictions de l&#39;ordre administratif et de l&#39;ordre judiciaire au sein de certaines commissions administratives</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700364</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -209,7 +209,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1617 du 17 décembre 2020 relatif à la composition de certaines commissions administratives</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700494</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -220,7 +220,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant maintien en détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700779</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -231,7 +231,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant maintien en détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700781</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -242,7 +242,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant maintien en détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700783</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -253,7 +253,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700785</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -264,7 +264,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700787</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant détachement (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700790</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -286,7 +286,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant admission à la retraite et maintien en activité en surnombre (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700792</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -297,7 +297,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1608 du 17 décembre 2020 modifiant le décret n° 2020-1293 du 23 octobre 2020 pris en application de l&#39;article 2-1 du décret n° 59-178 du 22 janvier 1959 relatif aux attributions des ministres</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042694969</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -308,7 +308,7 @@
   </entry>
   <entry>
     <title>Décret du 15 décembre 2020 portant nomination (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677782</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -319,7 +319,7 @@
   </entry>
   <entry>
     <title>Décret du 15 décembre 2020 portant placement en position de disponibilité (magistrature)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677787</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -330,7 +330,7 @@
   </entry>
   <entry>
     <title>Décret du 15 décembre 2020 portant admission à la retraite et maintien en activité en surnombre (Conseil d&#39;Etat)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677789</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -341,7 +341,7 @@
   </entry>
   <entry>
     <title>Décret du 16 décembre 2020 portant nomination d&#39;une conseillère d&#39;Etat - Mme FISCHER-HIRTZ (Catherine)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677791</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - annonces</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:07:36+01:00</updated>
+  <updated>2020-12-27T21:12:20+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/annonces_all.xml" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 119 à 147)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709676</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 94 à 113)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702847</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -29,7 +29,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 145 à 171)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701311</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -38,7 +38,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 127 à 154)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695538</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -47,7 +47,7 @@
   </entry>
   <entry>
     <title>Concessions diverses</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678058</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 154 à 165)</title>
-    <updated>2020-12-27T21:07:36+01:00</updated>
+    <updated>2020-12-27T21:12:20+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678060</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
