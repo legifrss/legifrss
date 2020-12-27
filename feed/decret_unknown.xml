@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - unknown - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:04:41+01:00</updated>
+  <updated>2020-12-27T21:07:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Décret du 24 décembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743541</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>Décret du 24 décembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743544</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -29,7 +29,7 @@
   </entry>
   <entry>
     <title>Décret du 24 décembre 2020 rapportant un décret de naturalisation (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743547</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -38,7 +38,7 @@
   </entry>
   <entry>
     <title>Décret du 22 décembre 2020 portant francisation de noms et prénoms d&#39;étrangers ayant acquis ou recouvré la nationalité française (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733567</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -47,7 +47,7 @@
   </entry>
   <entry>
     <title>Décret du 23 décembre 2020 rapportant un décret de naturalisation (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733570</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723443</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -65,7 +65,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant naturalisation, réintégration, mention d&#39;enfants mineurs bénéficiant de l&#39;effet collectif attaché à l&#39;acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l&#39;allégeance française (Accès protégé)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723446</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -74,7 +74,7 @@
   </entry>
   <entry>
     <title>Décret du 18 décembre 2020 portant nomination dans l&#39;ordre national de la Légion d&#39;honneur en faveur d&#39;un militaire appartenant à l&#39;armée active</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702036</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>

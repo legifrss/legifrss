@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - caisse-des-dépôts-et-consignations - arrete</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:04:41+01:00</updated>
+  <updated>2020-12-27T21:07:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion à l&#39;échelon spécial du grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732588</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732590</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732592</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>

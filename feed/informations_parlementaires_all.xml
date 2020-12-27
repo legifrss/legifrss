@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - informations_parlementaires</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:04:41+01:00</updated>
+  <updated>2020-12-27T21:07:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Conférence des présidents</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741181</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>Groupes politiques</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741183</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -29,7 +29,7 @@
   </entry>
   <entry>
     <title>Informations diverses</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741186</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -38,7 +38,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733575</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -47,7 +47,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733577</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723451</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -65,7 +65,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723453</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -74,7 +74,7 @@
   </entry>
   <entry>
     <title>Documents déposés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723456</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -83,7 +83,7 @@
   </entry>
   <entry>
     <title>Documents publiés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723458</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -92,7 +92,7 @@
   </entry>
   <entry>
     <title>Rapports au parlement</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723460</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -101,7 +101,7 @@
   </entry>
   <entry>
     <title>Nominations et avis</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723462</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Groupes politiques</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709592</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -119,7 +119,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709594</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -128,7 +128,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709596</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -137,7 +137,7 @@
   </entry>
   <entry>
     <title>Informations diverses</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709598</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -146,7 +146,7 @@
   </entry>
   <entry>
     <title>Documents déposés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709601</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -155,7 +155,7 @@
   </entry>
   <entry>
     <title>Documents publiés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709603</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -164,7 +164,7 @@
   </entry>
   <entry>
     <title>Rapports au parlement</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709605</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -173,7 +173,7 @@
   </entry>
   <entry>
     <title>Informations diverses</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709607</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -182,7 +182,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702756</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -191,7 +191,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701212</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -200,7 +200,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701214</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -209,7 +209,7 @@
   </entry>
   <entry>
     <title>Documents déposés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701217</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -218,7 +218,7 @@
   </entry>
   <entry>
     <title>Documents publiés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701219</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -227,7 +227,7 @@
   </entry>
   <entry>
     <title>Ordre du jour</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695446</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -236,7 +236,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695448</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -245,7 +245,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695450</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -254,7 +254,7 @@
   </entry>
   <entry>
     <title>Commissions / organes temporaires</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695453</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -263,7 +263,7 @@
   </entry>
   <entry>
     <title>Délégations parlementaires</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695455</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -272,7 +272,7 @@
   </entry>
   <entry>
     <title>Ordre du jour</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695457</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -281,7 +281,7 @@
   </entry>
   <entry>
     <title>Documents déposés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695459</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -290,7 +290,7 @@
   </entry>
   <entry>
     <title>Documents publiés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695461</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -299,7 +299,7 @@
   </entry>
   <entry>
     <title>Délégation parlementaire au renseignement</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695464</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -308,7 +308,7 @@
   </entry>
   <entry>
     <title>Ordre du jour</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677975</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -317,7 +317,7 @@
   </entry>
   <entry>
     <title>Commissions et organes de contrôle</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677977</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -326,7 +326,7 @@
   </entry>
   <entry>
     <title>Assemblées internationales</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677979</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -335,7 +335,7 @@
   </entry>
   <entry>
     <title>Documents et publications</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677981</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -344,7 +344,7 @@
   </entry>
   <entry>
     <title>Informations diverses</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677983</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -353,7 +353,7 @@
   </entry>
   <entry>
     <title>Commissions / organes temporaires</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677986</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -362,7 +362,7 @@
   </entry>
   <entry>
     <title>Documents déposés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677988</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -371,7 +371,7 @@
   </entry>
   <entry>
     <title>Documents publiés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677990</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -380,7 +380,7 @@
   </entry>
   <entry>
     <title>Rapports au parlement</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677992</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -389,7 +389,7 @@
   </entry>
   <entry>
     <title>Informations diverses</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677994</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -398,7 +398,7 @@
   </entry>
   <entry>
     <title>Nominations et avis</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677996</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>

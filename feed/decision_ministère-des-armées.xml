@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-des-armées - decision</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:04:41+01:00</updated>
+  <updated>2020-12-27T21:07:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Décision du 22 décembre 2020 portant délégation de signature (sous-direction chargée de la préfiguration de l&#39;agence ministérielle de gestion)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730549</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2021 (armée active)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731566</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement spécial pour l&#39;année 2021 (armée active)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731568</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2021 (corps d&#39;officiers de la marine nationale administrés par le ministère de la mer)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731570</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Décision du 18 décembre 2020 portant inscription au tableau d&#39;avancement pour l&#39;année 2020 (réserve)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731572</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Décision du 30 novembre 2020 portant nomination du directeur du centre expert pour les ressources humaines du personnel civil du ministère de la défense par intérim (rectificatif)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700771</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Décision du 14 décembre 2020 relative au versement forfaitaire à effectuer à l&#39;Agence centrale des organismes de sécurité sociale</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677328</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Décision du 9 décembre 2020 portant attribution du niveau de qualification hospitalière de praticien certifié sur titre à des praticiens des armées</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677746</id>
     <content type="html"></content>
     <published>2020-12-17T01:00:00+01:00</published>

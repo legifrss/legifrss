@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - deliberation</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:04:41+01:00</updated>
+  <updated>2020-12-27T21:07:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <link href="https://github.com/ldicarlo/legifrance-rss" rel="self"></link>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Délibération n° 2020-299 du 10 décembre 2020 de la Commission de régulation de l&#39;énergie portant décision sur les tarifs non péréqués d&#39;utilisation des réseaux publics de distribution de gaz naturel concédés à GRDF</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743165</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Participaient à la séance : Jean-François CARENCO, président, Christine CHAUVET, Catherine EDWIGE, Ivan FAUCHEUX et Jean-Laurent LASTELLE, commissaires.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Méthodes tarifaires et demandes des opérateurs&lt;br/&gt;1.1. Cadre réglementaire applicable aux nouveaux réseaux de distribution de gaz naturel&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les dispositions combinées des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000036398871&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L452-1-1 (M)&#39;&gt;L. 452-1-1&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023986903&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L432-6 (V)&#39;&gt;L. 432-6&lt;/a&gt; du code de l&#39;énergie établissent le principe de la non-péréquation tarifaire pour la gestion des nouveaux réseaux de distribution de gaz naturel. En application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023987119&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L452-2 (V)&#39;&gt;article L. 452-2 du code de l&#39;énergie&lt;/a&gt;, les méthodes utilisées pour établir les tarifs de ces nouveaux réseaux sont fixées par la Commission de régulation de l&#39;énergie (CRE).&lt;br/&gt;La &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036844297&amp;categorieLien=cid&#39; title=&#39;Délibération n°2018-028 du 7 février 2018, v. init.&#39;&gt;délibération de la CRE n° 2018-028 du 7 février 2018&lt;/a&gt; portant décision sur les règles tarifaires applicables à la gestion des nouveaux réseaux de distribution de gaz naturel a reconduit la méthode utilisée pour établir les tarifs d&#39;utilisation de ces nouveaux réseaux définie dans la délibération de la CRE du 25 avril 2013(1). Elle a étendu ces règles à l&#39;ensemble des modes d&#39;attribution et des modes de gestion des réseaux de distribution de gaz naturel entrant dans le cadre des &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023986903&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L432-6 (V)&#39;&gt;dispositions de l&#39;article L. 432-6 du code de l&#39;énergie&lt;/a&gt;.&lt;br/&gt;Afin de faciliter la comparaison des offres des gestionnaires de réseaux de distribution (GRD) par les autorités concédantes et de simplifier les relations entre GRD et fournisseurs, la &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036844297&amp;categorieLien=cid&#39; title=&#39;Délibération n°2018-028 du 7 février 2018, v. init.&#39;&gt;délibération de la CRE n° 2018-028 du 7 février 2018&lt;/a&gt; a également modifié la présentation des tarifs d&#39;accès des tiers aux réseaux de distribution (ATRD) non péréqués en exprimant ces tarifs sous la forme d&#39;un coefficient de niveau tarifaire (dit « coefficient NIV »). Dès lors, pour chaque tarif ATRD non péréqué, les termes de la grille tarifaire en vigueur (hors terme « Rf », voir ci-après) résultent de l&#39;application du coefficient NIV en vigueur pour ce nouveau réseau, à la grille du tarif ATRD péréqué de GRDF en vigueur à la même date.&lt;br/&gt;La &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036844297&amp;categorieLien=cid&#39; title=&#39;Délibération n°2018-028 du 7 février 2018, v. init.&#39;&gt;partie 2.3 de la délibération de la CRE n° 2018-028 du 7 février 2018&lt;/a&gt; prévoit ainsi, pour les nouvelles concessions de distribution de gaz naturel, l&#39;application des dispositions suivantes :&lt;br/&gt;« Tout GRD s&#39;étant vu attribuer la gestion d&#39;un nouveau réseau public de distribution de gaz naturel au titre de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023986903&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L432-6 (V)&#39;&gt;article L. 432-6 du code de l&#39;énergie&lt;/a&gt; saisit la CRE d&#39;une demande par courrier de tarif pour la gestion de ce nouveau réseau au minimum quatre mois avant la date prévisionnelle de mise en gaz du réseau.&lt;br/&gt;Cette demande précise notamment :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- la date prévisionnelle de mise en gaz du réseau (correspondant à la date d&#39;entrée en vigueur du tarif ATRD non péréqué demandée par le GRD) ;&lt;br/&gt;- le coefficient de niveau tarifaire unique retenu par l&#39;autorité concédante et par le GRD ainsi que la date prise en compte pour déterminer la grille de référence (grille du tarif ATRD péréqué de GRDF) en vigueur à laquelle ce coefficient s&#39;applique ;&lt;br/&gt;- la formule d&#39;évolution annuelle spécifique du tarif au 1er juillet composée d&#39;indices d&#39;indexation retenue par l&#39;autorité concédante et le GRD, et pour chacun des indices sa définition, l&#39;organisme émetteur (ex. : INSEE) et le numéro d&#39;identifiant ou la référence de l&#39;indice ;&lt;br/&gt;- les estimations des quantités distribuées et du nombre de consommateurs raccordés par option tarifaire ;&lt;br/&gt;- les investissements prévisionnels ;&lt;br/&gt;- la durée de l&#39;attribution du nouveau réseau public de distribution de gaz naturel ;&lt;br/&gt;- le nom du GRD amont au cas où le nouveau réseau public de distribution est raccordé à un réseau de distribution ;&lt;br/&gt;- la date prévisionnelle de début de travaux ;&lt;br/&gt;- en cas de mise en concurrence, le cas échéant :&lt;br/&gt;- une copie de l&#39;appel d&#39;offres et la date de l&#39;appel d&#39;offres ;&lt;br/&gt;- la date limite de réponses des candidats ;&lt;br/&gt;- l&#39;avis et la date d&#39;attribution du marché ;&lt;br/&gt;- les annexes tarifaires du contrat de concession ;&lt;br/&gt;- en l&#39;absence de mise en concurrence, un plan d&#39;affaire présentant l&#39;équilibre économique de l&#39;activité sur la durée de l&#39;attribution du nouveau réseau de distribution de gaz naturel.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;[…] le coefficient de niveau « NIV » à la date d&#39;entrée en vigueur du tarif ATRD non péréqué prendra en compte le coefficient de niveau tarifaire retenu par l&#39;autorité concédante et le GRD, en neutralisant les évolutions en niveau de la grille du tarif ATRD péréqué de GRDF intervenues entre la date prise en compte pour déterminer ce coefficient et la date d&#39;entrée en vigueur du tarif ATRD non péréqué.&lt;br/&gt;Après toute délibération de la CRE le concernant, chaque GRD est tenu de publier sur son site Internet le coefficient de niveau et la grille de chaque tarif ATRD non péréqués le concernant, au plus tard un mois avant la mise en gaz du nouveau réseau, avec la mention des communes concernées et une référence aux textes tarifaires en vigueur.&lt;br/&gt;A chaque évolution tarifaire, chaque GRD est tenu de publier sur son site internet les grilles tarifaires mises à jour. »&lt;br/&gt;Ces dispositions mettent en place une structure tarifaire unique pour tous les réseaux de distribution de gaz naturel. Celle-ci doit faciliter l&#39;accès aux réseaux et les flux de données entre GRD et fournisseurs. Elle simplifie également, pour les collectivités locales, l&#39;analyse des offres des GRD candidats aux appels à concurrence.&lt;br/&gt;La &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036844297&amp;categorieLien=cid&#39; title=&#39;Délibération n°2018-028 du 7 février 2018, v. init.&#39;&gt;délibération de la CRE n° 2018-028 du 7 février 2018&lt;/a&gt; renvoie au dispositif mis en place par la &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000036196709&amp;categorieLien=cid&#39; title=&#39;Délibération n°2017-238 du 26 octobre 2017, v. init.&#39;&gt;délibération de la CRE n° 2017-238 du 26 octobre 2017&lt;/a&gt;, visant à augmenter la part fixe (abonnement) à hauteur d&#39;un montant moyen Rf pris en compte au titre des contreparties financières versées aux fournisseurs pour rémunérer la gestion de clientèle en contrat unique effectuée par ces derniers pour le compte des GRD. Ce montant est exclu des réévaluations annuelles prévues par cette délibération, son évolution étant elle aussi identique pour l&#39;ensemble des GRD, pour les tarifs péréqués comme pour les tarifs non péréqués. La &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000041734128&amp;categorieLien=cid&#39; title=&#39;Délibération n°2020-010 du 23 janvier 2020, v. init.&#39;&gt;délibération de la CRE n° 2020-010&lt;/a&gt; (2) a introduit une indexation des montants définis par la délibération n° 2017-238 sur l&#39;inflation effectivement constatée et cumulée entre 2018 et N-1. Enfin, la &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000042046164&amp;categorieLien=cid&#39; title=&#39;Délibération n°2020-138 du 18 juin 2020, v. init.&#39;&gt;délibération n° 2020-138&lt;/a&gt; a précisé les modalités d&#39;application du terme tarifaire d&#39;injection, introduit par la Délibération ATRD6 de GRDF (3), aux producteurs de biométhane injectant notamment sur les réseaux des GRD de nouvelles zones de desserte gazière (4).&lt;br/&gt;Conformément à ces dispositions GRDF a soumis à la CRE, par courrier électronique reçu le 4 décembre 2020, deux demandes de tarifs d&#39;utilisation des réseaux de distribution pour des concessions de gaz naturel.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1.2 Demandes de GRDF&lt;/p&gt;&lt;p&gt;&lt;br/&gt;GRDF a soumis à la CRE, par courrier électronique reçu le 4 décembre 2020, deux demandes de tarif d&#39;utilisation des réseaux de distribution pour les concessions de gaz naturel :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- de la commune de Richebourg (62), dont l&#39;entrée en vigueur est prévue à compter du 1er février 2021. La grille tarifaire proposée par GRDF résulte de l&#39;application d&#39;un coefficient NIV de 1,08 à la grille tarifaire du tarif péréqué de GRDF en vigueur au 1er juillet 2020 ;&lt;br/&gt;- des communes de Bezinghem et Doudeauville (62), dont l&#39;entrée en vigueur est prévue à compter du 1er février 2021. La grille tarifaire proposée par GRDF résulte de l&#39;application d&#39;un coefficient NIV de 1,05 à la grille tarifaire du tarif péréqué de GRDF en vigueur au 1er juillet 2020.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;GRDF propose de réévaluer les tarifs de ces communes au 1er juillet de chaque année par l&#39;application de formules composées d&#39;indices représentatifs de l&#39;évolution du coût du travail et de la main-d&#39;œuvre, de l&#39;évolution des coûts d&#39;acheminement sur le réseau du GRD amont, des coûts de construction des réseaux de ces nouvelles concessions et des coûts des services liés à son exploitation.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Décision&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023987119&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L452-2 (V)&#39;&gt;article L. 452-2 du code de l&#39;énergie, la CRE&lt;/a&gt; est compétente pour fixer les tarifs non péréqués d&#39;utilisation des nouveaux réseaux publics de distribution de gaz naturel mentionnés à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000023983208&amp;idArticle=LEGIARTI000023986903&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;énergie - art. L432-6 (V)&#39;&gt;article L. 432-6 du code de l&#39;énergie&lt;/a&gt;. La présente délibération fixe les tarifs non péréqués d&#39;utilisation des réseaux publics de distribution de gaz naturel concédés à GRDF par la commune de Richebourg (62) d&#39;une part, et par les communes de Bezinghem et Doudeauville (62) d&#39;autre part.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Tarif non péréqué d&#39;utilisation du réseau public de distribution de gaz naturel de la commune de Richebourg (62)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour le réseau public de distribution de gaz naturel la commune de Richebourg (62) concédé à GRDF, le tarif défini est obtenu par l&#39;application d&#39;un coefficient NIV de 1,08 à la grille tarifaire du tarif péréqué de GRDF en vigueur au 1er juillet 2020. Les termes tarifaires résultants sont définis avec deux chiffres après la virgule. La grille tarifaire intègre également la part fixe Rf, versée aux fournisseurs au titre de la gestion des clients en contrat unique.&lt;br/&gt;La grille tarifaire du tarif de la commune de Richebourg (62) s&#39;applique à compter du 1er février 2021, sous réserve de la signature du contrat de concession.&lt;br/&gt;Le coefficient NIV est ajusté mécaniquement au 1er juillet de chaque année N, d&#39;une évolution spécifique &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;     et de l&#39;inverse de l&#39;évolution en niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, selon la formule suivante :&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Avec :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient de niveau du tarif ATRD non péréqué au 1er juillet de l&#39;année N, arrondi à quatre décimales ;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient de niveau du tarif ATRD non péréqué au 30 juin de l&#39;année N, arrondi à quatre décimales ;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est la variation du niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, exprimée en pourcentage.&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient d&#39;évolution du niveau du tarif ATRD non péréqué résultant de l&#39;application de la formule d&#39;évolution annuelle spécifique au 1er juillet de l&#39;année N, exprimée en pourcentage :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    = 18,9 %*&#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;     + 81,1 % * (50%*ΔICHTrev-TS83 + 25%*ΔTP10b + 25%*Δprix de vente à l&#39;industrie)&lt;br/&gt;Où :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- ΔICHTrev-TS83 représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice ICHTrev-TS83, indice mensuel du coût horaire du travail révisé - Salaires et charges - Tous salariés - Industries mécaniques et électriques (NAF rév. 2 postes 25-30 32-33) - Base 100 en décembre 2008, tel que calculé par l&#39;INSEE (identifiant n° 001565183) ou de tout indice de remplacement ;&lt;br/&gt;- ΔTP10b représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice TP10b, index Travaux Publics - Canalisations sans fourniture de tuyaux - Base 100 en 2010, tel que calculé par l&#39;INSEE (identifiant n° 001710999) ou de tout indice de remplacement ;&lt;br/&gt;- Δprix de vente à l&#39;industrie représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice des prix de production de l&#39;industrie française pour le marché français - Prix de base - MIG ING - Biens intermédiaires - Base 2010 - (FB0ABINT00) (identifiant : 001652698), base 100 en 2010, publié sur le site Internet de l&#39;INSEE ou de tout indice de remplacement.&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est la variation du niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, exprimée en pourcentage ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La mise à jour ne s&#39;applique pas au terme Rf, dont l&#39;évolution est identique pour l&#39;ensemble des GRD, pour les tarifs péréqués comme pour les tarifs non péréqués.&lt;br/&gt;Le délai compris entre la date d&#39;entrée en vigueur du tarif ATRD non péréqué et la date de la première application de la formule d&#39;évolution tarifaire annuelle spécifique ne peut être inférieur à une année. En conséquence, si le délai compris entre la date d&#39;entrée en vigueur du tarif ATRD non péréqué et la date de la première application de la formule d&#39;évolution tarifaire annuelle est inférieure à une année au 1er juillet d&#39;une année N, le coefficient NIV est ajusté en application de la formule ci-dessus avec &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    =0.&lt;br/&gt;Le tarif ATRD non péréqué prendra en compte toute modification de structure de la grille tarifaire de référence, dès son entrée en vigueur, dans le respect de la règle d&#39;application d&#39;un coefficient multiplicateur unique à l&#39;ensemble des termes de la nouvelle grille de référence.&lt;br/&gt;GRDF publiera sur son site internet :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- la grille tarifaire pour la commune de Richebourg (62) au plus tard un mois avant la mise en gaz de la nouvelle concession, avec une référence aux textes tarifaires en vigueur ;&lt;br/&gt;- la nouvelle grille tarifaire issue de la réévaluation périodique du tarif et la transmettra à la CRE pour contrôle de la bonne application de la formule d&#39;évolution.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;2. Tarif non péréqué d&#39;utilisation du réseau public de distribution de gaz naturel des communes de Bezinghem et Doudeauville (62)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour le réseau public de distribution de gaz naturel des communes de Bezinghem et Doudeauville (62) concédé à GFRDF, le tarif défini est obtenu par l&#39;application d&#39;un coefficient NIV de 1,05 à la grille tarifaire du tarif péréqué de GRDF en vigueur au 1er juillet 2020. Les termes tarifaires résultants sont définis avec deux chiffres après la virgule. La grille tarifaire intègre également la part fixe Rf, versée aux fournisseurs au titre de la gestion des clients en contrat unique.&lt;br/&gt;La grille tarifaire du tarif des communes de Bezinghem et Doudeauville (62) s&#39;applique, à compter du 1er février 2021, sous réserve de la signature du contrat de concession.&lt;br/&gt;Le coefficient NIV est ajusté mécaniquement au 1er juillet de chaque année N, d&#39;une évolution spécifique &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;     et de l&#39;inverse de l&#39;évolution en niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, selon la formule suivante :&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Avec :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient de niveau du tarif ATRD non péréqué au 1er juillet de l&#39;année N, arrondi à quatre décimales ;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient de niveau du tarif ATRD non péréqué au 30 juin de l&#39;année N, arrondi à quatre décimales ;&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est la variation du niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, exprimée en pourcentage.&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est le coefficient d&#39;évolution du niveau du tarif ATRD non péréqué résultant de l&#39;application de la formule d&#39;évolution annuelle spécifique au 1er juillet de l&#39;année N, exprimée en pourcentage :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    = 19,8 %*&#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;     + 80,2 % * (50%*ΔICHTrev-TS83 + 25%*ΔTP10b + 25%*Δprix de vente à l&#39;industrie)&lt;br/&gt;Où :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- ΔICHTrev-TS83 représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice ICHTrev-TS83, indice mensuel du coût horaire du travail révisé - Salaires et charges - Tous salariés - Industries mécaniques et électriques (NAF rév. 2 postes 25-30 32-33) - Base 100 en décembre 2008, tel que calculé par l&#39;INSEE (identifiant n° 001565183) ou de tout indice de remplacement ;&lt;br/&gt;- ΔTP10b représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice TP10b, index Travaux Publics - Canalisations sans fourniture de tuyaux - Base 100 en 2010, tel que calculé par l&#39;INSEE (identifiant n° 001710999) ou de tout indice de remplacement ;&lt;br/&gt;- Δprix de vente à l&#39;industrie représente la variation moyenne sur l&#39;année n (de janvier à décembre) de l&#39;indice des prix de production de l&#39;industrie française pour le marché français - Prix de base - MIG ING - Biens intermédiaires - Base 2010 - (FB0ABINT00) (identifiant : 001652698), base 100 en 2010, publié sur le site Internet de l&#39;INSEE ou de tout indice de remplacement.&lt;br/&gt;- &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    est la variation du niveau du tarif ATRD péréqué de GRDF au 1er juillet de l&#39;année N, exprimée en pourcentage ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La mise à jour ne s&#39;applique pas au terme Rf, dont l&#39;évolution est identique pour l&#39;ensemble des GRD, pour les tarifs péréqués comme pour les tarifs non péréqués.&lt;br/&gt;Le délai compris entre la date d&#39;entrée en vigueur du tarif ATRD non péréqué et la date de la première application de la formule d&#39;évolution tarifaire annuelle spécifique ne peut être inférieur à une année. En conséquence, si le délai compris entre la date d&#39;entrée en vigueur du tarif ATRD non péréqué et la date de la première application de la formule d&#39;évolution tarifaire annuelle est inférieure à une année au 1er juillet d&#39;une année N, le coefficient NIV est ajusté en application de la formule ci-dessus avec &#xA;      &lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#xA;    =0.&lt;br/&gt;Le tarif ATRD non péréqué prendra en compte toute modification de structure de la grille tarifaire de référence, dès son entrée en vigueur, dans le respect de la règle d&#39;application d&#39;un coefficient multiplicateur unique à l&#39;ensemble des termes de la nouvelle grille de référence.&lt;br/&gt;GRDF publiera sur son site internet :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- la grille tarifaire pour les communes de Bezinghem et Doudeauville (62) au plus tard un mois avant la mise en gaz de la nouvelle concession, avec une référence aux textes tarifaires en vigueur ;&lt;br/&gt;- la nouvelle grille tarifaire issue de la réévaluation périodique du tarif et la transmettra à la CRE pour contrôle de la bonne application de la formule d&#39;évolution.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La CRE note avec satisfaction l&#39;utilisation d&#39;une canalisation de raccordement d&#39;un site de production de biométhane comme réseau d&#39;amenée pour la desserte de ces deux communes. L&#39;exploitation à cette fin de ladite canalisation concourt ainsi à l&#39;intégration de la filière biométhane dans le paysage énergétique du territoire.&lt;br/&gt;La présente délibération sera publiée sur le site de la CRE, transmise à la ministre de la transition écologique, ainsi qu&#39;au ministre de l&#39;économie, des finances et de la relance et publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-320 du 17 décembre 2020 portant vérification de la conformité du barème des tarifs réglementés de vente de gaz proposé par Engie pour le mois de janvier 2021</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743182</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-321 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Caléo au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743199</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-322 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Énergies et Services de Seyssel au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743214</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-323 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Energis au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743229</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-324 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD ÉS-Énergies de Strasbourg au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743244</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-325 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Gaz de Barr au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743259</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-326 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Gaz de Bordeaux au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743274</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>Délibératio n° 2020-327 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Gaz Électricité de Grenoble au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743289</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-328 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Gédia au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743304</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-329 du 17 décembre 2020 portant vérification de la conformité du barème proposé par la Régie municipale de Bonneville au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743319</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-330 du 17 décembre 2020 portant vérification de la conformité du barème proposé par la Régie municipale de Sallanches au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743334</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -143,7 +143,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-331 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Régiongaz au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743349</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -154,7 +154,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-332 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Vialis au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743364</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -165,7 +165,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-333 du 17 décembre 2020 portant vérification de la conformité du barème proposé par l&#39;ELD Villard Bonnot au 1er janvier 2021 à la formule tarifaire fixée par l&#39;arrêté du 26 juin 2020</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743379</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -176,7 +176,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-039 du 8 octobre 2020 portant adoption du modèle de tableau de bord trimestriel relatif à l&#39;exploitation des jeux sous droits exclusifs commercialisés en réseau physique de distribution</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740237</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -187,7 +187,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-126 du 10 décembre 2020 portant avis sur un projet de décret autorisant la création d&#39;un traitement de données à caractère personnel relatif à la gestion et au suivi des vaccinations contre le coronavirus SARS-CoV-2 (demande d&#39;avis n° 20020767)</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740251</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -198,7 +198,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020/CA/28 du 8 décembre 2020 modifiant le règlement général des aides financières du Centre national du cinéma et de l&#39;image animée</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730832</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -209,7 +209,7 @@
   </entry>
   <entry>
     <title>Résultat de délibération du 9 décembre 2020 relative à l&#39;audition publique de la société TELE PAESE dont le dossier a été déclaré recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-466 du 29 juillet 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans plusieurs zones de Corse</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733562</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -220,7 +220,7 @@
   </entry>
   <entry>
     <title>Résultat de délibération du 9 décembre 2020 relative à l&#39;audition publique de la société TOURAINE TELEVISION dont le dossier a été déclaré recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-411 du 24 juin 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans la zone de Tours</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733564</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -231,7 +231,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020/CA/34 du 8 décembre 2020 modifiant le règlement général des aides financières du Centre national du cinéma et de l&#39;image animée et relative à la possibilité d&#39;investissement des sommes inscrites sur les comptes automatiques pour besoins de trésorerie liés à l&#39;épidémie de covid-19</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042722624</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -242,7 +242,7 @@
   </entry>
   <entry>
     <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723438</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -253,7 +253,7 @@
   </entry>
   <entry>
     <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723440</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -264,7 +264,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-295 du 9 décembre 2020 portant décision sur l&#39;évolution du revenu autorisé des opérateurs de stockage souterrain de gaz naturel Storengy, Teréga et Géométhane pour l&#39;année 2021</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709541</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701176</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -286,7 +286,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701178</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -297,7 +297,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701180</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -308,7 +308,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701182</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -319,7 +319,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 modifiant la liste des paramètres RDS autorisés</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701184</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -330,7 +330,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;association Chic FM</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701188</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -341,7 +341,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;association Bleu Azur</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701190</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -352,7 +352,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à la SARL Méga Ouest Communication</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701192</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -363,7 +363,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire pour cinq ans hors appel aux candidatures des autorisations délivrées dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701194</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -374,7 +374,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;Association Réunionnaise de Communication Lo Rénioné, Radio Lo Rénioné - Télé Lo Rénioné</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701198</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -385,7 +385,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-62 du 16 décembre 2020 portant dérogation à la délibération du 9 avril 2014 fixant le règlement intérieur du Conseil supérieur de l&#39;audiovisuel</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701200</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -396,7 +396,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-281 du 19 novembre 2020 portant approbation du modèle de contrat d&#39;accès aux réseaux publics de distribution d&#39;URM pour les points de connexion en contrat unique</title>
-    <updated>2020-12-27T21:04:41+01:00</updated>
+    <updated>2020-12-27T21:07:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695434</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
