@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - unknown - INFORMATIONS_DIVERSES</title>
   <id></id>
-  <updated>2020-12-27 10:00:02.739918523 +0100 CET m=+247.544268374</updated>
+  <updated>2020-12-27 20:46:43.824794745 +0100 CET m=+257.467142840</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
