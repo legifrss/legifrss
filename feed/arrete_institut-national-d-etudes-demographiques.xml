@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - institut-national-d-etudes-demographiques - arrete</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:35:00+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/arrete_institut-national-d-etudes-demographiques.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture de concours sur titres et travaux pour le recrutement de chargés de recherche de classe normale à l&#39;Institut national d&#39;études démographiques</title>
+    <updated>2020-12-27T21:35:00+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709588</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;Par arrêté de la directrice de l&#39;Institut national d&#39;études démographiques en date du 18 décembre 2020, un concours sur titres et travaux est ouvert au titre de l&#39;année 2021 à l&#39;Institut national d&#39;études démographiques (INED) afin de pourvoir les emplois vacants ou susceptibles d&#39;être vacants suivants :&lt;/p&gt;&lt;p&gt;- deux postes de chargés de recherche de classe normale : démographie et disciplines connexes.&lt;/p&gt;&lt;p&gt;La date d&#39;ouverture des inscriptions est fixée au 22 décembre 2020.&lt;br/&gt;&#xA;Les dossiers de candidature peuvent être soit retirés par voie postale ou sur place, soit imprimés par téléchargement depuis le site web de l&#39;INED (&lt;a shape=&#39;rect&#39; href=&#39;https://www.ined.fr&#39; target=&#39;_blank&#39;&gt; https://www.ined.fr&lt;/a&gt;) jusqu&#39;au 20 janvier 2021, 17 heures, le cachet de la poste faisant foi pour les demandes écrites, auprès du bureau des concours de l&#39;INED : 9, cours des Humanités, CS 50004, 93322 Aubervilliers Cedex.&lt;br/&gt;&#xA;La date limite de dépôt des dossiers de candidature est fixée au 22 janvier 2021, date de clôture des inscriptions.&lt;br/&gt;&#xA;Les candidats doivent :&lt;/p&gt;&lt;p&gt;- soit déposer leur dossier à l&#39;INED, bureau des concours, 9, cours des Humanités, CS 50004, 93322 Aubervilliers Cedex, jusqu&#39;au 22 janvier 2021, 12 heures, heure de Paris ;&lt;br/&gt;&#xA;- soit envoyer leur dossier par voie postale à l&#39;INED, bureau des concours, 9, cours des Humanités, CS 50004, 93322 Aubervilliers Cedex, jusqu&#39;au 22 janvier 2021, le cachet de la poste faisant foi.&lt;/p&gt;&lt;p&gt;Tout dossier qui parviendra incomplet ou hors délai sera rejeté.&lt;br/&gt;&#xA;La liste des candidats admis à concourir est établie par la directrice de l&#39;Institut national d&#39;études démographiques et sera affichée à l&#39;INED, 9, cours des Humanités, CS 50004, 93322 Aubervilliers Cedex.&lt;/p&gt;</content>
+    <published>2020-12-22T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709588"></link>
+    <author>
+      <name>Institut national d&#39;études démographiques</name>
+    </author>
+  </entry>
+</feed>

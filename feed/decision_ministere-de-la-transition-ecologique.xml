@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-de-la-transition-ecologique - decision</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:35:00+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decision_ministere-de-la-transition-ecologique.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Décision du 16 décembre 2020 modifiant la décision du 22 septembre 2020 fixant pour les ministères en charge de la transition écologique, de la cohésion des territoires et des relations avec les collectivités territoriales et de la mer, la liste des emplois éligibles à la nouvelle bonification indiciaire et le montant de la nouvelle bonification indiciaire attribué à chacun d&#39;eux</title>
+    <updated>2020-12-27T21:35:00+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702113</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les termes « Chef de service - directeur des opérations » du tableau des emplois et montants de nouvelle bonification indiciaire à la direction générale de l&#39;aviation civile et les services à compétence nationale rattachés de l&#39;annexe à la décision du 22 septembre 2020 susvisée sont remplacés par les termes « Directeur des opérations ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans le tableau des emplois et montants de nouvelle bonification indiciaire à la direction générale des infrastructures, des transports et de la mer et les services à compétence nationale rattachés de l&#39;annexe de la décision du 22 septembre 2020 susvisée, la ligne :&lt;br/&gt;« &lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Adjoint au directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;120 points&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt; »&lt;br/&gt;est insérée après la ligne :&lt;br/&gt;« &lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Directeur général des infrastructures, des transports et de la mer&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;180 points&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt; ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702113"></link>
+    <author>
+      <name>Ministère de la transition écologique</name>
+    </author>
+  </entry>
+</feed>
