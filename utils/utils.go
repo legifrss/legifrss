@@ -32,7 +32,7 @@ func transformSummary(summary models.Summary, categories []string, publicationDa
 		Category:    categories,
 		Author:      summary.Emitter,
 		Nature:      summary.Nature,
-		Date:        publicationDate.String(),
+		Date:        publicationDate,
 	}
 }
 

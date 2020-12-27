@@ -20,9 +20,9 @@ func Generate(result []models.LegifranceElement) {
 
 	natureMap := mapByNature(result)
 	for key, posts := range natureMap {
-
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: "", DescriptionSuffix: ""})
-		f, err := os.Create("feed/" + key + "_all.xml")
+		filePath := key + "_all.xml"
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
+		f, err := os.Create("feed/" + filePath)
 
 		utils.ErrCheck(err)
 
@@ -34,9 +34,10 @@ func Generate(result []models.LegifranceElement) {
 	}
 	authorMap := mapByAuthor(result)
 	for key, posts := range authorMap {
-		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: "", DescriptionSuffix: ""})
+		filePath := "all_" + key + ".xml"
+		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
 
-		f, err := os.Create("feed/all_" + key + ".xml")
+		f, err := os.Create("feed/" + filePath)
 		utils.ErrCheck(err)
 
 		elem, err := feeds.ToXML(feed)
@@ -49,9 +50,9 @@ func Generate(result []models.LegifranceElement) {
 	for key1, maps := range authorNatureMap {
 
 		for key2, item := range maps {
-
-			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + key1 + " - " + key2, LinkSuffix: "", DescriptionSuffix: ""})
-			f, err := os.Create("feed/" + key2 + "_" + key1 + ".xml")
+			filePath := key2 + "_" + key1 + ".xml"
+			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + key1 + " - " + key2, LinkSuffix: filePath, DescriptionSuffix: ""})
+			f, err := os.Create("feed/" + filePath)
 			utils.ErrCheck(err)
 
 			elem, err := feeds.ToXML(feed)
@@ -61,7 +62,7 @@ func Generate(result []models.LegifranceElement) {
 		}
 	}
 
-	globalFeed := rss.TransformToRSS(result, models.FeedDescription{TitleSuffix: "", LinkSuffix: "", DescriptionSuffix: ""})
+	globalFeed := rss.TransformToRSS(result, models.FeedDescription{TitleSuffix: "", LinkSuffix: "all.xml", DescriptionSuffix: ""})
 	f, err := os.Create("feed/all.xml")
 	utils.ErrCheck(err)
 
@@ -101,7 +102,7 @@ func sanitizeName(str string) string {
 		return "unknown"
 	}
 	str = strings.ToLower(str)
-	replacer := strings.NewReplacer("  ", " ", ",", "", " ", "-", "'", "-", "--", "-")
+	replacer := strings.NewReplacer("  ", " ", ",", "", " ", "-", "'", "-", "--", "-", "è", "e", "é", "e", "ç", "c", "à", "a", "ô", "o", "û", "u")
 	newStr := str
 	for newStr != replacer.Replace(newStr) {
 		newStr = replacer.Replace(newStr)
@@ -113,8 +114,8 @@ func sanitizeName(str string) string {
 
 func customReplacements(str string) string {
 	replacements := map[string]string{
-		"ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports-sports.xml": "ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports.xml",
-		"ministère-du-travail-de-l-emploi-et-de-l-insertion-insertion.xml":           "ministère-du-travail-de-l-emploi-et-de-l-insertion.xml",
+		"ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports.xml": "ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports.xml",
+		"ministere-du-travail-de-l-emploi-et-de-l-insertion-insertion.xml":           "ministere-du-travail-de-l-emploi-et-de-l-insertion.xml",
 	}
 	if value, found := replacements[str]; found {
 		return value

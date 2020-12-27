@@ -1,5 +1,7 @@
 package models
 
+import "time"
+
 type LegifranceElement struct {
 	Title           string
 	Id              string
@@ -10,7 +12,7 @@ type LegifranceElement struct {
 	Author          string
 	SanitizedAuthor string
 	SanitizedNature string
-	Date            string
+	Date            time.Time
 	Content         string
 }
 

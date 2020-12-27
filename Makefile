@@ -13,8 +13,8 @@ test:  build ## test the app
 run: test ## run the app
 	@go run ./server.go
 
-run-batch: run
+run-batch: run ## run the app and commit feeds
 	@scripts/deploy.sh
 
-delete-feeds:
+delete-feeds: ## delete all feeds
 	@rm -rf feed/*

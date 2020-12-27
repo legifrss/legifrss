@@ -11,13 +11,13 @@ func TestSanitizeName(t *testing.T) {
 	results := map[string]string{
 		"-test-":  "  test - , ,",
 		"unknown": "",
-		"ministère-de-l-agriculture-et-de-l-alimentation.xml":                 "Ministère-de-l'agriculture-et-de-l'alimentation.xml",
-		"commission-nationale-de-l-informatique-et-des-libertés.xml":          "Commission-nationale-de-l'informatique-et-des-libertés.xml",
-		"ministère-de-l-économie-des-finances-et-de-la-relance-industrie.xml": "Ministère-de-l'économie-des-finances-et-de-la-relance-Industrie.xml",
-		"ministère-de-l-intérieur.xml":                                        "Ministère-de-l'intérieur.xml",
-		"autorité-nationale-des-jeux.xml":                                     "Autorité-nationale-des-jeux.xml",
-		"èéôû-ç-éàè":                                                          "èéôû'ç ,ÉÀÈ",
-		"ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports.xml": "ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports-sports.xml",
+		"ministere-de-l-agriculture-et-de-l-alimentation.xml":                 "Ministère-de-l'agriculture-et-de-l'alimentation.xml",
+		"commission-nationale-de-l-informatique-et-des-libertes.xml":          "Commission-nationale-de-l'informatique-et-des-libertés.xml",
+		"ministere-de-l-economie-des-finances-et-de-la-relance-industrie.xml": "Ministère-de-l'économie-des-finances-et-de-la-relance-Industrie.xml",
+		"ministere-de-l-interieur.xml":                                        "Ministère-de-l'intérieur.xml",
+		"autorite-nationale-des-jeux.xml":                                     "Autorité-nationale-des-jeux.xml",
+		"eeou-c-eae":                                                          "èéôû'ç ,ÉÀÈ",
+		"ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports.xml": "ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports-sports.xml",
 	}
 
 	for expectedOutput, input := range results {
