@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:19:13+01:00</updated>
+  <updated>2020-12-27T21:28:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports.xml" rel="self"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Arrêté du 1er décembre 2020 portant nomination au conseil d&#39;administration de l&#39;Institut national du sport, de l&#39;expertise et de la performance</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695371</id>
-    <content type="html"></content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, en date du 1er décembre 2020, est nommé membre du conseil d&#39;administration de l&#39;Institut national du sport, de l&#39;expertise et de la performance en qualité de directeur technique national désigné par le ministre chargé des sports : M. Ludovic ROYÉ, directeur technique national de la Fédération française de canoë-kayak et sports de pagaie, président de l&#39;Association des directeurs techniques nationaux, en remplacement de M. Philippe BANA.&lt;/p&gt;</content>
     <published>2020-12-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695371"></link>
     <author>
@@ -22,9 +22,9 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1603 du 15 décembre 2020 modifiant la date de suppression du brevet d&#39;aptitude professionnelle d&#39;assistant animateur technicien de la jeunesse et des sports</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677563</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au I de l&#39;article 3 du décret du 26 février 2019 susvisé, la date : « 31 décembre 2020 » est remplacée par la date : « 31 décembre 2021 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;éducation nationale, de la jeunesse et des sports et la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677563"></link>
     <author>
@@ -33,9 +33,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 modifiant l&#39;arrêté du 18 juin 2020 portant adaptation temporaire de la formation conduisant au diplôme d&#39;Etat supérieur de la jeunesse, de l&#39;éducation populaire et du sport spécialité « perfectionnement sportif » mention « escalade en milieu naturels » pour faire face à l&#39;épidémie de covid-19</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677569</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 1er de l&#39;arrêté du 18 juin 2020 susvisé, la date : « 1er janvier 2021 » est remplacée par la date : « 1er janvier 2022 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677569"></link>
     <author>
@@ -44,9 +44,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 modifiant l&#39;arrêté du 8 juin 2020 portant adaptation temporaire d&#39;une épreuve certificative conduisant au brevet professionnel de la jeunesse, de l&#39;éducation populaire et du sport spécialité « éducateur sportif » mention « activités aquatiques et de la natation » et de l&#39;évaluation au certificat d&#39;aptitude à l&#39;exercice de la profession de maître-nageur-sauveteur pour faire face à l&#39;épidémie de covid-19</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677576</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Aux articles 1er et 2 de l&#39;arrêté du 8 juin 2020 susvisé, la date : « 1er janvier 2021 » est remplacée par la date : « 1er janvier 2022 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677576"></link>
     <author>
@@ -55,9 +55,9 @@
   </entry>
   <entry>
     <title>Arrêté du 10 décembre 2020 modifiant l&#39;arrêté du 18 juin 2020 portant adaptation temporaire de la formation conduisant au diplôme d&#39;Etat de la jeunesse, de l&#39;éducation populaire et du sport spécialité « perfectionnement sportif » mention « escalade » pour faire face à l&#39;épidémie de covid-19</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677583</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 1er de l&#39;arrêté du 18 juin 2020 susvisé, la date : « 1er janvier 2021 » est remplacée par la date : « 1er janvier 2022 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677583"></link>
     <author>
@@ -66,9 +66,9 @@
   </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 portant modification de l&#39;arrêté du 15 avril 2019 portant abrogation de dispositions relatives au brevet d&#39;aptitude professionnelle d&#39;assistant animateur technicien de la jeunesse et des sports</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677590</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Aux articles 2 et 3 de l&#39;arrêté du 15 avril 2019 susvisé, la date : « 1er janvier 2021 » est remplacée par la date : « 31 décembre 2021 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677590"></link>
     <author>
@@ -77,9 +77,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 novembre 2020 portant nomination au conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive du Centre</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677842</id>
-    <content type="html"></content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, en date du 16 novembre 2020, est nommé membre du conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive du Centre :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentant de l&#39;Etat&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Yann CHERBONNEL, conseiller technique national de cyclisme, affecté à la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale de Centre-Val de Loire, titulaire, en remplacement de M. Stéphane NICOL.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677842"></link>
     <author>
@@ -88,9 +88,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 novembre 2020 portant nomination au conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Dijon</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677844</id>
-    <content type="html"></content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, en date du 16 novembre 2020, sont nommés membres du conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Dijon :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentant des collectivités territoriales&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Eric LANCON, conseiller régional, en remplacement de Mme Valérie DEPIERRE.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentante du mouvement sportif, d&#39;associations de jeunesse et d&#39;éducation populaire ou d&#39;organismes partenaires du centre de ressources, d&#39;expertise et de performance sportive de Dijon&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mme Virginie GRILLOT, responsable des formations aux Francas de Bourgogne-Franche-Comté, titulaire, en remplacement de Mme Dominique VALENTIN.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677844"></link>
     <author>
@@ -99,9 +99,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 novembre 2020 portant nomination au conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Provence-Alpes-Côte d&#39;Azur</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677846</id>
-    <content type="html"></content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, en date du 16 novembre 2020, sont nommés membres du conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Provence-Alpes-Côte d&#39;Azur :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentant des collectivités territoriales&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Richard MIRON, conseiller régional de la région Provence-Alpes-Côte d&#39;Azur, en remplacement de M. Ludovic PERNEY.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentant du mouvement sportif, d&#39;associations de jeunesse et d&#39;éducation populaire ou d&#39;organismes partenaires du centre de ressources, d&#39;expertise et de performance sportive de Provence-Alpes-Côte d&#39;Azur&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Stéphane PAILHOUS, administrateur du Fonds de solidarité et de promotion du mouvement associatif, titulaire, en remplacement de M. Pierre BENHALLA.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677846"></link>
     <author>
@@ -110,9 +110,9 @@
   </entry>
   <entry>
     <title>Arrêté du 16 novembre 2020 portant nomination au conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Strasbourg</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677848</id>
-    <content type="html"></content>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports, en date du 16 novembre 2020, est nommée membre du conseil d&#39;administration du centre de ressources, d&#39;expertise et de performance sportive de Strasbourg :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En qualité de représentante de l&#39;Etat&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mme France POUZOULET, conseillère technique nationale de taekwondo, affectée à la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale du Grand Est, titulaire, en remplacement de Mme Valérie BELLENOUE.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677848"></link>
     <author>

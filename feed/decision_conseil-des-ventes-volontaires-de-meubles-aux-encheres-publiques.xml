@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - conseil-des-ventes-volontaires-de-meubles-aux-encheres-publiques - decision</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:19:13+01:00</updated>
+  <updated>2020-12-27T21:28:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decision_conseil-des-ventes-volontaires-de-meubles-aux-encheres-publiques.xml" rel="self"></link>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <title>Décision DP n° 2020-86 du 14 décembre 2020 portant délégation de signature</title>
-    <updated>2020-12-27T21:19:13+01:00</updated>
+    <updated>2020-12-27T21:28:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677967</id>
-    <content type="html"></content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à M. Pierre TAUGOURDEAU, secrétaire général adjoint du Conseil des ventes volontaires de meubles aux enchères publiques, à l&#39;effet de signer, au nom du président du Conseil des ventes volontaires de meubles aux enchères publiques, tous actes et correspondances courants, à l&#39;exclusion des décisions qui relèvent des attributions du président ès qualités en vertu des lois et règlements en vigueur.&lt;br/&gt;Délégation est également donnée à M. Pierre TAUGOURDEAU à l&#39;effet de signer les actes de gestion des personnels du conseil, à l&#39;exclusion des actes de recrutement et des actes de licenciement ainsi que des sanctions disciplinaires.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à M. Pierre TAUGOURDEAU à l&#39;effet de conclure tous marchés et contrats nécessaires au fonctionnement du conseil d&#39;un montant ne dépassant pas 5 000 euros.&lt;br/&gt;En cas d&#39;absence du secrétaire général adjoint, délégation est donnée à Mme Catherine BARON, directeur administratif, à l&#39;effet de conclure les contrats d&#39;un montant ne dépassant pas 5 000 euros dans le cadre de l&#39;organisation de la formation professionnelle des personnes habilitées à diriger les ventes.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Cette décision remplace et annule la décision DP n° 2019-82 du 7 novembre 2019 portant délégation de signature.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677967"></link>
     <author>
