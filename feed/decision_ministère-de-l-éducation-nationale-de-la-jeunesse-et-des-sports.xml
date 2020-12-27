@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministère-de-l-éducation-nationale-de-la-jeunesse-et-des-sports - decision</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:03:15+01:00</updated>
+  <updated>2020-12-27T21:04:41+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décision du 14 décembre 2020 modifiant la décision du 28 mai 2019 portant délégation de signature (direction des affaires financières)</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730336</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décision du 8 décembre 2020 portant délégation de signature (secrétariat général)</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700038</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>

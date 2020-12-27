@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - avis</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:03:15+01:00</updated>
+  <updated>2020-12-27T21:04:41+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Avis de vacance d&#39;un emploi de chef de service</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733582</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de délégué régional académique à la jeunesse, à l&#39;engagement et aux sports (DRAJES)</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733593</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de directeur ou directrice de projet (groupe I)</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702761</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de chef de service</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702767</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702774</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701224</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de chef de service</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695469</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695476</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695483</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695490</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de sous-directeur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695497</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title>Avis de vacance d&#39;un emploi de directeur de projet</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695504</id>
     <content type="html"></content>
     <published>2020-12-18T01:00:00+01:00</published>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - conseil-supérieur-de-l-audiovisuel</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:03:15+01:00</updated>
+  <updated>2020-12-27T21:04:41+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://github.com/ldicarlo/legifrance-rss"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décision n° 2020-LY-13 du 27 novembre 2020 autorisant l&#39;association ADHTV Production à utiliser une ressource radioélectrique pour la diffusion temporaire par voie hertzienne terrestre du service de télévision à vocation locale dénommé Alpe d&#39;Huez TV dans la zone de l&#39;Alpe d&#39;Huez</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743395</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-904 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743410</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-905 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743436</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-911 du 9 décembre 2020 autorisant l&#39;association Radio Campus à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Radio Campus Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743462</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-927 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743488</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-930 du 9 décembre 2020 autorisant la SAS Média Bonheur France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Bonheur 100 % Chansons françaises dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743514</id>
     <content type="html"></content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -77,7 +77,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-901 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740263</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -88,7 +88,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-902 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740289</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -99,7 +99,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-903 du 9 décembre 2020 autorisant la SARL Générations RNT à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Générations dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740315</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -110,7 +110,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-906 du 9 décembre 2020 portant abrogation de la décision n° 2011-1333 du 22 novembre 2011 autorisant le syndicat intercommunal de télévision de la région d&#39;Olargues (Hérault) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Saint-Vincent-d&#39;Olargues</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740341</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -121,7 +121,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-912 du 9 décembre 2020 autorisant l&#39;association Radio européenne nantaise à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Euradio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740347</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -132,7 +132,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-913 du 9 décembre 2020 autorisant la SAS Alouette à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Alouette dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740373</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -143,7 +143,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-914 du 9 décembre 2020 autorisant la SAS Plus FM Multimédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM Centre dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740399</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -154,7 +154,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-915 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Val de Loire dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740425</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -165,7 +165,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-916 du 9 décembre 2020 autorisant la SAS NRJ Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé NRJ Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740451</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -176,7 +176,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-918 du 9 décembre 2020 autorisant la SA Africa Média à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Africa Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740477</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -187,7 +187,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-919 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740503</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -198,7 +198,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-920 du 9 décembre 2020 autorisant la SARL Virage Radio DAB à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Virage Radio dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740529</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -209,7 +209,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-921 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740555</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -220,7 +220,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-922 du 9 décembre 2020 autorisant l&#39;association Radio Maria France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Maria dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740581</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -231,7 +231,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-923 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740607</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -242,7 +242,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-924 du 9 décembre 2020 autorisant l&#39;Association chrétienne centre ouest des radios diocésaines (ACCORDS Poitou) à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Poitou dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740633</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -253,7 +253,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-925 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740659</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -264,7 +264,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-926 du 9 décembre 2020 autorisant la SARL Leader Médias à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Mixx FM dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740685</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-929 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740711</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -286,7 +286,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-931 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740737</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -297,7 +297,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-932 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740763</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -308,7 +308,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-933 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740789</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -319,7 +319,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-934 du 9 décembre 2020 autorisant la SAS Swigg France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Swigg dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740815</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -330,7 +330,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-935 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740841</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -341,7 +341,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-936 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740867</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -352,7 +352,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-937 du 9 décembre 2020 autorisant la SAS Native Média à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé CapSao dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740893</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -363,7 +363,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-939 du 9 décembre 2020 autorisant l&#39;association Les radios associatives du Limousin à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Émergence dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740919</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -374,7 +374,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-940 du 9 décembre 2020 autorisant la SARL VH COM à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740945</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -385,7 +385,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-941 du 9 décembre 2020 autorisant la SARL Proximédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Flash FM dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740971</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -396,7 +396,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-942 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740997</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -407,7 +407,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-943 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Poitiers dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741023</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -418,7 +418,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-944 du 9 décembre 2020 autorisant la SAS Regroupement des radios musulmanes de France-Radio Orient à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Orient dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741049</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -429,7 +429,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-945 du 9 décembre 2020 autorisant la SARL Bleu Pomme à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé AMI dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741075</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -440,7 +440,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-946 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741101</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -451,7 +451,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-947 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741127</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -462,7 +462,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-948 du 9 décembre 2020 autorisant l&#39;association Radio Maria France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Maria dans la zone Poitiers local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042741153</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -473,7 +473,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-907 du 2 décembre 2020 portant changement de titulaire et de catégorie de l&#39;autorisation délivrée pour l&#39;exploitation du service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Lyon étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732595</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -484,7 +484,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-855 du 9 décembre 2020 modifiant la décision n° 2016-29 du 13 janvier 2016 autorisant la SAS Eurocontact à exploiter un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Evasion</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732601</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -495,7 +495,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-856 du 9 décembre 2020 modifiant la décision n° 2020-463 du 15 juillet 2020 portant reconduction de l&#39;autorisation délivrée à la SAS Eurocontact pour l&#39;exploitation d&#39;un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Evasion</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732607</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -506,7 +506,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-857 du 9 décembre 2020 modifiant la décision n° 2017-123 du 15 février 2017 portant reconduction de l&#39;autorisation délivrée à la SAS Radio Classique pour l&#39;exploitation d&#39;un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Radio Classique</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732613</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -517,7 +517,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-858 du 9 décembre 2020 modifiant la décision n° 2017-776 du 4 octobre 2017 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Radio FG</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732619</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -528,7 +528,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-859 du 9 décembre 2020 modifiant la décision n° 2016-38 du 13 janvier 2016 autorisant la SAS RTL France Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RTL</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732625</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -539,7 +539,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-860 du 9 décembre 2020 modifiant la décision n° 2020-465 du 15 juillet 2020 portant reconduction de l&#39;autorisation délivrée à la SAS RTL France Radio pour l&#39;exploitation d&#39;un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RTL</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732631</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -550,7 +550,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-861 du 9 décembre 2020 modifiant la décision n° 2017-553 du 28 juin 2017 portant reconduction de l&#39;autorisation délivrée à la SAS Europe 2 Entreprises pour l&#39;exploitation d&#39;un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Virgin Radio</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732637</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -561,7 +561,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-862 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Orléans dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732643</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -572,7 +572,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-863 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Poitou dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732662</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -583,7 +583,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-864 du 9 décembre 2020 autorisant la société nationale de programme Radio France à exploiter un service de radio par voie hertzienne terrestre en mode numérique dénommé France Bleu Touraine dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732681</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -594,7 +594,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-865 du 9 décembre 2020 autorisant la SAS Sud Radio à exploiter un service de radio de catégorie E par voie hertzienne terrestre en mode numérique dénommé Sud Radio dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732700</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -605,7 +605,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-866 du 9 décembre 2020 autorisant l&#39;association Radio chrétienne francophone Touraine Saint-Martin à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Touraine Saint-Martin dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732726</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -616,7 +616,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-867 du 9 décembre 2020 autorisant la SARL Fréquence Ille à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Clazz dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732752</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -627,7 +627,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-868 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732778</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -638,7 +638,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-869 du 9 décembre 2020 autorisant la SAS Regroupement des radios musulmanes de France-Radio Orient à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Orient dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732804</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -649,7 +649,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-870 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732830</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -660,7 +660,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-871 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732856</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -671,7 +671,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-872 du 9 décembre 2020 autorisant la SAS Oüi FM à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Oüi FM dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732882</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -682,7 +682,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-873 du 9 décembre 2020 autorisant la SAS Crooner International à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Crooner Radio dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732908</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -693,7 +693,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-874 du 9 décembre 2020 autorisant la SARL Radio Nova à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Nova dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732934</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -704,7 +704,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-875 du 9 décembre 2020 autorisant la SARL Générations RNT à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Générations dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732960</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -715,7 +715,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-876 du 9 décembre 2020 autorisant la SAS Harmony à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Melody dans la zone Tours étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732986</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -726,7 +726,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-877 du 9 décembre 2020 autorisant l&#39;association Les amis de la radio à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Citeradio dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733012</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -737,7 +737,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-878 du 9 décembre 2020 autorisant l&#39;association Radio européenne nantaise à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé Euradio dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733038</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -748,7 +748,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-880 du 9 décembre 2020 autorisant la SAS Plus FM Multimédia à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Sweet FM Centre dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733064</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -759,7 +759,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-881 du 9 décembre 2020 autorisant la SARL Nantes Médias à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Hit West dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733090</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -770,7 +770,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-882 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733116</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -781,7 +781,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-883 du 9 décembre 2020 autorisant la SAS Chérie FM Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Chérie FM Val de Loire dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733142</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -792,7 +792,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-884 du 9 décembre 2020 autorisant la SAS NRJ Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé NRJ Tours dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733168</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -803,7 +803,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-885 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733194</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -814,7 +814,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-886 du 9 décembre 2020 autorisant la SARL Virage Radio DAB à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Virage Radio dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733220</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -825,7 +825,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-887 du 9 décembre 2020 autorisant la SAS Swigg France à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Swigg dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733246</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -836,7 +836,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-888 du 9 décembre 2020 autorisant la SARL Groupe Nord Sud Communication Multimédias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé France Maghreb 2 dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733272</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -847,7 +847,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-889 du 9 décembre 2020 autorisant la SAS Pitchoun Médias à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio Pitchoun dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733298</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -858,7 +858,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-894 du 9 décembre 2020 autorisant l&#39;association RCF Loiret à exploiter un service de radio de catégorie A par voie hertzienne terrestre en mode numérique dénommé RCF Loiret dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733324</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -869,7 +869,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-895 du 9 décembre 2020 autorisant la SAS Forum à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Forum dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733350</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -880,7 +880,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-896 du 9 décembre 2020 autorisant la SAS Vibration à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Vibration dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733376</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -891,7 +891,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-897 du 9 décembre 2020 autorisant la SAS FG Concept à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Radio FG dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733402</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -902,7 +902,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-898 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733428</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -913,7 +913,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-899 du 9 décembre 2020 autorisant la SARL Chante France Développement à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Chante France dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733454</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -924,7 +924,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-900 du 9 décembre 2020 autorisant la SAS Aime C2 à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé Beur FM dans la zone Orléans étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733480</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -935,7 +935,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-910 du 9 décembre 2020 modifiant le nom du service Judaïques FM</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733506</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -946,7 +946,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-917 du 9 décembre 2020 autorisant la SAS Radio Nostalgie Réseau à exploiter un service de radio de catégorie C par voie hertzienne terrestre en mode numérique dénommé Nostalgie Orléans dans la zone Orléans local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733510</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -957,7 +957,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-928 du 9 décembre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Poitiers étendu</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733536</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -968,7 +968,7 @@
   </entry>
   <entry>
     <title>Résultat de délibération du 9 décembre 2020 relative à l&#39;audition publique de la société TELE PAESE dont le dossier a été déclaré recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-466 du 29 juillet 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans plusieurs zones de Corse</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733562</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -979,7 +979,7 @@
   </entry>
   <entry>
     <title>Résultat de délibération du 9 décembre 2020 relative à l&#39;audition publique de la société TOURAINE TELEVISION dont le dossier a été déclaré recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-411 du 24 juin 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans la zone de Tours</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042733564</id>
     <content type="html"></content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -990,7 +990,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-841 du 2 décembre 2020 modifiant la décision n° 2015-418 du 18 novembre 2015 autorisant la SAS Société de gestion du réseau R1 (GR1) à utiliser une ressource radioélectrique pour le multiplexage des programmes des services de communication audiovisuelle diffusés par voie hertzienne terrestre en mode numérique sur le réseau R1</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723328</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1001,7 +1001,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-844 du 9 décembre 2020 modifiant la décision n° 2015-418 du 18 novembre 2015 autorisant la SAS Société de gestion du réseau R1 (GR1) à utiliser une ressource radioélectrique pour le multiplexage des programmes des services de communication audiovisuelle diffusés par voie hertzienne terrestre en mode numérique sur le réseau R1</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723335</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1012,7 +1012,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-845 du 9 décembre 2020 portant abrogation de la décision n° 2011-47 modifiée du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone du Cozzano</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723341</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1023,7 +1023,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-846 du 9 décembre 2020 portant abrogation de la décision n° 2011-252 modifiée du 27 avril 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Palnéca</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723349</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1034,7 +1034,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-847 du 9 décembre 2020 portant abrogation de la décision n° 2011-46 du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Zicavo</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723357</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1045,7 +1045,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-848 du 9 décembre 2020 portant abrogation de la décision n° 2011-48 du 2 février 2011 autorisant le syndicat intercommunal de télévision du Haut Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone du Frasseto</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723365</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1056,7 +1056,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-849 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Cozzano</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723373</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1067,7 +1067,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-850 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Frasseto</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723384</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1078,7 +1078,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-851 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Palnéca</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723395</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1089,7 +1089,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-852 du 9 décembre 2020 autorisant la communauté de communes de la Piève de l&#39;Ornano et du Taravo (Corse) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Zicavo</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723406</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1100,7 +1100,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-853 du 9 décembre 2020 autorisant la commune de Saint-Vincent-d&#39;Olargues (Hérault) à utiliser une ressource radioélectrique pour la diffusion des programmes d&#39;éditeurs de services de télévision par voie hertzienne terrestre en mode numérique sur la zone de Saint-Vincent-d&#39;Olargues</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723417</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1111,7 +1111,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-854 du 9 décembre 2020 modifiant la décision n° 92-1167 du 8 décembre 1992 portant autorisation d&#39;usage de fréquences à la société nationale de programme Radio France</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723428</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1122,7 +1122,7 @@
   </entry>
   <entry>
     <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723438</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1133,7 +1133,7 @@
   </entry>
   <entry>
     <title>Délibération du 16 décembre 2020 relative à une autorisation pour la diffusion d&#39;un service de communication audiovisuelle autre que de radio ou de télévision</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723440</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -1144,7 +1144,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-908 du 4 novembre 2020 relative au candidat recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-466 du 29 juillet 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans plusieurs zones de Corse</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709546</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -1155,7 +1155,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-909 du 4 novembre 2020 relative au candidat recevable dans le cadre de l&#39;appel aux candidatures prévu par la décision n° 2020-411 du 24 juin 2020 pour l&#39;édition d&#39;un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre et en haute définition dans la zone de Tours</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709550</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -1166,7 +1166,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-879 du 9 décembre 2020 autorisant la SARL Disc Nohain à exploiter un service de radio de catégorie B par voie hertzienne terrestre en mode numérique dénommé Radio Numéro 1 dans la zone Tours local</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709554</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -1177,7 +1177,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-22 du 18 novembre 2020 modifiant la décision n° 2017-101 du 22 février 2017 autorisant l&#39;association Chiconi FM à exploiter un service de radio de catégorie A par voie hertzienne terrestre en modulation de fréquence dénommé Chiconi FM</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701155</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1188,7 +1188,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-23 du 18 novembre 2020 modifiant le nom du service RDJ Réunion</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701162</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1199,7 +1199,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-RM-24 du 18 novembre 2020 modifiant le nom du service RDJ Mayotte</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701169</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1210,7 +1210,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701176</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1221,7 +1221,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701178</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1232,7 +1232,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701180</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1243,7 +1243,7 @@
   </entry>
   <entry>
     <title>Délibération du 9 novembre 2020 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701182</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1254,7 +1254,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 modifiant la liste des paramètres RDS autorisés</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701184</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1265,7 +1265,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;association Chic FM</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701188</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1276,7 +1276,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;association Bleu Azur</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701190</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1287,7 +1287,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à la SARL Méga Ouest Communication</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701192</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1298,7 +1298,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire pour cinq ans hors appel aux candidatures des autorisations délivrées dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701194</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1309,7 +1309,7 @@
   </entry>
   <entry>
     <title>Délibération du 18 novembre 2020 relative à la possibilité de reconduire hors appel aux candidatures une autorisation délivrée dans le ressort du comité territorial de l&#39;audiovisuel de La Réunion et de Mayotte à l&#39;Association Réunionnaise de Communication Lo Rénioné, Radio Lo Rénioné - Télé Lo Rénioné</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701198</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -1320,7 +1320,7 @@
   </entry>
   <entry>
     <title>Délibération n° 2020-62 du 16 décembre 2020 portant dérogation à la délibération du 9 avril 2014 fixant le règlement intérieur du Conseil supérieur de l&#39;audiovisuel</title>
-    <updated>2020-12-27T21:03:15+01:00</updated>
+    <updated>2020-12-27T21:04:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701200</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>
