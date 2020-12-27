@@ -23,3 +23,7 @@ It works in [Feedly](https://feedly.com).
 ## Nightly
 
 If you want to check the last features you can add the following feed to you RSS reader: `https://github.com/ldicarlo/legifrance-rss/tree/nightly/feed`
+
+## Atom
+
+TODO: Add valid RSS checker.
