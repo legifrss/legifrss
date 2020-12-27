@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;enseignement-supérieur-de-la-recherche-et-de-l&#39;innovation</title>
   <id></id>
-  <updated>2020-12-26 09:18:36.949835323 +0100 CET m=+238.339058563</updated>
+  <updated>2020-12-27 10:00:02.503153901 +0100 CET m=+247.307503763</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -282,18 +282,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation en date du 2 décembre 2020, M. BEZNOSIUK (Alexandre) est nommé directeur de l&#39;Ecole supérieure de l&#39;audiovisuel, école interne de l&#39;université Toulouse-II.&lt;/p&gt;</content>
     <published>2020-12-17 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677829"></link>
-    <author>
-      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 22 octobre 2020 portant modification de l&#39;arrêté du 16 juin 2017 autorisant la mise en œuvre d&#39;un traitement automatisé de données à caractère personnel dénommé « Trouver mon master »</title>
-    <updated></updated>
-    <id>JORFTEXT000042672086</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le 1° de l&#39;article 2 de l&#39;arrêté du 16 juin 2017 susvisé est complété par un alinéa ainsi rédigé : &lt;br/&gt;« f) Données relatives à la situation de handicap : situation de handicap (oui/ non), bénéfice d&#39;un aménagement (oui/ non), aménagement de parcours (oui/ non), dispense de suivi d&#39;enseignement, de stage ou d&#39;épreuve (oui/ non), besoin d&#39;accompagnement par un service médico-social (oui/ non), suivi nécessitant de limiter le périmètre géographique (oui/ non), besoin spécifique lié à des soins médicaux et/ ou paramédicaux (oui/ non), soins nécessitant de limiter le périmètre géographique (oui/ non). »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au b du 1° de l&#39;article 2 du même arrêté, après les mots : « relevé des notes obtenues durant la préparation de la licence », le mot : « (facultatif) » est supprimé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672086"></link>
     <author>
       <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
     </author>

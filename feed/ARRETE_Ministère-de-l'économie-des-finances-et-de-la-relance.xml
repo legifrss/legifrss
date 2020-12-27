@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-l&#39;économie-des-finances-et-de-la-relance - ARRETE</title>
   <id></id>
-  <updated>2020-12-26 09:18:37.100203973 +0100 CET m=+238.489427310</updated>
+  <updated>2020-12-27 10:00:02.782552893 +0100 CET m=+247.586902755</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,138 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 30 octobre 2009 relatif aux ensembles de mesurage de masse de gaz compressé pour véhicules</title>
+    <updated></updated>
+    <id>JORFTEXT000042742117</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 30 octobre 2009 susvisé est modifié conformément aux articles 2 à 10 du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au premier alinéa de l&#39;article 3, les mots : « édition 2014 » sont remplacés par les mots : « édition 2018 ».&lt;br/&gt;Après le premier alinéa de l&#39;article 3 est inséré un alinéa comme suit : « La classe d&#39;exactitude requise pour les ensembles de mesurage pour l&#39;hydrogène ne doit pas être supérieure à 2. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le deuxième alinéa de l&#39;article 7 est modifié comme suit : « Lors de l&#39;examen de type, les erreurs des ensembles de mesurage sont déterminées avec des incertitudes de mesurage conformes aux dispositions du paragraphe 1.3.2 de la partie R. 139-2 de la recommandation R. 139. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 10 est ainsi modifié :&lt;br/&gt;1° A la première phrase, les mots : « de sa conformité » sont remplacés par les mots : « de la conformité de l&#39;ensemble de mesurage ».&lt;br/&gt;2° Le deuxième alinéa est modifié comme suit : « Elle inclut également la mise en œuvre des essais prévus pour cette opération par la partie R. 139-2 de la recommandation R. 139 selon la procédure (4.6.5), la procédure alternative (4.6.6) de vérification pour les ensembles de mesurage autres que ceux délivrant de l&#39;hydrogène, ou la procédure alternative (4.6.7) pour les ensembles de mesurage délivrant de l&#39;hydrogène et, le cas échéant, les autres essais prévus par le certificat d&#39;examen de type de l&#39;ensemble de mesurage considéré. »&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le premier alinéa de l&#39;article 11 est modifié comme suit : « Lorsque l&#39;une des procédures alternatives d&#39;essais mentionnées à l&#39;article 10 est mise en œuvre, les essais d&#39;exactitude de l&#39;ensemble de mesurage peuvent être réalisés à l&#39;aide d&#39;un moyen d&#39;essais constitué d&#39;un instrument de pesage et d&#39;un récipient de remplissage conforme aux préconisations du paragraphe 2.2.5.2.1 de la partie R. 139-2 de la recommandation R. 139 sans préjudice du respect des dispositions relevant d&#39;autres réglementations, notamment celles relatives aux équipements sous pression. »&lt;br/&gt;Les autres alinéas de l&#39;article 11 sont supprimés.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 12 est supprimé.&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 13 le tableau est remplacé comme suit :&lt;br/&gt;« &lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th rowspan=&#39;2&#39;&gt;&lt;/th&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;Ensemble de mesurage complet&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;pour un gaz compressé autre que l&#39;hydrogène&lt;br/&gt;(classe 1,5)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;pour l&#39;hydrogène&lt;br/&gt;(classe maximale 2)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;EMT exprimée en % de la quantité mesurée&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;± 1,5 %&lt;br/&gt;(± 3 % pour la quantité minimale mesurée)&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;± 2 %&lt;br/&gt;(± 4 % pour la quantité minimale mesurée)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt; ».&lt;br/&gt;Le dernier alinéa de l&#39;article 13 est modifié comme suit : « Les erreurs des ensembles de mesurage sont déterminées avec des incertitudes de mesurage conformes aux dispositions du paragraphe 1.3.2 de la partie R. 139-2 de la recommandation R. 139. »&lt;/p&gt;Article 8&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 14, les mots : « , à l&#39;issue des essais sur site, » sont supprimés.&lt;/p&gt;Article 9&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le 2° de l&#39;article 18 est modifié comme suit :&lt;br/&gt;Au deuxième alinéa, les mots : « l&#39;essai d&#39;exactitude décrit à l&#39;article 11 ; » sont remplacés par les mots : « les essais d&#39;exactitude décrits à l&#39;article 11 ; ».&lt;br/&gt;A l&#39;avant-dernier alinéa, les mots : « pour les essais réalisés sur site lors de la vérification primitive » sont supprimés.&lt;/p&gt;Article 10&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après le premier alinéa de l&#39;article 26 est inséré un deuxième alinéa comme suit :&lt;br/&gt;« Les ensembles de mesurage qui ont été certifiés selon les erreurs maximales tolérées fixées dans la rédaction initiale de l&#39;article 13 du présent arrêté peuvent continuer à bénéficier de ces mêmes erreurs maximales tolérées. »&lt;/p&gt;Article 11&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742117"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 21 décembre 2020 portant report du calendrier des épreuves d&#39;admission pour le recrutement d&#39;inspecteurs des douanes et droits indirects dans la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » au titre de l&#39;année 2021 ouvert par arrêté du 22 juin 2020</title>
+    <updated></updated>
+    <id>JORFTEXT000042742150</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 21 décembre 2020, le calendrier des épreuves d&#39;admission pour le recrutement d&#39;inspecteurs des douanes et droits indirects dans la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation », ouvert par l&#39;arrêté du 22 juin 2020 autorisant l&#39;ouverture de concours pour le recrutement d&#39;inspecteurs des douanes et droits indirects dans la spécialité « traitement automatisé de l&#39;information - programmeur de système d&#39;exploitation » au titre de l&#39;année 2021, est reporté selon les dispositions suivantes.&lt;br/&gt;Les dates des épreuves d&#39;admission des concours externe et interne initialement fixées du 22 au 26 février 2021 sont désormais fixées du 8 au 12 février 2021.&lt;br/&gt;La date de remise par les candidats internes déclarés admissibles de leur dossier de reconnaissance des acquis de l&#39;expérience professionnelle initialement fixée au 8 février 2021, est désormais fixée au 1er février 2021.&lt;br/&gt;Les autres dispositions de l&#39;arrêté du 22 juin 2020 précité demeurent inchangées.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742150"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 modifiant l&#39;arrêté du 28 avril 2017 relatif à l&#39;information de l&#39;assuré social ou de son ayant droit sur les conditions de vente des produits et prestations d&#39;appareillage des déficients de l&#39;ouïe et d&#39;optique-lunetterie</title>
+    <updated></updated>
+    <id>JORFTEXT000042742152</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 2 de l&#39;arrêté du 29 août 2019 susvisé, la date du 31 décembre 2020 est remplacée par la date du 31 décembre 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742152"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 fixant pour le corps des ingénieurs-économistes de la construction, les pourcentages mentionnés aux articles 17-1 et 17-2 du décret n° 98-898 du 8 octobre 1998 portant statut particulier du corps des ingénieurs-économistes de la construction et du corps des ingénieurs des services culturels et du patrimoine</title>
+    <updated></updated>
+    <id>JORFTEXT000042742160</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le pourcentage mentionné à l&#39;article 17-1 du décret susvisé pour le corps des ingénieurs- économistes de la construction est fixé à 10 % à compter du tableau d&#39;avancement établi au titre de l&#39;année 2019.&lt;br/&gt;Ce pourcentage est fixé à 5 % pour le tableau d&#39;avancement établi au titre de l&#39;année 2017 et 8 % pour le tableau d&#39;avancement établi au titre de l&#39;année 2018.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le pourcentage mentionné à l&#39;article 17-2 du décret susvisé pour le corps des ingénieurs- économistes de la construction est fixé à 20 %.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté entre en vigueur au 1er janvier 2017.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742160"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 fixant pour le corps des ingénieurs-économistes de la construction, la liste des fonctions mentionnées à l&#39;article 17 du décret n° 98-898 du 8 octobre 1998 portant statut particulier du corps des ingénieurs-économistes de la construction et du corps des ingénieurs des services culturels et du patrimoine</title>
+    <updated></updated>
+    <id>JORFTEXT000042742169</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les fonctions prises en compte pour l&#39;accès au grade d&#39;ingénieur hors classe des ingénieurs- économistes de la construction en l&#39;application du 2° de l&#39;article 17 du décret susvisé sont les suivantes :&lt;br/&gt;1° Chef de bureau ou chef d&#39;une structure exerçant des fonctions d&#39;encadrement importantes,&lt;br/&gt;2° Adjoint à un chef de bureau ou d&#39;une structure, lorsque ces fonctions comportent des responsabilités d&#39;encadrement importantes ou conduisent à exercer des fonctions d&#39;analyse requérant un haut niveau d&#39;expertise ;&lt;br/&gt;3° Fonctions équivalentes à celles mentionnées aux 1° et 2°, exercées en position d&#39;activité ou de détachement dans un corps autre que celui des ingénieurs-économistes de la construction ou dans un cadre d&#39;emplois.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté entre en vigueur au 1er janvier 2017.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742169"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 portant fixation de la période d&#39;adaptation mentionnée à l&#39;article 3 de l&#39;ordonnance n° 2020-1595 du 16 décembre 2020 tirant les conséquences du retrait du Royaume-Uni de l&#39;Union européenne en matière d&#39;assurances, de placements collectifs et de plans d&#39;épargne en actions</title>
+    <updated></updated>
+    <id>JORFTEXT000042742177</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;I. - Pour l&#39;application du I de l&#39;article 3 de l&#39;ordonnance susvisée, la période d&#39;éligibilité, courant à partir du 1er janvier 2021, est fixée à neuf mois.&lt;br/&gt;II. - Pour l&#39;application du II de l&#39;article 3 de l&#39;ordonnance susvisée, la période d&#39;éligibilité, courant à partir du 1er janvier 2021, est fixée à neuf mois.&lt;br/&gt;III. - Pour l&#39;application du III de l&#39;article 3 de l&#39;ordonnance susvisée, la période d&#39;éligibilité, courant à partir du 1er janvier 2021, est fixée à neuf mois.&lt;br/&gt;IV. - La société de gestion d&#39;un organisme de placement collectif doit informer, avant le 1er mars 2021, le teneur de compte du plan d&#39;épargne en action de son intention de respecter ou non les conditions définies aux a ou b du 2° du I de l&#39;article L. 221-31 à l&#39;issue de la période d&#39;éligibilité octroyée. Cette décision est également présentée de façon aisément identifiable sur le site internet de la société de gestion de portefeuille.&lt;br/&gt;La société de gestion d&#39;un organisme de placement collectif doit informer, avant le 1er mars 2021, le teneur de compte du plan d&#39;épargne en actions destiné au financement des petites et moyennes entreprises et des entreprises de taille intermédiaire de son intention de respecter ou non les conditions définies aux a ou b du 3° de l&#39;article L. 221-32-2 à l&#39;issue de la période d&#39;éligibilité octroyée. Cette décision est également présentée de façon aisément identifiable sur le site internet de la société de gestion de portefeuille.&lt;br/&gt;V. - Le teneur de compte doit informer individuellement le titulaire du plan, avant le 1er mai 2021, en cas de perte d&#39;éligibilité du titre détenu. Le teneur de compte précise la date de perte de l&#39;éligibilité des titres et informe le titulaire du plan des conséquences de cette perte d&#39;éligibilité sur son plan et des modalités selon lesquelles il peut le conserver.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application du IV de l&#39;article 3 de l&#39;ordonnance susvisée, la période d&#39;éligibilité, courant à partir du 1er janvier 2021, est fixée à douze mois.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté entre en vigueur le 1er janvier 2021.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742177"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 relatif à l&#39;information des assurés, souscripteurs ou adhérents par les entreprises étrangères ne se trouvant plus dans une des situations prévues au I de l&#39;article L. 310-2 du code des assurances</title>
+    <updated></updated>
+    <id>JORFTEXT000042742186</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A la section I du chapitre unique du titre Ier du livre III du code des assurances, il est inséré un article A. 310-1 ainsi rédigé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. A. 310-1. - Conformément aux dispositions du III de l&#39;article L. 310-2-3, les entreprises étrangères ayant conclu un contrat en vertu du 2° du I de l&#39;article L. 310-2 et ne se trouvant plus dans une des situations prévues au I du même article.&lt;br/&gt;« 1° Communiquent dans un délai de quinze jours à compter du changement de situation visé au I de l&#39;article L. 310-2-3, par lettre recommandée ou envoi recommandé électronique, aux assurés, souscripteurs ou adhérents, de manière claire et lisible les informations suivantes :&lt;br/&gt;« a) Les raisons qui conduisent l&#39;entreprise à ne plus se trouver en conformité avec les dispositions du I de l&#39;article L. 310-2, le cas échéant de manière temporaire si un transfert de portefeuille vers un organisme établi au sein de l&#39;Union européenne est en cours ;&lt;br/&gt;« b) Le fait que l&#39;entreprise ne renouvellera, ni ne prorogera, ni ne reconduira le contrat, n&#39;émettra pas de nouvelles primes et n&#39;acceptera pas de nouveaux versements, sauf paiement de primes prévues par le contrat et lorsque l&#39;entreprise dispose d&#39;action pour en exiger le paiement. L&#39;information précise également, le cas échéant, les conditions de réduction de la garantie ou l&#39;échéance de la période de couverture selon le contrat ;&lt;br/&gt;« c) Le fait que la nouvelle situation dans laquelle se trouve l&#39;entreprise ne l&#39;exonère en aucun cas d&#39;honorer ses engagements ;&lt;br/&gt;« d) Le nom et l&#39;adresse des autorités chargées du contrôle de l&#39;entreprise d&#39;assurance, ainsi que de l&#39;entité en charge du règlement amiable des litiges et du tribunal français compétents pour connaître de l&#39;exécution du contrat ;&lt;br/&gt;« 2° Informent par lettre recommandée ou envoi recommandé électronique, deux mois avant la fin de la période de couverture mentionnée au 1°, de l&#39;arrivée à échéance du contrat et recommandent à l&#39;assuré, au souscripteur ou à l&#39;adhérent de rechercher une nouvelle garantie auprès d&#39;un assureur autorisé à pratiquer des opérations d&#39;assurance directe ou de réassurance sur le territoire de la République française.&lt;br/&gt;« Cette obligation d&#39;information ne s&#39;applique pas aux engagements dont l&#39;échéance interviendrait moins de trois mois après l&#39;information prévue au 1°. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté entre en vigueur le 1er janvier 2021.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général du Trésor est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742186"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 décembre 2020 fixant au titre de l&#39;année 2021 le nombre de places offertes à l&#39;examen professionnel ouvert pour l&#39;accès au grade d&#39;inspecteur principal de 2e classe des douanes et droits indirects</title>
+    <updated></updated>
+    <id>JORFTEXT000042742198</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 22 décembre 2020, le nombre de places offertes à l&#39;examen professionnel organisé au titre de l&#39;année 2021 pour l&#39;accès au grade d&#39;inspecteur principal de 2e classe des douanes et droits indirects, ouvert par un arrêté du 29 septembre 2020, est fixé à 14.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742198"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 23 décembre 2020 modifiant l&#39;arrêté du 5 septembre 2007 relatif aux autres activités des entreprises d&#39;investissement</title>
+    <updated></updated>
+    <id>JORFTEXT000042742200</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 1er est remplacé par deux alinéas ainsi rédigés :&lt;br/&gt;« Les entreprises d&#39;investissement peuvent, dans les conditions définies par le présent arrêté, exercer à titre professionnel des activités autres que :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- les services d&#39;investissement mentionnés à l&#39;article L. 321-1 du code monétaire et financier ;&lt;br/&gt;- les services connexes mentionnés à l&#39;article L. 321-2 du code monétaire et financier ;&lt;br/&gt;- les services de communication de données mentionnés à l&#39;article L. 323-1 du code monétaire et financier ;&lt;br/&gt;- celles qu&#39;elles sont autorisées à exercer au titre d&#39;un autre agrément ou d&#39;une autre autorisation dont elles peuvent disposer en application de dispositions du code monétaire et financier.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Ces activités sont listées aux articles 2, 3 et 4. ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 3 est remplacé par deux articles ainsi rédigés :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 3. - Les entreprises d&#39;investissement peuvent fournir des services qui constituent l&#39;utilisation accessoire de moyens principalement affectés aux activités définies à l&#39;article 1er, y compris la prestation de services informatiques ou la vente de logiciels développés par l&#39;entreprise.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 4. - Les entreprises d&#39;investissement peuvent fournir des services qui, sans être des services connexes au sens de l&#39;article L. 321-2 du code monétaire et financier, sont, directement ou indirectement, liés aux activités visées à l&#39;article 1er. ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 4 est remplacé par un article 5 ainsi rédigé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 5. - Les produits provenant des activités visées aux articles 2, 3 et 4 doivent figurer sous des rubriques particulières du compte de résultat transmis à l&#39;ACPR dans des conditions fixées par une instruction de l&#39;ACPR. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;1° Au premier alinéa de l&#39;article 6, les mots : « à l&#39;article 5 du règlement n° 97-02 susvisé intègre la vérification des obligations » sont remplacés par les mots : « par l&#39;arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des services de paiement et des services d&#39;investissement soumises au contrôle de l&#39;Autorité de contrôle prudentiel et de résolution doit prendre en compte les obligations » ;&lt;br/&gt;2° Le deuxième alinéa de l&#39;article 6 est supprimé ;&lt;br/&gt;3° L&#39;article 6 devient l&#39;article 7 ;&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042742200"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 10 décembre 2020 portant nomination au conseil d&#39;administration de la Société nationale SNCF</title>
+    <updated></updated>
+    <id>JORFTEXT000042743063</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 10 décembre 2020, Mme Isabelle BUI KHOI HUNG est nommée membre du conseil d&#39;administration de la Société nationale SNCF en qualité de représentante de l&#39;Etat.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743063"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 24 décembre 2020 portant nomination (administration centrale)</title>
+    <updated></updated>
+    <id>JORFTEXT000042743065</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du ministre de l&#39;économie, des finances et de la relance en date du 24 décembre 2020, M. Stéphane SORBE, administrateur hors classe de l&#39;Institut national de la statistique et des études économiques, est nommé sous-directeur des politiques sectorielles à la direction générale du Trésor, à l&#39;administration centrale du ministère de l&#39;économie et des finances et de la relance, à compter du 1er janvier 2021, pour une durée de trois ans avec une période probatoire de six mois.&lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743065"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 15 décembre 2020 adaptant temporairement les tarifs applicables aux administrateurs judiciaires et commissaires à l&#39;exécution du plan pour l&#39;application des ordonnances n° 2020-341 du 27 mars 2020 et n° 2020-596 du 20 mai 2020 portant adaptation des règles relatives aux difficultés des entreprises et des exploitations agricoles - épidémie de covid-19</title>
     <updated></updated>
@@ -690,138 +822,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 8 décembre 2020, Mme Sylvie Burban, attachée principale d&#39;administration, est admise d&#39;office, par limite d&#39;âge, après prolongation d&#39;activité, à faire valoir ses droits à la retraite à compter du 26 avril 2021.&lt;/p&gt;</content>
     <published>2020-12-17 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677701"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif au versement d&#39;une aide au soutien de la trésorerie de la société GROUAZEL SARL, fragilisée par la crise du covid-19</title>
-    <updated></updated>
-    <id>JORFTEXT000042671963</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;Etat versera six cent mille (600 000) euros, au titre du dispositif d&#39;aides ad hoc au soutien de la trésorerie des entreprises fragilisées par la crise du covid-19 par l&#39;entremise de Bpifrance Financement SA, sous la forme d&#39;un prêt au profit de la société GROUAZEL SARL (619 200 140).&lt;br/&gt;Le prêt sera versé par Bpifrance Financement SA au nom de l&#39;Etat selon les modalités décrites dans le contrat de prêt entre la société GROUAZEL SARL et Bpifrance Financement SA.&lt;br/&gt;Bpifrance Financement SA agissant au nom et pour le compte de l&#39;Etat procédera à la régularisation de l&#39;acte de prêt et des sûretés prévues.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général des entreprises est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042671963"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 décembre 2020 portant délégation de signature (direction générale du Trésor)</title>
-    <updated></updated>
-    <id>JORFTEXT000042671968</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;En cas d&#39;absence du directeur général du Trésor et du directeur général adjoint du Trésor, délégation est donnée à l&#39;effet de signer, au nom des ministres chargés de l&#39;économie, des finances et de la relance, de l&#39;Europe et des affaires étrangères, et dans la limite de leurs attributions, tous actes, arrêtés, décisions ou conventions relevant des attributions du directeur général du Trésor, aux fins d&#39;exercice des permanences du 21 décembre 2020 inclus au 24 décembre 2020 inclus, à M. Sébastien RASPILLER, chef de service, chef du service du financement de l&#39;économie à la direction générale du Trésor.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée à l&#39;effet de signer, au nom des ministres chargés de l&#39;économie, des finances et de la relance, de l&#39;Europe et des affaires étrangères, et dans la limite de leurs attributions, tous actes, arrêtés, décisions ou conventions relevant des attributions du directeur général du Trésor, aux fins d&#39;exercice des permanences du 28 décembre 2020 inclus au 31 décembre 2020 inclus, à Mme Constance VALIGNY, chef de service, secrétaire générale, déléguée aux ressources humaines, à la direction générale du Trésor.&lt;br/&gt;En cas d&#39;absence de Mme Constance VALIGNY, chef de service, secrétaire générale, déléguée aux ressources humaines, délégation est donnée à M. Anthony REQUIN, chef de service, directeur général de l&#39;Agence France Trésor, à l&#39;effet de signer, au nom des ministres chargés de l&#39;économie, des finances et de la relance, de l&#39;Europe et des affaires étrangères, et dans la limite de leurs attributions, tous actes, arrêtés, décisions ou conventions relevant des attributions du directeur général, aux fins d&#39;exercice des permanences du 28 décembre 2020 inclus au 31 décembre 2020 inclus.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042671968"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 2 novembre 2020 portant réintégration et admission à la retraite (ingénieur divisionnaire de l&#39;industrie et des mines)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672199</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 2 novembre 2020, M. Vincent Fert, ingénieur divisionnaire de l&#39;industrie et des mines détaché sur un emploi de chef de mission, est réintégré et admis, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672199"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 2 novembre 2020 portant admission à la retraite d&#39;office (chef de mission du contrôle général économique et financier)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672201</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 2 novembre 2020, Mme Michèle Hourt-Schneider, chef de mission de contrôle général économique et financier, est admise, par limite d&#39;âge, à faire valoir ses droits à la retraite, à compter du 10 mars 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672201"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 3 novembre 2020 portant admission à la retraite (attachée d&#39;administration)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672203</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 3 novembre 2020, Mme Sylvie Montaz, attachée d&#39;administration, est admise, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672203"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 24 novembre 2020 portant admission à la retraite (attachés d&#39;administration de l&#39;Etat)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672205</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance en date du 24 novembre 2020, M. Philippe Franchina, attaché d&#39;administration de l&#39;Etat, est admis, sur sa demande, à faire valoir ses droits à la retraite à compter du 1er avril 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672205"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 2 décembre 2020 modifiant l&#39;arrêté du 22 septembre 2020 portant nomination d&#39;un directeur régional de l&#39;Institut national de la statistique et des études économiques</title>
-    <updated></updated>
-    <id>JORFTEXT000042672207</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie, des finances et de la relance du 2 décembre 2020, l&#39;arrêté du 22 septembre 2020 portant nomination d&#39;un directeur régional de l&#39;Institut national de la statistique et des études économiques est modifié comme suit :&lt;br/&gt;M. Bertrand KAUFFMANN, administrateur hors classe de l&#39;Institut national de la statistique et des études économiques, est nommé, à compter du 1er janvier 2021, directeur régional de l&#39;Institut national de la statistique et des études économiques de Bourgogne-Franche-Comté en remplacement de M. Moïse MAYO appelé à d&#39;autres fonctions.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672207"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant nomination au conseil de surveillance de la société Enedis</title>
-    <updated></updated>
-    <id>JORFTEXT000042672209</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;économie et des finances et de la relance en date du 9 décembre 2020, M. Sébastien Justum est nommé représentant de l&#39;Etat au conseil de surveillance de la société Enedis, en remplacement de Mme Delphine ISSAC.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672209"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 14 décembre 2020 portant nomination (administration centrale)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672211</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du ministre de l&#39;économie, des finances et de la relance en date du 14 décembre 2020, M. Jean-François POYAU, administrateur civil hors classe, est renouvelé dans l&#39;emploi de chef du service de la communication au secrétariat général du ministère de l&#39;économie, des finances et de la relance, pour une durée de deux ans, à compter du 14 janvier 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672211"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 14 décembre 2020 portant nomination (administration centrale)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672213</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du ministre de l&#39;économie, des finances et de la relance en date du 14 décembre 2020, M. Antoine DERUENNES, administrateur hors classe de l&#39;Institut national de la statistique et des études économiques, est renouvelé dans l&#39;emploi de chef du service des politiques publiques à la direction générale du Trésor, à l&#39;administration centrale du ministère de l&#39;économie, des finances et de la relance, pour une durée de deux ans, à compter du 13 janvier 2021.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672213"></link>
-    <author>
-      <name>Ministère de l&#39;économie, des finances et de la relance</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 14 décembre 2020 portant nomination au Conseil national de l&#39;industrie</title>
-    <updated></updated>
-    <id>JORFTEXT000042672215</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de l&#39;économie, des finances et de la relance</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 14 décembre 2020, sont nommés membres du Conseil national de l&#39;industrie :&lt;br/&gt;1° Au titre du collège des entreprises industrielles :&lt;br/&gt;Mme BORIES (Christel) ;&lt;br/&gt;M. CAINE (Patrice) ;&lt;br/&gt;Mme CANTRELLE (Cécile) ;&lt;br/&gt;M. DARMAYAN (Philippe) ;&lt;br/&gt;Mme HEYDEMANN (Christel) ;&lt;br/&gt;Mme HILLIET LE BRANCHU (Caroline) ;&lt;br/&gt;M. KOLLER (Patrick) ;&lt;br/&gt;Mme LE GUENNEC (Anne) ;&lt;br/&gt;M. SANCHEZ (Frédéric) ;&lt;br/&gt;M. SAUBOT (Alexandre) ;&lt;br/&gt;2° Au titre du collège des salariés de l&#39;industrie :&lt;br/&gt;Mme CAILLETAUD (Marie-Claire) ;&lt;br/&gt;Mme HOMAND (Nathalie) ;&lt;br/&gt;M. HOMEZ (Frédéric) ;&lt;br/&gt;Mme JACQUES (Elizabeth) ;&lt;br/&gt;M. LE COQ (Xavier) ;&lt;br/&gt;M. MARTINEZ (Philippe) ;&lt;br/&gt;M. OROSCO (Francis) ;&lt;br/&gt;M. PORTIER (Philippe) ;&lt;br/&gt;Mme SEIGNE (Aurélie) ;&lt;br/&gt;Mme VICENTE (Dorine) ;&lt;br/&gt;3° Au titre du collège des personnalités qualifiées :&lt;br/&gt;Mme CRISCUOLO (Chiara) ;&lt;br/&gt;M. FERRAND (Denis) ;&lt;br/&gt;Mme LEYRE (Sylvie) ;&lt;br/&gt;M. PETIT (Antoine) ;&lt;br/&gt;Mme PIKETTY (Laurence) ;&lt;br/&gt;Mme RETAILLEAU (Sylvie) ;&lt;br/&gt;M. SCHWARTZ (Arnaud).&lt;br/&gt;Sont nommés membres du comité exécutif du Conseil national de l&#39;industrie :&lt;br/&gt;1° Au titre du collège des entreprises industrielles :&lt;br/&gt;Mme BORIES (Christel) ;&lt;br/&gt;M. CAINE (Patrice) ;&lt;br/&gt;M. DARMAYAN (Philippe) ;&lt;br/&gt;Mme HEYDEMANN (Christel) ;&lt;br/&gt;M. SAUBOT (Alexandre) ;&lt;br/&gt;2° Au titre du collège des salariés de l&#39;industrie :&lt;br/&gt;Mme CAILLETAUD (Marie-Claire) ;&lt;br/&gt;M. HOMEZ (Frédéric) ;&lt;br/&gt;M. LE COQ (Xavier) ;&lt;br/&gt;M. OROSCO (Francis) ;&lt;br/&gt;Mme SEIGNE (Aurélie) ;&lt;br/&gt;3° Au titre du collège des personnalités qualifiées :&lt;br/&gt;Mme CRISCUOLO (Chiara) ;&lt;br/&gt;M. PETIT (Antoine) ;&lt;br/&gt;M. SCHWARTZ (Arnaud).&lt;br/&gt;M. SAUBOT (Alexandre) est nommé vice-président du Conseil national de l&#39;industrie.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672215"></link>
     <author>
       <name>Ministère de l&#39;économie, des finances et de la relance</name>
     </author>

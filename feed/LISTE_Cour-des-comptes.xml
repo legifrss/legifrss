@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Cour-des-comptes - LISTE</title>
   <id></id>
-  <updated>2020-12-26 09:18:37.174200891 +0100 CET m=+238.563424110</updated>
+  <updated>2020-12-27 10:00:02.66849031 +0100 CET m=+247.472840155</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-justice</title>
   <id></id>
-  <updated>2020-12-26 09:18:37.017788856 +0100 CET m=+238.407012084</updated>
+  <updated>2020-12-27 10:00:02.492298289 +0100 CET m=+247.296648164</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Décret du 23 décembre 2020 portant changements de noms (Accès protégé)</title>
+    <updated></updated>
+    <id>JORFTEXT000042743077</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000031366350&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des relations entre le public et l&#39;administration (V)&#39;&gt;code des relations entre le public et l&#39;administration&lt;/a&gt;, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-27 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743077"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
   <entry>
     <title>Décret n° 2020-1682 du 23 décembre 2020 relatif à la procédure d&#39;accréditation des organismes certificateurs délivrant la certification des services en ligne fournissant des prestations de conciliation, de médiation et d&#39;arbitrage</title>
     <updated></updated>
@@ -1770,78 +1782,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 décembre 2020, Mme Louise CADIN, auditrice de 1re classe au Conseil d&#39;Etat, est détachée auprès du ministère des solidarités et de la santé, à compter du 1er janvier 2021, pour une durée de deux ans, au titre de la mobilité, afin d&#39;exercer les fonctions de cheffe du bureau de la prévention de la perte d&#39;autonomie et du parcours de vie des personnes âgées, à la sous-direction de l&#39;autonomie des personnes handicapées et des personnes âgées de la direction générale de la cohésion sociale.&lt;/p&gt;</content>
     <published>2020-12-17 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677814"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 décembre 2020 conférant l&#39;agrément prévu par le 1° de l&#39;article 54 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</title>
-    <updated></updated>
-    <id>JORFTEXT000042672046</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 7 décembre 2020, l&#39;agrément prévu par le &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000508793&amp;idArticle=LEGIARTI000006903346&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 71-1130 du 31 décembre 1971 - art. 54 (V)&#39;&gt;1° de l&#39;article 54 de la loi n° 71-1130 du 31 décembre 1971&lt;/a&gt; portant réforme de certaines professions judiciaires et juridiques est conféré à la chambre de commerce et d&#39;industrie de Normandie, au bénéfice de ceux de ses membres qui possèdent, s&#39;ils ne sont pas titulaires de la licence en droit, soit un diplôme de maîtrise en droit, soit un diplôme de troisième cycle (DEA ou DESS) ou un master en droit dans les disciplines juridiques.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672046"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à la transformation d&#39;une société civile professionnelle en société d&#39;exercice libéral à responsabilité limitée à associé unique (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672250</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020 :&lt;br/&gt;Mme NARBOT (Stéphanie), épouse STEFANI, est nommée notaire associée, membre de la société civile professionnelle « Cédric GRABOWSKI, notaire, associé d&#39;une société civile professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence de Gueugnon (Saône-et-Loire).&lt;br/&gt;Le retrait de M. GRABOWSKI (Cédric, Jean, François), notaire associé, membre de la société civile professionnelle « Cédric GRABOWSKI, notaire, associé d&#39;une société civile professionnelle titulaire d&#39;un office notarial », est accepté.&lt;br/&gt;La transformation de la société civile professionnelle « Cédric GRABOWSKI, notaire, associé d&#39;une société civile professionnelle titulaire d&#39;un office notarial » en société d&#39;exercice libéral à responsabilité limitée à associé unique « STEPHANIE NARBOT - Notaire » est agréée.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672250"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672252</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020 :&lt;br/&gt;Mme LORENZI (Emmanuelle, Chantal), épouse BARRALIER, est nommée notaire associée, membre de la société civile professionnelle « Thierry ANDRIER, Éric MOYNE-PICARD, Nathalie ANDRIER, Mathieu BARRALIER, Lise MOYNE-PICARD et Chloé GRARD-RUTISHAUSER, notaires associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence d&#39;Annemasse (Haute-Savoie).&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Thierry ANDRIER, Éric MOYNE-PICARD, Nathalie ANDRIER, Mathieu BARRALIER, Lise MOYNE-PICARD et Chloé GRARD-RUTISHAUSER, notaires associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » est ainsi modifiée : « Thierry ANDRIER, Éric MOYNE-PICARD, Nathalie ANDRIER, Mathieu BARRALIER, Lise MOYNE-PICARD, Chloé GRARD-RUTISHAUSER et Emmanuelle BARRALIER, notaires associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial ».&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672252"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672254</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de Mme LORENZI (Emmanuelle, Chantal), épouse BARRALIER, en qualité de notaire associée exerçant, membre de la société d&#39;exercice libéral à responsabilité limitée « LEMAN NOT », titulaire d&#39;un office de notaire à la résidence de Juvigny (Haute-Savoie).&lt;br/&gt;M. GRABOWSKI (Cédric, Jean, François) est nommé notaire associé, membre de la société d&#39;exercice libéral à responsabilité limitée « LEMAN NOT », titulaire d&#39;un office de notaire à la résidence de Juvigny (Haute-Savoie).&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672254"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à la démission d&#39;un notaire (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672256</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, la démission de M. SCHMUTZ (Alain), notaire à la résidence de Sarre-Union (Bas-Rhin), est acceptée.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672256"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042672258</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, Mme MULLER (Anne, Janine, Reine) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire Mme SCHNEIDER (Emmanuelle, Michèle), épouse THIRIET, à la résidence de Bouzonville (Moselle).&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672258"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Caisse-des-dépôts-et-consignations - ARRETE</title>
   <id></id>
-  <updated>2020-12-26 09:18:37.237966845 +0100 CET m=+238.627190078</updated>
+  <updated>2020-12-27 10:00:02.830152009 +0100 CET m=+247.634501878</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -42,18 +42,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés d&#39;administration dont les noms suivent sont promus au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. BAUDIN (Simon) - M. BOINET (Jean-Pierre) - M. BOUILLET (Denis) - M. CHANCEL (Pascal) - Mme CHERREY (Géraldine) - M. DARDER (Jean-François) - Mme DAUNAIS (Catherine) - M. DELESALLE (Olivier) - M. GEROMETTA (Blaise) - Mme HAUVILLE (Alexandre) - M. KOMOROWSKI (Nicolas) - M. LOMPREZ (Arnaud) - Mme NAUDAIN-VARELA (Céline) - Mme NAVY (Lucia) - M. ONNO (Olivier) - Mme PROVOST-CHABOIS (Sybille) - Mme ROGER-GENDARME (Isabelle) - M. SALABERRIA (David) - Mme SILKIDER (Ourida) - M. SOVEAUX (Sébastien) - Mme VOUILLOT (Anne-Lise) - M. ZUSSA Jean-Christophe.&lt;/p&gt;</content>
     <published>2020-12-24 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732592"></link>
-    <author>
-      <name>Caisse des dépôts et consignations</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 1er décembre 2020 portant fin de détachement dans l&#39;emploi de chef de services administratifs et financiers de la Caisse des dépôts et consignations</title>
-    <updated></updated>
-    <id>JORFTEXT000042672377</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Caisse des dépôts et consignations</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 1er décembre 2020, il est mis fin au détachement de Mme Annabelle VIOLLET dans l&#39;emploi de chef de services administratifs et financiers de la Caisse des dépôts et consignations, en qualité de de directrice déléguée au sein de la direction régionale Nouvelle-Aquitaine de la direction banque des territoires, à compter du 1er janvier 2021, date à laquelle l&#39;intéressée est appelée à exercer d&#39;autres fonctions.&lt;/p&gt;</content>
-    <published>2020-12-16 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042672377"></link>
     <author>
       <name>Caisse des dépôts et consignations</name>
     </author>
