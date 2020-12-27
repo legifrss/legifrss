@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - premier-ministre-egalite-femmes-hommes-diversite-et-egalite-des-chances</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:19:13+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_premier-ministre-egalite-femmes-hommes-diversite-et-egalite-des-chances.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Arrêté du 21 décembre 2020 portant fin de fonctions au cabinet de la ministre déléguée auprès du Premier ministre, chargée de l&#39;égalité entre les femmes et les hommes, de la diversité et de l&#39;égalité des chances</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731659</id>
+    <content type="html"></content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042731659"></link>
+    <author>
+      <name>Premier ministre Égalité femmes-hommes, diversité et égalité des chances</name>
+    </author>
+  </entry>
+</feed>

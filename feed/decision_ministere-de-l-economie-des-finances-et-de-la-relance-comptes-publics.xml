@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics - decision</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:19:13+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decision_ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Décision du 18 décembre 2020 portant désignation de l&#39;autorité d&#39;homologation du plan achat de l&#39;Etat (PAE)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740069</id>
+    <content type="html"></content>
+    <published>2020-12-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740069"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 21 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723113</id>
+    <content type="html"></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723113"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 21 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723124</id>
+    <content type="html"></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723124"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 16 décembre 2020 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700722</id>
+    <content type="html"></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700722"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+</feed>

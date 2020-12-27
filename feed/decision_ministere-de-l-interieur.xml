@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-de-l-interieur - decision</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:19:13+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decision_ministere-de-l-interieur.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Décision du 21 décembre 2020 portant délégation de signature (direction de l&#39;immigration)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730713</id>
+    <content type="html"></content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730713"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 17 décembre 2020 portant désignation aux fonctions de secrétaire général adjoint du comité interministériel de prévention de la délinquance et de la radicalisation (CIPDR)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709484</id>
+    <content type="html"></content>
+    <published>2020-12-22T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709484"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 14 décembre 2020 modifiant la décision du 26 juin 2020 portant délégation de signature (direction générale de la gendarmerie nationale, direction des personnels militaires de la gendarmerie nationale)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700294</id>
+    <content type="html"></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700294"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 14 décembre 2020 portant délégation de signature (direction centrale de la police judiciaire)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700304</id>
+    <content type="html"></content>
+    <published>2020-12-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700304"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 11 décembre 2020 modifiant la décision du 30 juillet 2019 modifiée portant délégation de signature (direction des ressources humaines)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333</id>
+    <content type="html"></content>
+    <published>2020-12-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677333"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+</feed>

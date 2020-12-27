@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - cour-des-comptes</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:12:20+01:00</updated>
+  <updated>2020-12-27T21:19:13+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_cour-des-comptes.xml" rel="self"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Tableau d&#39;avancement au grade de président de section (année 2021)</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042743126</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Extrait des délibérations du Conseil supérieur des chambres régionales des comptes du jeudi 10 décembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Liste principale&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Frédéric LEGLASTIN.&lt;br/&gt;2. Jean-Marc LE GALL.&lt;br/&gt;3. Sébastien CECCHI.&lt;br/&gt;4. Patrick PLANTARD.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Liste complémentaire&lt;/p&gt;&lt;p&gt;&lt;br/&gt;1. Anne-Claude HANS.&lt;br/&gt;2. Philippe BELLOCQ.&lt;br/&gt;3. Sophie PISTONE.&lt;/p&gt;</content>
     <published>2020-12-27T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Liste des candidats déclarés admis à l&#39;issue des épreuves du concours ouvert pour le recrutement de conseillers de chambre régionale des comptes au titre de l&#39;année 2020</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723320</id>
     <content type="html"></content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 décembre 2020 modifiant l&#39;arrêté du 3 juin 2020 portant délégation de signature</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702667</id>
     <content type="html"></content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Liste d&#39;aptitude 2021 à l&#39;emploi de président et de vice-président de chambre régionale et territoriale des comptes</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700989</id>
     <content type="html"></content>
     <published>2020-12-19T01:00:00+01:00</published>

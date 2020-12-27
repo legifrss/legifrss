@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - conseil-constitutionnel</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:12:20+01:00</updated>
+  <updated>2020-12-27T21:19:13+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_conseil-constitutionnel.xml" rel="self"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décision n° 2020-811 DC du 21 décembre 2020</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738082</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-810 DC du 21 décembre 2020</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738090</id>
     <content type="html"></content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Décision n° 2020-289 L du 21 décembre 2020</title>
-    <updated>2020-12-27T21:12:20+01:00</updated>
+    <updated>2020-12-27T21:19:13+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042708958</id>
     <content type="html"></content>
     <published>2020-12-22T01:00:00+01:00</published>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-du-travail-de-l-emploi-et-de-l-insertion-insertion - arrete</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:19:13+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/arrete_ministere-du-travail-de-l-emploi-et-de-l-insertion-insertion.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Arrêté du 7 décembre 2020 portant délégation de signature (cabinet)</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695255</id>
+    <content type="html"></content>
+    <published>2020-12-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695255"></link>
+    <author>
+      <name>Ministère du travail, de l&#39;emploi et de l&#39;insertion Insertion</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 7 décembre 2020 portant cessation de fonctions et nomination au cabinet de la ministre déléguée auprès de la ministre du travail, de l&#39;emploi et de l&#39;insertion, chargée de l&#39;insertion</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695409</id>
+    <content type="html"></content>
+    <published>2020-12-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695409"></link>
+    <author>
+      <name>Ministère du travail, de l&#39;emploi et de l&#39;insertion Insertion</name>
+    </author>
+  </entry>
+</feed>

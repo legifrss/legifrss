@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics - decret</title>
+  <id>https://github.com/ldicarlo/legifrance-rss</id>
+  <updated>2020-12-27T21:19:13+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decret_ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics.xml" rel="self"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Décret n° 2020-1698 du 23 décembre 2020 modifiant le décret n° 2006-742 du 27 juin 2006 portant création d&#39;une aide à la sécurité des débits de tabac et modifiant l&#39;article 281 de l&#39;annexe II au code général des impôts</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739877</id>
+    <content type="html"></content>
+    <published>2020-12-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739877"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1699 du 23 décembre 2020 portant ouverture et annulation de crédits</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739898</id>
+    <content type="html"></content>
+    <published>2020-12-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739898"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1648 du 22 décembre 2020 portant virement de crédits</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723079</id>
+    <content type="html"></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723079"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1649 du 22 décembre 2020 portant virement de crédits</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723088</id>
+    <content type="html"></content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723088"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1604 du 15 décembre 2020 portant virement de crédits</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677600</id>
+    <content type="html"></content>
+    <published>2020-12-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677600"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2020-1605 du 15 décembre 2020 portant annulation de crédits</title>
+    <updated>2020-12-27T21:19:13+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677610</id>
+    <content type="html"></content>
+    <published>2020-12-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677610"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+</feed>
