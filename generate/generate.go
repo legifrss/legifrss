@@ -106,7 +106,6 @@ func sanitizeName(str string) string {
 	newStr := str
 	for newStr != replacer.Replace(newStr) {
 		newStr = replacer.Replace(newStr)
-
 	}
 	return customReplacements(newStr)
 
