@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - commission-nationale-des-comptes-de-campagne-et-des-financements-politiques</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:35:00+01:00</updated>
+  <updated>2020-12-28T21:26:53+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_commission-nationale-des-comptes-de-campagne-et-des-financements-politiques.xml" rel="self"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décision du 7 décembre 2020 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:53+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701150</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 7 décembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT DU PARTI CITOYENS ! inscrite au registre national des associations sous la référence W603007362, dont le siège social est situé : 14, rue Johann-Strauss, 60150 THOUROTTE est agréée en qualité d&#39;association de financement du parti politique « CITOYENS » inscrit au registre national des associations sous la référence W604008706 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « national ».&lt;/p&gt;</content>
     <published>2020-12-19T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décisions du 7 décembre 2020 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:53+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701152</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décisions de la Commission nationale des comptes de campagne et des financements politiques en date du 7 décembre 2020 :&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 30 septembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT DU PARTI POLITIQUE JEAN-MARIE LE PEN - COTELEC inscrite au registre national des associations sous la référence W923003343 dont le siège social était situé : 8, parc du Montretout, 92210 SAINT-CLOUD ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 1er octobre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT DE « J&#39;AIME NARBONNE » inscrite au registre national des associations sous la référence W113003984 dont le siège social était situé : 18, avenue Pierre-Sémard, 11100 NARBONNE ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 30 septembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT DU PARTI POLITIQUE JEAN-MARIE LE PEN - PROMELEC inscrite au registre national des associations sous la référence W923004736 dont le siège social était situé : 8, parc de Montretout, 92210 SAINT-CLOUD ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Est retiré à compter du 31 décembre 2020 date d&#39;effet de sa dissolution décidée le 30 septembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de « l&#39;ASSOCIATION DE FINANCEMENT D&#39;ENSEMBLE POUR LE CAMBRÉSIS » inscrite au registre national des associations sous la référence W592005433 dont le siège social était situé : 134, rue Bertrand-Milcent, 59341 CAMBRAI ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Est retiré d&#39;office à la suite de la dissolution du parti politique LA VOIX DE LA RÉUNION décidée le 26 septembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de « l&#39;ASSOCIATION DE FINANCEMENT DU PARTI LA VOIX DE LA REUNION » dont le siège social était situé : 64 b, rue Jacques-Bel-Air I, 97441 SAINTE-SUZANNE.&lt;/p&gt;</content>
     <published>2020-12-19T01:00:00+01:00</published>

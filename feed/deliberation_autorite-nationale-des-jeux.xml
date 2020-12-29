@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - autorite-nationale-des-jeux - deliberation</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:35:00+01:00</updated>
+  <updated>2020-12-28T21:26:54+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/deliberation_autorite-nationale-des-jeux.xml" rel="self"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décision n° 2020-039 du 8 octobre 2020 portant adoption du modèle de tableau de bord trimestriel relatif à l&#39;exploitation des jeux sous droits exclusifs commercialisés en réseau physique de distribution</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740237</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le modèle de tableau de bord trimestriel sur l&#39;exploitation des jeux sous droits exclusifs commercialisés en réseau physique de distribution annexé à la présente décision est proposé au ministre délégué chargé des comptes publics.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Des modifications au modèle de tableau mentionné à l&#39;article 1er seront proposés en tant que de besoin par l&#39;Autorité nationale des jeux au ministre délégué chargé des comptes publics.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Autorité nationale des jeux est chargé de l&#39;exécution de la présente décision qui sera notifiée au ministre délégué chargé des comptes publics et publiée sur le site internet de l&#39;Autorité.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;/p&gt;&lt;p class=&#39;cliche&#39;&gt;&lt;br/&gt;&lt;br/&gt;Vous pouvez consulter l&#39;intégralité du texte avec ses images à partir de l&#39;extrait du Journal officiel électronique authentifié accessible en bas de page&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>

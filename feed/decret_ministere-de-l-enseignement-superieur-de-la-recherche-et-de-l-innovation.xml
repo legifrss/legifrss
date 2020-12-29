@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation - decret</title>
   <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-27T21:35:00+01:00</updated>
+  <updated>2020-12-28T21:26:54+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
   <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/decret_ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation.xml" rel="self"></link>
@@ -11,7 +11,7 @@
   </author>
   <entry>
     <title>Décret n° 2020-1692 du 22 décembre 2020 relatif au diplôme national des métiers d&#39;art et du design</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739593</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La partie réglementaire du chapitre II du titre IV du livre VI du code de l&#39;éducation est ainsi modifiée :&lt;br/&gt;1° A l&#39;article D. 642-34, les mots : « niveau II de la nomenclature interministérielle des niveaux de formation » sont remplacés par les mots : « niveau 6 du cadre national des certifications professionnelles » ;&lt;br/&gt;2° A l&#39;article D. 642-42, les mots : « d&#39;activités professionnelles, de formation et de certification » sont remplacés par les mots : « d&#39;activités, de compétences, de formation et d&#39;évaluation » ;&lt;br/&gt;3° A l&#39;article D. 642-45, les mots : « niveau IV du répertoire » sont remplacés par les mots : « niveau 4 du cadre » ;&lt;br/&gt;4° A l&#39;article D. 642-46, les mots : « l&#39;article D. 612-1-12 » sont remplacés par les mots : « l&#39;article D. 612-1-13 » et les mots : « complété éventuellement par un entretien » sont supprimés ;&lt;br/&gt;5° L&#39;article D. 642-52 est modifié comme suit :&lt;br/&gt;a) Les mots : « notes acquises » sont remplacés par les mots : « résultats obtenus » ;&lt;br/&gt;b) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :&lt;br/&gt;« Des examinateurs sont désignés par le recteur de région académique pour participer, avec au moins un membre du jury, à l&#39;évaluation des épreuves ponctuelles dont les modalités sont définies par l&#39;arrêté mentionné à l&#39;article D. 642-42. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;éducation nationale, de la jeunesse et des sports et la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>Décret n° 2020-1693 du 23 décembre 2020 modifiant le décret n° 2019-1600 du 31 décembre 2019 portant dissolution de chancelleries</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739609</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le décret du 31 décembre 2019 susvisé est modifié comme suit :&lt;br/&gt;1° L&#39;article 1er est modifié comme suit :&lt;br/&gt;a) Au deuxième alinéa, les mots : « , Toulouse et » sont remplacés par les mots : « et de » ;&lt;br/&gt;b) Il est ajouté un alinéa ainsi rédigé :&lt;br/&gt;« La chancellerie de l&#39;académie de Toulouse est dissoute à compter du 1er janvier 2022 dans les conditions prévues par décret. » ;&lt;br/&gt;2° L&#39;article 2 est modifié comme suit :&lt;br/&gt;a) Les mots : « et de la chancellerie de Versailles » sont remplacés par les mots : « et de la chancellerie de l&#39;académie de Lyon » ;&lt;br/&gt;b) Il est ajouté un alinéa ainsi rédigé :&lt;br/&gt;« Au 1er janvier 2021, les biens, droits et obligations de la Chancellerie de l&#39;académie de Versailles sont transférés à l&#39;Etat, à l&#39;exception de ceux relatifs à l&#39;opération immobilière concernant l&#39;immeuble sis, 71, avenue de Saint-Cloud à Versailles qui sont transférés au centre régional des œuvres universitaires et scolaires de l&#39;académie de Versailles, à cette même date. » ;&lt;br/&gt;3° L&#39;article 6 est complété par deux alinéas ainsi rédigés :&lt;br/&gt;« Le solde de trésorerie de la chancellerie de l&#39;académie de Versailles est transféré dans les conditions prévues au premier alinéa du présent article, à l&#39;exception de la part du solde de trésorerie liée aux biens, droits et obligations affectés au centre régional des œuvres universitaires et scolaires de l&#39;académie de Versailles, qui est affectée à cet établissement.&lt;br/&gt;« Un arrêté des ministres chargé du budget et de l&#39;enseignement supérieur arrête et approuve les balances de la chancellerie de Versailles au 31 décembre 2020 transférées d&#39;une part à l&#39;État et d&#39;autre part au Centre régional des œuvres universitaires et scolaires de l&#39;académie de Versailles. Il fixe la répartition de la trésorerie disponible au 31 décembre 2020. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance, la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723279</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020, M. Nicolas WINSSINGER, professeur des universités (32e section) à l&#39;université de Strasbourg, est radié des cadres pour abandon de poste, à compter du 1er août 2020.&lt;/p&gt;</content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -44,7 +44,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant radiation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723281</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020 :&lt;br/&gt;1° La démission des professeurs des universités dont les noms suivent, affectés dans les établissements d&#39;enseignement supérieur désignés ci-après, est acceptée à compter des dates précisées. Les intéressés sont radiés des cadres à la même date.&lt;br/&gt;a) A compter du 1er août 2020 :&lt;br/&gt;M. Pierluigi CRESCENZI (27e section), Université de Paris ;&lt;br/&gt;b) A compter du 1er septembre 2020 :&lt;br/&gt;Mme Angélique BONNAUD (16e section), Université de Nantes ;&lt;br/&gt;M. Michel BENOÎT (60e section), Ecole centrale de Marseille ;&lt;br/&gt;c) A compter du 1er novembre 2020 :&lt;br/&gt;Mme Luisa DE COLA (31e section), Université de Strasbourg ;&lt;br/&gt;2° Les professeurs des universités dont les noms suivent, en disponibilité pour convenances personnelles, sont réintégrés, pour ordre, dans leur corps d&#39;origine et radiés des cadres aux dates précisées ci-après :&lt;br/&gt;a) A compter du 1er juin 2020 :&lt;br/&gt;Mme Françoise DARSES-DE MONTMOLLIN (16e section), Université Paris-Saclay ;&lt;br/&gt;b) A compter du 1er septembre 2020 :&lt;br/&gt;M. Alain SCHATT (6e section), Université de Dijon ;&lt;br/&gt;Mme Bénédicte VAUTHIER (14e section), Université de Tours ;&lt;br/&gt;M. Serge SULTAN (16e section), Université de Paris.&lt;/p&gt;</content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <title>Décret du 21 décembre 2020 portant retrait d&#39;une nomination de professeurs associés des universités (disciplines médicales)</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723283</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 21 décembre 2020, les dispositions du décret du 22 octobre 2020 portant nomination de professeurs associés des universités (disciplines médicales) sont retirées en ce qui concerne Mme RUGGIERI PARK Julie, l&#39;intéressée ayant renoncé à prendre ses fonctions de professeur associé des universités à temps plein sur emploi du contingent national auprès de l&#39;unité de formation et de recherche de médecine relevant de l&#39;université de Paris-Saclay.&lt;/p&gt;</content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -66,7 +66,7 @@
   </entry>
   <entry>
     <title>Décret du 17 décembre 2020 portant nomination, titularisation et affectation (enseignements supérieurs)</title>
-    <updated>2020-12-27T21:35:00+01:00</updated>
+    <updated>2020-12-28T21:26:54+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700845</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 17 décembre 2020, les candidates, dont les noms suivent, admises au concours de recrutement de professeur des universités ouvert en application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000520453&amp;idArticle=LEGIARTI000006485213&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°84-431 du 6 juin 1984 - art. 46 (M)&#39;&gt;1° de l&#39;article 46 du décret n° 84-431 du 6 juin 1984&lt;/a&gt; fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences sont nommées et titularisées en qualité de professeur des universités (87 sciences biologiques, fondamentales et cliniques) et affectées auprès de l&#39;université de Bordeaux, à compter de la date de leur installation au cours de l&#39;année universitaire 2020-2021 :&lt;br/&gt;Mme BONIFACE Katia ;&lt;br/&gt;Mme CLUZET Stéphanie ;&lt;br/&gt;Mme DESPLAT Vanessa.&lt;/p&gt;</content>
     <published>2020-12-19T01:00:00+01:00</published>
