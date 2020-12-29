@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-justice - ARRETE</title>
   <id></id>
-  <updated>2020-12-28 17:09:54.265965577 +0100 CET m=+277.937228965</updated>
+  <updated>2020-12-29 08:54:36.917211803 +0100 CET m=+277.515983452</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,42 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 28 janvier 2016 modifié fixant la liste des emplois de directeur fonctionnel des services de greffe judiciaires</title>
+    <updated></updated>
+    <id>JORFTEXT000042748734</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 28 janvier 2016 susvisé est modifié conformément aux dispositions des articles 2 et 3 du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 1er est complété par un III ainsi rédigé :&lt;br/&gt;« A l&#39;Ecole nationale des greffes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt; « - directeur de l&#39;Ecole nationale des greffes. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 2 est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 2. - Accèdent à l&#39;échelon spécial prévu par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000031313262&amp;idArticle=JORFARTI000031313285&amp;categorieLien=cid&#39; title=&#39;DÉCRET n°2015-1274 du 13 octobre 2015 - art. 8 (V)&#39;&gt;article 8 du décret n° 2015-1274 du 13 octobre 2015&lt;/a&gt; et par l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000031313461&amp;idArticle=JORFARTI000031313472&amp;categorieLien=cid&#39; title=&#39;DÉCRET n°2015-1277 du 13 octobre 2015 - art. 2 (M)&#39;&gt;article 2 du décret n° 2015-1277 du 13 octobre 2015 susvisés&lt;/a&gt; :&lt;br/&gt;I. - Dans les juridictions :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- directeur de greffe du tribunal judiciaire de Bobigny ;&lt;br/&gt;- directeur de greffe du tribunal judiciaire de Paris ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;II. - A l&#39;Ecole nationale des greffes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- directeur de l&#39;Ecole nationale des greffes. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-29 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042748734"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 23 décembre 2020 modifiant l&#39;arrêté du 30 octobre 2020 portant délégation de signature (direction de l&#39;administration pénitentiaire)</title>
+    <updated></updated>
+    <id>JORFTEXT000042748746</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 6, point III, de l&#39;arrêté du 30 octobre 2020 susvisé, les mots : « M. Amin Mbarki, administrateur civil, chef de département » sont remplacés par les mots : « Mme Justine Renault, administratrice civile, chef de département ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-29 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042748746"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 24 décembre 2020 fixant la proportion des promotions réservées par voie d&#39;avancement pour l&#39;accès au grade de surveillant brigadier du corps d&#39;encadrement et d&#39;application du personnel de surveillance de l&#39;administration pénitentiaire</title>
+    <updated></updated>
+    <id>JORFTEXT000042748760</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La proportion des nominations susceptibles d&#39;être prononcées au grade de surveillant brigadier, par voie d&#39;inscription à un tableau annuel d&#39;avancement, prévue au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000241333&amp;idArticle=LEGIARTI000006414482&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°2006-441 du 14 avril 2006 - art. 13 (M)&#39;&gt;1° de l&#39;article 13 du décret du 14 avril 2006 susvisé&lt;/a&gt; pour les personnels affectés dans un ou plusieurs établissements ouvrant droit au bénéfice de la prime de fidélisation prévue par le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000037882954&amp;categorieLien=cid&#39; title=&#39;Décret n°2018-1319 du 28 décembre 2018 (V)&#39;&gt;décret du 28 décembre 2018 susvisé&lt;/a&gt; est fixée à 20 % au plus du nombre total des promotions annuelles.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-29 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042748760"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant approbation du règlement intérieur de la chambre des notaires de l&#39;Isère</title>
     <updated></updated>
@@ -1230,126 +1266,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 14 décembre 2020, M. Christophe BOUBA, secrétaire administratif de classe normale, est, à compter du 15 décembre 2020, nommé et titularisé dans le corps interministériel des attachés d&#39;administration de l&#39;Etat.&lt;/p&gt;</content>
     <published>2020-12-18 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695327"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677796</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, M. PEIFFER (Philippe) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire Mme OLIER (Sabine, Alice), épouse WAGNER, à la résidence de Bitche (Moselle).&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677796"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677798</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, M. BRYLKA (Rémy) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « Eric RICOU &amp; Julien RICOU, notaires associés » à la résidence de Benfeld (Bas-Rhin).&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677798"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677800</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, il est mis fin aux fonctions de Mme LEMARIÉ (Sylvie, Marie, Henriette), épouse LEDRU, en qualité de notaire associée exerçant au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « MALARD ASSOCIÉS - TOURAINE SOLOGNE » à la résidence de Selles-sur-Cher (Loir-et-Cher).&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677800"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677802</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, M. ALEXANDRE (Eric, Denis, Antoine) est nommé notaire associé, membre de la société civile professionnelle « Marie-Laurence ZARCATE et Valérie EKERT, notaires associés », titulaire d&#39;un office de notaire à la résidence du Kremlin-Bicêtre (Val-de-Marne).&lt;br/&gt;Le retrait de Mme LECLERCQ (Marie-Laurence, Françoise, Yvonne), épouse ZARCATE, notaire associée, membre de la société civile professionnelle « Marie-Laurence ZARCATE et Valérie EKERT, notaires associés », est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Marie-Laurence ZARCATE et Valérie EKERT, notaires associés » est ainsi modifiée : « Valérie EKERT et Eric ALEXANDRE, notaires associés ».&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677802"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677804</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de M. SERRERO (David, Lucien) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire M. ABITBOL (Wilfrid, Wulfran) à la résidence de Beauvais (Oise).&lt;br/&gt;M. SERRERO (David, Lucien) est nommé notaire associé, membre de la société civile professionnelle « Sophie TEBOUL et Stéphane BOULLEAU, notaires associés », titulaire d&#39;un office de notaire à la résidence de Levallois-Perret (Hauts-de-Seine).&lt;br/&gt;Le retrait de M. BOULLEAU (Stéphane, Bernard, Michel), notaire associé, membre de la société civile professionnelle « Sophie TEBOUL et Stéphane BOULLEAU, notaires associés », est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Sophie TEBOUL et Stéphane BOULLEAU, notaires associés » est ainsi modifiée : « Sophie TEBOUL et David SERRERO, Notaires Associés ».&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677804"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677806</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020 :&lt;br/&gt;Le retrait de M. FRIEDRICH (Marc), notaire associé, membre de la société civile professionnelle « ANTOINE POURQUIE, MARC FRIEDRICH, FABRICE FRANÇOIS ET ERIC GACHOD, NOTAIRES ASSOCIES », titulaire d&#39;un office de notaire à la résidence de Levallois-Perret (Hauts-de-Seine), est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « ANTOINE POURQUIE, MARC FRIEDRICH, FABRICE FRANÇOIS ET ERIC GACHOD, NOTAIRES ASSOCIES » est ainsi modifiée : « Antoine POURQUIÉ, Fabrice FRANÇOIS et Eric GACHOD, Notaires associés d&#39;une Société civile professionnelle titulaire d&#39;un Office Notarial ».&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677806"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 9 décembre 2020 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677808</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 décembre 2020, Mme LENOIR (Sylvie, Marcelle, Marie), épouse DA SILVA, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire M. LEGUY (Gérard) à la résidence d&#39;Avallon (Yonne).&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677808"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 décembre 2020 portant renouvellement de mandat d&#39;assesseure titulaire de la Cour nationale de l&#39;incapacité et de la tarification de l&#39;assurance des accidents du travail (CNITAAT)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677810</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 11 décembre 2020, le mandat de Mme CERISIER (Stéphanie), en qualité d&#39;assesseure titulaire de la Cour nationale de l&#39;incapacité et de la tarification de l&#39;assurance des accidents du travail représentant les employeurs et travailleurs indépendants, est renouvelé, à compter du 29 décembre 2020.&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677810"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 décembre 2020 portant réintégration et affectation (tribunaux administratifs et cours administratives d&#39;appel)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677812</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat, en date du 11 décembre 2020, M. Israël (Didier), premier conseiller du corps des magistrats des tribunaux administratifs et des cours administratives d&#39;appel, en service détaché, est réintégré dans son corps d&#39;origine à compter du 1er janvier 2021 et affecté au tribunal administratif de Melun.&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677812"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 15 décembre 2020 portant détachement (Conseil d&#39;Etat)</title>
-    <updated></updated>
-    <id>JORFTEXT000042677814</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 décembre 2020, Mme Louise CADIN, auditrice de 1re classe au Conseil d&#39;Etat, est détachée auprès du ministère des solidarités et de la santé, à compter du 1er janvier 2021, pour une durée de deux ans, au titre de la mobilité, afin d&#39;exercer les fonctions de cheffe du bureau de la prévention de la perte d&#39;autonomie et du parcours de vie des personnes âgées, à la sous-direction de l&#39;autonomie des personnes handicapées et des personnes âgées de la direction générale de la cohésion sociale.&lt;/p&gt;</content>
-    <published>2020-12-17 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677814"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>

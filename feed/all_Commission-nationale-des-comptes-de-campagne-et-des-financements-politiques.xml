@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Commission-nationale-des-comptes-de-campagne-et-des-financements-politiques</title>
   <id></id>
-  <updated>2020-12-28 17:09:54.07298783 +0100 CET m=+277.744251198</updated>
+  <updated>2020-12-29 08:54:36.815062592 +0100 CET m=+277.413834243</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
