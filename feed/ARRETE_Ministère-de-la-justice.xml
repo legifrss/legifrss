@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
   <title>Legifrance RSS - Ministère-de-la-justice - ARRETE</title>
   <id></id>
-  <updated>2020-12-29 08:54:36.917211803 +0100 CET m=+277.515983452</updated>
+  <updated>2020-12-30 08:40:58.173466853 +0100 CET m=+273.764456633</updated>
   <category>French Law</category>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
@@ -10,6 +10,18 @@
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
+  <entry>
+    <title>Arrêté du 24 décembre 2020 portant modification de l&#39;article A. 43-7 du code de procédure pénale</title>
+    <updated></updated>
+    <id>JORFTEXT000042760413</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
+    <content type="">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006071154&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de procédure pénale (V)&#39;&gt;code de procédure pénale&lt;/a&gt; (quatrième partie : Arrêtés) est modifié conformément aux dispositions du présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le droit d&#39;option est étendu aux interprètes traducteurs conformément au &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000038431306&amp;categorieLien=cid&#39; title=&#39;Décret n°2019-390 du 30 avril 2019 (V)&#39;&gt;décret n° 2019-390 du 30 avril 2019&lt;/a&gt; modifiant la liste des personnes participant de façon occasionnelle à des missions de service public.&lt;br/&gt;En conséquence, tout interprète et tout traducteur exerçant cette activité en qualité de travailleur indépendant peut exercer son droit d&#39;option en demandant le rattachement de ses revenus issus de son activité de collaborateur occasionnel du service public à son activité libérale.&lt;br/&gt;Les tarifs des traductions par écrit et par oral, selon qu&#39;elles sont effectuées par des interprètes traducteurs ayant ou non exercé leur droit d&#39;option, sont respectivement fixés dans le tableau dressé à l&#39;article 3 du présent arrêté.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article A. 43-7 du code de procédure pénale est ainsi modifié :&lt;br/&gt;« Conformément aux dispositions de l&#39;article R. 122, les tarifs des traductions par écrit et par oral sont fixés dans le tableau ci-après :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th rowspan=&#39;2&#39;&gt;&lt;br/&gt;NATURE DE LA MISSION&lt;/th&gt;&lt;th colspan=&#39;4&#39;&gt;&lt;br/&gt;TARIFS&lt;br/&gt;(en euros)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;Interprètes traducteurs n&#39;ayant pas exercé leur droit d&#39;option&lt;/th&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;Interprètes traducteurs ayant exercé leur droit d&#39;option&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;justify&#39;&gt;&lt;br/&gt;Traduction par écrit&lt;/td&gt;&lt;td colspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;25&lt;/td&gt;&lt;td colspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;38,50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Traduction par oral&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1re heure&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;heures suivantes&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1re heure&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;heures suivantes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Lundi au vendredi de 7h à 22h&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;42&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;30&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;65&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;46,50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Lundi au vendredi de 22h à 7h&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;49,50&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;37,50&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;76,80&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;58&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Samedi, dimanche et jours fériés de 7 h à 22 h&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;49,50&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;37,50&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;76,80&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;58&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;Samedi, dimanche et jours fériés de 22 h à 7 h&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;57&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;45&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;88,50&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;69,80&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent arrêté entrent en vigueur le 1er janvier 2021.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2020-12-30 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042760413"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 modifiant l&#39;arrêté du 28 janvier 2016 modifié fixant la liste des emplois de directeur fonctionnel des services de greffe judiciaires</title>
     <updated></updated>
@@ -75,7 +87,7 @@
     <updated></updated>
     <id>JORFTEXT000042739234</id>
     <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Textes généraux/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 21 décembre 2020, est autorisée au titre de l&#39;année 2020 l&#39;ouverture d&#39;un examen professionnel spécifique pour l&#39;accès au corps de commandement dans le grade de lieutenant pénitentiaire.&lt;br/&gt;Cet examen professionnel est ouvert aux premiers surveillants et aux majors pénitentiaires remplissant les conditions fixées au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000039202066&amp;idArticle=JORFARTI000039202214&amp;categorieLien=cid&#39; title=&#39;Décret n°2019-1038 du 9 octobre 2019 - art. 38 (V)&#39;&gt;1° de l&#39;article 38 du décret n° 2019-1038 du 9 octobre 2019&lt;/a&gt; modifiant le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000241333&amp;categorieLien=cid&#39; title=&#39;Décret n°2006-441 du 14 avril 2006 (V)&#39;&gt;décret n° 2006-441 du 14 avril 2006&lt;/a&gt; portant statut particulier des corps du personnel de surveillance de l&#39;administration pénitentiaire.&lt;br/&gt;Il comporte une présélection sur dossier et une épreuve d&#39;admission.&lt;br/&gt;Le nombre total des postes offerts au titre de l&#39;année 2020 à l&#39;examen professionnel est fixé à 100.&lt;br/&gt;Les registres d&#39;inscription seront ouverts du lundi 28 décembre 2020 au vendredi 26 février 2021, à minuit, heure de Paris.&lt;br/&gt;Les inscriptions s&#39;effectuent par voie télématique sur le site APNET du ministère de la justice à l&#39;adresse suivante : https://intranet.justice.gouv.fr/site/apnet/ rubrique « Liens pratiques » puis « Recrutement/concours ».&lt;br/&gt;En cas d&#39;impossibilité de s&#39;inscrire par télé procédure, les candidats conservent la possibilité d&#39;obtenir le dossier imprimé établi à cette fin jusqu&#39;au vendredi 26 février 2021 à l&#39;adresse suivante : ministère de la justice, direction de l&#39;administration pénitentiaire, sous-direction des ressources humaines et des relations sociales, bureau RH1, section du recrutement, examen professionnel lieutenant, voie dérogatoire, 13, place Vendôme, 75042 Paris Cedex 01.&lt;br/&gt;La date de fin de saisie des inscriptions sur le site APNET du ministère de la justice est fixée au vendredi 26 février 2021 à minuit, heure de Paris, date de clôture des inscriptions.&lt;br/&gt;La date de retour des dossiers est fixée au vendredi 26 février 2021, à minuit, heure de Paris, date de clôture des inscriptions, le cachet de la poste faisant foi. Tout dossier papier parvenant dans une enveloppe portant un cachet de la poste postérieur au vendredi 26 février 2021 ou parvenant après cette date dans une enveloppe ne portant aucun cachet de la poste ou par tout autre mode d&#39;envoi non postal (courriel, télécopie) sera refusé.&lt;br/&gt;Conformément aux dispositions du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000041849871&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-523 du 4 mai 2020 (V)&#39;&gt;décret n° 2020-523 du 4 mai 2020&lt;/a&gt; relatif à la portabilité des équipements contribuant à l&#39;adaptation du poste de travail et aux dérogations aux règles normales des concours, des procédures de recrutement et des examens en faveur des agents publics et des candidats en situation de handicap, les candidats en situation de handicap sollicitant un aménagement d&#39;épreuve devront transmettre au service organisateur, au plus tard le lundi 1er mars 2021, par voie dématérialisée à l&#39;adresse concours.dap@justice.gouv.fr, un certificat médical établi par un médecin agréé. Le certificat médical, qui doit avoir été établi moins de six mois avant le déroulement des épreuves, précise la nature des aides humaines et techniques ainsi que des aménagements nécessaires pour permettre aux candidats, compte tenu de la nature et de la durée des épreuves, de composer dans des conditions compatibles avec leur situation.&lt;br/&gt;La présélection consiste en la remise d&#39;un dossier de reconnaissance des acquis de l&#39;expérience professionnelle.&lt;br/&gt;Les candidats doivent adresser leur dossier de reconnaissance des acquis de l&#39;expérience professionnelle, au plus tard le vendredi 26 février 2021, minuit heure de Paris (cachet de la poste faisant foi), à l&#39;adresse suivante : ministère de la justice, direction de l&#39;administration pénitentiaire, sous-direction des ressources humaines et des relations sociales, bureau RH1, section du recrutement, examen professionnel lieutenant, voie dérogatoire, 13, place Vendôme, 75042 Paris Cedex 01.&lt;br/&gt;Les résultats de cette présélection seront consultables à partir du mardi 16 mars 2021 sur le site intranet de la direction de l&#39;administration pénitentiaire à l&#39;adresse suivante : https://intranet.justice.gouv.fr/site/apnet/ rubrique « Liens pratiques » puis « Recrutement/concours ».&lt;br/&gt;Aucun résultat ne sera communiqué par téléphone ou par voie électronique.&lt;br/&gt;L&#39;épreuve d&#39;admission aura lieu à partir du lundi 29 mars 2021.&lt;br/&gt;Les résultats de cet examen pourront être consultés à partir du lundi 12 avril 2021 sur le site intranet de la direction de l&#39;administration pénitentiaire à l&#39;adresse suivante : https://intranet.justice.gouv.fr/site/apnet/ rubrique « Liens pratiques » puis « Recrutement/concours ».&lt;br/&gt;Aucun résultat ne sera communiqué par téléphone ou par voie électronique.&lt;br/&gt;La composition du jury fera l&#39;objet d&#39;un arrêté ultérieur du garde des sceaux, ministre de la justice.&lt;/p&gt;</content>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 21 décembre 2020, est autorisée au titre de l&#39;année 2020 l&#39;ouverture d&#39;un examen professionnel spécifique pour l&#39;accès au corps de commandement dans le grade de lieutenant pénitentiaire.&lt;br/&gt;&#xA;Cet examen professionnel est ouvert aux premiers surveillants et aux majors pénitentiaires remplissant les conditions fixées au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000039202066&amp;idArticle=JORFARTI000039202214&amp;categorieLien=cid&#39; title=&#39;Décret n°2019-1038 du 9 octobre 2019 - art. 38 (V)&#39;&gt;1° de l&#39;article 38 du décret n° 2019-1038 du 9 octobre 2019&lt;/a&gt; modifiant le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000241333&amp;categorieLien=cid&#39; title=&#39;Décret n°2006-441 du 14 avril 2006 (V)&#39;&gt;décret n° 2006-441 du 14 avril 2006&lt;/a&gt; portant statut particulier des corps du personnel de surveillance de l&#39;administration pénitentiaire.&lt;br/&gt;&#xA;Il comporte une présélection sur dossier et une épreuve d&#39;admission.&lt;br/&gt;&#xA;Le nombre total des postes offerts au titre de l&#39;année 2020 à l&#39;examen professionnel est fixé à 100.&lt;br/&gt;&#xA;Les registres d&#39;inscription seront ouverts du lundi 28 décembre 2020 au vendredi 26 février 2021, à minuit, heure de Paris.&lt;br/&gt;&#xA;Les inscriptions s&#39;effectuent par voie télématique sur le site APNET du ministère de la justice à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;https://intranet.justice.gouv.fr/site/apnet/&#39; target=&#39;_blank&#39;&gt; https://intranet.justice.gouv.fr/site/apnet/ &lt;/a&gt;rubrique &#34; Liens pratiques &#34; puis &#34; Recrutement/concours &#34;.&lt;br/&gt;&#xA;En cas d&#39;impossibilité de s&#39;inscrire par télé procédure, les candidats conservent la possibilité d&#39;obtenir le dossier imprimé établi à cette fin jusqu&#39;au vendredi 26 février 2021 à l&#39;adresse suivante : ministère de la justice, direction de l&#39;administration pénitentiaire, sous-direction des ressources humaines et des relations sociales, bureau RH1, section du recrutement, examen professionnel lieutenant, voie dérogatoire, 13, place Vendôme, 75042 Paris Cedex 01.&lt;br/&gt;&#xA;La date de fin de saisie des inscriptions sur le site APNET du ministère de la justice est fixée au vendredi 26 février 2021 à minuit, heure de Paris, date de clôture des inscriptions.&lt;br/&gt;&#xA;La date de retour des dossiers est fixée au vendredi 26 février 2021, à minuit, heure de Paris, date de clôture des inscriptions, le cachet de la poste faisant foi. Tout dossier papier parvenant dans une enveloppe portant un cachet de la poste postérieur au vendredi 26 février 2021 ou parvenant après cette date dans une enveloppe ne portant aucun cachet de la poste ou par tout autre mode d&#39;envoi non postal (courriel, télécopie) sera refusé.&lt;br/&gt;&#xA;Conformément aux dispositions du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000041849871&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-523 du 4 mai 2020 (V)&#39;&gt;décret n° 2020-523 du 4 mai 2020&lt;/a&gt; relatif à la portabilité des équipements contribuant à l&#39;adaptation du poste de travail et aux dérogations aux règles normales des concours, des procédures de recrutement et des examens en faveur des agents publics et des candidats en situation de handicap, les candidats en situation de handicap sollicitant un aménagement d&#39;épreuve devront transmettre au service organisateur, au plus tard le lundi 1er mars 2021, par voie dématérialisée à l&#39;adresse &lt;a shape=&#39;rect&#39; href=&#39;mailto:concours.dap@justice.gouv.fr&#39; target=&#39;_blank&#39;&gt; concours.dap@justice.gouv.fr&lt;/a&gt;, un certificat médical établi par un médecin agréé. Le certificat médical, qui doit avoir été établi moins de six mois avant le déroulement des épreuves, précise la nature des aides humaines et techniques ainsi que des aménagements nécessaires pour permettre aux candidats, compte tenu de la nature et de la durée des épreuves, de composer dans des conditions compatibles avec leur situation.&lt;br/&gt;&#xA;La présélection consiste en la remise d&#39;un dossier de reconnaissance des acquis de l&#39;expérience professionnelle.&lt;br/&gt;&#xA;Les candidats doivent adresser leur dossier de reconnaissance des acquis de l&#39;expérience professionnelle, au plus tard le vendredi 26 février 2021, minuit heure de Paris (cachet de la poste faisant foi), à l&#39;adresse suivante : ministère de la justice, direction de l&#39;administration pénitentiaire, sous-direction des ressources humaines et des relations sociales, bureau RH1, section du recrutement, examen professionnel lieutenant, voie dérogatoire, 13, place Vendôme, 75042 Paris Cedex 01.&lt;br/&gt;&#xA;Les résultats de cette présélection seront consultables à partir du mardi 16 mars 2021 sur le site intranet de la direction de l&#39;administration pénitentiaire à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;https://intranet.justice.gouv.fr/site/apnet/&#39; target=&#39;_blank&#39;&gt; https://intranet.justice.gouv.fr/site/apnet/&lt;/a&gt; rubrique &#34; Liens pratiques &#34; puis &#34; Recrutement/concours &#34;.&lt;br/&gt;&#xA;Aucun résultat ne sera communiqué par téléphone ou par voie électronique.&lt;br/&gt;&#xA;L&#39;épreuve d&#39;admission aura lieu à partir du lundi 29 mars 2021.&lt;br/&gt;&#xA;Les résultats de cet examen pourront être consultés à partir du lundi 12 avril 2021 sur le site intranet de la direction de l&#39;administration pénitentiaire à l&#39;adresse suivante : &lt;a shape=&#39;rect&#39; href=&#39;https://intranet.justice.gouv.fr/site/apnet/&#39; target=&#39;_blank&#39;&gt; https://intranet.justice.gouv.fr/site/apnet/&lt;/a&gt; rubrique &#34; Liens pratiques &#34; puis &#34; Recrutement/concours &#34;.&lt;br/&gt;&#xA;Aucun résultat ne sera communiqué par téléphone ou par voie électronique.&lt;br/&gt;&#xA;La composition du jury fera l&#39;objet d&#39;un arrêté ultérieur du garde des sceaux, ministre de la justice.&lt;/p&gt;</content>
     <published>2020-12-26 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739234"></link>
     <author>
@@ -1110,162 +1122,6 @@
     <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 décembre 2020, M. Guillaume PEPY, maître des requêtes, est maintenu dans la position de disponibilité en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000502401&amp;idArticle=LEGIARTI000006485861&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°85-986 du 16 septembre 1985 - art. 44 (V)&#39;&gt;dispositions du b de l&#39;article 44 du décret n° 85-986 du 16 septembre 1985&lt;/a&gt; modifié relatif au régime particulier de certaines positions des fonctionnaires de l&#39;Etat, à la mise à disposition, à l&#39;intégration et à la cessation définitive de fonctions, pour une durée de trois mois, à compter du 1er novembre 2020.&lt;/p&gt;</content>
     <published>2020-12-19 01:00:00 +0100 CET</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700838"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695303</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;La démission de M. MAUBREY (Antoine, Bruno, Dominique), notaire à la résidence de Toulouse (‎Haute-Garonne), est acceptée.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « ESPAGNO et Associés », titulaire d&#39;un office de notaire à la résidence de Muret (Haute-Garonne), est nommée notaire à la résidence de Toulouse (Haute-Garonne), en remplacement de M. MAUBREY (Antoine, Bruno, Dominique).&lt;br/&gt;Il est mis fin aux fonctions de M. BELARGE (Pierre, René, Jean-François), en qualité de notaire associé au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limite « ESPAGNO et Associés » à la résidence de Muret (Haute-Garonne).&lt;br/&gt;M. BELARGE (Pierre, René, Jean-François), notaire associé, membre de la société d&#39;exercice libéral à responsabilité limitée « ESPAGNO et Associés », est nommé pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Toulouse (Haute-Garonne).&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695303"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 portant nomination de deux notaires salariées (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695305</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020, Mme PUJO-SAUSSET (Céline, Sophie, Jeanne) et Mme CAPDEVILLE (Quitterie, Marie), épouse MARCOTTE de QUIVIÈRES, sont nommées en qualité de notaires salariées au sein de l&#39;office de notaire dont est titulaire Mme MARQUES (Maria, Emilie), épouse DULIN, à la résidence d&#39;Idron (Pyrénées-Atlantiques).&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695305"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695307</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de Mme THIRIET (Claire, Emma), épouse RICHÉ, en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « Notr&#39;1&#39;Pact », anciennement dénommée « Me François-Xavier PETIT et Me Nathalie GUILBAUD, notaires associés », à la résidence de Combs-la-Ville (Seine-et-Marne).&lt;br/&gt;Mme THIRIET (Claire, Emma), épouse RICHÉ, est nommée notaire associée, membre de la société d&#39;exercice libéral à responsabilité limitée « Notr&#39;1&#39;Pact ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695307"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695309</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de Mme DUGAUD (Nathalie, Eugénie, Edmée) et de Mme SERET (Aurélie, Jeannine, Christiane), en qualité de notaires salariées au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « CARRÉ notaires » à la résidence de Paris.&lt;br/&gt;Mme DUGAUD (Nathalie, Eugénie, Edmée) et Mme SERET (Aurélie, Jeannine, Christiane) sont nommées notaires associées, membres de la société d&#39;exercice libéral par actions simplifiée « CARRÉ notaires ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695309"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695311</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de M. MICHELOT (Olivier) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Sophie BOUIS-DEQUIDT, notaire, société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Vernoil-le-Fourrier (Maine-et-Loire).&lt;br/&gt;Le retrait de Mme DEQUIDT (Sophie, Maïté) épouse BOUIS, notaire associée, membre de la société civile professionnelle « Sophie BOUIS-DEQUIDT, notaire, société civile professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence de Vernoil-le-Fourrier (Maine-et-Loire), est accepté.&lt;br/&gt;Par suite du retrait de Mme DEQUIDT (Sophie, Maïté) épouse BOUIS, la société civile professionnelle « Sophie BOUIS-DEQUIDT, notaire, société civile professionnelle titulaire d&#39;un office notarial » est dissoute.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « BDM NOTAIRES », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence de Vernoil-le-Fourrier (Maine-et-Loire), en remplacement de la société civile professionnelle « Sophie BOUIS-DEQUIDT, notaire, société civile professionnelle titulaire d&#39;un office notarial ».&lt;br/&gt;Mme DEQUIDT (Sophie, Maïté) épouse BOUIS et M. MICHELOT (Olivier) sont nommés notaires associés.&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695311"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société d&#39;exercice libéral par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695313</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;M. LENNE (Florent, Yannick, Jean-Claude) est nommé notaire associé, membre de la société d&#39;exercice libéral par actions simplifiée « VACCARO Anthony, Notaire », titulaire d&#39;un office de notaire à la résidence de Villeneuve-la-Guyard (Yonne).&lt;br/&gt;La dénomination sociale de la société d&#39;exercice libéral par actions simplifiée « VACCARO Anthony, Notaire » est ainsi modifiée : « Anthony VACCARO et Florent LENNE, Notaires Associés ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695313"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 portant nomination d&#39;un notaire associé (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695315</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de M. HOUZELOT (Jules, François, Pierre), en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Philippe DAMBIER, Pierre HOUZELOT, Fabrice GAUTHIER, Hervé DESQUEYROUX, Antoine MAGENDIE, Edouard BENTEJAC, Olivier LASSERRE, Sébastien CETRE, Sébastien ARTAUD, Grégoire DELHOMME, Nicolas ADENIS-LAMARRE, Audrey DAMBIER, Thomas MESA-SPARBE et Michaël PEGUE, notaires associés d&#39;une société civile professionnelle titulaire d&#39;offices notariaux » à la résidence de Bordeaux (Gironde).&lt;br/&gt;M. HOUZELOT (Jules, François, Pierre) est nommé notaire associé, membre de la société civile professionnelle « Philippe DAMBIER, Pierre HOUZELOT, Fabrice GAUTHIER, Hervé DESQUEYROUX, Antoine MAGENDIE, Edouard BENTEJAC, Olivier LASSERRE, Sébastien CETRE, Sébastien ARTAUD, Grégoire DELHOMME, Nicolas ADENIS-LAMARRE, Audrey DAMBIER, Thomas MESA-SPARBE et Michaël PEGUE, notaires associés d&#39;une société civile professionnelle titulaire d&#39;offices notariaux », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Bordeaux (Gironde).&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Philippe DAMBIER, Pierre HOUZELOT, Fabrice GAUTHIER, Hervé DESQUEYROUX, Antoine MAGENDIE, Edouard BENTEJAC, Olivier LASSERRE, Sébastien CETRE, Sébastien ARTAUD, Grégoire DELHOMME, Nicolas ADENIS-LAMARRE, Audrey DAMBIER, Thomas MESA-SPARBE et Michaël PEGUE, notaires associés d&#39;une société civile professionnelle titulaire d&#39;offices notariaux » est ainsi modifiée : « Philippe DAMBIER, Pierre HOUZELOT, Fabrice GAUTHIER, Hervé DESQUEYROUX, Antoine MAGENDIE, Edouard BENTEJAC, Olivier LASSERRE, Sébastien CETRE, Sébastien ARTAUD, Grégoire DELHOMME, Nicolas ADENIS-LAMARRE, Audrey DAMBIER, Thomas MESA-SPARBE, Michaël PEGUE et Jules HOUZELOT, notaires associés d&#39;une société civile professionnelle titulaire d&#39;offices notariaux ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695315"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695317</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020, Mme DEVINE (Dorothée, Désolina), est nommée notaire associée, membre de la société par actions simplifiée « NOTAIRES NEMAUSUS », anciennement société civile professionnelle « Xavier MARGERIT, Fabrice MAUREL et Jean-David RAYMOND, notaires associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence de Nîmes (Gard).&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695317"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695319</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;M. GIOCANTI (Franck) est nommé notaire associé, membre de la société civile professionnelle « Philippe SOL, notaire », titulaire d&#39;un office de notaire à la résidence de L&#39;Isle-sur-la-Sorgue (Vaucluse).&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Philippe SOL, notaire » est ainsi modifiée : « Philippe SOL et Franck GIOCANTI, notaires associés ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695319"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695321</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Le retrait de Mme DANFLOUS (Anne) notaire associée, membre de la société civile professionnelle « Anne DANFLOUS-THEROND, Alain BIANCHI, Julien PROST, Notaires associés, Société Civile Professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence de Bellegarde (Gard), est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Anne DANFLOUS-THEROND, Alain BIANCHI, Julien PROST, Notaires associés, Société Civile Professionnelle titulaire d&#39;un office notarial » est ainsi modifiée : « Alain BIANCHI et Julien PROST, Notaires associés, Société Civile Professionnelle titulaire d&#39;un office notarial ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695321"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695323</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;La démission de Mme RIGAL (Audrey, Christine), notaire à la résidence d&#39;Aix-les-Bains (Savoie), est acceptée.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « INFÉRENCE NOTAIRES », titulaire d&#39;un office de notaire à la résidence d&#39;Annecy (Haute-Savoie) est nommée notaire à la résidence d&#39;Aix-les-Bains (Savoie), en remplacement de Mme RIGAL (Audrey, Christine).&lt;br/&gt;Mme RIGAL (Audrey, Christine), est nommée notaire associée, membre de la société d&#39;exercice libéral à responsabilité limitée « INFÉRENCE NOTAIRES », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence d&#39;Aix-les-Bains (Savoie).&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695323"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 décembre 2020 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695325</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 10 décembre 2020 :&lt;br/&gt;Il est mis fin aux fonctions de Mme FOUCHER (Aude, Joëlle, Marie, Denise) en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Daniel FOUCHER et Joëlle FOUCHER-MOREAU, notaires associés » à la résidence de Vernon (Eure).&lt;br/&gt;Mme FOUCHER (Aude, Joëlle, Marie, Denise) est nommée notaire associée, membre de la société civile professionnelle « Daniel FOUCHER et Joëlle FOUCHER-MOREAU, notaires associés ».&lt;br/&gt;Le retrait de Mme MOREAU (Joëlle, Thérèse), épouse FOUCHER, notaire associée, membre de la société civile professionnelle « Daniel FOUCHER et Joëlle FOUCHER-MOREAU, notaires associés », est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Daniel FOUCHER et Joëlle FOUCHER-MOREAU, notaires associés » est ainsi modifiée : « Daniel FOUCHER et Aude FOUCHER, notaires membres d&#39;une société civile professionnelle titulaire d&#39;un office notarial ».&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695325"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 14 décembre 2020 portant nomination et titularisation dans le corps interministériel des attachés d&#39;administration de l&#39;Etat (Conseil d&#39;Etat et Cour nationale du droit d&#39;asile)</title>
-    <updated></updated>
-    <id>JORFTEXT000042695327</id>
-    <category>Journal officiel &#34;Lois et Décrets&#34;/Décrets, arrêtés, circulaires/Mesures nominatives/Ministère de la justice</category>
-    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 14 décembre 2020, M. Christophe BOUBA, secrétaire administratif de classe normale, est, à compter du 15 décembre 2020, nommé et titularisé dans le corps interministériel des attachés d&#39;administration de l&#39;Etat.&lt;/p&gt;</content>
-    <published>2020-12-18 01:00:00 +0100 CET</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695327"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
