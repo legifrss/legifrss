@@ -24,7 +24,7 @@ func Generate(result []models.LegifranceElement) {
 	for key, posts := range natureMap {
 		filePath := key + "_all.xml"
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
-		appendToFile(feed, filepath)
+		appendToFile(feed, filePath)
 
 	}
 	authorMap := mapByAuthor(result)
@@ -32,13 +32,7 @@ func Generate(result []models.LegifranceElement) {
 		filePath := "all_" + key + ".xml"
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
 
-		f, err := os.Create("feed/" + filePath)
-		utils.ErrCheck(err)
-
-		elem, err := feeds.ToXML(feed)
-		utils.ErrCheck(err)
-
-		f.WriteString(elem)
+		appendToFile(feed, filePath)
 
 	}
 	authorNatureMap := mapByAuthorAndNature(result)
@@ -47,13 +41,7 @@ func Generate(result []models.LegifranceElement) {
 		for key2, item := range maps {
 			filePath := key2 + "_" + key1 + ".xml"
 			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + key1 + " - " + key2, LinkSuffix: filePath, DescriptionSuffix: ""})
-			f, err := os.Create("feed/" + filePath)
-			utils.ErrCheck(err)
-
-			elem, err := feeds.ToXML(feed)
-			utils.ErrCheck(err)
-
-			f.WriteString(elem)
+			appendToFile(feed, filePath)
 		}
 	}
 
@@ -137,12 +125,12 @@ func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[strin
 	return result
 }
 
-func appendToFile(feed feeds.AtomFeed, path string) {
-	limit := 3
+func appendToFile(feed *feeds.AtomFeed, path string) {
+	path = "feed/" + path
+	limit := 50
 	fmt.Println("path to print " + path)
 	fmt.Println("entries " + strconv.Itoa(len(feed.Entries)))
-	if _, err := os.Stat(path); err == nil || len(feed.Entries) > limit {
-
+	if _, err := os.Stat(path); err != nil || len(feed.Entries) > limit {
 		write(feed, path)
 	}
 
@@ -161,16 +149,20 @@ func appendToFile(feed feeds.AtomFeed, path string) {
 	write(feed, path)
 }
 
-func mergeFeeds(newFeed feeds.AtomFeed, oldFeed feeds.AtomFeed, limit int) feeds.AtomFeed {
-	newFeed.Entries = append(newFeed.Entries, oldFeed.Entries...)[:limit]
+func mergeFeeds(newFeed *feeds.AtomFeed, oldFeed feeds.AtomFeed, limit int) *feeds.AtomFeed {
+	list := append(newFeed.Entries, oldFeed.Entries...)
+	if len(list) > limit {
+		list = list[:limit]
+	}
+	newFeed.Entries = list
 	return newFeed
 }
 
-func write(feed feeds.AtomFeed, path string) {
+func write(feed *feeds.AtomFeed, path string) {
 	f, err := os.Create(path)
 	utils.ErrCheck(err)
 
-	elem, err := feeds.ToXML(&feed)
+	elem, err := feeds.ToXML(feed)
 	utils.ErrCheck(err)
 
 	f.WriteString(elem)

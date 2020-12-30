@@ -37,10 +37,13 @@ func TestMergeFeeds(t *testing.T) {
 	}
 	feed2 := feeds.AtomFeed{
 		Entries: []*feeds.AtomEntry{
-			{Id: "4", Content: &feeds.AtomContent{Content: "test"}}},
-	}
-	f := mergeFeeds(feed2, feed1, 2)
-	assert.Equal(t, "4", f.Entries[0].Id)
-	assert.Equal(t, "test", f.Entries[0].Content.Content)
-	assert.Equal(t, 2, len(f.Entries))
+			{Id: "4", Content: &feeds.AtomContent{Content: "test4"}},
+			{Id: "5", Content: &feeds.AtomContent{Content: "test5"}},
+			{Id: "6", Content: &feeds.AtomContent{Content: "excluded6"}},
+		}}
+
+	f := mergeFeeds(&feed1, feed2, 5)
+	assert.Equal(t, "1", f.Entries[0].Id)
+	assert.Equal(t, "test5", f.Entries[4].Content.Content)
+	assert.Equal(t, 5, len(f.Entries))
 }
