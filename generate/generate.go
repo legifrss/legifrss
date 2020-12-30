@@ -2,8 +2,10 @@ package generate
 
 import (
 	"encoding/xml"
+	"fmt"
 	"io/ioutil"
 	"os"
+	"strconv"
 	"strings"
 
 	"github.com/gorilla/feeds"
@@ -22,14 +24,7 @@ func Generate(result []models.LegifranceElement) {
 	for key, posts := range natureMap {
 		filePath := key + "_all.xml"
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
-		f, err := os.Create("feed/" + filePath)
-
-		utils.ErrCheck(err)
-
-		elem, err := feeds.ToXML(feed)
-		utils.ErrCheck(err)
-
-		f.WriteString(elem)
+		appendToFile(feed, filepath)
 
 	}
 	authorMap := mapByAuthor(result)
@@ -143,8 +138,11 @@ func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[strin
 }
 
 func appendToFile(feed feeds.AtomFeed, path string) {
-	limit := 50
+	limit := 3
+	fmt.Println("path to print " + path)
+	fmt.Println("entries " + strconv.Itoa(len(feed.Entries)))
 	if _, err := os.Stat(path); err == nil || len(feed.Entries) > limit {
+
 		write(feed, path)
 	}
 
@@ -155,6 +153,9 @@ func appendToFile(feed feeds.AtomFeed, path string) {
 
 	var oldFeed feeds.AtomFeed
 	xml.Unmarshal(byteValue, &oldFeed)
+	fmt.Println("Merging feed : " + path + ",entries: " + strconv.Itoa(len(feed.Entries)))
+
+	fmt.Println(oldFeed.Entries)
 
 	feed = mergeFeeds(feed, oldFeed, limit)
 	write(feed, path)
