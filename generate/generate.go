@@ -143,8 +143,6 @@ func appendToFile(feed *feeds.AtomFeed, path string) {
 	xml.Unmarshal(byteValue, &oldFeed)
 	fmt.Println("Merging feed : " + path + ",entries: " + strconv.Itoa(len(feed.Entries)))
 
-	fmt.Println(oldFeed.Entries)
-
 	feed = mergeFeeds(feed, oldFeed, limit)
 	write(feed, path)
 }
