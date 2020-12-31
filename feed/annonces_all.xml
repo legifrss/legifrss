@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - annonces</title>
-  <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-28T21:26:53+01:00</updated>
+  <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/annonces_all.xml</id>
+  <updated>2020-12-31T11:33:44+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
-  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/annonces_all.xml" rel="self"></link>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 119 à 147)</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:44+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709676</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-22T01:00:00+01:00</published>
@@ -20,7 +19,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 94 à 113)</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:44+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702847</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-20T01:00:00+01:00</published>
@@ -29,11 +28,35 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 145 à 171)</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:44+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701311</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701311"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 119 à 147)</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709676</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-22T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 94 à 113)</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702847</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-20T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 145 à 171)</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701311</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-19T01:00:00+01:00</published>
     <author></author>
   </entry>
   <entry>
@@ -42,7 +65,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695538</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042695538"></link>
     <author></author>
   </entry>
   <entry>
@@ -51,7 +73,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678058</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 06046&lt;/p&gt;&lt;p&gt;&lt;br/&gt;MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE DIRECTION GÉNÉRALE DE L&#39;ÉNERGIE ET DU CLIMAT DIRECTION DE L&#39;ÉNERGIE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de gîtes géothermiques, dit « permis de Sud Carbet » (Martinique)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Par demande en date du 16 octobre 2020, les sociétés Storengy SAS (12, rue Raoul-Nordling, F-92270 Bois-Colombe) et TLS Geothermics SAS (91, chemin de Garbardie, F-31200 Toulouse) ont sollicité, conjointement et solidairement, un permis exclusif de recherches de gîtes géothermiques, dit « permis de Sud Carbet », d&#39;une durée de cinq ans, sur partie du département de la Martinique.&lt;br/&gt;Le périmètre de ce permis, d&#39;environ 147 km2, est délimité par les segments de droites joignant les sommets définis ci-après :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th rowspan=&#39;2&#39;&gt;&lt;br/&gt;SOMMET&lt;/th&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;RGAF09UTM20&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;X (m)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y (m)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;710 115&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 625 900&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;716 517&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 622 759&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;721 797&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 614 721&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;714 499&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 610 567&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;E&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;708 261&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 618 783&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;F&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;704 778&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 615 618&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;G&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;703 064&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 617 571&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;H&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;704 431&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1 622 316&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le dossier, outre la demande, comprend le résumé non technique qui, d&#39;une part, justifie les limites du périmètre du titre sollicité et d&#39;autre part, précise les caractéristiques sur l&#39;état du site et de son environnement ainsi que les impacts potentiels du projet sur l&#39;environnement et la ressource en eau.&lt;br/&gt;La demande de permis exclusif de recherches et le résumé non technique peuvent être consultés au ministère de la transition écologique (direction de l&#39;énergie, bureau des ressources énergétiques du sous-sol, tour Séquoia, F-92055 La Défense), sur rendez-vous auprès de : armelle.balian@developpement-durable.gouv.fr et à la préfecture de la Martinique (rue Louis-Blanc, angle de la rue Félix-Eboué, F-97262 Fort-de-France), du lundi au vendredi de 8 heures à 12 heures.&lt;br/&gt;Dépôt des demandes et critères de sélection du titre&lt;br/&gt;Les pétitionnaires de la demande initiale et des demandes en concurrence doivent justifier des conditions nécessaires à l&#39;octroi du titre, définies aux articles 4 et 4-1 du décret nº 78-498 du 28 mars 1978 relatif aux titres de recherches et d&#39;exploitation de géothermie (Journal officiel de la République française du 4 avril 1978).&lt;br/&gt;Les sociétés intéressées peuvent présenter une demande en concurrence portant sur tout ou partie du même périmètre dans un délai de trente jours à compter de la date de publication du présent avis. Elles sont présentées et adressées sous les mêmes formes que celles prévues aux articles 6-1 et 6-2 du décret du 28 mars 1978 précité.&lt;br/&gt;Les demandes en concurrence sont adressées au ministère de la transition écologique à l&#39;adresse indiquée ci-dessus.&lt;br/&gt;Les critères de sélection des demandes portent sur les capacités techniques et financières, en particulier :&lt;br/&gt;1° La qualité des études préalables réalisées pour la définition du périmètre et du programme de travaux, la prise en compte des données existantes de nature à réduire les impacts environnementaux du programme de travaux ainsi que la qualité technique et le degré d&#39;innovation des programmes de travaux présentés ;&lt;br/&gt;2° Le niveau des engagements financiers relatifs aux travaux d&#39;exploration. Les engagements financiers sont appréciés au vu des capacités financières du demandeur et de ses projets en cours de réalisation.&lt;br/&gt;Le ministre chargé des mines peut également prendre en compte le caractère innovant d&#39;une demande lorsque les technologies prévues dans le cadre du programme de travaux relèvent d&#39;actions de recherche, de développement et d&#39;innovation dans le domaine de la géothermie.&lt;br/&gt;Ainsi, les dossiers seront analysés selon la grille de cotation suivante sur 100 points :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;CRITÈRES&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Pts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Capacités techniques&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Qualité des études préalables réalisées&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Qualité technique et degré d&#39;innovation&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Maîtrise des impacts environnementaux&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Capacités financières&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Niveau des engagements financiers&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le ministre chargé des mines notifie à chaque demandeur ayant répondu à l&#39;appel à la concurrence la décision statuant sur sa demande.&lt;br/&gt;En cas de rejet, la notification précise les motifs du rejet et le nom du (ou des) demandeur(s) sélectionné(s).&lt;br/&gt;La décision sur la demande retenue interviendra au plus tard le 19 octobre 2022.&lt;br/&gt;Conditions et exigences concernant l&#39;exercice de l&#39;activité et de son arrêt&lt;br/&gt;Les pétitionnaires sont invités à se reporter aux articles L. 161-1 et L. 161-2 du code minier et au décret nº 2006-649 du 2 juin 2006 relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines, des stockages souterrains (Journal officiel de la République française du 3 juin 2006).&lt;br/&gt;Les dispositions réglementaires ci-dessus mentionnées peuvent être consultées sur Légifrance :&lt;br/&gt;http://www.legifrance.gouv.fr.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678058"></link>
     <author></author>
   </entry>
   <entry>
@@ -60,7 +81,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678060</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042678060"></link>
     <author></author>
   </entry>
 </feed>

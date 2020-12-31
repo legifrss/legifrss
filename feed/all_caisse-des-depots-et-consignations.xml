@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - caisse-des-depots-et-consignations</title>
-  <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-28T21:26:53+01:00</updated>
+  <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_caisse-des-depots-et-consignations.xml</id>
+  <updated>2020-12-31T11:33:46+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
-  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/all_caisse-des-depots-et-consignations.xml" rel="self"></link>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion à l&#39;échelon spécial du grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:46+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732588</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés d&#39;administration hors classe dont les noms suivent sont promus à l&#39;échelon spécial du grade d&#39;attaché hors classe au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. HAYEZ (Stéphane) - Mme ORDAS MONOT (Marie).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 9 mars 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. RAVOT (Thierry).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 7 septembre 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. MOLAS (Jean-Louis).&lt;/p&gt;</content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -22,7 +21,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:46+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732590</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés principaux d&#39;administration dont les noms suivent sont promus au grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mme BOEZ (Christine) - M. BONNISSOU (Xavier) - M. LESPAGNOL (Ivan) - Mme MASSON-LEININGER (Juliette) - Mme MAUCLAIRE (Marina) - M. NICOLAS (Michel) - M. PAQUET (Brice) - Mme PERRIER (Nadine) - Mme POUET (Annie) - Mme TRIQUET (Sandrine).&lt;/p&gt;</content>
     <published>2020-12-24T01:00:00+01:00</published>
@@ -33,11 +32,41 @@
   </entry>
   <entry>
     <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021</title>
-    <updated>2020-12-28T21:26:53+01:00</updated>
+    <updated>2020-12-31T11:33:46+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732592</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés d&#39;administration dont les noms suivent sont promus au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. BAUDIN (Simon) - M. BOINET (Jean-Pierre) - M. BOUILLET (Denis) - M. CHANCEL (Pascal) - Mme CHERREY (Géraldine) - M. DARDER (Jean-François) - Mme DAUNAIS (Catherine) - M. DELESALLE (Olivier) - M. GEROMETTA (Blaise) - Mme HAUVILLE (Alexandre) - M. KOMOROWSKI (Nicolas) - M. LOMPREZ (Arnaud) - Mme NAUDAIN-VARELA (Céline) - Mme NAVY (Lucia) - M. ONNO (Olivier) - Mme PROVOST-CHABOIS (Sybille) - Mme ROGER-GENDARME (Isabelle) - M. SALABERRIA (David) - Mme SILKIDER (Ourida) - M. SOVEAUX (Sébastien) - Mme VOUILLOT (Anne-Lise) - M. ZUSSA Jean-Christophe.&lt;/p&gt;</content>
     <published>2020-12-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732592"></link>
+    <author>
+      <name>Caisse des dépôts et consignations</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 portant promotion à l&#39;échelon spécial du grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732588</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés d&#39;administration hors classe dont les noms suivent sont promus à l&#39;échelon spécial du grade d&#39;attaché hors classe au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. HAYEZ (Stéphane) - Mme ORDAS MONOT (Marie).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 9 mars 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. RAVOT (Thierry).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 7 septembre 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. MOLAS (Jean-Louis).&lt;/p&gt;</content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <author>
+      <name>Caisse des dépôts et consignations</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732590</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés principaux d&#39;administration dont les noms suivent sont promus au grade d&#39;attaché d&#39;administration hors classe au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Mme BOEZ (Christine) - M. BONNISSOU (Xavier) - M. LESPAGNOL (Ivan) - Mme MASSON-LEININGER (Juliette) - Mme MAUCLAIRE (Marina) - M. NICOLAS (Michel) - M. PAQUET (Brice) - Mme PERRIER (Nadine) - Mme POUET (Annie) - Mme TRIQUET (Sandrine).&lt;/p&gt;</content>
+    <published>2020-12-24T01:00:00+01:00</published>
+    <author>
+      <name>Caisse des dépôts et consignations</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 décembre 2020 portant promotion au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021</title>
+    <updated>2020-12-28T21:26:53+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042732592</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du directeur général de la Caisse des dépôts et consignations en date du 18 décembre 2020, les attachés d&#39;administration dont les noms suivent sont promus au grade d&#39;attaché principal d&#39;administration au titre de l&#39;année 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;A compter du 1er janvier 2021&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. BAUDIN (Simon) - M. BOINET (Jean-Pierre) - M. BOUILLET (Denis) - M. CHANCEL (Pascal) - Mme CHERREY (Géraldine) - M. DARDER (Jean-François) - Mme DAUNAIS (Catherine) - M. DELESALLE (Olivier) - M. GEROMETTA (Blaise) - Mme HAUVILLE (Alexandre) - M. KOMOROWSKI (Nicolas) - M. LOMPREZ (Arnaud) - Mme NAUDAIN-VARELA (Céline) - Mme NAVY (Lucia) - M. ONNO (Olivier) - Mme PROVOST-CHABOIS (Sybille) - Mme ROGER-GENDARME (Isabelle) - M. SALABERRIA (David) - Mme SILKIDER (Ourida) - M. SOVEAUX (Sébastien) - Mme VOUILLOT (Anne-Lise) - M. ZUSSA Jean-Christophe.&lt;/p&gt;</content>
+    <published>2020-12-24T01:00:00+01:00</published>
     <author>
       <name>Caisse des dépôts et consignations</name>
     </author>

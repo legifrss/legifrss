@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics - rapport</title>
-  <id>https://github.com/ldicarlo/legifrance-rss</id>
-  <updated>2020-12-28T21:26:54+01:00</updated>
+  <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/rapport_ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics.xml</id>
+  <updated>2020-12-31T11:33:49+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
-  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
-  <link href="https://raw.githubusercontent.com/ldicarlo/legifrance-rss/nightly/feed/rapport_ministere-de-l-economie-des-finances-et-de-la-relance-comptes-publics.xml" rel="self"></link>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
     <name>Luca Di Carlo</name>
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
     <title>Rapport relatif au décret n° 2020-1699 du 23 décembre 2020 portant ouverture et annulation de crédits</title>
-    <updated>2020-12-28T21:26:54+01:00</updated>
+    <updated>2020-12-31T11:33:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739896</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte annulation de 35 000 000 € de crédits sur la dotation « Dépenses accidentelles et imprévisibles » des « Crédits non répartis » et ouverture, en autorisations d&#39;engagement et en crédits de paiement, de 27 000 000 € sur le programme 334 « Livre et industries culturelles » de la mission « Médias, livre et industries culturelles » et de 8 000 000 € sur le programme 131 « Création » de la mission « Culture ».&lt;br/&gt;Cette ouverture de crédits intervient à la suite de la prolongation des mesures de fermeture des établissements culturels jusqu&#39;à la fin de l&#39;année 2020. Ces crédits visent ainsi à soutenir financièrement les secteurs les plus touchés, c&#39;est-à-dire le spectacle vivant et le cinéma.&lt;br/&gt;Ces crédits permettront d&#39;abonder le soutien d&#39;urgence aux exploitants de salle pour la fin de l&#39;année 2020, le soutien aux distributeurs et aux producteurs de films, ainsi que le fonds d&#39;urgence des théâtres privés.&lt;br/&gt;Afin de soutenir ces secteurs essentiels à la vie culturelle qui connaissent de graves difficultés financières, il est donc nécessaire de mobiliser la dotation « Dépenses accidentelles et imprévisibles ».&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>
@@ -22,7 +21,7 @@
   </entry>
   <entry>
     <title>Rapport relatif au décret n° 2020-1648 du 22 décembre 2020 portant virement de crédits</title>
-    <updated>2020-12-28T21:26:54+01:00</updated>
+    <updated>2020-12-31T11:33:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723077</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 468 453 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 220 « Statistiques et études économiques » de la mission « Économie » vers le programme 134 « Développement des entreprises et régulations » de la mission « Economie ».&lt;br/&gt;Ce virement est destiné au financement d&#39;une aide à la filière équestre, pour un total de 8 millions d&#39;euros. Ces crédits ont été ouverts à cette fin sur la mission « Economie » en commission mixte paritaire lors de l&#39;élaboration du texte de la quatrième loi de finances rectificative pour 2020.&lt;/p&gt;</content>
     <published>2020-12-23T01:00:00+01:00</published>
@@ -33,11 +32,41 @@
   </entry>
   <entry>
     <title>Rapport relatif au décret n° 2020-1649 du 22 décembre 2020 portant virement de crédits</title>
-    <updated>2020-12-28T21:26:54+01:00</updated>
+    <updated>2020-12-31T11:33:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723086</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 23 000 000 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 230 « Vie de l&#39;élève » de la mission « Enseignement scolaire » vers le programme 139 « Enseignement privé du premier et du second degrés » de la mission « Enseignement scolaire ».&lt;br/&gt;Ce décret de virement est destiné au redéploiement des crédits de personnel dans le cadre des travaux de fin de gestion.&lt;/p&gt;</content>
     <published>2020-12-23T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723086"></link>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rapport relatif au décret n° 2020-1699 du 23 décembre 2020 portant ouverture et annulation de crédits</title>
+    <updated>2020-12-28T21:26:54+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042739896</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte annulation de 35 000 000 € de crédits sur la dotation « Dépenses accidentelles et imprévisibles » des « Crédits non répartis » et ouverture, en autorisations d&#39;engagement et en crédits de paiement, de 27 000 000 € sur le programme 334 « Livre et industries culturelles » de la mission « Médias, livre et industries culturelles » et de 8 000 000 € sur le programme 131 « Création » de la mission « Culture ».&lt;br/&gt;Cette ouverture de crédits intervient à la suite de la prolongation des mesures de fermeture des établissements culturels jusqu&#39;à la fin de l&#39;année 2020. Ces crédits visent ainsi à soutenir financièrement les secteurs les plus touchés, c&#39;est-à-dire le spectacle vivant et le cinéma.&lt;br/&gt;Ces crédits permettront d&#39;abonder le soutien d&#39;urgence aux exploitants de salle pour la fin de l&#39;année 2020, le soutien aux distributeurs et aux producteurs de films, ainsi que le fonds d&#39;urgence des théâtres privés.&lt;br/&gt;Afin de soutenir ces secteurs essentiels à la vie culturelle qui connaissent de graves difficultés financières, il est donc nécessaire de mobiliser la dotation « Dépenses accidentelles et imprévisibles ».&lt;/p&gt;</content>
+    <published>2020-12-26T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rapport relatif au décret n° 2020-1648 du 22 décembre 2020 portant virement de crédits</title>
+    <updated>2020-12-28T21:26:54+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723077</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 468 453 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 220 « Statistiques et études économiques » de la mission « Économie » vers le programme 134 « Développement des entreprises et régulations » de la mission « Economie ».&lt;br/&gt;Ce virement est destiné au financement d&#39;une aide à la filière équestre, pour un total de 8 millions d&#39;euros. Ces crédits ont été ouverts à cette fin sur la mission « Economie » en commission mixte paritaire lors de l&#39;élaboration du texte de la quatrième loi de finances rectificative pour 2020.&lt;/p&gt;</content>
+    <published>2020-12-23T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rapport relatif au décret n° 2020-1649 du 22 décembre 2020 portant virement de crédits</title>
+    <updated>2020-12-28T21:26:54+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042723086</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte virement de crédits de titre 2 d&#39;un montant de 23 000 000 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 230 « Vie de l&#39;élève » de la mission « Enseignement scolaire » vers le programme 139 « Enseignement privé du premier et du second degrés » de la mission « Enseignement scolaire ».&lt;br/&gt;Ce décret de virement est destiné au redéploiement des crédits de personnel dans le cadre des travaux de fin de gestion.&lt;/p&gt;</content>
+    <published>2020-12-23T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
     </author>
@@ -48,7 +77,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677598</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Ce virement de crédits d&#39;un montant de 563 536 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP) en provenance du programme 167 « Liens entre la Nation et son armée » de la mission « Anciens combattants, mémoire et liens avec la Nation » vers le programme 169 « Reconnaissance et réparation en faveur du monde combattant » de la mission « Anciens combattants, mémoire et liens avec la Nation » est destiné au financement du dispositif d&#39;aide à destination des enfants d&#39;anciens harkis, moghaznis et personnels des diverses formations supplétives de statut civil de droit local et assimilés.&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677598"></link>
     <author>
       <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
     </author>
@@ -59,7 +87,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677607</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret porte annulation de crédits d&#39;un montant de 86 089 520,21 € en autorisations d&#39;engagement (AE) et crédits de paiement (CP), dont 171 624,03 € en titre 2.&lt;br/&gt;Ces annulations sont réalisées à la demande des ministères concernés et sont destinées à permettre le remboursement à des tiers, de trop-perçus sur fonds de concours et attributions de produits.&lt;br/&gt;Ce décret est pris sur le fondement des articles 14-I et 17-II de la loi organique du 1er août 2001 relative aux lois de finances (LOLF) et de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000245466&amp;idArticle=LEGIARTI000006334089&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n° 2007-44 du 11 janvier 2007 - art. 7 (V)&#39;&gt;article 7 du décret n° 2007-44 du 11 janvier 2007&lt;/a&gt; pris pour l&#39;application du II de l&#39;article 17 de la loi organique du 1er août 2001 relative aux lois de finances.&lt;br/&gt;La liste exhaustive des annulations est détaillée ci-dessous :&lt;br/&gt;1. Annulation de crédits hors titre 2 d&#39;un montant de 771 657,78 € en AE et CP du programme 206 « Sécurité et qualité sanitaires de l&#39;alimentation » de la mission « Agriculture, alimentation, forêt et affaires rurales », destiné à la restitution de crédits versés par la Commission européenne à la Direction générale de l&#39;alimentation (DGAL) au titre du programme 2017 relatif à Xylella fastidiosa et Anoplophora ;&lt;br/&gt;2. Annulation de crédits hors titre 2 d&#39;un montant de 79 565 456,00 € en AE et CP du programme 135 « Urbanisme, territoires et amélioration de l&#39;habitat » de la mission « Cohésion des territoires », destiné à la restitution de crédits non engagés sur les fonds de concours versés par le Fonds national des aides à la pierre (FNAP) ;&lt;br/&gt;3. Annulation de crédits hors titre 2 d&#39;un montant de 2 383,03 € en AE et CP du programme 178 « Préparation et emploi des forces » de la mission « Défense », destiné à la restitution à divers tiers de trop-perçus par le service de santé des armées (SSA) ;&lt;br/&gt;4. Annulation de crédits hors titre 2 d&#39;un montant de 54 197,06 € en AE et CP du programme 178 « Préparation et emploi des forces » de la mission « Défense », destiné à la restitution à la Caisse nationale militaire de sécurité sociale (CNMSS) de trop-perçus par le Service de santé des armées (SSA) ;&lt;br/&gt;5. Annulation de crédits de titre 2 d&#39;un montant de 171 624,03 € en AE et CP du programme 212 « Soutien de la politique de la défense » de la mission « Défense », destiné à la restitution à la Caisse nationale militaire de sécurité sociale (CNMSS) de trop-perçus par le Service de santé des armées (SSA) ;&lt;br/&gt;6. Annulation de crédits hors titre 2 d&#39;un montant de 835 774,30 € en AE et CP du programme 203 « Infrastructures et services de transports » de la mission « Écologie, développement et mobilité durables », destiné à la restitution de trop-perçus sur des travaux concernant des infrastructures routières aux collectivités (communes, groupements de communes, départements et régions) ;&lt;br/&gt;7. Annulation de crédits hors titre 2 d&#39;un montant de 88 555,87 € en AE et CP du programme 113 « Paysages, eau et biodiversité » de la mission « Écologie, développement et mobilité durables », destiné à la restitution d&#39;un trop-perçu à l&#39;agence de l&#39;eau Loire-Bretagne ;&lt;br/&gt;8. Annulation de crédits hors titre 2 d&#39;un montant de 39 306,30 € en AE et CP du programme 186 « Recherche culturelle et culture scientifique » de la mission « Recherche et enseignement supérieur », destiné à la restitution à la Commission européenne d&#39;un trop-perçu sur sa participation au projet NetHeritage ;&lt;br/&gt;9. Annulation de crédits hors titre 2 d&#39;un montant de 119 326,40 € en AE et CP du programme 124 « Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative » de la mission « Solidarité, insertion et égalité des chances », destiné à la restitution des crédits versés par la Commission européenne suite à un appel à projet remporté par le Conseil national de l&#39;emploi, de la formation et de l&#39;orientation professionnelles (CNEFOP) ;&lt;br/&gt;10. Annulation de crédits hors titre 2 d&#39;un montant de 4 441 239,44 € en AE et CP du programme 103 « Accompagnement des mutations économiques et développement de l&#39;emploi » de la mission « Travail et emploi », destiné à la restitution de trop-perçus au Fonds européen d&#39;ajustement à la mondialisation (FEM) ;&lt;/p&gt;</content>
     <published>2020-12-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042677607"></link>
     <author>
       <name>Ministère de l&#39;économie, des finances et de la relance Comptes publics</name>
     </author>
