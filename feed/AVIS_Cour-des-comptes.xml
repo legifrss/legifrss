@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legifrance RSS - Cour-des-comptes - AVIS</title>
+    <link>https://github.com/ldicarlo/legifrance-rss</link>
+    <description>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</description>
+    <managingEditor>luca@di-carlo.fr (Luca Di Carlo)</managingEditor>
+    <pubDate>2020-12-11 09:38:09.861481815 +0100 CET m=+17.588886872</pubDate>
+    <lastBuildDate>2020-12-11 09:38:09.861481815 +0100 CET m=+17.588886872</lastBuildDate>
+    <item>
+      <title>AVIS - JORFTEXT000042580851</title>
+      <link>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580851</link>
+      <description>Avis relatif à l&#39;élection complémentaire des représentants des auditeurs et des rapporteurs extérieurs à temps plein au conseil supérieur de la Cour des comptes</description>
+      <author>Cour des comptes</author>
+      <category>Journal officiel &#34;Lois et Décrets&#34;/Cour des comptes</category>
+    </item>
+  </channel>
+</rss>

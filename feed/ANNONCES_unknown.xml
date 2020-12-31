@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="">
+  <title>Legifrance RSS - unknown - ANNONCES</title>
+  <id></id>
+  <updated>2020-12-31 08:54:22.474252046 +0100 CET m=+298.092223967</updated>
+  <category>French Law</category>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss</subtitle>
+  <link href="https://github.com/ldicarlo/legifrance-rss"></link>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 119 à 147)</title>
+    <updated></updated>
+    <id>JORFTEXT000042709676</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-22 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042709676"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 94 à 113)</title>
+    <updated></updated>
+    <id>JORFTEXT000042702847</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-20 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702847"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 145 à 171)</title>
+    <updated></updated>
+    <id>JORFTEXT000042701311</id>
+    <category>Journal officiel &#34;Lois et Décrets&#34;/Annonces</category>
+    <content type="">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2020-12-19 01:00:00 +0100 CET</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042701311"></link>
+    <author></author>
+  </entry>
+</feed>
