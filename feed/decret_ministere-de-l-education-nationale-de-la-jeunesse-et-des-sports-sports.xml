@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports - decret</title>
+  <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decret_ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports.xml</id>
+  <updated>2020-12-31T11:54:48+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Décret du 28 décembre 2020 portant renouvellement du mandat du directeur général exécutif de l&#39;établissement public Société de livraison des ouvrages olympiques</title>
+    <updated>2020-12-31T11:54:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042761117</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 28 décembre 2020, M. Nicolas FERRAND est renouvelé dans les fonctions de directeur général exécutif de l&#39;établissement public Société de livraison des ouvrages olympiques, à compter du 1er janvier 2021 et pour une durée de trois ans.&lt;/p&gt;</content>
+    <published>2020-12-30T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042761117"></link>
+    <author>
+      <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports Sports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 28 décembre 2020 portant renouvellement du mandat du directeur général exécutif de l&#39;établissement public Société de livraison des ouvrages olympiques</title>
+    <updated>2020-12-31T11:54:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042761117</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 28 décembre 2020, M. Nicolas FERRAND est renouvelé dans les fonctions de directeur général exécutif de l&#39;établissement public Société de livraison des ouvrages olympiques, à compter du 1er janvier 2021 et pour une durée de trois ans.&lt;/p&gt;</content>
+    <published>2020-12-30T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports Sports</name>
+    </author>
+  </entry>
+</feed>
