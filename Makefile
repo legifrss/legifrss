@@ -5,13 +5,13 @@ help:
 
 
 build: ## build
-	@go build ./server.go
+	@go build ./main.go
 
 test:  build ## test the app
 	@go test ./...
 
 run: test ## run the app
-	@go run ./server.go
+	@go run ./main.go
 
 run-commit: run ## run the app and commit feeds
 	@scripts/commit.sh
