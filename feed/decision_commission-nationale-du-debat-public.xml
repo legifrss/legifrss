@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - commission-nationale-du-debat-public - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_commission-nationale-du-debat-public.xml</id>
-  <updated>2021-02-14T08:14:43+01:00</updated>
+  <updated>2021-02-15T20:57:09+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décision n° 2021 / 7 / DATA CENTERS CORBEIL-ESSONNES COUDRAY-MONTCEAUX (91) / 1 du 27 janvier 2021 relative au projet de data centers à Corbeil-Essonnes et Coudray-Montceaux (91)</title>
-    <updated>2021-02-14T08:14:43+01:00</updated>
+    <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093191</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Nicole KLEIN et M. Jean-Louis LAURE sont désignés garants de la concertation préalable sur le projet de data centers sur les communes de Corbeil-Essonnes et du Coudray-Montceaux (91).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093191"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021 / 7 / DATA CENTERS CORBEIL-ESSONNES COUDRAY-MONTCEAUX (91) / 1 du 27 janvier 2021 relative au projet de data centers à Corbeil-Essonnes et Coudray-Montceaux (91)</title>
+    <updated>2021-02-14T08:14:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093191</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Nicole KLEIN et M. Jean-Louis LAURE sont désignés garants de la concertation préalable sur le projet de data centers sur les communes de Corbeil-Essonnes et du Coudray-Montceaux (91).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-04T01:00:00+01:00</published>
     <author>
       <name>Commission nationale du débat public</name>
     </author>

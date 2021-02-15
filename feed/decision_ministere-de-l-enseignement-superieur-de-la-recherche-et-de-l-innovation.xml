@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_ministere-de-l-enseignement-superieur-de-la-recherche-et-de-l-innovation.xml</id>
-  <updated>2021-02-14T08:14:43+01:00</updated>
+  <updated>2021-02-15T20:57:09+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Décision du 25 janvier 2021 portant délégation de signature (secrétariat général)</title>
-    <updated>2021-02-14T08:14:43+01:00</updated>
+    <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101039</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 1er janvier 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à Mme Sylvie LUCAS, secrétaire administrative de l&#39;éducation nationale et de l&#39;enseignement supérieur de classe normale, gestionnaire financier à la mission centre de services partagés dépenses.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 15 février 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à M. Hugues NIGEAN, attaché principal d&#39;administration de l&#39;Etat, responsable de pôle à la mission centre de services partagés dépenses.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-07T01:00:00+01:00</published>
@@ -21,11 +21,31 @@
   </entry>
   <entry>
     <title>Décision du 27 janvier 2021 portant délégation de signature (secrétariat général)</title>
-    <updated>2021-02-14T08:14:43+01:00</updated>
+    <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101046</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 1er février 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à Mme Karina DA COSTA, assistante ingénieure, responsable de pôle à la mission centre de services partagés dépenses.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-07T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101046"></link>
+    <author>
+      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 25 janvier 2021 portant délégation de signature (secrétariat général)</title>
+    <updated>2021-02-14T08:14:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101039</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 1er janvier 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à Mme Sylvie LUCAS, secrétaire administrative de l&#39;éducation nationale et de l&#39;enseignement supérieur de classe normale, gestionnaire financier à la mission centre de services partagés dépenses.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 15 février 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à M. Hugues NIGEAN, attaché principal d&#39;administration de l&#39;Etat, responsable de pôle à la mission centre de services partagés dépenses.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-07T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 27 janvier 2021 portant délégation de signature (secrétariat général)</title>
+    <updated>2021-02-14T08:14:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101046</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée, à l&#39;effet de signer, à compter du 1er février 2021, dans le cadre de l&#39;utilisation du système d&#39;information CHORUS, au nom du ministre chargé de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation, toutes les opérations relatives à la dépense publique (hors subventions) : engagement juridique, certification du service fait, ordre de paiement, opérations d&#39;inventaire de fin d&#39;année, réalisation des travaux de fin de gestion et rattachement des charges à l&#39;exercice, écritures correctives, opérations d&#39;immobilisation, relevant du périmètre des attributions du service de l&#39;action administrative et des moyens et des prestations confiées dans le cadre des délégations de gestion à Mme Karina DA COSTA, assistante ingénieure, responsable de pôle à la mission centre de services partagés dépenses.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-07T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation</name>
     </author>

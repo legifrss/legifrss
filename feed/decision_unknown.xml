@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - unknown - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_unknown.xml</id>
-  <updated>2021-02-14T08:14:44+01:00</updated>
+  <updated>2021-02-15T20:57:09+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,19 @@
   </author>
   <entry>
     <title>Décision n° 413226 du 4 février 2021 du Conseil d&#39;Etat statuant au contentieux</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101130</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ECLI:FR:CECHR:2021:413226.20210204&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000034944931&amp;categorieLien=cid&#39; title=&#39;Décret n°2017-1099 du 14 juin 2017 (V)&#39;&gt;décret n° 2017-1099 du 14 juin 2017&lt;/a&gt; fixant la durée pendant laquelle le prêteur peut imposer à l&#39;emprunteur la domiciliation de ses salaires ou revenus assimilés sur un compte de paiement (NOR : ECOT1708870D) est annulé.&lt;/p&gt;</content>
     <published>2021-02-07T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101130"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Décision n° 413226 du 4 février 2021 du Conseil d&#39;Etat statuant au contentieux</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101130</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ECLI:FR:CECHR:2021:413226.20210204&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000034944931&amp;categorieLien=cid&#39; title=&#39;Décret n°2017-1099 du 14 juin 2017 (V)&#39;&gt;décret n° 2017-1099 du 14 juin 2017&lt;/a&gt; fixant la durée pendant laquelle le prêteur peut imposer à l&#39;emprunteur la domiciliation de ses salaires ou revenus assimilés sur un compte de paiement (NOR : ECOT1708870D) est annulé.&lt;/p&gt;</content>
+    <published>2021-02-07T01:00:00+01:00</published>
     <author></author>
   </entry>
   <entry>

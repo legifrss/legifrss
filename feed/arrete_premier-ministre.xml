@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_premier-ministre.xml</id>
-  <updated>2021-02-14T08:14:44+01:00</updated>
+  <updated>2021-02-15T20:57:08+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Arrêté du 13 février 2021 portant prorogation jusqu&#39;au 2 avril 2021 de l&#39;agrément de l&#39;association ANTICOR en vue de l&#39;exercice des droits de la partie civile</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130848</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agrément délivré le 15 février 2018 à l&#39;association ANTICOR ayant son siège social 37-39, avenue Ledru-Rollin, 75520 Paris Cedex 12, en vue de l&#39;exercice des droits reconnus à la partie civile, est prorogé jusqu&#39;au 2 avril 2021, terme du délai d&#39;instruction de la demande de renouvellement.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des affaires criminelles et des grâces est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique (rectificatif)</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title>Arrêté du 2 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114663</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, est nommé membre suppléant du conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration sur proposition de l&#39;Union des fédérations CFDT des fonctions publiques et assimilés :&lt;br/&gt;M. Nicolas Prudhomme, ingénieur des ponts, des eaux et des forêts en chef, en remplacement de Mme Chantal Labat-Gest.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title>Arrêté du 7 février 2021 relatif à la composition du cabinet du Premier ministre</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106540</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Caroline LEMASSON-GERNER est nommée conseillère technique fonction publique et réforme de l&#39;Etat au cabinet du Premier ministre, à compter du 8 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-09T01:00:00+01:00</published>
@@ -54,7 +54,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101093</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 5 février 2021 :&lt;br/&gt;Sont nommés, sur proposition du ministre de l&#39;économie, des finances et de la relance, membres du Conseil d&#39;analyse économique, en qualité de personnalités choisies en raison de leurs compétences dans le domaine de l&#39;analyse économique :&lt;br/&gt;M. Yann ALGAN ;&lt;br/&gt;Mme Emmanuelle AURIOL ;&lt;br/&gt;Mme Anne EPAULARD ;&lt;br/&gt;M. François FONTAINE ;&lt;br/&gt;Mme Maria GUADALUPE ;&lt;br/&gt;Mme Gabrielle FACK ;&lt;br/&gt;M. Sébastien JEAN ;&lt;br/&gt;M. Camille LANDAIS ;&lt;br/&gt;M. Thomas PHILIPPON ;&lt;br/&gt;M. Xavier RAGOT ;&lt;br/&gt;Mme Katheline SCHUBERT ;&lt;br/&gt;Mme Claudia SENIK ;&lt;br/&gt;Mme Stéfanie STANTCHEVA ;&lt;br/&gt;M. David STRAER.&lt;br/&gt;En qualité de correspondant :&lt;br/&gt;M. Dominique BUREAU ;&lt;br/&gt;M. Ludovic SUBRAN.&lt;/p&gt;</content>
     <published>2021-02-07T01:00:00+01:00</published>
@@ -65,7 +65,7 @@
   </entry>
   <entry>
     <title>Arrêté du 2 février 2021 portant admission à la retraite (administrateurs civils)</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099957</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, M. Claude MURENA, administrateur général, affecté au ministère des armées, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er octobre 2021.&lt;/p&gt;</content>
     <published>2021-02-06T01:00:00+01:00</published>
@@ -76,11 +76,81 @@
   </entry>
   <entry>
     <title>Arrêté du 1er février 2021 portant nomination au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092969</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Cécile COURAULT est nommée directrice de cabinet adjointe, en charge du budget, de la branche autonomie et du suivi de l&#39;exécution des réformes, au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, à compter du 25 janvier 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092969"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 13 février 2021 portant prorogation jusqu&#39;au 2 avril 2021 de l&#39;agrément de l&#39;association ANTICOR en vue de l&#39;exercice des droits de la partie civile</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130848</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agrément délivré le 15 février 2018 à l&#39;association ANTICOR ayant son siège social 37-39, avenue Ledru-Rollin, 75520 Paris Cedex 12, en vue de l&#39;exercice des droits reconnus à la partie civile, est prorogé jusqu&#39;au 2 avril 2021, terme du délai d&#39;instruction de la demande de renouvellement.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des affaires criminelles et des grâces est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-14T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique (rectificatif)</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
+    <published>2021-02-13T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 2 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114663</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, est nommé membre suppléant du conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration sur proposition de l&#39;Union des fédérations CFDT des fonctions publiques et assimilés :&lt;br/&gt;M. Nicolas Prudhomme, ingénieur des ponts, des eaux et des forêts en chef, en remplacement de Mme Chantal Labat-Gest.&lt;/p&gt;</content>
+    <published>2021-02-11T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 7 février 2021 relatif à la composition du cabinet du Premier ministre</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106540</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Caroline LEMASSON-GERNER est nommée conseillère technique fonction publique et réforme de l&#39;Etat au cabinet du Premier ministre, à compter du 8 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-09T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101093</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 5 février 2021 :&lt;br/&gt;Sont nommés, sur proposition du ministre de l&#39;économie, des finances et de la relance, membres du Conseil d&#39;analyse économique, en qualité de personnalités choisies en raison de leurs compétences dans le domaine de l&#39;analyse économique :&lt;br/&gt;M. Yann ALGAN ;&lt;br/&gt;Mme Emmanuelle AURIOL ;&lt;br/&gt;Mme Anne EPAULARD ;&lt;br/&gt;M. François FONTAINE ;&lt;br/&gt;Mme Maria GUADALUPE ;&lt;br/&gt;Mme Gabrielle FACK ;&lt;br/&gt;M. Sébastien JEAN ;&lt;br/&gt;M. Camille LANDAIS ;&lt;br/&gt;M. Thomas PHILIPPON ;&lt;br/&gt;M. Xavier RAGOT ;&lt;br/&gt;Mme Katheline SCHUBERT ;&lt;br/&gt;Mme Claudia SENIK ;&lt;br/&gt;Mme Stéfanie STANTCHEVA ;&lt;br/&gt;M. David STRAER.&lt;br/&gt;En qualité de correspondant :&lt;br/&gt;M. Dominique BUREAU ;&lt;br/&gt;M. Ludovic SUBRAN.&lt;/p&gt;</content>
+    <published>2021-02-07T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 2 février 2021 portant admission à la retraite (administrateurs civils)</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099957</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, M. Claude MURENA, administrateur général, affecté au ministère des armées, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er octobre 2021.&lt;/p&gt;</content>
+    <published>2021-02-06T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 1er février 2021 portant nomination au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092969</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Cécile COURAULT est nommée directrice de cabinet adjointe, en charge du budget, de la branche autonomie et du suivi de l&#39;exécution des réformes, au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, à compter du 25 janvier 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-04T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>

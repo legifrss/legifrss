@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - conseil-superieur-de-l-audiovisuel - deliberation</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/deliberation_conseil-superieur-de-l-audiovisuel.xml</id>
-  <updated>2021-02-14T08:14:44+01:00</updated>
+  <updated>2021-02-15T20:57:09+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Délibération du 20 janvier 2021 modifiant la liste des paramètres RDS autorisés</title>
-    <updated>2021-02-14T08:14:44+01:00</updated>
+    <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093297</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 20 janvier 2021, le Conseil supérieur de l&#39;audiovisuel a décidé de modifier l&#39;annexe de la délibération relative à l&#39;attribution des codes RDS du 4 mars 2008 avec les paramètres définis à l&#39;annexe 1.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 1&lt;br/&gt;MODIFICATION DE LA LISTE DES PARAMÈTRES RDS AUTORISÉS&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;NOM DU SERVICE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;CODE PI &#xA;      &lt;br/&gt;&#xA;    (Identification du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;RADICAL DU CODE PS &#xA;      &lt;br/&gt;&#xA;    (Nom du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Territoire concerné &#xA;      &lt;br/&gt;&#xA;    ou radio spécifique&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Radio Peinard Skyrock&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;F214&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;SKYROCK&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Toulouse&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093297"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Délibération du 20 janvier 2021 modifiant la liste des paramètres RDS autorisés</title>
+    <updated>2021-02-14T08:14:44+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093297</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 20 janvier 2021, le Conseil supérieur de l&#39;audiovisuel a décidé de modifier l&#39;annexe de la délibération relative à l&#39;attribution des codes RDS du 4 mars 2008 avec les paramètres définis à l&#39;annexe 1.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 1&lt;br/&gt;MODIFICATION DE LA LISTE DES PARAMÈTRES RDS AUTORISÉS&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;NOM DU SERVICE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;CODE PI &#xA;      &lt;br/&gt;&#xA;    (Identification du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;RADICAL DU CODE PS &#xA;      &lt;br/&gt;&#xA;    (Nom du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Territoire concerné &#xA;      &lt;br/&gt;&#xA;    ou radio spécifique&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Radio Peinard Skyrock&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;F214&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;SKYROCK&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Toulouse&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <published>2021-02-04T01:00:00+01:00</published>
     <author>
       <name>Conseil supérieur de l&#39;audiovisuel</name>
     </author>
