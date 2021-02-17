@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_premier-ministre.xml</id>
-  <updated>2021-02-15T20:57:08+01:00</updated>
+  <updated>2021-02-17T07:53:43+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,8 +9,30 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Arrêté du 8 février 2021 fixant la liste des services dans lesquels exercent des agents principaux des services techniques des services du Premier ministre</title>
+    <updated>2021-02-17T07:53:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste et la localisation des emplois d&#39;agent principal des services techniques des services du Premier ministre sont fixées dans les tableaux annexés au présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 20 mai 2010 fixant la liste des emplois d&#39;agent principal des services techniques de deuxième catégorie à la direction des services administratifs et financiers du Premier ministre est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des services administratifs et financiers du Premier ministre est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXES&lt;br/&gt;ANNEXE 1&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE PREMIÈRE CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de la politique et des opérations immobilières&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de l&#39;exploitation des sites de Matignon&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Service de l&#39;intendance du Premier ministre&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Direction de l&#39;information légale et administrative&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des publics et des produits&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département de l&#39;imprimerie&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ecole nationale d&#39;administration&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;67&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux et du patrimoine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 2&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE DEUXIÈME CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 février 2021 portant nomination au Conseil national du numérique</title>
+    <updated>2021-02-17T07:53:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134504</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 février 2021, sont nommés membres du Conseil national du numérique, en raison de leurs compétences et de leur expérience dans le domaine de la transition numérique, au titre des personnalités issues du secteur économique, des personnalités issues du secteur académique et des personnalités impliquées dans le développement du numérique au niveau local, national ou européen :&lt;br/&gt;I. - Membres du Conseil national du numérique :&lt;br/&gt;Mme Anne ALOMBERT.&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;M. Adrien BASDEVANT.&lt;br/&gt;Mme Justine CASSELL.&lt;br/&gt;M. Gilles DOWEK.&lt;br/&gt;Mme Elisabeth GROSDHOMME.&lt;br/&gt;Mme Rahaf HARFOUSH.&lt;br/&gt;Mme Tatiana JAMA.&lt;br/&gt;Mme Olga KOKSHAGINA.&lt;br/&gt;M. Alexandre LACROIX.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;br/&gt;M. Jean-Pierre MIGNARD.&lt;br/&gt;Mme Dominique PASQUIER.&lt;br/&gt;M. Eric SALOBIR.&lt;br/&gt;M. Serge TISSERON.&lt;br/&gt;Mme Joëlle TOLEDANO.&lt;br/&gt;M. Jean-Marc VITTORI.&lt;br/&gt;II. - Sont nommés co-présidents du Conseil national du numérique :&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134504"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
     <title>Arrêté du 13 février 2021 portant prorogation jusqu&#39;au 2 avril 2021 de l&#39;agrément de l&#39;association ANTICOR en vue de l&#39;exercice des droits de la partie civile</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130848</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agrément délivré le 15 février 2018 à l&#39;association ANTICOR ayant son siège social 37-39, avenue Ledru-Rollin, 75520 Paris Cedex 12, en vue de l&#39;exercice des droits reconnus à la partie civile, est prorogé jusqu&#39;au 2 avril 2021, terme du délai d&#39;instruction de la demande de renouvellement.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des affaires criminelles et des grâces est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
@@ -21,7 +43,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique (rectificatif)</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
@@ -32,7 +54,7 @@
   </entry>
   <entry>
     <title>Arrêté du 2 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114663</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, est nommé membre suppléant du conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration sur proposition de l&#39;Union des fédérations CFDT des fonctions publiques et assimilés :&lt;br/&gt;M. Nicolas Prudhomme, ingénieur des ponts, des eaux et des forêts en chef, en remplacement de Mme Chantal Labat-Gest.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -43,7 +65,7 @@
   </entry>
   <entry>
     <title>Arrêté du 7 février 2021 relatif à la composition du cabinet du Premier ministre</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106540</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Caroline LEMASSON-GERNER est nommée conseillère technique fonction publique et réforme de l&#39;Etat au cabinet du Premier ministre, à compter du 8 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-09T01:00:00+01:00</published>
@@ -54,7 +76,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101093</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 5 février 2021 :&lt;br/&gt;Sont nommés, sur proposition du ministre de l&#39;économie, des finances et de la relance, membres du Conseil d&#39;analyse économique, en qualité de personnalités choisies en raison de leurs compétences dans le domaine de l&#39;analyse économique :&lt;br/&gt;M. Yann ALGAN ;&lt;br/&gt;Mme Emmanuelle AURIOL ;&lt;br/&gt;Mme Anne EPAULARD ;&lt;br/&gt;M. François FONTAINE ;&lt;br/&gt;Mme Maria GUADALUPE ;&lt;br/&gt;Mme Gabrielle FACK ;&lt;br/&gt;M. Sébastien JEAN ;&lt;br/&gt;M. Camille LANDAIS ;&lt;br/&gt;M. Thomas PHILIPPON ;&lt;br/&gt;M. Xavier RAGOT ;&lt;br/&gt;Mme Katheline SCHUBERT ;&lt;br/&gt;Mme Claudia SENIK ;&lt;br/&gt;Mme Stéfanie STANTCHEVA ;&lt;br/&gt;M. David STRAER.&lt;br/&gt;En qualité de correspondant :&lt;br/&gt;M. Dominique BUREAU ;&lt;br/&gt;M. Ludovic SUBRAN.&lt;/p&gt;</content>
     <published>2021-02-07T01:00:00+01:00</published>
@@ -65,11 +87,71 @@
   </entry>
   <entry>
     <title>Arrêté du 2 février 2021 portant admission à la retraite (administrateurs civils)</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099957</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, M. Claude MURENA, administrateur général, affecté au ministère des armées, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er octobre 2021.&lt;/p&gt;</content>
     <published>2021-02-06T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099957"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 13 février 2021 portant prorogation jusqu&#39;au 2 avril 2021 de l&#39;agrément de l&#39;association ANTICOR en vue de l&#39;exercice des droits de la partie civile</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130848</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agrément délivré le 15 février 2018 à l&#39;association ANTICOR ayant son siège social 37-39, avenue Ledru-Rollin, 75520 Paris Cedex 12, en vue de l&#39;exercice des droits reconnus à la partie civile, est prorogé jusqu&#39;au 2 avril 2021, terme du délai d&#39;instruction de la demande de renouvellement.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des affaires criminelles et des grâces est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-14T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique (rectificatif)</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
+    <published>2021-02-13T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 2 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114663</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, est nommé membre suppléant du conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration sur proposition de l&#39;Union des fédérations CFDT des fonctions publiques et assimilés :&lt;br/&gt;M. Nicolas Prudhomme, ingénieur des ponts, des eaux et des forêts en chef, en remplacement de Mme Chantal Labat-Gest.&lt;/p&gt;</content>
+    <published>2021-02-11T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 7 février 2021 relatif à la composition du cabinet du Premier ministre</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106540</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Caroline LEMASSON-GERNER est nommée conseillère technique fonction publique et réforme de l&#39;Etat au cabinet du Premier ministre, à compter du 8 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-09T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101093</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 5 février 2021 :&lt;br/&gt;Sont nommés, sur proposition du ministre de l&#39;économie, des finances et de la relance, membres du Conseil d&#39;analyse économique, en qualité de personnalités choisies en raison de leurs compétences dans le domaine de l&#39;analyse économique :&lt;br/&gt;M. Yann ALGAN ;&lt;br/&gt;Mme Emmanuelle AURIOL ;&lt;br/&gt;Mme Anne EPAULARD ;&lt;br/&gt;M. François FONTAINE ;&lt;br/&gt;Mme Maria GUADALUPE ;&lt;br/&gt;Mme Gabrielle FACK ;&lt;br/&gt;M. Sébastien JEAN ;&lt;br/&gt;M. Camille LANDAIS ;&lt;br/&gt;M. Thomas PHILIPPON ;&lt;br/&gt;M. Xavier RAGOT ;&lt;br/&gt;Mme Katheline SCHUBERT ;&lt;br/&gt;Mme Claudia SENIK ;&lt;br/&gt;Mme Stéfanie STANTCHEVA ;&lt;br/&gt;M. David STRAER.&lt;br/&gt;En qualité de correspondant :&lt;br/&gt;M. Dominique BUREAU ;&lt;br/&gt;M. Ludovic SUBRAN.&lt;/p&gt;</content>
+    <published>2021-02-07T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 2 février 2021 portant admission à la retraite (administrateurs civils)</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099957</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, M. Claude MURENA, administrateur général, affecté au ministère des armées, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er octobre 2021.&lt;/p&gt;</content>
+    <published>2021-02-06T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -80,7 +162,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092969</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Cécile COURAULT est nommée directrice de cabinet adjointe, en charge du budget, de la branche autonomie et du suivi de l&#39;exécution des réformes, au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, à compter du 25 janvier 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092969"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -431,26 +512,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042702049</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans les services du Premier ministre, l&#39;obligation prévue à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000622485&amp;idArticle=LEGIARTI000006682203&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 2004-626 du 30 juin 2004 - art. 6 (M)&#39;&gt;article 6 de la loi du 30 juin 2004 susvisée&lt;/a&gt; prend, en 2021, la forme :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- d&#39;une augmentation de la durée hebdomadaire de travail reportée sur le tableau de service pour les agents relevant d&#39;un cycle de travail d&#39;une durée de 35 heures ;&lt;br/&gt;- de la suppression d&#39;une journée de réduction du temps de travail pour les autres agents.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des services administratifs et financiers est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2020-12-20T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 décembre 2020 fixant le contingent d&#39;emplois offerts au titre de l&#39;année 2021 aux officiers candidats à des emplois d&#39;administrateur civil</title>
-    <updated>2020-12-31T11:54:49+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700014</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 11 décembre 2020, un emploi d&#39;administrateur civil est offert, au titre de l&#39;année 2021, aux officiers candidats à des emplois civils en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071307&amp;idArticle=LEGIARTI000006540325&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la défense. - art. L4139-2 (V)&#39;&gt;article L. 4139-2 du code de la défense&lt;/a&gt; au sein du ministère de la transition écologique.&lt;/p&gt;</content>
-    <published>2020-12-19T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 16 décembre 2020 portant inscription au tableau d&#39;avancement à la hors classe dans le corps des administrateurs civils au titre de l&#39;année 2021 (rectificatif)</title>
-    <updated>2020-12-31T11:54:49+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042700754</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 0305 du 18 décembre 2020, texte n° 50 :&lt;br/&gt;A l&#39;article 1er, le tableau est complété d&#39;une ligne ainsi rétablie :&lt;br/&gt;« &lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Mme&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;VERNHET Houda&lt;/td&gt;&lt;td align=&#39;left&#39;&gt;&lt;br/&gt;Ministère de la transition écologique, ministère de la cohésion des territoires et des relations avec les collectivités territoriales, ministère de la mer.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;».&lt;/p&gt;</content>
-    <published>2020-12-19T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Legifrance RSS - premier-ministre-relations-avec-le-parlement-et-participation-citoyenne</title>
+  <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_premier-ministre-relations-avec-le-parlement-et-participation-citoyenne.xml</id>
+  <updated>2021-02-17T07:53:41+01:00</updated>
+  <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
+  <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
+  <author>
+    <name>Luca Di Carlo</name>
+    <email>luca@di-carlo.fr</email>
+  </author>
+  <entry>
+    <title>Arrêté du 15 février 2021 portant nomination au cabinet du ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne</title>
+    <updated>2021-02-17T07:53:41+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134593</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Abel-Marie SOULLIER est nommé conseiller parlementaire au cabinet du ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne, à compter du 11 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134593"></link>
+    <author>
+      <name>Premier ministre Relations avec le Parlement et participation citoyenne</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 février 2021 portant nomination au cabinet du ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne</title>
+    <updated>2021-02-17T07:53:41+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134593</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Abel-Marie SOULLIER est nommé conseiller parlementaire au cabinet du ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne, à compter du 11 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre Relations avec le Parlement et participation citoyenne</name>
+    </author>
+  </entry>
+</feed>

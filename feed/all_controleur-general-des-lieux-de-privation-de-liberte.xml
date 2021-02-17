@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - controleur-general-des-lieux-de-privation-de-liberte</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_controleur-general-des-lieux-de-privation-de-liberte.xml</id>
-  <updated>2021-02-15T20:57:08+01:00</updated>
+  <updated>2021-02-17T07:53:42+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décision du 8 février 2021 portant nomination auprès de la Contrôleure générale des lieux de privation de liberté</title>
-    <updated>2021-02-15T20:57:08+01:00</updated>
+    <updated>2021-02-17T07:53:42+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110481</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fins aux fonctions de contrôleur exercées, au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276771&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 2 (V)&#39;&gt;article 2 du décret n° 2008-246 du 12 mars 2008 susvisé&lt;/a&gt;, par M. Mathieu BOIDE, appelé à l&#39;exercice d&#39;autres fonctions, au 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin à leur demande aux fonctions de contrôleur exercées par Mme Annick MOREL et M. Philippe NADAL, exercées au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276773&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 3 (V)&#39;&gt;article 3 du décret n° 2008-246 du 12 mars 2008 susvisé&lt;/a&gt;.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont nommés, au 1er mars 2021, au titre de l&#39;article 2 du décret du 12 mars 2008, susvisé, Mme Cécile DANGLES, et M. Stéphane JULINET, en qualité de contrôleur.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont nommés au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276773&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 3 (V)&#39;&gt;article 3 du décret du 12 mars 2008 susvisé&lt;/a&gt;, Mmes Capucine JAQUIN-RAVOT et Aline DAILLERE.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110481"></link>
+    <author>
+      <name>Contrôleur général des lieux de privation de liberté</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 8 février 2021 portant nomination auprès de la Contrôleure générale des lieux de privation de liberté</title>
+    <updated>2021-02-15T20:57:08+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110481</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fins aux fonctions de contrôleur exercées, au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276771&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 2 (V)&#39;&gt;article 2 du décret n° 2008-246 du 12 mars 2008 susvisé&lt;/a&gt;, par M. Mathieu BOIDE, appelé à l&#39;exercice d&#39;autres fonctions, au 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin à leur demande aux fonctions de contrôleur exercées par Mme Annick MOREL et M. Philippe NADAL, exercées au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276773&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 3 (V)&#39;&gt;article 3 du décret n° 2008-246 du 12 mars 2008 susvisé&lt;/a&gt;.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont nommés, au 1er mars 2021, au titre de l&#39;article 2 du décret du 12 mars 2008, susvisé, Mme Cécile DANGLES, et M. Stéphane JULINET, en qualité de contrôleur.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont nommés au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000018276752&amp;idArticle=JORFARTI000018276773&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-246  du 12 mars 2008 - art. 3 (V)&#39;&gt;article 3 du décret du 12 mars 2008 susvisé&lt;/a&gt;, Mmes Capucine JAQUIN-RAVOT et Aline DAILLERE.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-10T01:00:00+01:00</published>
     <author>
       <name>Contrôleur général des lieux de privation de liberté</name>
     </author>

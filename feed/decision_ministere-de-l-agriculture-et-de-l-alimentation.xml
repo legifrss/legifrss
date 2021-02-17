@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-agriculture-et-de-l-alimentation - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_ministere-de-l-agriculture-et-de-l-alimentation.xml</id>
-  <updated>2021-02-15T20:57:09+01:00</updated>
+  <updated>2021-02-17T07:53:42+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Décision du 5 février 2021 portant agrément d&#39;un organisme certificateur</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:42+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121829</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre de l&#39;agriculture et de l&#39;alimentation en date du 5 février 2021, l&#39;agrément de CERTIS, 3, rue des Orchidées, 35650 Le Rheu, au titre des dispositions des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024216168&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D617-19 (V)&#39;&gt;D. 617-19&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024410529&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. R617-28 (V)&#39;&gt;R. 617-28&lt;/a&gt; du code rural et de la pêche maritime est renouvelé pour une durée de quatre ans à compter de la date de fin de validité de l&#39;agrément prévue par la décision du 14 février 2017.&lt;/p&gt;</content>
     <published>2021-02-12T01:00:00+01:00</published>
@@ -21,11 +21,31 @@
   </entry>
   <entry>
     <title>Décision du 5 février 2021 portant agrément d&#39;un organisme certificateur</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:42+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121833</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre de l&#39;agriculture et de l&#39;alimentation en date du 5 février 2021, l&#39;agrément de CONTROL UNION INSPECTIONS France, 4-12, boulevard des Belges, 76022 Rouen, au titre des dispositions des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024216168&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D617-19 (V)&#39;&gt;D. 617-19&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024410529&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. R617-28 (V)&#39;&gt;R. 617-28&lt;/a&gt; du code rural et de la pêche maritime est renouvelé pour une durée de quatre ans à compter de la date de fin de validité de l&#39;agrément prévue par la décision du 14 février 2017.&lt;/p&gt;</content>
     <published>2021-02-12T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121833"></link>
+    <author>
+      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 5 février 2021 portant agrément d&#39;un organisme certificateur</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121829</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre de l&#39;agriculture et de l&#39;alimentation en date du 5 février 2021, l&#39;agrément de CERTIS, 3, rue des Orchidées, 35650 Le Rheu, au titre des dispositions des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024216168&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D617-19 (V)&#39;&gt;D. 617-19&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024410529&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. R617-28 (V)&#39;&gt;R. 617-28&lt;/a&gt; du code rural et de la pêche maritime est renouvelé pour une durée de quatre ans à compter de la date de fin de validité de l&#39;agrément prévue par la décision du 14 février 2017.&lt;/p&gt;</content>
+    <published>2021-02-12T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 5 février 2021 portant agrément d&#39;un organisme certificateur</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121833</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre de l&#39;agriculture et de l&#39;alimentation en date du 5 février 2021, l&#39;agrément de CONTROL UNION INSPECTIONS France, 4-12, boulevard des Belges, 76022 Rouen, au titre des dispositions des articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024216168&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. D617-19 (V)&#39;&gt;D. 617-19&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&amp;idArticle=LEGIARTI000024410529&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code rural et de la pêche maritime - art. R617-28 (V)&#39;&gt;R. 617-28&lt;/a&gt; du code rural et de la pêche maritime est renouvelé pour une durée de quatre ans à compter de la date de fin de validité de l&#39;agrément prévue par la décision du 14 février 2017.&lt;/p&gt;</content>
+    <published>2021-02-12T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;agriculture et de l&#39;alimentation</name>
     </author>

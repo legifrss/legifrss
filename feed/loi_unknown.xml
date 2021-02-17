@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - unknown - loi</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/loi_unknown.xml</id>
-  <updated>2021-02-15T20:57:09+01:00</updated>
+  <updated>2021-02-17T07:53:43+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,12 +9,29 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>LOI n° 2021-160 du 15 février 2021 prorogeant l&#39;état d&#39;urgence sanitaire (1)</title>
+    <updated>2021-02-17T07:53:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134078</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;I.-A la fin de l&#39;article 7 de la loi n° 2020-290 du 23 mars 2020 d&#39;urgence pour faire face à l&#39;épidémie de covid-19, la date : « 1er avril 2021 » est remplacée par la date : « 31 décembre 2021 ». &lt;br/&gt;II.-L&#39;article L. 3131-19 du code de la santé publique est complété par un alinéa ainsi rédigé : &lt;br/&gt;« Le comité peut être consulté par les commissions parlementaires sur toute question concernant les sujets mentionnés à la quatrième phrase du premier alinéa du présent article. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 1er de la loi n° 2020-1379 du 14 novembre 2020 autorisant la prorogation de l&#39;état d&#39;urgence sanitaire et portant diverses mesures de gestion de la crise sanitaire, la date : « 16 février 2021 » est remplacée par la date : « 1er juin 2021 ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au premier alinéa du I de l&#39;article 11 de la loi n° 2020-546 du 11 mai 2020 prorogeant l&#39;état d&#39;urgence sanitaire et complétant ses dispositions, la date : « 1er avril 2021 » est remplacée par la date : « 31 décembre 2021 ».&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par dérogation au dernier alinéa du I de l&#39;article L. 5211-11-2 du code général des collectivités territoriales, si l&#39;organe délibérant a décidé de l&#39;élaboration du pacte de gouvernance mentionné au 1° du même I à la suite du renouvellement général des conseils municipaux de 2020, il l&#39;adopte, après avis des conseils municipaux des communes membres rendu dans un délai de deux mois après la transmission du projet de pacte, dans un délai d&#39;un an à compter du second tour de l&#39;élection des conseillers municipaux et communautaires, des conseillers de Paris et des conseillers métropolitains de Lyon, organisé en juin 2020.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;année 2021, par dérogation aux deux premiers alinéas du II de l&#39;article 136 de la loi n° 2014-366 du 24 mars 2014 pour l&#39;accès au logement et un urbanisme rénové, le délai dans lequel au moins 25 % des communes représentant au moins 20 % de la population peuvent s&#39;opposer au transfert à la communauté de communes ou à la communauté d&#39;agglomération de la compétence en matière de plan local d&#39;urbanisme, de documents d&#39;urbanisme en tenant lieu ou de carte communale court du 1er octobre 2020 au 30 juin 2021.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le livre VIII de la troisième partie du code de la santé publique est ainsi modifié : &lt;br/&gt;1° A la fin du 5° de l&#39;article L. 3821-11, la date : « 1er avril 2021 » est remplacée par la date : « 31 décembre 2021 » ; &lt;br/&gt;2° Au premier alinéa de l&#39;article L. 3841-2, la date : « 1er avril 2021 » est remplacée par la date : « 31 décembre 2021 ». &lt;br/&gt;La présente loi sera exécutée comme loi de l&#39;Etat.&lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134078"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>LOI n° 2021-127 du 8 février 2021 autorisant l&#39;approbation de la décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l&#39;Union européenne et abrogeant la décision 2014/335/UE, Euratom (1)</title>
+    <updated>2021-02-17T07:53:43+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106274</id>
+    <content type="html">Article unique&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est autorisée l&#39;approbation de la décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l&#39;Union européenne et abrogeant la décision 2014/335/UE, Euratom (ensemble une annexe), et dont le texte est annexé à la présente loi (2).&lt;br/&gt;La présente loi sera exécutée comme loi de l&#39;Etat.&lt;/p&gt;</content>
+    <published>2021-02-09T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106274"></link>
+    <author></author>
+  </entry>
+  <entry>
     <title>LOI n° 2021-127 du 8 février 2021 autorisant l&#39;approbation de la décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l&#39;Union européenne et abrogeant la décision 2014/335/UE, Euratom (1)</title>
     <updated>2021-02-15T20:57:09+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106274</id>
     <content type="html">Article unique&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est autorisée l&#39;approbation de la décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l&#39;Union européenne et abrogeant la décision 2014/335/UE, Euratom (ensemble une annexe), et dont le texte est annexé à la présente loi (2).&lt;br/&gt;La présente loi sera exécutée comme loi de l&#39;Etat.&lt;/p&gt;</content>
     <published>2021-02-09T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106274"></link>
     <author></author>
   </entry>
   <entry>
@@ -23,7 +40,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092478</id>
     <content type="html">Article unique&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est autorisée la ratification du protocole portant amendement de la convention relative aux infractions et à certains autres actes survenant à bord des aéronefs, fait à Montréal le 4 avril 2014, signé par la France le 30 mai 2016, et dont le texte est annexé à la présente loi (2).&lt;br/&gt;La présente loi sera exécutée comme loi de l&#39;Etat.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092478"></link>
     <author></author>
   </entry>
   <entry>
@@ -32,7 +48,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092480</id>
     <content type="html">Article unique&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Est autorisée l&#39;approbation de l&#39;accord de coopération entre le Gouvernement de la République française et les Gouvernements des Etats membres de l&#39;Union monétaire ouest-africaine, signé à Abidjan le 21 décembre 2019, et dont le texte est annexé à la présente loi (2).&lt;br/&gt;La présente loi sera exécutée comme loi de l&#39;Etat.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043092480"></link>
     <author></author>
   </entry>
   <entry>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - autorite-de-la-concurrence - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_autorite-de-la-concurrence.xml</id>
-  <updated>2021-02-15T20:57:09+01:00</updated>
+  <updated>2021-02-17T07:53:43+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Décision du 1er février 2021 portant retrait de la décision du 12 janvier 2021 portant nomination d&#39;une régisseuse de recettes auprès de l&#39;Autorité de la concurrence</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122240</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 12 janvier 2021 portant nomination de Mme Myriam GUYOT, secrétaire administrative de classe normale, en qualité de régisseuse de recettes auprès de l&#39;Autorité de la concurrence est retirée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Guylaine BESSARION, secrétaire administrative de classe exceptionnelle, est maintenue dans ses fonctions de régisseuse de recettes par intérim auprès de l&#39;Autorité de la concurrence.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-12T01:00:00+01:00</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Décision du 3 février 2021 portant renouvellement dans les fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100171</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Etienne Chantrel est renouvelé dans les fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence, à compter du 1er février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-06T01:00:00+01:00</published>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title>Décision du 3 février 2021 portant attribution de fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100176</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Etienne Chantrel, rapporteur général adjoint, reçoit délégation pour exercer, en cas d&#39;absence du rapporteur général, les attributions que ce dernier détient directement du livre IV du code de commerce, à l&#39;exception de celles mentionnées à l&#39;article L. 461-4.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-06T01:00:00+01:00</published>
@@ -43,11 +43,51 @@
   </entry>
   <entry>
     <title>Décision du 4 février 2021 portant cessation de fonctions d&#39;une rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100181</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence exercées par Mme Florence LE ROUX, à compter du 1er février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-06T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100181"></link>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 1er février 2021 portant retrait de la décision du 12 janvier 2021 portant nomination d&#39;une régisseuse de recettes auprès de l&#39;Autorité de la concurrence</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122240</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 12 janvier 2021 portant nomination de Mme Myriam GUYOT, secrétaire administrative de classe normale, en qualité de régisseuse de recettes auprès de l&#39;Autorité de la concurrence est retirée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Guylaine BESSARION, secrétaire administrative de classe exceptionnelle, est maintenue dans ses fonctions de régisseuse de recettes par intérim auprès de l&#39;Autorité de la concurrence.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-12T01:00:00+01:00</published>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 3 février 2021 portant renouvellement dans les fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100171</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Etienne Chantrel est renouvelé dans les fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence, à compter du 1er février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-06T01:00:00+01:00</published>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 3 février 2021 portant attribution de fonctions de rapporteur général adjoint de l&#39;Autorité de la concurrence</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100176</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Etienne Chantrel, rapporteur général adjoint, reçoit délégation pour exercer, en cas d&#39;absence du rapporteur général, les attributions que ce dernier détient directement du livre IV du code de commerce, à l&#39;exception de celles mentionnées à l&#39;article L. 461-4.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-06T01:00:00+01:00</published>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 4 février 2021 portant cessation de fonctions d&#39;une rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100181</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de rapporteure permanente des services d&#39;instruction de l&#39;Autorité de la concurrence exercées par Mme Florence LE ROUX, à compter du 1er février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-06T01:00:00+01:00</published>
     <author>
       <name>Autorité de la concurrence</name>
     </author>

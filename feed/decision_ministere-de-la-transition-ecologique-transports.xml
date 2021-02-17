@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-transition-ecologique-transports - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_ministere-de-la-transition-ecologique-transports.xml</id>
-  <updated>2021-02-15T20:57:09+01:00</updated>
+  <updated>2021-02-17T07:53:43+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décision du 4 février 2021 relative au concours pour l&#39;admission des élèves pilotes de ligne au titre de l&#39;année 2021</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114659</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 4 février 2021, le nombre de places offertes au concours pour l&#39;admission des élèves pilotes de ligne au titre de l&#39;année 2021 est fixé comme suit :&lt;br/&gt;14 places pour la filière S ;&lt;br/&gt;4 places pour la filière U ;&lt;br/&gt;2 places pour la filière P.&lt;br/&gt;Si le nombre de lauréats des filières U et P est inférieur à ces valeurs, les places laissées disponibles pourront être attribuées à la filière S sur décision du président du jury du concours.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114659"></link>
+    <author>
+      <name>Ministère de la transition écologique Transports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 4 février 2021 relative au concours pour l&#39;admission des élèves pilotes de ligne au titre de l&#39;année 2021</title>
+    <updated>2021-02-15T20:57:09+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114659</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision du ministre délégué auprès de la ministre de la transition écologique, chargé des transports, en date du 4 février 2021, le nombre de places offertes au concours pour l&#39;admission des élèves pilotes de ligne au titre de l&#39;année 2021 est fixé comme suit :&lt;br/&gt;14 places pour la filière S ;&lt;br/&gt;4 places pour la filière U ;&lt;br/&gt;2 places pour la filière P.&lt;br/&gt;Si le nombre de lauréats des filières U et P est inférieur à ces valeurs, les places laissées disponibles pourront être attribuées à la filière S sur décision du président du jury du concours.&lt;/p&gt;</content>
+    <published>2021-02-11T01:00:00+01:00</published>
     <author>
       <name>Ministère de la transition écologique Transports</name>
     </author>

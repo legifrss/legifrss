@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - commission-nationale-du-debat-public</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_commission-nationale-du-debat-public.xml</id>
-  <updated>2021-02-15T20:57:08+01:00</updated>
+  <updated>2021-02-17T07:53:42+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,12 +9,143 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Décision n° 2021/9/AIRVAULT 2025/1 du 3 février 2021 relative au projet de modernisation de la cimenterie d&#39;Airvault (79)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142694</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il y a lieu d&#39;organiser une concertation préalable selon l&#39;article L. 121-9.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités de la concertation préalable seront définies par la Commission qui en confie l&#39;organisation au maître d&#39;ouvrage, selon les dispositions de l&#39;article R. 121-8.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Emmanuelle CREPEAU et M. Claude RENOU sont désignés garants de la concertation préalable sur le projet AIRVAULT 2025.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142694"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/10/EOLIEN OLERON ATLANTIQUE-SUD/1 du 3 février 2021 relative aux projets de parc éolien en mer Oléron Atlantique-Sud</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142700</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il y a lieu d&#39;organiser un débat public.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Francis BEAUCIRE est désigné comme président de la commission particulière en charge de l&#39;animation du débat public sur le projet de parc éolien en mer Oléron Atlantique Sud.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142700"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/11/GIGAFACTORY DOUVRIN (62)/3 du 3 février 2021 relative au projet de construction d&#39;un site de production de batteries à Douvrin (62)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142705</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le dossier de concertation proposé par le maître d&#39;ouvrage du projet GIGAFACTORY est suffisamment complet pour informer le public et engager la concertation, à l&#39;exception des informations portant sur les filières et garanties d&#39;approvisionnement en matières premières envisagées, pour lesquelles la commission demande des précisions complémentaires.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités de concertation proposées par le maître d&#39;ouvrage du projet GIGAFACTORY sont approuvées.&lt;br/&gt;La concertation préalable se déroulera du 25 février 2021 au 23 avril 2021.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142705"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/12/RD 751/AMENAGEMENT DE L&#39;ITINERAIRE DE NANTES A PORNIC/4 du 3 février 2021 relative au projet d&#39;aménagement entre Nantes et Pornic par passage progessif à 2*2 voies de la RD 751 (44)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142710</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission nationale prend acte du bilan des garants de la concertation sur le projet d&#39;aménagement entre NANTES et PORNIC par passage à 2*2 voies de la RD 751.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission nationale prend acte du document publié par le maître d&#39;ouvrage présentant les enseignements tirés de la concertation préalable et les réponses apportées aux recommandations du bilan des garants.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission nationale considère que les réponses sont suffisamment complètes et argumentées.&lt;br/&gt;La commission souhaite, qu&#39;afin d&#39;améliorer et de diversifier l&#39;information environnementale, le maître d&#39;ouvrage puisse, notamment avec les associations environnementales, réaliser et publier, dans les meilleurs délais, le bilan carbone du projet et de ses variantes.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;MM. Serge QUENTIN et Claude RENOU sont désignés garants chargés de veiller à la bonne information et à la participation du public jusqu&#39;à l&#39;ouverture de la dernière enquête publique sur le projet d&#39;aménagement entre NANTES et PORNIC par passage à 2*2 voies de la RD 751.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les garants établiront un rapport annuel aux dates anniversaires de leur désignation et un rapport final, qui sera joint aux dossiers d&#39;enquête publique.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142710"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/13/STADE DE NÎMES/1 du 3 février 2021 relative au projet de construction du nouveau stade de Nîmes (30)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142718</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mmes Anne-Marie CHARVET et Catherine WALERY sont désignées garantes de la concertation préalable sur le projet de construction du nouveau stade de Nîmes.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142718"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/14/A46 SUD/3 du 3 février 2021 relative au projet d&#39;aménagement à deux fois trois voies de l&#39;A46 SUD et du nœud de Manissieux (69)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142722</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;De prendre acte de la démission de Mme Isabelle BARTHE de ses fonctions de garante de la participation du public à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. David CHEVALLIER est désigné garant de la concertation préalable sur le projet d&#39;aménagement à deux fois trois voies de l&#39;A46 et du nœud de Manissieux.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142722"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/15/CHAMP CAPTANT LANDES DU MÉDOC/1 du 3 février 2021 relative au projet de champ captant des Landes du Médoc - Bordeaux Métropole (33)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142727</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mmes Marianne AZARIO et Marion JULIOT sont désignées garantes de la concertation préalable sur le projet de champ captant des Landes du Médoc.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142727"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/16/ZAC Gare des Mines Fillettes Arena II JO/2 du 3 février 2021 relative au projet de ZAC Gare des Mines Fillettes intégrant un équipement olympique « ARENA II » (75)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142731</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. François NAU est désigné garant de la participation par voie électronique dans le cadre de la procédure de délivrance du permis de construire de l&#39;ARENA II, composante du projet de ZAC Gare des Mines Fillettes.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142731"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/18/HORIZEO/3 du 3 février 2021 relative au projet de plateforme énergétique bas carbone et mise en comptabilité PLU de Saucats (33)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142737</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont désignés comme membres de la Commission particulière du débat public sur le projet de plateforme énergétique bas carbone sur la commune de Saucats (33) et sur la mise en compatibilité du PLU de Saucats, dans le cadre d&#39;une déclaration de projet emportant sa mise en compatibilité et après en avoir délibéré :&lt;br/&gt;M. Philippe BERTRAN.&lt;br/&gt;Mme Marine CALMET.&lt;br/&gt;Mme Aurélie DALLEAS DE DOMINGO.&lt;br/&gt;M. François GILLARD.&lt;br/&gt;Mme Myriam MERAD.&lt;br/&gt;Mme Dominique SIMON.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142737"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/20/TCSP MARTINIQUE/4 du 3 février 2021 relative au projet de développement transport en commun en site propre à la Martinique (972)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142741</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités de concertation proposées par le maître d&#39;ouvrage du projet TCSP Martinique sont approuvées.&lt;br/&gt;La concertation préalable se déroulera du 1er mars au 31 mai 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142741"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/21/TOTAL GRANDPUITS PYROLYSE/1 du 3 février 2021 relative au projet PYROLYSE de recyclage de plastiques usagés - TOTAL GRANDPUITS à Nangis (77)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142746</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;MM. Jean-Luc RENAUD et Jacques ROUDIER sont désignés garants de la concertation préalable sur le projet PYROLYSE de recyclage de plastiques usagés sur le site de TOTAL GRANDPUITS.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142746"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021/22/TOTAL GRANDPUITS PLA et BIOJET-SMR/1 du 3 février 2021 relative au projet PLA et BIOJET-SMR de production de biopolymères et de biocarburants - TOTAL GRANDPUITS à Nangis (77)</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142752</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il y a lieu d&#39;organiser une concertation préalable selon l&#39;article L. 121-9.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modalités de la concertation préalable seront définies par la Commission qui en confie l&#39;organisation au maître d&#39;ouvrage, selon les dispositions de l&#39;article R. 121-8.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;MM. Jean-Luc RENAUD et Jacques ROUDIER sont désignés garants de la concertation préalable sur le projet de fabrication de biocarburants sur le site de TOTAL GRANDPUITS.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142752"></link>
+    <author>
+      <name>Commission nationale du débat public</name>
+    </author>
+  </entry>
+  <entry>
     <title>Décision n° 2021 / 7 / DATA CENTERS CORBEIL-ESSONNES COUDRAY-MONTCEAUX (91) / 1 du 27 janvier 2021 relative au projet de data centers à Corbeil-Essonnes et Coudray-Montceaux (91)</title>
     <updated>2021-02-15T20:57:08+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093191</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Nicole KLEIN et M. Jean-Louis LAURE sont désignés garants de la concertation préalable sur le projet de data centers sur les communes de Corbeil-Essonnes et du Coudray-Montceaux (91).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-04T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043093191"></link>
     <author>
       <name>Commission nationale du débat public</name>
     </author>
