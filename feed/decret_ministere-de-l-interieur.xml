@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-interieur - decret</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decret_ministere-de-l-interieur.xml</id>
-  <updated>2021-02-17T07:53:43+01:00</updated>
+  <updated>2021-02-18T09:29:05+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,8 +9,85 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Décret du 17 février 2021 portant nomination du préfet de l&#39;Aude - M. BONNIER (Thierry)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149273</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Thierry BONNIER, préfet de l&#39;Indre, est nommé préfet de l&#39;Aude, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149273"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant nomination du préfet de l&#39;Indre - M. BREDIN (Stéphane)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149282</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Stéphane BREDIN, conseiller référendaire de la Cour des comptes, est nommé préfet de l&#39;Indre, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149282"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant nomination de la préfète du Gard - Mme LECAILLON (Marie-Françoise)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149291</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Marie-Françoise LECAILLON, préfète de l&#39;Allier, est nommée préfète du Gard, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149291"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant cessation de fonctions d&#39;un préfet - M. LAUGA (Didier)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149300</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de préfet du Gard exercées par M. Didier LAUGA, préfet, à compter du 8 mars 2021. Il sera appelé à de nouvelles fonctions.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149300"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant nomination du préfet de l&#39;Allier - M. TREFFEL (Jean-Francis)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149308</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Francis TREFFEL, préfet de la Mayenne, est nommé préfet de l&#39;Allier, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149308"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant nomination du préfet de la Mayenne - M. LEFORT (Xavier)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149317</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Xavier LEFORT, conseiller maître à la Cour des comptes, est nommé préfet de la Mayenne, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149317"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 17 février 2021 portant nomination d&#39;un membre du Conseil supérieur de l&#39;appui territorial et de l&#39;évaluation - M. DESFORGES (Nicolas)</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149326</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Nicolas DESFORGES, préfet, est nommé membre du Conseil supérieur de l&#39;appui territorial et de l&#39;évaluation, à compter du 15 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149326"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
     <title>Décret n° 2021-150 du 10 février 2021 permettant aux étrangers en situation de handicap sollicitant une carte de résident de bénéficier d&#39;aménagements d&#39;épreuves pour le passage du test linguistique attestant leur niveau de maîtrise du français</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130022</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le b du 5° de l&#39;article R. 314-1 du code de l&#39;entrée et du séjour des étrangers et du droit d&#39;asile est ainsi rédigé : &lt;br/&gt;« b) Les diplômes ou certifications permettant d&#39;attester de sa maîtrise du français à un niveau égal ou supérieur au niveau A2 du cadre européen commun de référence pour les langues du Conseil de l&#39;Europe tel qu&#39;adopté par le comité des ministres du Conseil de l&#39;Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008, dont la liste est définie par un arrêté du ministre chargé de l&#39;accueil et de l&#39;intégration ; les personnes qui présentent un handicap ou un état de santé déficient chronique peuvent, sur présentation d&#39;un certificat médical conforme au modèle fixé par arrêté conjoint du ministre chargé de l&#39;accueil et de l&#39;intégration et des ministres chargés de la santé et des personnes handicapées, bénéficier d&#39;aménagements d&#39;épreuves pour le passage d&#39;un test linguistique si leur état le justifie ou, en cas d&#39;impossibilité de passer un tel test, être dispensées de la production de ces diplômes ou certifications. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
@@ -21,7 +98,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant intégration (inspection générale de l&#39;administration) - M. SCARBONCHI (François)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114686</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. François SCARBONCHI, administrateur territorial général, est intégré dans le corps de l&#39;inspection générale de l&#39;administration en qualité d&#39;inspecteur général de l&#39;administration, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -32,7 +109,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions d&#39;un préfet - M. POUËSSEL (Pierre)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114692</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de préfet de la région Centre-Val de Loire, préfet du Loiret (hors classe) exercées par M. Pierre POUËSSEL, préfet. Il sera appelé à faire valoir ses droits à la retraite.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -43,7 +120,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète de la région Centre-Val de Loire, préfète du Loiret (hors classe) - Mme ENGSTRÖM (Régine)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114700</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Régine ENGSTRÖM, ingénieure générale des ponts, des eaux et des forêts de classe exceptionnelle, est nommée préfète de la région Centre-Val de Loire, préfète du Loiret (hors classe).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -54,7 +131,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions d&#39;un préfet - M. LE DEUN (Raymond)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114709</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de préfet du Val-de-Marne (hors classe) exercées par M. Raymond LE DEUN, préfet. Il sera appelé à faire valoir ses droits à la retraite.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -65,7 +142,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète du Val-de-Marne (hors classe) - Mme THIBAULT (Sophie)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114717</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Sophie THIBAULT, conseillère maître à la Cour des comptes, est nommée préfète du Val-de-Marne (hors classe).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -76,7 +153,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète déléguée pour l&#39;égalité des chances auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord - Mme TUBIANA (Camille)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114726</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Camille TUBIANA est nommée préfète déléguée pour l&#39;égalité des chances auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -87,7 +164,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un préfet chargé d&#39;une mission de service public relevant du Gouvernement - M. LERNER (Nicolas)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114737</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Nicolas LERNER, administrateur général détaché en qualité de directeur général de la sécurité intérieure, est nommé préfet chargé d&#39;une mission de service public relevant du Gouvernement. Il est maintenu dans ses fonctions de directeur général de la sécurité intérieure.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -98,7 +175,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un préfet chargé d&#39;une mission de service public relevant du Gouvernement - M. ABRARD (Christian)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114743</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt; M. Christian ABRARD, administrateur civil hors classe détaché en qualité de sous-préfet hors classe, sous-préfet de Roanne (classe fonctionnelle III), est nommé préfet chargé d&#39;une mission de service public relevant du Gouvernement, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -109,7 +186,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;une préfète chargée d&#39;une mission de service public relevant du Gouvernement - Mme BERNARD (Marie-Blanche)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114749</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Marie-Blanche BERNARD, sous-préfète hors classe, secrétaire générale de la préfecture de Meurthe-et-Moselle (classe fonctionnelle III), est nommée préfète chargée d&#39;une mission de service public relevant du Gouvernement, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -120,7 +197,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions du secrétaire général de la préfecture des Alpes-de-Haute-Provence - M. DECLUDT (Amaury)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114755</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, il est mis fin, à sa demande, aux fonctions de secrétaire général de la préfecture des Alpes-de-Haute-Provence exercées par M. Amaury DECLUDT, inspecteur des finances de 1re classe détaché en qualité de sous-préfet hors classe.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -131,7 +208,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du secrétaire général de la préfecture des Alpes-de-Haute-Provence, sous-préfet de Digne-les-Bains - M. SCHIRA (Paul-François)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114757</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Paul-François SCHIRA, maître des requêtes au Conseil d&#39;Etat détaché en qualité de sous-préfet hors classe, sous-préfet chargé de mission auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord, est nommé secrétaire général de la préfecture des Alpes-de-Haute-Provence, sous-préfet de Digne-les-Bains.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -142,7 +219,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un sous-préfet chargé de mission, sous-préfet à la relance auprès du préfet de Corse, préfet de la Corse-du-Sud - M. BERNIÉ (Patrick)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114759</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Patrick BERNIÉ, sous-préfet hors classe, sous-préfet de Millau, est nommé sous-préfet chargé de mission, sous-préfet à la relance auprès du préfet de Corse, préfet de la Corse-du-Sud.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -153,7 +230,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la sous-préfète de Château-Thierry - Mme MANO (Fatou)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114761</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, Mme Fatou MANO, magistrate de l&#39;ordre judiciaire, est nommée sous-préfète, sous-préfète de Château-Thierry.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -164,7 +241,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Saint-Laurent-du-Maroni (classe fonctionnelle III) - M. EYMARD (Frédéric)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114763</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Frédéric EYMARD, inspecteur général de l&#39;administration du développement durable, est nommé sous-préfet, sous-préfet de Saint-Laurent-du-Maroni (classe fonctionnelle III).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -175,7 +252,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Villefranche-sur-Saône (classe fonctionnelle II) - M. BOYER (Jean-Jacques)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114765</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Jean-Jacques BOYER, sous-préfet hors classe, sous-préfet de Chalon-sur-Saône (classe fonctionnelle III), est nommé sous-préfet de Villefranche-sur-Saône (classe fonctionnelle II).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -186,7 +263,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Dax (classe fonctionnelle III) - M. BARON (Thierry)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114767</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Thierry BARON, commissaire divisionnaire de la police nationale détaché en qualité de sous-préfet hors classe, secrétaire général de la préfecture de la Sarthe (classe fonctionnelle III), est nommé sous-préfet de Dax (classe fonctionnelle III).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -197,7 +274,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant titularisation d&#39;un préfet et radiation du corps des administrateurs civils - M. LAUCH (François-Xavier)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110211</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. François-Xavier LAUCH, administrateur civil hors classe, est, sur sa demande, titularisé en qualité de préfet. Il est radié du corps des administrateurs civils.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -208,7 +285,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - Mme DARRACQ (Edwige)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110213</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, Mme DARRACQ (Edwige), ingénieure du génie sanitaire, est intégrée dans le corps des sous-préfets.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -219,7 +296,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - M. VAUTIER (Patrick)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110215</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. VAUTIER (Patrick), personnel de direction d&#39;établissement d&#39;enseignement de l&#39;éducation nationale, est intégré dans le corps des sous-préfets.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -230,7 +307,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - Mme HACQUES (Christine)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110217</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, Mme HACQUES (Christine), administratrice territoriale, est intégrée dans le corps des sous-préfets.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -241,7 +318,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - M. BERNIÉ (Patrick)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110219</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. BERNIÉ (Patrick), directeur du travail, est intégré dans le corps des sous-préfets.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -252,7 +329,7 @@
   </entry>
   <entry>
     <title>Décret du 9 février 2021 portant nomination de la sous-préfète de Segré-en-Anjou Bleu - Mme PIETRI (Anny)</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110221</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 9 février 2021, Mme Anny PIETRI, administratrice civile détachée en qualité de sous-préfète, sous-préfète de Châteaudun, est nommée sous-préfète de Segré-en-Anjou Bleu.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -263,7 +340,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant admission à la retraite d&#39;un préfet</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
+    <updated>2021-02-18T09:29:05+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106570</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. Michel DELPUECH, préfet hors classe, est admis, après prolongation d&#39;activité, à faire valoir ses droits à la retraite à compter du 14 avril 2021.&lt;/p&gt;</content>
     <published>2021-02-09T01:00:00+01:00</published>
@@ -273,21 +350,10 @@
     </author>
   </entry>
   <entry>
-    <title>Décret du 4 février 2021 approuvant la dissolution de l&#39;association reconnue d&#39;utilité publique dite « Association des amis de l&#39;école laïque de Valence », autorisant le transfert de ses biens et abrogeant le décret qui a reconnu cette association comme établissement d&#39;utilité publique</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099797</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret en date du 4 février 2021, sont approuvées les délibérations des 26 janvier et 12 novembre 2019 de l&#39;assemblée générale extraordinaire de l&#39;association dite « Association des amis de l&#39;école laïque de Valence », dont le siège est à Valence (26), qui a été reconnue d&#39;utilité publique par décret du 18 juillet 1938, ayant respectivement décidé la dissolution de l&#39;association et la dévolution de son actif net estimé au 31 décembre 2019 à 1 658 800 euros.&lt;br/&gt;Est abrogé le décret du 18 juillet 1938 ayant reconnu comme établissement d&#39;utilité publique l&#39;association dite « Association des amis de l&#39;école laïque de Valence ».&lt;/p&gt;</content>
-    <published>2021-02-06T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099797"></link>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
     <title>Décret n° 2021-150 du 10 février 2021 permettant aux étrangers en situation de handicap sollicitant une carte de résident de bénéficier d&#39;aménagements d&#39;épreuves pour le passage du test linguistique attestant leur niveau de maîtrise du français</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130022</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le b du 5° de l&#39;article R. 314-1 du code de l&#39;entrée et du séjour des étrangers et du droit d&#39;asile est ainsi rédigé :&lt;br/&gt;« b) Les diplômes ou certifications permettant d&#39;attester de sa maîtrise du français à un niveau égal ou supérieur au niveau A2 du cadre européen commun de référence pour les langues du Conseil de l&#39;Europe tel qu&#39;adopté par le comité des ministres du Conseil de l&#39;Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008, dont la liste est définie par un arrêté du ministre chargé de l&#39;accueil et de l&#39;intégration ; les personnes qui présentent un handicap ou un état de santé déficient chronique peuvent, sur présentation d&#39;un certificat médical conforme au modèle fixé par arrêté conjoint du ministre chargé de l&#39;accueil et de l&#39;intégration et des ministres chargés de la santé et des personnes handicapées, bénéficier d&#39;aménagements d&#39;épreuves pour le passage d&#39;un test linguistique si leur état le justifie ou, en cas d&#39;impossibilité de passer un tel test, être dispensées de la production de ces diplômes ou certifications. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le b du 5° de l&#39;article R. 314-1 du code de l&#39;entrée et du séjour des étrangers et du droit d&#39;asile est ainsi rédigé : &lt;br/&gt;« b) Les diplômes ou certifications permettant d&#39;attester de sa maîtrise du français à un niveau égal ou supérieur au niveau A2 du cadre européen commun de référence pour les langues du Conseil de l&#39;Europe tel qu&#39;adopté par le comité des ministres du Conseil de l&#39;Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008, dont la liste est définie par un arrêté du ministre chargé de l&#39;accueil et de l&#39;intégration ; les personnes qui présentent un handicap ou un état de santé déficient chronique peuvent, sur présentation d&#39;un certificat médical conforme au modèle fixé par arrêté conjoint du ministre chargé de l&#39;accueil et de l&#39;intégration et des ministres chargés de la santé et des personnes handicapées, bénéficier d&#39;aménagements d&#39;épreuves pour le passage d&#39;un test linguistique si leur état le justifie ou, en cas d&#39;impossibilité de passer un tel test, être dispensées de la production de ces diplômes ou certifications. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;intérieur est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;intérieur</name>
@@ -295,7 +361,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant intégration (inspection générale de l&#39;administration) - M. SCARBONCHI (François)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114686</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. François SCARBONCHI, administrateur territorial général, est intégré dans le corps de l&#39;inspection générale de l&#39;administration en qualité d&#39;inspecteur général de l&#39;administration, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -305,7 +371,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions d&#39;un préfet - M. POUËSSEL (Pierre)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114692</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de préfet de la région Centre-Val de Loire, préfet du Loiret (hors classe) exercées par M. Pierre POUËSSEL, préfet. Il sera appelé à faire valoir ses droits à la retraite.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -315,7 +381,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète de la région Centre-Val de Loire, préfète du Loiret (hors classe) - Mme ENGSTRÖM (Régine)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114700</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Régine ENGSTRÖM, ingénieure générale des ponts, des eaux et des forêts de classe exceptionnelle, est nommée préfète de la région Centre-Val de Loire, préfète du Loiret (hors classe).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -325,7 +391,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions d&#39;un préfet - M. LE DEUN (Raymond)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114709</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin, à sa demande, aux fonctions de préfet du Val-de-Marne (hors classe) exercées par M. Raymond LE DEUN, préfet. Il sera appelé à faire valoir ses droits à la retraite.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -335,7 +401,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète du Val-de-Marne (hors classe) - Mme THIBAULT (Sophie)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114717</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Sophie THIBAULT, conseillère maître à la Cour des comptes, est nommée préfète du Val-de-Marne (hors classe).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -345,7 +411,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la préfète déléguée pour l&#39;égalité des chances auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord - Mme TUBIANA (Camille)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114726</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Camille TUBIANA est nommée préfète déléguée pour l&#39;égalité des chances auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -355,7 +421,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un préfet chargé d&#39;une mission de service public relevant du Gouvernement - M. LERNER (Nicolas)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114737</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Nicolas LERNER, administrateur général détaché en qualité de directeur général de la sécurité intérieure, est nommé préfet chargé d&#39;une mission de service public relevant du Gouvernement. Il est maintenu dans ses fonctions de directeur général de la sécurité intérieure.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -365,7 +431,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un préfet chargé d&#39;une mission de service public relevant du Gouvernement - M. ABRARD (Christian)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114743</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt; M. Christian ABRARD, administrateur civil hors classe détaché en qualité de sous-préfet hors classe, sous-préfet de Roanne (classe fonctionnelle III), est nommé préfet chargé d&#39;une mission de service public relevant du Gouvernement, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -375,7 +441,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;une préfète chargée d&#39;une mission de service public relevant du Gouvernement - Mme BERNARD (Marie-Blanche)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114749</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Marie-Blanche BERNARD, sous-préfète hors classe, secrétaire générale de la préfecture de Meurthe-et-Moselle (classe fonctionnelle III), est nommée préfète chargée d&#39;une mission de service public relevant du Gouvernement, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et le ministre de l&#39;intérieur sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -385,7 +451,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant cessation de fonctions du secrétaire général de la préfecture des Alpes-de-Haute-Provence - M. DECLUDT (Amaury)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114755</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, il est mis fin, à sa demande, aux fonctions de secrétaire général de la préfecture des Alpes-de-Haute-Provence exercées par M. Amaury DECLUDT, inspecteur des finances de 1re classe détaché en qualité de sous-préfet hors classe.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -395,7 +461,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du secrétaire général de la préfecture des Alpes-de-Haute-Provence, sous-préfet de Digne-les-Bains - M. SCHIRA (Paul-François)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114757</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Paul-François SCHIRA, maître des requêtes au Conseil d&#39;Etat détaché en qualité de sous-préfet hors classe, sous-préfet chargé de mission auprès du préfet de la région Hauts-de-France, préfet de la zone de défense et de sécurité Nord, préfet du Nord, est nommé secrétaire général de la préfecture des Alpes-de-Haute-Provence, sous-préfet de Digne-les-Bains.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -405,7 +471,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination d&#39;un sous-préfet chargé de mission, sous-préfet à la relance auprès du préfet de Corse, préfet de la Corse-du-Sud - M. BERNIÉ (Patrick)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114759</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Patrick BERNIÉ, sous-préfet hors classe, sous-préfet de Millau, est nommé sous-préfet chargé de mission, sous-préfet à la relance auprès du préfet de Corse, préfet de la Corse-du-Sud.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -415,7 +481,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination de la sous-préfète de Château-Thierry - Mme MANO (Fatou)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114761</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, Mme Fatou MANO, magistrate de l&#39;ordre judiciaire, est nommée sous-préfète, sous-préfète de Château-Thierry.&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -425,7 +491,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Saint-Laurent-du-Maroni (classe fonctionnelle III) - M. EYMARD (Frédéric)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114763</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Frédéric EYMARD, inspecteur général de l&#39;administration du développement durable, est nommé sous-préfet, sous-préfet de Saint-Laurent-du-Maroni (classe fonctionnelle III).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -435,7 +501,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Villefranche-sur-Saône (classe fonctionnelle II) - M. BOYER (Jean-Jacques)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114765</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Jean-Jacques BOYER, sous-préfet hors classe, sous-préfet de Chalon-sur-Saône (classe fonctionnelle III), est nommé sous-préfet de Villefranche-sur-Saône (classe fonctionnelle II).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -445,7 +511,7 @@
   </entry>
   <entry>
     <title>Décret du 10 février 2021 portant nomination du sous-préfet de Dax (classe fonctionnelle III) - M. BARON (Thierry)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114767</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 10 février 2021, M. Thierry BARON, commissaire divisionnaire de la police nationale détaché en qualité de sous-préfet hors classe, secrétaire général de la préfecture de la Sarthe (classe fonctionnelle III), est nommé sous-préfet de Dax (classe fonctionnelle III).&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
@@ -455,7 +521,7 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant titularisation d&#39;un préfet et radiation du corps des administrateurs civils - M. LAUCH (François-Xavier)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110211</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. François-Xavier LAUCH, administrateur civil hors classe, est, sur sa demande, titularisé en qualité de préfet. Il est radié du corps des administrateurs civils.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
@@ -465,70 +531,10 @@
   </entry>
   <entry>
     <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - Mme DARRACQ (Edwige)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
+    <updated>2021-02-17T07:53:43+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110213</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, Mme DARRACQ (Edwige), ingénieure du génie sanitaire, est intégrée dans le corps des sous-préfets.&lt;/p&gt;</content>
     <published>2021-02-10T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - M. VAUTIER (Patrick)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110215</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. VAUTIER (Patrick), personnel de direction d&#39;établissement d&#39;enseignement de l&#39;éducation nationale, est intégré dans le corps des sous-préfets.&lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - Mme HACQUES (Christine)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110217</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, Mme HACQUES (Christine), administratrice territoriale, est intégrée dans le corps des sous-préfets.&lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 8 février 2021 portant intégration (administration préfectorale) - M. BERNIÉ (Patrick)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110219</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. BERNIÉ (Patrick), directeur du travail, est intégré dans le corps des sous-préfets.&lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 9 février 2021 portant nomination de la sous-préfète de Segré-en-Anjou Bleu - Mme PIETRI (Anny)</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110221</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 9 février 2021, Mme Anny PIETRI, administratrice civile détachée en qualité de sous-préfète, sous-préfète de Châteaudun, est nommée sous-préfète de Segré-en-Anjou Bleu.&lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 8 février 2021 portant admission à la retraite d&#39;un préfet</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106570</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 8 février 2021, M. Michel DELPUECH, préfet hors classe, est admis, après prolongation d&#39;activité, à faire valoir ses droits à la retraite à compter du 14 avril 2021.&lt;/p&gt;</content>
-    <published>2021-02-09T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;intérieur</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 4 février 2021 approuvant la dissolution de l&#39;association reconnue d&#39;utilité publique dite « Association des amis de l&#39;école laïque de Valence », autorisant le transfert de ses biens et abrogeant le décret qui a reconnu cette association comme établissement d&#39;utilité publique</title>
-    <updated>2021-02-15T20:57:09+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043099797</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret en date du 4 février 2021, sont approuvées les délibérations des 26 janvier et 12 novembre 2019 de l&#39;assemblée générale extraordinaire de l&#39;association dite « Association des amis de l&#39;école laïque de Valence », dont le siège est à Valence (26), qui a été reconnue d&#39;utilité publique par décret du 18 juillet 1938, ayant respectivement décidé la dissolution de l&#39;association et la dévolution de son actif net estimé au 31 décembre 2019 à 1 658 800 euros.&lt;br/&gt;Est abrogé le décret du 18 juillet 1938 ayant reconnu comme établissement d&#39;utilité publique l&#39;association dite « Association des amis de l&#39;école laïque de Valence ».&lt;/p&gt;</content>
-    <published>2021-02-06T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;intérieur</name>
     </author>

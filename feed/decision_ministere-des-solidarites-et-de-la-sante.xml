@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-des-solidarites-et-de-la-sante - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_ministere-des-solidarites-et-de-la-sante.xml</id>
-  <updated>2021-02-17T07:53:42+01:00</updated>
+  <updated>2021-02-18T09:29:04+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décision du 26 janvier 2021 portant renouvellement de mandat des membres du collège de déontologie de l&#39;inspection générale des affaires sociales</title>
-    <updated>2021-02-17T07:53:42+01:00</updated>
+    <updated>2021-02-18T09:29:04+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121880</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont renouvelés pour un mandat de trois ans, en qualité de membres du collège de déontologie de l&#39;inspection générale des affaires sociales :&lt;br/&gt;Mme Marie-Ange du Mesnil du Buisson, inspectrice générale des affaires sociales honoraire, titulaire ;&lt;br/&gt;Mme Isabelle Yéni, inspectrice générale des affaires sociales honoraire, suppléante ;&lt;br/&gt;Mme Anne-Carole Bensadon, inspectrice générale des affaires sociales, titulaire ;&lt;br/&gt;M. Hamid Siahmed, inspecteur général des affaires sociales, suppléant ;&lt;br/&gt;M. Olivier Dord, professeur agrégé de droit public, personnalité qualifiée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Cette décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-12T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121880"></link>
+    <author>
+      <name>Ministère des solidarités et de la santé</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 26 janvier 2021 portant renouvellement de mandat des membres du collège de déontologie de l&#39;inspection générale des affaires sociales</title>
+    <updated>2021-02-17T07:53:42+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043121880</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont renouvelés pour un mandat de trois ans, en qualité de membres du collège de déontologie de l&#39;inspection générale des affaires sociales :&lt;br/&gt;Mme Marie-Ange du Mesnil du Buisson, inspectrice générale des affaires sociales honoraire, titulaire ;&lt;br/&gt;Mme Isabelle Yéni, inspectrice générale des affaires sociales honoraire, suppléante ;&lt;br/&gt;Mme Anne-Carole Bensadon, inspectrice générale des affaires sociales, titulaire ;&lt;br/&gt;M. Hamid Siahmed, inspecteur général des affaires sociales, suppléant ;&lt;br/&gt;M. Olivier Dord, professeur agrégé de droit public, personnalité qualifiée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Cette décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-12T01:00:00+01:00</published>
     <author>
       <name>Ministère des solidarités et de la santé</name>
     </author>
