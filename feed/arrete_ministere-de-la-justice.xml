@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-justice - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_ministere-de-la-justice.xml</id>
-  <updated>2021-02-18T09:29:05+01:00</updated>
+  <updated>2021-02-23T08:10:23+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,8 +9,382 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Arrêté du 18 février 2021 fixant le nombre de postes offerts aux concours ouverts pour le recrutement de conseillers pénitentiaires d&#39;insertion et de probation au titre de l&#39;année 2021</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168461</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 18 février 2021, le nombre de places offertes aux concours ouverts par l&#39;arrêté du 8 décembre 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture des concours externe sur épreuves, externe sur titres, interne et du troisième concours pour le recrutement de conseillers pénitentiaires d&#39;insertion et de probation est fixé à 352 et réparti de la manière suivante :&lt;br/&gt;Concours externe : 167 places ;&lt;br/&gt;Concours externe sur titres : 16 places ;&lt;br/&gt;Concours interne : 151 places ;&lt;br/&gt;Troisième concours : 18 places.&lt;br/&gt;Par ailleurs, 42 postes sont offerts aux bénéficiaires du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006074068&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et des victimes de la guerre. (M)&#39;&gt;code des pensions militaires d&#39;invalidité et des victimes de la guerre&lt;/a&gt; dans les services déconcentrés de l&#39;administration pénitentiaire.&lt;br/&gt;A défaut de candidat qualifié inscrit sur la liste d&#39;aptitude établie par le ministre chargé de la défense en application des dispositions du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006074068&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et des victimes de la guerre. (M)&#39;&gt;code des pensions militaires d&#39;invalidité et des victimes de guerre&lt;/a&gt; pour exercer les fonctions de conseillers pénitentiaires d&#39;insertion et de probation, les emplois vacants ne peuvent être pourvus qu&#39;en satisfaisant aux priorités définies à l&#39;article L. 242-7 du même code et selon la procédure définie aux articles R. 242-17 et suivants du même code.&lt;br/&gt;A défaut de candidat qualifié pour exercer les fonctions de conseillers pénitentiaires d&#39;insertion et de probation ou en cas de refus des candidats, les emplois non pourvus dans les conditions définies à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074068&amp;idArticle=LEGIARTI000031709751&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et de... - art. L242-7 (V)&#39;&gt;article L. 242-7 du code des pensions militaires d&#39;invalidité et des victimes de la guerre&lt;/a&gt; s&#39;ajoutent aux emplois à pourvoir au titre du recrutement suivant dans les conditions définies à l&#39;article R. 242-21 du même code.&lt;br/&gt;De plus, 25 places sont offertes par la voie contractuelle aux bénéficiaires de l&#39;obligation d&#39;emploi mentionnée à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000504704&amp;idArticle=LEGIARTI000038899366&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 83-634 du 13 juillet 1983 - art. 33 (V)&#39;&gt;article 33 de la loi n° 83-634 du 13 juillet 1983&lt;/a&gt; modifiée portant droits et obligations des fonctionnaires.&lt;/p&gt;</content>
+    <published>2021-02-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168461"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 février 2021 portant radiation des cadres et admission à la retraite</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168623</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 15 février 2021, M. Gilbert MARCEAU, directeur hors classe des services pénitentiaire au centre pénitentiaire de Béziers à la direction interrégionale des services pénitentiaires de Toulouse, est admis, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er juillet 2021.&lt;/p&gt;</content>
+    <published>2021-02-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168623"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 février 2021 annulant l&#39;arrêté du 14 décembre 2020 portant admission à la retraite (magistrature)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163268</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 15 février 2021, les dispositions de l&#39;arrêté du 14 décembre 2020 par lesquelles Mme Stellina BORESI, vice-présidente au tribunal judiciaire d&#39;Aix-en-Provence, est admise, sur sa demande, à faire valoir ses droits à la retraite à compter du 1er juillet 2021, sont annulées.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163268"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 février 2021 portant nomination de président de formation de jugement à la Cour nationale du droit d&#39;asile (Conseil d&#39;Etat)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163270</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 18 février 2021, Mme Devauchelle (Anne), première conseillère du corps des magistrats des tribunaux administratifs et des cours administratives d&#39;appel, est renouvelée dans les fonctions de présidente de formation de jugement à la Cour nationale du droit d&#39;asile, à compter du 13 février 2021.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163270"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 19 février 2021 portant nomination (administration centrale)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163272</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du garde des sceaux, ministre de la justice, en date du 19 février 2021, Mme Catherine RAYNOUARD, magistrate du premier grade, est renouvelée dans ses fonctions de sous-directrice du droit civil à la direction des affaires civiles et du sceau, à l&#39;administration centrale du ministère de la justice, pour une durée de deux ans à compter du 1er mars 2021.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163272"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant ouverture d&#39;un concours professionnel pour l&#39;admission aux fonctions de notaire dans le ressort des cours d&#39;appel de Colmar et de Metz (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162614</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 17 février 2021 :&lt;br/&gt;Une session du concours professionnel pour l&#39;admission aux fonctions de notaire dans le ressort des cours d&#39;appel de Colmar et de Metz est ouverte aux dates ci-après indiquées :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- les épreuves écrites auront lieu le 20 avril 2021,&lt;br/&gt;- les épreuves orales auront lieu les 23, 24 et 25 juin 2021.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les épreuves se dérouleront à Strasbourg. Le lieu précis sera communiqué par écrit aux candidats admis à se présenter. Il sera défini en fonction du nombre de candidats et des éventuelles mesures sanitaires.&lt;br/&gt;Le nombre de places mises au concours est fixé à 20.&lt;br/&gt;Les candidats devront faire parvenir au parquet du procureur général près la cour d&#39;appel de Colmar, 9, avenue Poincaré, CS 6007, 68027 Colmar Cedex, leur demande d&#39;inscription pour subir les épreuves de ce concours.&lt;br/&gt;Les demandes d&#39;inscription ne seront plus admises après le 15 mars 2021.&lt;br/&gt;Le jury du concours est composé comme suit :&lt;br/&gt;Présidente : Mme Françoise HAEGEL, magistrate honoraire à la cour d&#39;appel de Colmar.&lt;br/&gt;Présidente suppléante : Mme Denise MARTINO, présidente de chambre à la cour d&#39;appel de Metz.&lt;br/&gt;Membres titulaires :&lt;br/&gt;Me Joëlle BOESHERTZ, notaire à Drulingen ;&lt;br/&gt;Me Hélène SIFFERT-KLUSKA, notaire à Cernay ;&lt;br/&gt;Me Catherine BONICHOT, notaire à Metz ;&lt;br/&gt;Mme Sandrine BOONE, inspectrice principale des finances publiques ;&lt;br/&gt;M. Philippe HOONAKKER, professeur à la faculté de droit de Strasbourg.&lt;br/&gt;Membres suppléants :&lt;br/&gt;Me Audrey JACQUIN-ARBOGAST, notaire à Dettwiller ;&lt;br/&gt;Me Olivier VIX, notaire à Rouffach ;&lt;br/&gt;Me Jean SCHAUB, notaire à Forbach ;&lt;br/&gt;M. Thomas VILLIG, inspecteur des finances publiques ;&lt;br/&gt;Mme Bénédicte GIRARD, professeur à la faculté de droit de Strasbourg.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162614"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 fixant le nombre de postes offerts aux concours externe et interne de techniciens de l&#39;administration pénitentiaire au titre de l&#39;année 2021</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162616</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 17 février 2021, le nombre de places offertes aux concours externe et interne ouverts par l&#39;arrêté du 8 décembre 2020 pour le recrutement de techniciens de l&#39;administration pénitentiaire est fixé à 8 et réparti de la manière suivante :&lt;br/&gt;Concours externe : 4 postes&lt;br/&gt;Spécialités liées aux métiers du bâtiment, du bois, des métaux et à la maintenance immobilière : 1 poste ;&lt;br/&gt;Spécialités liées à la gestion d&#39;une cuisine collective : 1 poste ;&lt;br/&gt;Spécialités liées à l&#39;informatique : 1 poste ;&lt;br/&gt;Spécialités liées à l&#39;hygiène, la sécurité et aux conditions de travail : 1 poste.&lt;br/&gt;Concours interne : 4 postes&lt;br/&gt;Spécialités liées aux métiers du bâtiment, du bois, des métaux et à la maintenance immobilière : 1 poste ;&lt;br/&gt;Spécialités liées à la gestion d&#39;une cuisine collective : 1 poste ;&lt;br/&gt;Spécialités liées à l&#39;informatique : 1 poste ;&lt;br/&gt;Spécialités liées à l&#39;hygiène, la sécurité et aux conditions de travail : 1 poste.&lt;br/&gt;En outre, 1 poste est offert à un bénéficiaire du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006070302&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions civiles et militaires de retraite (V)&#39;&gt;code des pensions militaires d&#39;invalidité&lt;/a&gt; et des victimes de guerres dans les services déconcentrés de l&#39;administration pénitentiaire.&lt;br/&gt;A défaut de candidat qualifié inscrit sur la liste d&#39;aptitude établie par le ministre chargé de la défense en application des dispositions du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006074068&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et des victimes de la guerre. (M)&#39;&gt;code des pensions militaires d&#39;invalidité et des victimes de la guerre&lt;/a&gt; pour exercer les fonctions de technicien de l&#39;administration pénitentiaire, les emplois vacants ne peuvent être pourvus qu&#39;en satisfaisant aux priorités définies à l&#39;article L. 242-7 du même code et selon la procédure définie aux articles R. 242-17 et suivants du même code.&lt;br/&gt;A défaut de candidat qualifié pour exercer les fonctions de technicien de l&#39;administration pénitentiaire ou en cas de refus des candidats, les emplois non pourvus dans les conditions définies à l&#39;article L. 242-7 s&#39;ajoutent aux emplois à pourvoir au titre du recrutement suivant dans les conditions définies à l&#39;article R. 242-21.&lt;br/&gt;Par ailleurs, 1 poste est offert par la voie contractuelle aux bénéficiaires de l&#39;obligation d&#39;emploi mentionnée à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000504704&amp;idArticle=LEGIARTI000038899366&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 83-634 du 13 juillet 1983 - art. 33 (V)&#39;&gt;article 33 de la loi n° 83-634 du 13 juillet 1983&lt;/a&gt; modifiée portant droits et obligations des fonctionnaires.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162616"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 fixant le nombre de postes offerts au concours d&#39;adjoints techniques de l&#39;administration pénitentiaire au titre de l&#39;année 2021</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162621</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 17 février 2021, le nombre de places offertes au concours ouvert par arrêté du 8 décembre 2020 pour le recrutement d&#39;adjoints techniques de l&#39;administration pénitentiaire est fixé à 16 et réparti de la manière suivante :&lt;br/&gt;Spécialités liées aux métiers du bâtiment, du bois, des métaux et à l&#39;entretien multitechnique : 11 postes ;&lt;br/&gt;Spécialités liées à la restauration collective : 5 postes.&lt;br/&gt;En outre, 2 postes sont offerts aux bénéficiaires du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006070302&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions civiles et militaires de retraite (V)&#39;&gt;code des pensions militaires d&#39;invalidité&lt;/a&gt; et des victimes de guerres dans les services déconcentrés de l&#39;administration pénitentiaire.&lt;br/&gt;A défaut de candidat qualifié inscrit sur la liste d&#39;aptitude établie par le ministre chargé de la défense en application des dispositions du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006074068&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et des victimes de la guerre. (M)&#39;&gt;code des pensions militaires d&#39;invalidité et des victimes de la guerre&lt;/a&gt; pour exercer les fonctions d&#39;adjoint technique de l&#39;administration pénitentiaire, les emplois vacants ne peuvent être pourvus qu&#39;en satisfaisant aux priorités définies à l&#39;article L. 242-7 du même code et selon la procédure définie aux articles R. 242-17 et suivants du même code.&lt;br/&gt;A défaut de candidat qualifié pour exercer les fonctions d&#39;adjoint technique de l&#39;administration pénitentiaire ou en cas de refus des candidats, les emplois non pourvus dans les conditions définies à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074068&amp;idArticle=LEGIARTI000031709751&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des pensions militaires d&#39;invalidité et de... - art. L242-7 (V)&#39;&gt;article L. 242-7 du code des pensions militaires d&#39;invalidité et des victimes de la guerre&lt;/a&gt; s&#39;ajoutent aux emplois à pourvoir au titre du recrutement suivant dans les conditions définies à l&#39;article R. 242-21 du même code.&lt;br/&gt;Par ailleurs, 1 poste est offert par voie contractuelle aux bénéficiaires de l&#39;obligation d&#39;emploi mentionnée à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000504704&amp;idArticle=LEGIARTI000038899366&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 83-634 du 13 juillet 1983 - art. 33 (V)&#39;&gt;article 33 de la loi n° 83-634 du 13 juillet 1983&lt;/a&gt; modifiée portant dispositions statutaires relatives à la fonction publique de l&#39;Etat.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162621"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 3 février 2021 retirant l&#39;arrêté du 3 novembre 2020 mettant fin aux fonctions d&#39;un auditeur de justice de l&#39;Ecole nationale de la magistrature</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162859</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 3 février 2021, l&#39;arrêté du 3 novembre 2020 mettant fin aux fonctions d&#39;un auditeur de justice de l&#39;Ecole nationale de la magistrature est retiré.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162859"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant mutation (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162861</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 16 février 2021, M. Célérier (Thibaut), président du corps des magistrats des tribunaux administratifs et cours administratives d&#39;appel, président de chambre à la cour administrative d&#39;appel de Nantes, est muté en qualité de président de chambre à la cour administrative d&#39;appel de Paris à compter du 1er septembre 2021.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162861"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant mutation (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162863</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 17 février 2021, M. Poujade (Alain), président du corps des magistrats des tribunaux administratifs et cours administratives d&#39;appel, président de chambre à la cour administrative d&#39;appel de Marseille, est muté en qualité de président du tribunal administratif de Châlons-en-Champagne à compter du 1er mai 2021.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162863"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant mutation (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162865</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 17 février 2021, Mme Paix (Evelyne), présidente du corps des magistrats des tribunaux administratifs et cours administratives d&#39;appel, présidente de chambre à la cour administrative d&#39;appel de Lyon, est mutée en qualité de présidente de chambre à la cour administrative d&#39;appel de Marseille à compter du 1er juin 2021.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162865"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 15 février 2021 fixant le taux de l&#39;indemnité forfaitaire pour frais de représentation allouée à certains magistrats de l&#39;ordre judiciaire, aux magistrats exerçant à l&#39;inspection générale de la justice et au directeur de l&#39;Ecole nationale des greffes</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156041</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans la limite des crédits ouverts à cet effet, il peut être attribué aux bénéficiaires énumérés ci-après une indemnité forfaitaire pour frais de représentation dont le montant annuel est fixé aux taux suivants :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Fonctions&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Montant de l&#39;indemnité&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Premier président et procureur général des cours d&#39;appel de Paris et de Versailles&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;2403 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Premier président et procureur général des cours d&#39;appel de métropole, des collectivités régies par les articles 73 et 74 de la Constitution et de Nouvelle-Calédonie&lt;br/&gt;- Président et procureur d&#39;un tribunal supérieur d&#39;appel&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1282 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Président et procureur de la République du tribunal judiciaire de Paris&lt;br/&gt;- Procureur de la République financier près le tribunal judiciaire de Paris&lt;br/&gt;- Procureur de la République antiterroriste près le tribunal judiciaire de Paris&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1762 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Président et procureur de la République des tribunaux judiciaires de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, Nanterre, Pontoise, Toulouse et Versailles&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1282 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Président et procureur de la République des autres tribunaux judiciaires de métropole et des collectivités régies par l&#39;article 73 de la Constitution placés hors hiérarchie&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;961 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Président et procureur de la République des autres tribunaux judiciaires de métropole et des collectivités régies par l&#39;article 73 de la Constitution n&#39;occupant pas un emploi placé hors hiérarchie&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;641 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Président et procureur de la République des tribunaux de première instance des collectivités régies par l&#39;article 74 de la Constitution et de Nouméa&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;641 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Inspecteur général, chef de l&#39;Inspection générale de la justice&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;2 403 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Inspecteur général, adjoint du chef de l&#39;Inspection générale de la justice&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1923 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Inspecteurs généraux de la justice désignés responsables des départements de l&#39;inspection générale de la justice&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;961 €&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;justify&#39;&gt;&lt;br/&gt;- Directeur de l&#39;Ecole nationale des greffes&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1923 €&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le montant des indemnités ci-dessus allouées à des magistrats affectés dans le département de La Réunion est versé après application de l&#39;index de correction propre à ce département.&lt;br/&gt;Le montant des indemnités allouées à des magistrats affectés dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie est versé, pour sa contre-valeur, en monnaie locale affectée du coefficient de majoration applicable aux collectivités considérées.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent arrêté relatives au montant de l&#39;indemnité forfaitaire pour frais de représentation afférente aux emplois de présidents et de procureurs des tribunaux judiciaires d&#39;Angoulême, Beauvais, Chalon-sur-Saône, Chaumont, Colmar, Fontainebleau, Limoges, Saint-Pierre de La Réunion et Sarreguemines ainsi qu&#39;à l&#39;emploi d&#39;inspecteur général, chef de l&#39;inspection générale de la justice et aux emplois d&#39;inspecteurs généraux de la justice ne sont applicables en ce qui concerne lesdits emplois, qu&#39;à compter de la nomination du prochain titulaire de l&#39;emploi.&lt;br/&gt;Les bénéficiaires de l&#39;indemnité forfaitaire pour frais de représentation, titulaires de ces emplois au moment de l&#39;entrée en vigueur du présent arrêté se voient attribuer une indemnité dont le montant annuel est fixé jusqu&#39;à la fin de leurs fonctions à hauteur de :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- 961 € pour les présidents et procureurs des tribunaux judiciaires d&#39;Angoulême, Beauvais, Chalon-sur-Saône, Chaumont, Colmar, Fontainebleau, Limoges, Saint-Pierre de La Réunion et Sarreguemines ;&lt;br/&gt;- 3 525 € pour l&#39;inspecteur général, chef de l&#39;inspection générale de la justice ;&lt;br/&gt;- 1 923 € pour les inspecteurs généraux de la justice nommés avant le 1er janvier 2017.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 15 juillet 1992 fixant le taux d&#39;indemnité forfaitaire pour frais de représentation allouée à certains magistrats de l&#39;ordre judiciaire, à l&#39;inspecteur général, à l&#39;inspecteur général adjoint des services judiciaires, au directeur de l&#39;Ecole nationale de la magistrature et au directeur de l&#39;Ecole nationale des greffes est abrogé.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance, le garde des sceaux, ministre de la justice, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156041"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 8 février 2021 fixant au titre de l&#39;année 2021 la composition de la commission d&#39;équivalence pour le recrutement des conseillers pénitentiaires d&#39;insertion et de probation</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156354</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, la composition, au titre de l&#39;année 2021, de la commission prévue au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000038073744&amp;idArticle=JORFARTI000038073769&amp;categorieLien=cid&#39; title=&#39;Décret n°2019-50 du 30 janvier 2019 - art. 6 (V)&#39;&gt;2° de l&#39;article 6 du décret n° 2019-50 du 30 janvier 2019&lt;/a&gt; portant statut particulier du corps des conseillers pénitentiaires d&#39;insertion et de probation est fixée de la manière suivante :&lt;br/&gt;Pour le garde des sceaux, ministre de la justice, président :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Mme Mélanie MARQUER, titulaire ;&lt;br/&gt;- M. Sébastien GUILLEMET, suppléant.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour la ministre chargée de l&#39;emploi et de la formation professionnelle :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Mme Geneviève DAUTANE, titulaire ;&lt;br/&gt;- Mme Alexandra CHOL, suppléante.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour le ministre chargé de l&#39;éducation nationale :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Mme Henriette BRUN-LESTELLE, titulaire ;&lt;br/&gt;- Mme Maiya HEURTEL, suppléante.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour la ministre chargée de la fonction publique :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- M. Athanase Guy DOSSOU-YOVO, titulaire ;&lt;br/&gt;- Mme Dominique MOUSSOUNI, suppléante.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Pour la ministre chargée de l&#39;enseignement supérieur et de la recherche :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Mme Catherine SANSELME, titulaire ;&lt;br/&gt;- Mme Catherine MALINIE, suppléante.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156354"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156357</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, M. DELPHIN (Florent, Philippe) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « ETUDE 352 » à la résidence de Paris.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156357"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156359</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme BRIT (Anaïs, Pascale), épouse PIZON, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « Olivier ARENS, Danièle PERON, Dalila CARO et associés, notaires, associés d&#39;une société d&#39;exercice libéral à responsabilité limitée » à la résidence de Guémené-sur-Scorff (Morbihan).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156359"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 relatif à deux sociétés d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156361</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021 :&lt;br/&gt;La démission de M. GABIN (Bruno, Clément, Grégoire), huissier de justice à la résidence de Paris, est acceptée.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », titulaire de deux offices d&#39;huissier de justice à la résidence de Paris, est nommée huissière de justice à la résidence de Paris, en remplacement de M. GABIN (Bruno, Clément, Grégoire).&lt;br/&gt;M. GABIN (Bruno, Clément, Grégoire) est nommé huissier de justice associé, membre de la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Paris, en vertu du présent arrêté.&lt;br/&gt;Il est mis fin aux fonctions de M. BICHON (Jean-Eudes, Bernardin, Sylvain, Marie) en qualité d&#39;huissier de justice associé au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », à la résidence de Paris, suivant arrêté du 6 décembre 2016.&lt;br/&gt;M. BICHON (Jean-Eudes, Bernardin, Sylvain, Marie), huissier de justice associé, membre de la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », est nommé pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Paris, suivant arrêté du 11 février 2008.&lt;br/&gt;Le retrait de M. RENASSIA (Robert, Benjamin), huissier de justice associé, membre de la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », est accepté.&lt;br/&gt;La dénomination sociale de la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA » est ainsi modifiée : « LEGATHUISS ».&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « COUDERT FLAMMERY &amp; ASSOCIES », titulaire d&#39;un office d&#39;huissier de justice à la résidence de Colombes (Hauts-de-Seine), est nommée huissière de justice à la résidence de Paris, en remplacement de la société d&#39;exercice libéral à responsabilité limitée « SELARL BICHON et RENASSIA », au sein de l&#39;office dont cette dernière était titulaire suivant arrêté du 6 décembre 2016.&lt;br/&gt;Il est mis fin aux fonctions de Mme FLAMMERY (Marjory, Barbara) en qualité d&#39;huissière de justice associée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « COUDERT FLAMMERY &amp; ASSOCIES », à la résidence de Colombes (Hauts-de-Seine).&lt;br/&gt;Mme FLAMMERY (Marjory, Barbara), huissière de justice associée, membre de la société d&#39;exercice libéral à responsabilité limitée « COUDERT FLAMMERY &amp; ASSOCIES », est nommée pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Paris.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156361"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156363</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021 :&lt;br/&gt;La démission de M. SAMSON (Gérard, René, Robert), notaire à la résidence d&#39;Issy-les-Moulineaux (Hauts-de-Seine), est acceptée.&lt;br/&gt;La société par actions simplifiée « ACTISSY », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence d&#39;Issy-les-Moulineaux (Hauts-de-Seine) en remplacement de M. SAMSON (Gérard, René, Robert).&lt;br/&gt;Mme LODIER (Mathilde, Marie, Catherine, Lise, Andrée) est nommée notaire associée.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156363"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156365</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. HODEBOURG (Jocelyn) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « OFFICE NOTARIAL DU GUESCLIN » à la résidence de Paris.&lt;br/&gt;M. HODEBOURG (Jocelyn) est nommé notaire associé, membre de la société par actions simplifiée « OFFICE NOTARIAL DU GUESCLIN » pour exercer au sein de l&#39;office de notaire dont cette dernière est titulaire à la résidence de Paris.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156365"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156367</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021 :&lt;br/&gt;La démission de M. LÉPANY (Guillaume, Marie, Thomas), notaire à la résidence de Paris, est acceptée.&lt;br/&gt;La société par actions simplifiée « LÉPANY associés », anciennement la société civile professionnelle « BENOIT LEPANY - PIERRE RANVIER, NOTAIRES ASSOCIES (SOCIETE TITULAIRE D&#39;UN OFFICE NOTARIAL) », titulaire d&#39;un office de notaire à la résidence de Nanterre (Hauts-de-Seine), est nommée notaire à la résidence de Paris, en remplacement de M. LÉPANY (Guillaume, Marie, Thomas).&lt;br/&gt;M. LÉPANY (Guillaume, Marie, Thomas) est nommé notaire associé, membre de la société par actions simplifiée « LÉPANY associés » pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Paris.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156367"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156369</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. MOUTIEN (Arnaud, Patrick, Krishna) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « LÉPANY associés » à la résidence de Nanterre (Hauts-de-Seine).&lt;br/&gt;M. MOUTIEN (Arnaud, Patrick, Krishna) est nommé notaire associé, membre de la société par actions simplifiée « LÉPANY associés » pour exercer au sein de l&#39;office de notaire dont cette dernière est titulaire à la résidence de Nanterre (Haut-de-Seine).&lt;br/&gt;Le retrait de M. RANVIER (Pierre, Antoine, Lucien), notaire associé, membre de la société par actions simplifiée « LÉPANY associés », est accepté.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156369"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156371</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme GAUVIN (Nelly, Nadine, Raymonde) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire Mme MEUNIER (Sophie, Jacqueline), épouse GOINEAU, à la résidence de Saint-Étienne-de-Saint-Geoirs (Isère).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156371"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156373</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme CAZENAVE (Sophie, Christine, Annie) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société à responsabilité limitée « STRATÉIA Notaires » à la résidence de Nantes (Loire-Atlantique), suivant arrêté du 18 février 2020.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156373"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156375</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme VASLIER (Mélaine, Antoinette, Béatrice) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Bertrand BASSEVILLE et Laurence BESNARD-BASSEVILLE, notaires associés » à la résidence d&#39;Orléans (Loiret).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156375"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156377</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme PETROLESI (Laurence), épouse CROS, anciennement notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « NOTAIRES MARIGNANE METROPOLE » à la résidence de Marignane (Bouches-du-Rhône), a repris ses fonctions en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « MAGALI MARCHIONI-PETRUCELLI, PHILIPPE MARCHIONI, CAROLE OLIVIER-IMPERATRICE NOTAIRES ASSOCIES » à la résidence de Briançon (Hautes-Alpes).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156377"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156379</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme HALTER (Virginie, Marie, Catherine), anciennement notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Jean-Philippe KUHN et Laurent MERCIER, notaires associés » à la résidence de Saint-Avold (Moselle), a repris ses fonctions en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire Mme MEDAS (Sandra) à la résidence de Mont-Saint-Martin (Meurthe-et-Moselle).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156379"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156381</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, M. ABIVEN (Guillaume, Erwann) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « GENCE &amp; ASSOCIES » à la résidence de Rouen (Seine-Maritime).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156381"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156383</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février, Mme PELISSIER (Vanessa, Stepphy) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « SCP DESGRANGES, notaires associés - DESGRANGES-BROT, BASSETTE-LETIN » à la résidence de Baie-Mahault (Guadeloupe).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156383"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 9 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156385</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 9 février 2021, Mme POMMARÈDE (Carole) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « SELARL Philippe SARRAZY et Martine VERDON, notaires associés » à la résidence de Libourne (Gironde).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156385"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant composition du comité ministériel de rémunération du ministère de la justice</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156387</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Outre les membres de droit mentionnés au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000427862&amp;idArticle=JORFARTI000001858274&amp;categorieLien=cid&#39; title=&#39;Décret n°2006-1019 du 11 août 2006 - art. 4 (M)&#39;&gt;deuxième alinéa de l&#39;article 4 du décret du 11 août 2006 susvisé&lt;/a&gt;, sont nommés membres du comité ministériel de rémunération du ministère de la justice :&lt;br/&gt;Mme Véronique MALBEC, directrice de cabinet du garde des sceaux, ministre de la justice ;&lt;br/&gt;M. François CORDIER, avocat général à la Cour de cassation ;&lt;br/&gt;M. Denis PRIEUR, conseiller d&#39;Etat.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 11 mai 2018 portant composition du comité ministériel de rémunération du ministère de la justice est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156387"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant renouvellement dans les fonctions d&#39;assesseurs à la Cour nationale du droit d&#39;asile</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156393</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 16 février 2021, Mme Daphné Dreyssé et M. François Frison-Roche sont renouvelés dans les fonctions d&#39;assesseurs à la Cour nationale du droit d&#39;asile à compter du 31 décembre 2020.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156393"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant désignation et cessation de fonctions de rapporteur public (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156395</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 16 février 2021, à compter du 1er mars 2021, les membres du corps des magistrats des tribunaux administratifs et cours administratives d&#39;appel dont les noms suivent sont désignés pour exercer les fonctions de rapporteur public dans la juridiction ci-après mentionnée :&lt;br/&gt;Tribunaux administratifs de la Guadeloupe, Saint-Barthélemy et Saint-Martin :&lt;br/&gt;M. Sabatier-Raffin (Pascal) ;&lt;br/&gt;M. Connin (Nicolas).&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156395"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156397</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du garde des sceaux, ministre de la justice, en date du 17 février 2021, M. Jean-Yves BOSSON, administrateur civil hors classe, est nommé chef de service du pilotage et du soutien de proximité au secrétariat général du ministère de la justice pour une durée de trois ans à compter du 1er mars 2021, avec une période probatoire de six mois.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156397"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156399</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et du garde des sceaux, ministre de la justice, en date du 17 février 2021, M. Jean-Baptiste PEYRAT, sous-préfet, est renouvelé dans ses fonctions de sous-directeur de la sécurité pénitentiaire à la direction de l&#39;administration pénitentiaire, à l&#39;administration centrale du ministère de la justice, pour une durée de deux ans à compter du 24 février 2021.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156399"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149358</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme BERTAGNA (Laura, Julie, Véronique) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire M. BERTAGNA (Frédéric, Roland, Pierre) à la résidence de Beausoleil (Alpes-Maritimes).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -21,7 +395,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149360</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme BEUDON (Sabrina, Nadège), épouse KNIPPING, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « François THEUS et Lilian LACOSTE - Notaires associés » à la résidence d&#39;Aix-en-Provence (Bouches-du-Rhône).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -32,7 +406,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149362</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme AULAGNIER (Julie, Marie-Agnès), épouse de L&#39;ESTANG du RUSQUEC, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « NOTA CONSEILS F » à la résidence d&#39;Éragny (Val-d&#39;Oise).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -43,7 +417,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149364</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. BIGORGNE (Alexis, Olivier, Michel) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « SELARL Olivier GENEST et Laurent JURION, notaires associés », à la résidence de Sainte-Maxime (Var).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -54,7 +428,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149366</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. RENKLICAY (Ilkay) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire Mme BERDA (Mireille), épouse DAVILA, à la résidence de Boulogne-Billancourt (Hauts-de-Seine).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -65,7 +439,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149368</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme PIAZZA (Léa, Marcelle, Augusta) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « PIERRE CHAIX ET CORINNE CHAMPETIER, NOTAIRES ASSOCIES D&#39;UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D&#39;UN OFFICE NOTARIAL » à la résidence de Flers (Orne).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -76,7 +450,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149370</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. CLÉMENT (Anthony, Olivier, Christian) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « Demi-Lune &amp; Associés » à la résidence de Notre-Dame-de-Bondeville (Seine-Maritime).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -87,7 +461,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149372</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. COUSTENOBLE (Reynald, Charles, Roger) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire Mme REITH (Annie, Christiane), épouse COUSTENOBLE, à la résidence d&#39;Angoulême (Charente).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -98,7 +472,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 constatant la reprise de fonctions d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149374</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. ARTOUCHENKO (Olivier, André, Jean), anciennement notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Guillaume DISSOUBRET et Virginie JARDIN, notaires, associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Breteuil (Eure), a repris ses fonctions en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée à associé unique « SELARL Nathalie LEMAIRE » à la résidence de Moÿ-de-l&#39;Aisne (Aisne).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -109,7 +483,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149376</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme MARTINEZ (Charlotte, Marina, Arlette) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire M. LATIL (Benjamin, Louis, Jérôme) à la résidence de Paris.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -120,7 +494,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149378</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme LAHELLEC (Lucia), épouse LACROIX, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « SCREEB Notaires » à la résidence de Paris.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -131,7 +505,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149380</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. DAVID (Victor, Jean, Alain) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Ariel PASCUAL, Catherine BOURNAZEAU-MALAVIALLE, Anne-Christelle BATTUT-ESCARPIT et Thomas MILHES, Notaires Associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Paris.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -142,7 +516,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une huissière de justice salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149382</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme CERVEAU (Marie, Jocelyne), épouse VELIA, est nommée en qualité d&#39;huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société civile professionnelle « Olivier BARET, Huissier de Justice Associé », anciennement dénommée « René HOARAU et Olivier BARET, huissiers de justice associés », à la résidence de Saint-Pierre (La Réunion).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -153,7 +527,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 constatant la reprise de fonctions d&#39;une huissière de justice salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149384</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme RIGAL (Céline, Béatrice), anciennement huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société d&#39;exercice libéral à responsabilité limitée à associé unique « SELARL Jérôme COHEN », à la résidence de Paris, a repris ses fonctions en qualité d&#39;huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société par actions simplifiée « ID FACTO », à la résidence de Paris.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -164,7 +538,7 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149386</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, M. ROSSIGNOL (François, Bertrand, Gaston) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « LE POMELLEC NOTAIRES » à la résidence de Paris.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -175,385 +549,11 @@
   </entry>
   <entry>
     <title>Arrêté du 8 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149388</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme THOMINOT (Virginie, Josiane, Paule), épouse KAËLIN, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Jean-Christophe ROELTGEN et Gérald KAËLIN, notaires, associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Varreddes (Seine-et-Marne).&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149388"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 relatif à la suppression d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149390</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme MOINARD (Marie-Alexandra, Christine-Marie, Virginie), notaire à la résidence de Bailly (‎‎‎‎‎‎Yvelines‎), est déclarée démissionnaire d&#39;office.&lt;br/&gt;L&#39;office de notaire à la résidence de Bailly (‎‎‎‎‎‎Yvelines‎) dont était titulaire Mme MOINARD (Marie-Alexandra, Christine-Marie, Virginie) est supprimé.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149390"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 constatant la reprise de fonctions d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149392</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme RICHET (Rachel, Bernadette, Janine), anciennement notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « MALARD ASSOCIES - Boucle Nord Seine » à la résidence de Bois-Colombes (Hauts-de-Seine), a repris ses fonctions en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Christophe WARGNY, Cyrille LELONG, Solenne de VILLARTAY, Antoine FAVERIE, Colbert MERCIER, Séverine BIENNE THORAVAL, Constance BRÉZAC, Séverine ORSINI, Sandra D&#39;ANGELO et Olivier COMBE, Notaires Associés, Société titulaire d&#39;un Office Notarial » à la résidence de Colombes (Hauts-de-Seine).&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149392"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 portant nomination de sept notaires salariées (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149394</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, Mme CASSET (Noémie, Rebecca), épouse LAMI, Mme DESGROISILLES (Anne, Lucienne, Nicole), Mme GERBEAU (Elisabeth), épouse KADAOU, Mme GREGOIRE (Elodie, Rose, Laure), épouse VEYSSIERE, Mme MAUREY (Mathilde), épouse PARIS, Mme SILHOL (Juliette, Anne, Camille) et Mme VINOUZE (Bérénice, Montéa), épouse CHOUJAR, sont nommées en qualité de notaires salariées au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Hugues de BRAQUILANGES, Catherine LAMBERT, Marc CAGNIART, Brigitte MARCHAY, Quentin d&#39;ESCAYRAC et Pierre-Edouard FORESTIER, notaires, associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial », à la résidence de Paris.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149394"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 autorisant le transfert d&#39;un office de notaire (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149396</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 8 février 2021, le transfert de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « CHAZOTTES-LECONTE &amp; Associés », de la résidence de Saint-Etienne (Loire) à la résidence de Saint-Priest-en-Jarez (Loire), est autorisé.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149396"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 février 2021 portant fin de fonctions d&#39;un président de formation de jugement à la Cour nationale du droit d&#39;asile (Conseil d&#39;Etat)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149398</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du vice-président du Conseil d&#39;Etat en date du 11 février 2021, il est mis fin, à compter du 1er mars 2021, aux fonctions de président de formation de jugement à la Cour nationale du droit d&#39;asile de M. Guerrive (Jean-Louis), à sa demande.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149398"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 février 2021 portant agrément d&#39;une association aux fins d&#39;exercer les droits reconnus à la partie civile</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142347</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 11 février 2021, l&#39;agrément prévu à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&amp;idArticle=LEGIARTI000006574800&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de procédure pénale - art. 2-9 (M)&#39;&gt;article 2-9 du code de procédure pénale&lt;/a&gt; est accordé à l&#39;association « Life for Nice : 14 juillet 2016 » dont le siège social est situé Maison des associations Nice Centre Nice, 3 bis, rue Guigonis à Nice (06300).&lt;/p&gt;</content>
-    <published>2021-02-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142347"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134519</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme GIRAUDO (Alexia, Ghyslaine) en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire M. SABA (Xavier, Antoine) à la résidence du Pradet (Var).&lt;br/&gt;La démission de M. SABA (Xavier, Antoine), notaire à la résidence du Pradet (Var), est acceptée.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée « Xavier SABA et Alexia GIRAUDO », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence du Pradet (Var), en remplacement de M. SABA (Xavier, Antoine).&lt;br/&gt;M. SABA (Xavier, Antoine) et Mme GIRAUDO (Alexia, Ghyslaine) sont nommés notaires associés.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134519"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134521</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme EDMOND (Sylvie) en qualité d&#39;huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société par actions simplifiée « OFFICE CJ VINCENNES » à la résidence de Vincennes (Val-de-Marne).&lt;br/&gt;Mme EDMOND (Sylvie) est nommée huissière de justice associée, membre de la société par actions simplifiée « OFFICE CJ VINCENNES ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134521"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une société d&#39;exercice libéral à responsabilité limitée à associée unique (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134523</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme MARE (Séverine, Martine, Claude), épouse BRILHAULT, en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée à associée unique « Géraldine ANDREU, Notaire associé » à la résidence de Gisors (Eure).&lt;br/&gt;La démission de Mme FLAHAUT (Sandrine, Louise), épouse LAMARRE, notaire à la résidence d&#39;Illiers-l&#39;Évêque (Eure), est acceptée.&lt;br/&gt;La société d&#39;exercice libéral à responsabilité limitée à associée unique « SELARL Séverine BRILHAULT, Notaire », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence d&#39;Illiers-l&#39;Évêque (Eure), en remplacement de Mme FLAHAUT (Sandrine, Louise), épouse LAMARRE.&lt;br/&gt;Mme MARE (Séverine, Martine, Claude), épouse BRILHAULT, est nommée notaire associée.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134523"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134525</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme NGUYEN (Laura, Kim), anciennement huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société civile professionnelle « SCP Patrick MEDARD, Agnès BERTON, Laurent GUEDJ, Hind ELAIDOUNI, huissiers de justice associés » à la résidence de Marseille (Bouches-du-Rhône), est nommée huissière de justice associée, membre de la société civile professionnelle « SCP SYNERGIE HUISSIERS 13 », titulaire d&#39;un office d&#39;huissier de justice à la résidence de Marseille (Bouches-du-Rhône).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134525"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134527</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme PASSAVY (Violaine), épouse DUYCK, en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « Notaires Conseils Associés » à la résidence de Meylan (Isère).&lt;br/&gt;Mme PASSAVY (Violaine), épouse DUYCK, est nommée notaire associée, membre de la société par actions simplifiée « Notaires Conseils Associés », pour exercer au sein de l&#39;office de notaire dont cette dernière est titulaire à la résidence d&#39;Archamps (Haute-Savoie).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134527"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134529</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. LECHAUDE (Rémi) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « LES 7 TERRITOIRES » à la résidence de Mirande (Gers).&lt;br/&gt;M. LECHAUDE (Rémi) est nommé notaire associé, membre de la société d&#39;exercice libéral à responsabilité limitée « LES 7 TERRITOIRES », pour exercer dans l&#39;office de notaire dont cette dernière est titulaire à la résidence de Mirande (Gers).&lt;br/&gt;Le retrait de M. GILLES DE PELICHY (Hanin), notaire associé, membre de la société d&#39;exercice libéral à responsabilité limitée « LES 7 TERRITOIRES », est accepté.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134529"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant dissolution d&#39;une société civile professionnelle et nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134531</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. PIERRET (Franck-Alexis, Gilles, Charles, Yves) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « ALLEZ &amp; ASSOCIES, Société civile professionnelle de notaires » à la résidence de Paris.&lt;br/&gt;Les retraits de M. MAYEUX (Jean-François, René), de M. OESTERLÉ (Jean-Luc, Joseph) et de Mme SAVIN (Catherine), épouse WATERMAN, notaires associés, membres de la société civile professionnelle « Jean-François MAYEUX, Jean-Luc OESTERLÉ et Catherine SAVIN-WATERMAN, notaires associés, société civile professionnelle titulaire d&#39;un office notarial », titulaire d&#39;un office de notaire à la résidence de Nancy (Meurthe-et-Moselle), sont acceptés.&lt;br/&gt;Par suite des retraits de M. MAYEUX (Jean-François, René), de M. OESTERLÉ (Jean-Luc, Joseph) et de Mme SAVIN (Catherine), épouse WATERMAN, la société civile professionnelle « Jean-François MAYEUX, Jean-Luc OESTERLÉ et Catherine SAVIN-WATERMAN, notaires associés, société civile professionnelle titulaire d&#39;un office notarial » est dissoute.&lt;br/&gt;La société par actions simplifiée « OFFICE NOTARIAL LES ALERIONS », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence de Nancy (Meurthe-et-Moselle), en remplacement de la société civile professionnelle « Jean-François MAYEUX, Jean-Luc OESTERLÉ et Catherine SAVIN-WATERMAN, notaires associés, société civile professionnelle titulaire d&#39;un office notarial ».&lt;br/&gt;M. OESTERLÉ (Jean-Luc, Joseph), Mme SAVIN (Catherine), épouse WATERMAN, M. PIERRET (Franck-Alexis, Gilles, Charles, Yves) et Mme REMY (Catherine, Françoise, Marie), épouse FALCHI, sont nommés notaires associés.&lt;br/&gt;M. MAYEUX (Jean-François, René) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « OFFICE NOTARIAL LES ALERIONS » à la résidence de Nancy (Meurthe-et-Moselle).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134531"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134533</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;La démission de M. WALLART (Jérémy, Louis, Francis), huissier de justice à la résidence de Valenciennes (Nord), est acceptée.&lt;br/&gt;La société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN », titulaire d&#39;un office d&#39;huissier de justice à la résidence de Dunkerque (Nord) et de deux offices d&#39;huissier de justice à la résidence de Lille (Nord), est nommée huissière de justice à la résidence de Valenciennes (Nord), en remplacement de M. WALLART (Jérémy, Louis, Francis).&lt;br/&gt;Mme MOREAU (Caroline, Thérèse), épouse PIETROWSKI, est nommée huissière de justice associée, membre de la société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Valenciennes (Nord).&lt;br/&gt;M. WALLART (Jérémy, Louis, Francis) est nommé huissier de justice associé, membre de la société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Lille (Nord), suivant arrêté du 24 janvier 2019.&lt;br/&gt;Il est mis fin aux fonctions de Mme DEGUINES (Jennifer, Chantal, Michaëla, Stéphanie) en qualité d&#39;huissière de justice associée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN » à la résidence de Lille (Nord), suivant arrêté du 24 janvier 2019.&lt;br/&gt;Mme DEGUINES (Jennifer, Chantal, Michaëla, Stéphanie), huissière de justice associée, membre de la société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN », est nommée pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Dunkerque (Nord).&lt;br/&gt;La dénomination sociale de la société par actions simplifiée « ACTANORD-DOCO-CAZIN-VAN AUTREEVE-DEGUINES-MARTIN » est ainsi modifiée : « ACTANORD DOCO-CAZIN-VAN AUTREEVE-DEGUINES-WALLART-MOREAU ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134533"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à la dissolution d&#39;une société civile professionnelle et à la nomination d&#39;une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134535</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Les retraits de M. DAUPTAIN (Pierre, Denis, Marie) et de M. MARBAIX (Jérôme, Bernard, Henry), notaires associés, membres de la société civile professionnelle « Pierre DAUPTAIN et Jérôme MARBAIX, notaires associés », titulaire d&#39;un office de notaire à la résidence de Cachan (Val-de-Marne), sont acceptés.&lt;br/&gt;Par suite des retraits de M. DAUPTAIN (Pierre, Denis, Marie) et de M. MARBAIX (Jérôme, Bernard, Henry), la société civile professionnelle « Pierre DAUPTAIN et Jérôme MARBAIX, notaires associés » est dissoute.&lt;br/&gt;La société par actions simplifiée « DAUPTAIN MARBAIX, Notaires Associés », constituée pour l&#39;exercice de la profession de notaire, est nommée notaire à la résidence de Cachan (Val-de-Marne), en remplacement de la société civile professionnelle « Pierre DAUPTAIN et Jérôme MARBAIX, notaires associés ».&lt;br/&gt;M. DAUPTAIN (Pierre, Denis, Marie) et M. MARBAIX (Jérôme, Bernard, Henry) sont nommés notaires associés, membres de la société par actions simplifiée « DAUPTAIN MARBAIX, Notaires Associés ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134535"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société civile professionnelle (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134537</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme LALLIER (Isabelle, Andrée, Nathalie), épouse LEPERCQ, de M. de la BIGNE (Georges, François, Marie), et de M. DECOENE (Geoffroy, Petrus, Arthur), en qualité de notaires salariés au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Pierre TARRADE, Thierry LE PLEUX, Adeline MOISY-NAMAND, Laurence DUHAMEL et associés » à la résidence de Paris.&lt;br/&gt;Mme LALLIER (Isabelle, Andrée, Nathalie), épouse LEPERCQ, M. de la BIGNE (Georges, François, Marie), et M. DECOENE (Geoffroy, Petrus, Arthur), sont nommés notaires associés, membres de la société civile professionnelle « Pierre TARRADE, Thierry LE PLEUX, Adeline MOISY-NAMAND, Laurence DUHAMEL et associés ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134537"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société d&#39;exercice libéral à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134539</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. BOULOC (Paul, Jean-Louis) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « SELARL Anne DESPLANS, notaire associée » à la résidence de Villiers-sur-Marne (Val-de-Marne).&lt;br/&gt;M. BOULOC (Paul, Jean-Louis) est nommé notaire associé, membre de la société d&#39;exercice libéral à responsabilité limitée « SELARL Anne DESPLANS, notaire associée ».&lt;br/&gt;La dénomination sociale de la société d&#39;exercice libéral à responsabilité limitée « SELARL Anne DESPLANS, notaire associée » est ainsi modifiée : « SELARL Anne DESPLANS et Paul BOULOC, notaires associés ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134539"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société à responsabilité limitée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134541</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de M. PERCIER (Jean-Marie) en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société à responsabilité limitée « NOTAIRES DES LICES » anciennement société civile professionnelle « Antoine MORIN, Guillaume PAINSAR, Laurence SOURDAINE, Jean-Baptiste HIGNARD et Claire CHERDRONNET, notaires associés (Société Civile Professionnelle titulaire d&#39;Offices Notariaux) », à la résidence de Rennes (Ille-et-Vilaine).&lt;br/&gt;Il est mis fin aux fonctions de Mme DAVALIS (Laurence, Anne-Marie, Yvette), épouse SOURDAINE, en qualité de notaire associée au sein de l&#39;office de notaire dont est titulaire la société à responsabilité limitée « NOTAIRES DES LICES », à la résidence de Bruz (Ille-et-Vilaine).&lt;br/&gt;Mme DAVALIS (Laurence, Anne-Marie, Yvette), épouse SOURDAINE, est nommée notaire associée, membre de la société à responsabilité limitée « NOTAIRES DES LICES », pour exercer dans l&#39;office dont cette dernière est titulaire à la résidence de Rennes (Ille-et-Vilaine).&lt;br/&gt;M. PERCIER (Jean-Marie) est nommé notaire associé, membre de la société à responsabilité limitée « NOTAIRES DES LICES », pour exercer dans l&#39;office de notaire dont cette dernière est titulaire à la résidence de Bruz (Ille-et-Vilaine).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134541"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à une société par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134543</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Il est mis fin aux fonctions de Mme MENTEUR (Marianne) en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « Office CERRI, Notaires Associés » à la résidence de Poligny (Jura).&lt;br/&gt;Mme MENTEUR (Marianne) est nommée notaire associée, membre de la société par actions simplifiée « Office CERRI, Notaires Associés ».&lt;br/&gt;Le retrait de Mme MARTIN (Valérie, Janine, Marthe), épouse CERRI, notaire associée, membre de la société par actions simplifiée « Office CERRI, Notaires Associés », est accepté.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134543"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134545</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme CHARPENTIER (Céline, Marie) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire M. VERLET (Stéphane, Jean, Jacques) à la résidence de Châteauroux (Indre).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134545"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;un notaire salarié (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134547</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, M. NGUYEN-VAN (Philippe, Georges, Dac-Lam) est nommé en qualité de notaire salarié au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « David MIRIEU de LABARRE et Delphine FEIGNA, notaires associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Bordeaux (Gironde).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134547"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134549</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme IMBERT (Kristel, Marie, Stéphanie), épouse COURT, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral par actions simplifiée « LEBEAU &amp; CABANAC », anciennement dénommée « LEBEAU &amp; ASSOCIES », à la résidence de Bordeaux (Gironde).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134549"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134551</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme MORLAÉS (Lucie, Nadège, Maria, Catherine), épouse TEZKRATT, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société par actions simplifiée « JACQUELIN HOFFMANN CHABLE GIUDICELLI NOTAIRES » à la résidence d&#39;Elancourt (Yvelines).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134551"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134553</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme MARTIN (Hélène, Françoise, Yvonne), épouse FONTAINE, anciennement notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée à associé unique « SOCIETE D&#39;EXERCICE LIBERAL A RESPONSABILITE LIMITEE REMI BERTELOOT, NOTAIRE ASSOCIE » à la résidence de Maignelay-Montigny (Oise), est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire Mme LEDOUX (Isabelle, Catherine, Bernadette, Dominique), à la résidence de Ressons-sur-Matz (Oise).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134553"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134555</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme PASQUATO (Marion) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « Stéphane ROBIN &amp; Emilie MOULON » à la résidence de Saint-Genest-Malifaux (Loire).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134555"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134557</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, Mme LAVOYE (Cynthia, Anne, Françoise) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Olivier RAPINAT, Julie GAUTIER, Olivier BROUSSON, notaires, associés d&#39;une société civile professionnelle titulaire d&#39;un office notarial » à la résidence de Narbonne (Aude).&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134557"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 modifiant un arrêté en date du 22 janvier 2021 portant nomination d&#39;une société pluri-professionnelle par actions simplifiée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134559</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021, l&#39;arrêté en date du 22 janvier 2021 (NOR : JUSC2101856A) nommant Mme ANTO (Amélie), épouse SCHWINDENHAMMER, notaire associée à la résidence de Lyon (Rhône) est modifié comme suit :&lt;br/&gt;Au lieu de : « Mme ANTO (Amélie), épouse SCHWINDENHAMMER » lire : « Mme ANTON (Amélie), épouse SCHWINDENHAMMER ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134559"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 relatif à un office d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134561</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 5 février 2021 :&lt;br/&gt;Le retrait de M. SUREAU (François, Maurice, Christophe), avocat associé auprès du Conseil d&#39;Etat et de la Cour de cassation, membre de la société civile professionnelle « Spinosi, Sureau », titulaire d&#39;un office d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation, est accepté.&lt;br/&gt;La dénomination sociale de la société civile professionnelle « Spinosi, Sureau » est ainsi modifiée : « SCP Spinosi ».&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134561"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 15 février 2021 portant nomination du président de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l&#39;Etat (Conseil d&#39;Etat)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134563</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 février 2021, M. Rémy SCHWARTZ, conseiller d&#39;Etat, est nommé président de la formation spécialisée chargée du contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l&#39;Etat, en remplacement de M. Edmond HONORAT, président de section, à compter du 17 février 2021.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134563"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 février 2021 fixant les modalités d&#39;organisation du stage des techniciens de l&#39;administration pénitentiaire recrutés par la voie des concours externe et interne et de la formation d&#39;adaptation à l&#39;emploi des techniciens de l&#39;administration pénitentiaire recrutés par examen professionnel ou par liste d&#39;aptitude</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130091</id>
-    <content type="html">Titre Ier : MODALITÉS D&#39;ORGANISATION DU STAGE DES TECHNICIENS DE L&#39;ADMINISTRATION PÉNITENTIAIRE RECRUTÉS PAR LA VOIE DES CONCOURS EXTERNE ET INTERNEChapitre 1er : Modalités d&#39;organisationArticle 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les techniciens recrutés en application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511921&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 24 (M)&#39;&gt;1° de l&#39;article 24 du décret du 2 août 1999 susvisé&lt;/a&gt; choisissent, selon leur rang de classement à l&#39;admission au concours, leur préaffectation dans un établissement ou un service relevant de l&#39;administration pénitentiaire pour y réaliser leur stage en vue de leur titularisation.&lt;br/&gt;Ils reçoivent, au cours de leur année de stage, une formation d&#39;adaptation à l&#39;emploi qu&#39;ils ont vocation à occuper au sein de l&#39;administration pénitentiaire d&#39;une durée de douze semaines.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi a pour objectif l&#39;acquisition et le développement des compétences mobilisées par les techniciens de l&#39;administration pénitentiaire pour exercer les missions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511919&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 22 (V)&#39;&gt;article 22 du décret du 2 août 1999 susvisé&lt;/a&gt;.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi comprend :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- des temps de formation dispensés par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou à distance ;&lt;br/&gt;- des stages réalisés dans des services de l&#39;administration pénitentiaire pendant une période minimale de 3 semaines.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le programme de la formation d&#39;adaptation à l&#39;emploi est organisé autour des domaines suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;adhésion aux valeurs du service public et au code de déontologie ;&lt;br/&gt;- la connaissance de l&#39;administration pénitentiaire, de ses missions et de son organisation ;&lt;br/&gt;- l&#39;acquisition de compétences en matière de développement de projet et d&#39;organisation du travail.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi doit, par ailleurs, tenir compte du poste d&#39;affectation des techniciens stagiaires, pour proposer des séances sur des thématiques adaptées.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans le cadre des règles fixées par le présent arrêté, l&#39;Ecole nationale d&#39;administration pénitentiaire élabore un livret de formation qui précise le détail du programme et du contenu de la formation, des conditions d&#39;organisation et des objectifs des stages pour chaque promotion.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure le suivi pédagogique des techniciens stagiaires au cours de leur formation d&#39;adaptation à l&#39;emploi.&lt;br/&gt;Il décide des lieux des stages réalisés par les techniciens stagiaires durant cette période, en accord avec les directeurs interrégionaux. Ces lieux peuvent différer du lieu de stage dans lequel les techniciens stagiaires sont préaffectés.&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les stages réalisés par les techniciens stagiaires dans le cadre de la formation d&#39;adaptation à l&#39;emploi s&#39;effectuent sous l&#39;autorité fonctionnelle du chef de service d&#39;accueil des stagiaires.&lt;/p&gt;Article 8&lt;br /&gt;&lt;p&gt;&lt;br/&gt;En dehors de la période de formation d&#39;adaptation, les techniciens stagiaires sont placés sous l&#39;autorité et la responsabilité du chef du service dans lequel ils sont préaffectés.&lt;br/&gt;Leur suivi administratif est réalisé par les services du lieu d&#39;affectation.&lt;/p&gt;Chapitre 2 : Modalités d&#39;évaluationArticle 9&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure une évaluation de la formation d&#39;adaptation à l&#39;emploi des techniciens stagiaires, sous la forme d&#39;un bilan individualisé, afin de leur permettre de compléter la formation reçue par le biais de la formation continue. Ce bilan individualisé est également communiqué au chef de service du lieu de pré-affectation du stagiaire.&lt;/p&gt;Article 10&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le chef de service du lieu d&#39;affectation du fonctionnaire stagiaire évalue périodiquement la manière de servir du technicien stagiaire et son positionnement professionnel sur la base des grilles d&#39;évaluation fournies par l&#39;Ecole nationale d&#39;administration pénitentiaire.&lt;br/&gt;Chaque évaluation est notifiée au technicien stagiaire.&lt;/p&gt;Article 11&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après avis de l&#39;autorité hiérarchique compétente au titre de l&#39;article 8, sur la base du bilan prévu à l&#39;article 9 et des évaluations périodiques prévues à l&#39;article 10, les techniciens stagiaires sont :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- soit titularisés ;&lt;br/&gt;- soit, après avis de la commission administrative paritaire, autorisés à réaliser un stage complémentaire d&#39;une durée maximale d&#39;un an ou licenciés ou réintégrés dans leur corps d&#39;origine.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La réalisation du stage complémentaire peut s&#39;effectuer dans un service de l&#39;administration pénitentiaire différent de celui dans lequel l&#39;agent a été préaffecté ; dans ce cas, l&#39;agent bénéficie d&#39;une nouvelle affectation.&lt;/p&gt;Titre II : FORMATION D&#39;ADAPTATION À L&#39;EMPLOI DES TECHNICIENS DE L&#39;ADMINISTRATION PÉNITENTIAIRE RECRUTÉS PAR EXAMEN PROFESSIONNEL OU LISTE D&#39;APTITUDEChapitre 1er : Dispositions généralesArticle 12&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les techniciens recrutés en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511921&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 24 (M)&#39;&gt;2° et 3° de l&#39;article 24 du décret du 2 août 1999 susvisé&lt;/a&gt; reçoivent au cours de leur première année d&#39;exercice une formation d&#39;adaptation à l&#39;emploi qu&#39;ils ont vocation à occuper au sein de l&#39;administration pénitentiaire d&#39;une durée de douze semaines.&lt;/p&gt;Article 13&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi a pour objectif l&#39;acquisition et le développement des compétences mobilisées par les techniciens de l&#39;administration pénitentiaire pour exercer les missions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511919&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 22 (V)&#39;&gt;article 22 du décret du 2 août 1999 susvisé&lt;/a&gt;.&lt;/p&gt;Article 14&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi comprend :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- des temps de formation dispensés par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou à distance ;&lt;br/&gt;- des stages réalisés dans des services de l&#39;administration pénitentiaire pendant une période minimale de 3 semaines.&lt;/p&gt;Article 15&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le programme de la formation d&#39;adaptation à l&#39;emploi est organisé autour des domaines suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;adhésion aux valeurs du service public et au code de déontologie ;&lt;br/&gt;- la connaissance de l&#39;administration pénitentiaire, de ses missions et de son organisation ;&lt;br/&gt;- l&#39;acquisition de compétences en matière de développement de projet et d&#39;organisation du travail.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi doit, par ailleurs, tenir compte du poste d&#39;affectation des techniciens, pour proposer des séances sur des thématiques adaptées.&lt;/p&gt;Article 16&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans le cadre des règles fixées par le présent arrêté, l&#39;Ecole nationale d&#39;administration pénitentiaire élabore un livret de formation qui précise le détail du programme et du contenu de la formation, des conditions d&#39;organisation et des objectifs des stages pour chaque promotion.&lt;/p&gt;Article 17&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure le suivi pédagogique des techniciens lors de leur formation d&#39;adaptation à l&#39;emploi.&lt;br/&gt;Il décide des lieux des stages réalisés par les techniciens stagiaires durant cette période, en accord avec les directeurs interrégionaux. Ces lieux peuvent différer du lieu de stage dans lequel les techniciens sont affectés.&lt;/p&gt;Article 18&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les stages réalisés par les techniciens dans le cadre de la formation d&#39;adaptation à l&#39;emploi s&#39;effectuent sous l&#39;autorité fonctionnelle du chef de service d&#39;accueil.&lt;/p&gt;Article 19&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure une évaluation de la formation d&#39;adaptation à l&#39;emploi des techniciens, sous la forme d&#39;un bilan individualisé, afin de leur permettre de compléter la formation reçue par le biais de la formation continue. Ce bilan individualisé est également communiqué au chef de service du lieu d&#39;affectation.&lt;/p&gt;Chapitre 2 : Dispositions transitoiresArticle 20&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les techniciens recrutés conformément aux &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000041897285&amp;idArticle=JORFARTI000041897346&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-597 du 18 mai 2020 - art. 20 (V)&#39;&gt;dispositions de l&#39;article 20 du décret du 18 mai 2020 susvisé&lt;/a&gt; reçoivent au cours de leur première année d&#39;exercice une formation comprenant plusieurs modules parmi les domaines susmentionnés à l&#39;article 15 du présent arrêté.&lt;br/&gt;Cette formation d&#39;une durée de quatre semaines comprend un temps de formation organisé par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou en distanciel, ainsi qu&#39;un stage réalisé dans un service de l&#39;administration pénitentiaire.&lt;/p&gt;Article 21&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du titre Ier entrent en vigueur à compter de l&#39;entrée en formation de la 18e promotion de techniciens de l&#39;administration pénitentiaire. &lt;br/&gt;A cette date, l&#39;arrêté du 7 décembre 2001 fixant les modalités d&#39;organisation de la formation des techniciens stagiaires de l&#39;administration pénitentiaire est abrogé. &lt;br/&gt;Les dispositions du titre II entrent en vigueur le lendemain de la date de publication du présent arrêté.&lt;/p&gt;Article 22&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130091"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 10 février 2021 fixant les modalités d&#39;organisation du stage des directeurs techniques de l&#39;administration pénitentiaire recrutés par la voie des concours externe et interne et de la formation d&#39;adaptation à l&#39;emploi des directeurs techniques recrutés par examen professionnel ou par liste d&#39;aptitude</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130134</id>
-    <content type="html">Titre Ier : MODALITÉS D&#39;ORGANISATION DU STAGE DES DIRECTEURS TECHNIQUES DE L&#39;ADMINISTRATION PÉNITENTIAIRE RECRUTÉS PAR LA VOIE DES CONCOURS EXTERNE ET INTERNEChapitre 1er : Modalités d&#39;organisationArticle 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les directeurs techniques recrutés en application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511897&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 5 (V)&#39;&gt;1° de l&#39;article 5 du décret du 2 août 1999 susvisé&lt;/a&gt; choisissent, selon leur rang de classement à l&#39;admission au concours, leur préaffectation dans un établissement ou un service relevant de l&#39;administration pénitentiaire pour y réaliser leur stage en vue de leur titularisation.&lt;br/&gt;Ils reçoivent, au cours de leur année de stage, une formation d&#39;adaptation à l&#39;emploi qu&#39;ils ont vocation à occuper au sein de l&#39;administration pénitentiaire d&#39;une durée de douze semaines.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi a pour objectif l&#39;acquisition et le développement des compétences mobilisées par les directeurs techniques de l&#39;administration pénitentiaire pour exercer les missions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511894&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 3 (V)&#39;&gt;article 3 du décret du 2 août 1999 susvisé&lt;/a&gt;.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi comprend :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- des temps de formation dispensés par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou à distance ;&lt;br/&gt;- des stages réalisés dans des services de l&#39;administration pénitentiaire ou dans des institutions publiques ou partenaires du service public pendant une période minimale de 3 semaines.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le programme de la formation d&#39;adaptation à l&#39;emploi des directeurs techniques est organisé autour des domaines suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;adhésion aux valeurs du service public et au code de déontologie ;&lt;br/&gt;- l&#39;appréhension de la fonction d&#39;encadrement des services techniques, par la connaissance de l&#39;administration pénitentiaire, de ses missions et de son organisation ;&lt;br/&gt;- le développement des compétences en management, en gestion des ressources humaines, en gestion de projets, en gestion budgétaire et financière liées à la fonction qu&#39;ils sont appelés à exercer et à leur mission de conseil auprès du directeur interrégional ou du chef d&#39;établissement.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans le cadre des règles fixées par le présent arrêté, l&#39;Ecole nationale d&#39;administration pénitentiaire élabore un livret de formation qui précise le détail du programme et du contenu de la formation, des conditions d&#39;organisation et des objectifs des stages pour chaque promotion.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure le suivi pédagogique des directeurs techniques stagiaires lors de leur formation d&#39;adaptation à l&#39;emploi.&lt;br/&gt;Il décide des lieux des stages réalisés par les directeurs techniques stagiaires dans le cadre de la formation d&#39;adaptation, en accord avec les directeurs interrégionaux. Ces lieux peuvent différer du lieu de stage dans lequel les directeurs techniques stagiaires sont préaffectés.&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les stages réalisés par les directeurs techniques stagiaires dans le cadre de la formation d&#39;adaptation à l&#39;emploi s&#39;effectuent sous l&#39;autorité fonctionnelle du chef de service d&#39;accueil des stagiaires.&lt;/p&gt;Article 8&lt;br /&gt;&lt;p&gt;&lt;br/&gt;En dehors de la période de formation d&#39;adaptation à l&#39;emploi, les directeurs techniques stagiaires sont placés sous l&#39;autorité et la responsabilité du chef du service dans lequel ils effectuent ce stage.&lt;br/&gt;Leur suivi administratif est réalisé par les services du lieu d&#39;affectation.&lt;/p&gt;Chapitre 2 : Modalités d&#39;évaluationArticle 9&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure une évaluation de la formation d&#39;adaptation à l&#39;emploi des directeurs techniques stagiaires, sous la forme d&#39;un bilan individualisé, afin de leur permettre de compléter la formation reçue par le biais de la formation continue. Ce bilan individualisé est également communiqué au chef de service du lieu de pré-affectation du stagiaire.&lt;/p&gt;Article 10&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le chef de service du lieu d&#39;affectation du fonctionnaire stagiaire évalue périodiquement la manière de servir du directeur technique stagiaire et son positionnement professionnel sur la base des grilles d&#39;évaluation fournies par l&#39;Ecole nationale d&#39;administration pénitentiaire.&lt;br/&gt;Chaque évaluation est notifiée au directeur technique stagiaire.&lt;/p&gt;Article 11&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après avis de l&#39;autorité hiérarchique compétente au titre de l&#39;article 8, sur la base du bilan prévu à l&#39;article 9 et des évaluations périodiques prévues à l&#39;article 10, les directeurs techniques stagiaires sont :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- soit titularisés ;&lt;br/&gt;- soit, après avis de la commission administrative paritaire, autorisés à réaliser un stage complémentaire d&#39;une durée maximale d&#39;un an ou licenciés ou réintégrés dans leur corps d&#39;origine.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La réalisation du stage complémentaire peut s&#39;effectuer dans un service de l&#39;administration pénitentiaire différent de celui dans lequel l&#39;agent a été préaffecté ; dans ce cas, l&#39;agent bénéficie d&#39;une nouvelle affectation.&lt;/p&gt;Titre II : FORMATION D&#39;ADAPTATION À L&#39;EMPLOI DES DIRECTEURS TECHNIQUES DE L&#39;ADMINISTRATION PÉNITENTIAIRE RECRUTÉS PAR EXAMEN PROFESSIONNEL OU LISTE D&#39;APTITUDEChapitre 1er : Dispositions généralesArticle 12&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les directeurs techniques recrutés en application du &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511897&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 5 (V)&#39;&gt;2° de l&#39;article 5 du décret du 2 août 1999 susvisé&lt;/a&gt; reçoivent au cours de leur première année d&#39;exercice une formation d&#39;adaptation à l&#39;emploi qu&#39;ils ont vocation à occuper au sein de l&#39;administration pénitentiaire d&#39;une durée de douze semaines.&lt;/p&gt;Article 13&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi a pour objectif l&#39;acquisition et le développement des compétences mobilisées par les directeurs techniques de l&#39;administration pénitentiaire pour exercer les missions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000760721&amp;idArticle=LEGIARTI000006511894&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°99-669 du 2 août 1999 - art. 3 (V)&#39;&gt;article 3 du décret du 2 août 1999 susvisé&lt;/a&gt;.&lt;/p&gt;Article 14&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La formation d&#39;adaptation à l&#39;emploi comprend :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- des temps de formation dispensés par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou à distance ;&lt;br/&gt;- des stages réalisés dans des services de l&#39;administration pénitentiaire ou dans des institutions publiques ou associées au service public pendant une période minimale de 3 semaines.&lt;/p&gt;Article 15&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le programme de la formation d&#39;adaptation à l&#39;emploi des directeurs techniques est organisé autour des domaines suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;adhésion aux valeurs du service public et au code de déontologie ;&lt;br/&gt;- l&#39;appréhension de la fonction d&#39;encadrement des services techniques, par la connaissance de l&#39;administration pénitentiaire, de ses missions et de son organisation ;&lt;br/&gt;- le développement des compétences en management, en gestion des ressources humaines, en gestion de projets, en gestion budgétaire et financière liées à la fonction qu&#39;ils sont appelés à exercer et à leur mission de conseil auprès du directeur interrégional ou du chef d&#39;établissement.&lt;/p&gt;Article 16&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Dans le cadre des règles fixées par le présent arrêté, l&#39;Ecole nationale d&#39;administration pénitentiaire élabore un livret de formation qui précise le détail du programme et du contenu de la formation, des conditions d&#39;organisation et des objectifs des stages pour chaque promotion.&lt;/p&gt;Article 17&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure le suivi pédagogique des directeurs techniques lors de leur formation d&#39;adaptation à l&#39;emploi.&lt;br/&gt;Il décide des lieux des stages réalisés par les directeurs techniques dans le cadre de la formation d&#39;adaptation, en accord avec les directeurs interrégionaux. Ces lieux peuvent différer du lieu de stage dans lequel les directeurs techniques sont affectés.&lt;/p&gt;Article 18&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les stages réalisés par les directeurs techniques dans le cadre de la formation d&#39;adaptation à l&#39;emploi s&#39;effectuent sous l&#39;autorité fonctionnelle du chef de service d&#39;accueil.&lt;/p&gt;Article 19&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur de l&#39;Ecole nationale d&#39;administration pénitentiaire assure une évaluation de la formation d&#39;adaptation à l&#39;emploi des directeurs techniques stagiaires, sous la forme d&#39;un bilan individualisé, afin de leur permettre de compléter la formation reçue par le biais de la formation continue. Ce bilan individualisé est également communiqué au chef de service du lieu d&#39;affectation.&lt;/p&gt;Chapitre 2 : Dispositions transitoiresArticle 20&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les directeurs techniques recrutés conformément aux &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000041897285&amp;idArticle=JORFARTI000041897368&amp;categorieLien=cid&#39; title=&#39;Décret n°2020-597 du 18 mai 2020 - art. 11 (V)&#39;&gt;dispositions de l&#39;article 11 du décret du 18 mai 2020 susvisé&lt;/a&gt;, reçoivent au cours de leur première année d&#39;exercice une formation comprenant plusieurs modules parmi les domaines susmentionnés à l&#39;article 15 du présent arrêté.&lt;br/&gt;Cette formation d&#39;une durée de quatre semaines comprend un temps de formation organisé par l&#39;Ecole nationale d&#39;administration pénitentiaire, en présentiel ou en distanciel, ainsi qu&#39;un stage réalisé dans un service de l&#39;administration pénitentiaire ou un service partenaire.&lt;/p&gt;Article 21&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du titre Ier entrent en vigueur à compter de l&#39;entrée en formation de la 14e promotion de directeurs techniques de l&#39;administration pénitentiaire.&lt;br/&gt;A cette date, l&#39;arrêté du 7 décembre 2001 fixant les modalités d&#39;organisation de la formation des directeurs techniques stagiaires de l&#39;administration pénitentiaire est abrogé.&lt;br/&gt;Les dispositions du titre II entrent en vigueur le lendemain de la date de publication du présent arrêté.&lt;/p&gt;Article 22&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130134"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130449</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 4 février 2021, Mme GONZALEZ (Florès), épouse SERIS, est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire la société civile professionnelle « Joël BAÏ, Serge CONSTANT, Benoît PIERRARD, Damien GEGOUT et Antoine BIDAUD, notaires associés » à la résidence de Nancy (Meurthe-et-Moselle).&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130449"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 février 2021 portant nomination d&#39;une huissière de justice salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130451</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 4 février 2021, Mme GUERIN (Clothilde, Eve) est nommée en qualité d&#39;huissière de justice salariée au sein de l&#39;office d&#39;huissier de justice dont est titulaire la société d&#39;exercice libéral à responsabilité limitée « Xavier DORINET » à la résidence de Compiègne (Oise).&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130451"></link>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 4 février 2021 portant nomination d&#39;une notaire salariée (officiers publics ou ministériels)</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130453</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du garde des sceaux, ministre de la justice, en date du 4 février 2021, Mme ANDRÉ (Hélène, Evelyne, Danielle) est nommée en qualité de notaire salariée au sein de l&#39;office de notaire dont est titulaire Mme BOIDIN (Hélène, Jacqueline, Andrée), épouse LE BRIS, à la résidence de Paris.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130453"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>

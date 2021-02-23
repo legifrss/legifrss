@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - autorite-de-la-concurrence - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_autorite-de-la-concurrence.xml</id>
-  <updated>2021-02-18T09:29:04+01:00</updated>
+  <updated>2021-02-23T08:10:23+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décision du 1er février 2021 portant retrait de la décision du 12 janvier 2021 portant nomination d&#39;une régisseuse de recettes auprès de l&#39;Autorité de la concurrence</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122240</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 12 janvier 2021 portant nomination de Mme Myriam GUYOT, secrétaire administrative de classe normale, en qualité de régisseuse de recettes auprès de l&#39;Autorité de la concurrence est retirée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Guylaine BESSARION, secrétaire administrative de classe exceptionnelle, est maintenue dans ses fonctions de régisseuse de recettes par intérim auprès de l&#39;Autorité de la concurrence.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-12T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122240"></link>
+    <author>
+      <name>Autorité de la concurrence</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 1er février 2021 portant retrait de la décision du 12 janvier 2021 portant nomination d&#39;une régisseuse de recettes auprès de l&#39;Autorité de la concurrence</title>
+    <updated>2021-02-18T09:29:04+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122240</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 12 janvier 2021 portant nomination de Mme Myriam GUYOT, secrétaire administrative de classe normale, en qualité de régisseuse de recettes auprès de l&#39;Autorité de la concurrence est retirée.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Guylaine BESSARION, secrétaire administrative de classe exceptionnelle, est maintenue dans ses fonctions de régisseuse de recettes par intérim auprès de l&#39;Autorité de la concurrence.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-12T01:00:00+01:00</published>
     <author>
       <name>Autorité de la concurrence</name>
     </author>

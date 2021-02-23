@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_ministere-de-l-education-nationale-de-la-jeunesse-et-des-sports-sports.xml</id>
-  <updated>2021-02-18T09:29:04+01:00</updated>
+  <updated>2021-02-23T08:10:24+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Arrêté du 3 février 2021 portant approbation de modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Agence nationale du sport »</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
+    <updated>2021-02-23T08:10:24+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149186</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Agence nationale du sport » sont approuvées.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La convention constitutive, dont les extraits sont publiés en annexe, peut être consultée au siège de l&#39;Agence nationale du sport ou sur son site internet (www.agencedusport.fr).&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;EXTRAITS DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D&#39;INTÉRÊT PUBLIC « AGENCE NATIONALE DU SPORT »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Siège&lt;br/&gt;Le siège du GIP est fixé au 69-71, rue du Chevaleret, 75013 Paris, jusqu&#39;à la date du 1er décembre 2020, puis déplacé au 4-6, rue Truillot, 94200 Ivry-sur-Seine.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -21,11 +21,31 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 modifiant l&#39;arrêté du 2 janvier 2020 modifié portant délégation de signature (direction des sports)</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
+    <updated>2021-02-23T08:10:24+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130315</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 3 de l&#39;arrêté du 2 janvier 2020 susvisé est ainsi rédigé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 3. - I. - A la sous-direction de la sécurité, des métiers de l&#39;animation et du sport et de l&#39;éthique, en cas d&#39;absence ou d&#39;empêchement de la sous-directrice, délégation est donnée à M. Michel LAFON, conseiller technique et pédagogique de classe exceptionnelle, à l&#39;effet de signer, au nom du ministre chargé des sports, tous les actes relatifs aux affaires relevant des attributions de la sous-direction.&lt;br/&gt;« II. - En cas d&#39;absence ou d&#39;empêchement de la sous-directrice ou de M. Michel LAFON, délégation est donnée à M. Pierre-Alexis LATOUR, inspecteur de la jeunesse et des sports. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 4 du même arrêté, les mots : « M. Christophe VILLEGAS » sont remplacés par les mots : « M. Michaël BOUGEAREL ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130315"></link>
+    <author>
+      <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports Sports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 3 février 2021 portant approbation de modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Agence nationale du sport »</title>
+    <updated>2021-02-18T09:29:04+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149186</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les modifications de la convention constitutive du groupement d&#39;intérêt public dénommé « Agence nationale du sport » sont approuvées.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La convention constitutive, dont les extraits sont publiés en annexe, peut être consultée au siège de l&#39;Agence nationale du sport ou sur son site internet (www.agencedusport.fr).&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE&lt;br/&gt;EXTRAITS DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D&#39;INTÉRÊT PUBLIC « AGENCE NATIONALE DU SPORT »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Siège&lt;br/&gt;Le siège du GIP est fixé au 69-71, rue du Chevaleret, 75013 Paris, jusqu&#39;à la date du 1er décembre 2020, puis déplacé au 4-6, rue Truillot, 94200 Ivry-sur-Seine.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports Sports</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 modifiant l&#39;arrêté du 2 janvier 2020 modifié portant délégation de signature (direction des sports)</title>
+    <updated>2021-02-18T09:29:04+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130315</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 3 de l&#39;arrêté du 2 janvier 2020 susvisé est ainsi rédigé :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 3. - I. - A la sous-direction de la sécurité, des métiers de l&#39;animation et du sport et de l&#39;éthique, en cas d&#39;absence ou d&#39;empêchement de la sous-directrice, délégation est donnée à M. Michel LAFON, conseiller technique et pédagogique de classe exceptionnelle, à l&#39;effet de signer, au nom du ministre chargé des sports, tous les actes relatifs aux affaires relevant des attributions de la sous-direction.&lt;br/&gt;« II. - En cas d&#39;absence ou d&#39;empêchement de la sous-directrice ou de M. Michel LAFON, délégation est donnée à M. Pierre-Alexis LATOUR, inspecteur de la jeunesse et des sports. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 4 du même arrêté, les mots : « M. Christophe VILLEGAS » sont remplacés par les mots : « M. Michaël BOUGEAREL ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-13T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;éducation nationale, de la jeunesse et des sports Sports</name>
     </author>

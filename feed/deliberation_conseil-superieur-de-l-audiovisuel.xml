@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - conseil-superieur-de-l-audiovisuel - deliberation</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/deliberation_conseil-superieur-de-l-audiovisuel.xml</id>
-  <updated>2021-02-18T09:29:04+01:00</updated>
+  <updated>2021-02-23T08:10:23+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,12 +9,55 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Délibération du 1er février 2021 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163728</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 1er février 2021, le comité territorial de l&#39;audiovisuel de Clermont-Ferrand a décidé, en application de l&#39;article 28-3 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, d&#39;autoriser l&#39;association La radio associative Argentat Corrèze Xaintrie à diffuser un service de radio par voie hertzienne terrestre dénommé ACX, pour la période du 1er mars au 30 septembre 2021.&lt;br/&gt;Site : Le château d&#39;eau, Lieu-dit Longour, 19400 Argentat-sur-Dordogne.&lt;br/&gt;Puissance : 100 W.&lt;br/&gt;Fréquence : 107.5 MHz.&lt;br/&gt;RDS CODE PI : F3F3.&lt;br/&gt;RDS CODE PS : ACX 19&lt;br/&gt;Site : Rue du Puy du bassin, 19220 Saint-Privat.&lt;br/&gt;Puissance : 50 W.&lt;br/&gt;Fréquence : 98.7 MHz.&lt;br/&gt;RDS CODE PI : F3F3.&lt;br/&gt;RDS CODE PS : ACX 19.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163728"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Résultat de la délibération du 1er février 2021 modifiant la liste des paramètres RDS autorisés</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163730</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 1er février 2021, le comité territorial de l&#39;audiovisuel de Clermont-Ferrand, sur le fondement de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000512205&amp;idArticle=LEGIARTI000006420528&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 86-1067 du 30 septembre 1986 - art. 29-3 (M)&#39;&gt;article 29-3 de la loi n° 86-1067 du 30 septembre 1986&lt;/a&gt; modifiée relative à la liberté de communication, a décidé de modifier l&#39;annexe de la délibération relative à l&#39;attribution des codes RDS du 4 mars 2008 avec les paramètres définis à l&#39;annexe 1.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 1&lt;br/&gt;MODIFICATION DE LA LISTE DES PARAMÈTRES RDS AUTORISÉS&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;NOM DU SERVICE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;CODE PI &#xA;      &lt;br/&gt;&#xA;    (Identification du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;RADICAL DU CODE PS &#xA;      &lt;br/&gt;&#xA;    (Nom du programme)&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Territoire concerné &#xA;      &lt;br/&gt;&#xA;    ou radio spécifique&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;LE CHANTIER&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;FF55&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;CHANTIER&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Clermont-Ferrand&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163730"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Délibération du 4 janvier 2021 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162993</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 4 janvier 2021, le comité territorial de l&#39;audiovisuel de Nancy a décidé, en application de l&#39;article 28-3 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, d&#39;autoriser l&#39;association départementale des Francas de Meurthe-et-Moselle à diffuser un service de radio par voie hertzienne terrestre dénommé Radio Francas, pour la période du 22 au 26 février 2021.&lt;br/&gt;Site : Houdemont (54).&lt;br/&gt;Puissance : 100 W.&lt;br/&gt;Fréquence : 95,5 MHz.&lt;br/&gt;Sous réserve d&#39;un aboutissement favorable des procédures de coordination internationale.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162993"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Délibération du 4 janvier 2021 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149494</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 4 janvier 2021, le comité territorial de l&#39;audiovisuel de Nancy a décidé, en application de l&#39;article 28-3 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, d&#39;autoriser l&#39;association départementale des Francas de Meurthe-et-Moselle à diffuser un service de radio par voie hertzienne terrestre dénommé Radio Francas, pour la période du 15 au 19 février 2021.&lt;br/&gt;Site : Tucquegnieux (54).&lt;br/&gt;Puissance : 100 W.&lt;br/&gt;Fréquence : 90,0 MHz.&lt;br/&gt;Sous réserve d&#39;un aboutissement favorable des procédures de coordination internationale.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149494"></link>
+    <author>
+      <name>Conseil supérieur de l&#39;audiovisuel</name>
+    </author>
+  </entry>
+  <entry>
     <title>Délibération du 4 janvier 2021 relative à une autorisation temporaire pour l&#39;exploitation d&#39;un service de radio</title>
     <updated>2021-02-18T09:29:04+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149494</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par délibération en date du 4 janvier 2021, le comité territorial de l&#39;audiovisuel de Nancy a décidé, en application de l&#39;article 28-3 de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, d&#39;autoriser l&#39;association départementale des Francas de Meurthe-et-Moselle à diffuser un service de radio par voie hertzienne terrestre dénommé Radio Francas, pour la période du 15 au 19 février 2021.&lt;br/&gt;Site : Tucquegnieux (54).&lt;br/&gt;Puissance : 100 W.&lt;br/&gt;Fréquence : 90,0 MHz.&lt;br/&gt;Sous réserve d&#39;un aboutissement favorable des procédures de coordination internationale.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149494"></link>
     <author>
       <name>Conseil supérieur de l&#39;audiovisuel</name>
     </author>

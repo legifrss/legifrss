@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - commission-nationale-des-comptes-de-campagne-et-des-financements-politiques - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_commission-nationale-des-comptes-de-campagne-et-des-financements-politiques.xml</id>
-  <updated>2021-02-18T09:29:05+01:00</updated>
+  <updated>2021-02-23T08:10:23+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Décisions du 8 février 2021 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131233</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décisions de la Commission nationale des comptes de campagne et des financements politiques en date du 8 février 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT NATIONALE DE LA GAUCHE RÉPUBLICAINE ET SOCIALISTE inscrite au registre national des associations sous la référence W751257420, dont le siège social est situé : 3, avenue de Corbera, 75012 PARIS est agréée en qualité d&#39;association de financement du parti politique « GAUCHE RÉPUBLICAINE ET SOCIALISTE » inscrit au registre national des associations sous la référence W751246269 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « territoire national » ;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT DU PARTI POLITIQUE DÉNOMMÉ « PREMIÈRES LIGNES » inscrite au registre national des associations sous la référence W75125927, dont le siège social est situé : 8, rue du Faubourg-Poissonnière, 75010 PARIS est agréée en qualité d&#39;association de financement du parti politique « PREMIÈRES LIGNES » inscrit au registre national des associations sous la référence W75125967 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « la France et dans le cadre des circonscriptions d&#39;éléction des représentants des français de l&#39;étranger » ;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT DE « CHELLES NOTRE RÉUSSITE » inscrite au registre national des associations sous la référence W771019602, dont le siège social est situé : 16, rue Gambetta, 77500 CHELLES est agréée en qualité d&#39;association de financement du parti politique « MOUVEMENT “CHELLES NOTRE RÉUSSITE” » inscrit au registre national des associations sous la référence W771019601 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « territoire de la région Ile-de-France ».&lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Décision du 8 février 2021 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131235</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 8 février 2021 :&lt;br/&gt;Est retiré d&#39;office à la suite de la dissolution du parti politique SOUTIEN À ALAIN RAVANELLO en date du 31 juillet 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT EN SOUTIEN A ALAIN RAVANELLO inscrite au registre national des associations sous la référence W833007515 dont le siège social est situé : 30, rue du Maréchal-Foch, 83570 Carcès.&lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
@@ -32,11 +32,41 @@
   </entry>
   <entry>
     <title>Décision du 1er février 2021 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
-    <updated>2021-02-18T09:29:05+01:00</updated>
+    <updated>2021-02-23T08:10:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130775</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 1er février 2021 :&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 3 décembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de « l&#39;ASSOCIATION DE FINANCEMENT DE LA FORMATION POLITIQUE LE GRAND PARIS DES CITOYENS (AFGPC) » inscrite au registre national des associations sous la référence W751214139 dont le siège social était situé : 147, avenue de Choisy, 75013 Paris.&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130775"></link>
+    <author>
+      <name>Commission nationale des comptes de campagne et des financements politiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décisions du 8 février 2021 portant agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131233</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décisions de la Commission nationale des comptes de campagne et des financements politiques en date du 8 février 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT NATIONALE DE LA GAUCHE RÉPUBLICAINE ET SOCIALISTE inscrite au registre national des associations sous la référence W751257420, dont le siège social est situé : 3, avenue de Corbera, 75012 PARIS est agréée en qualité d&#39;association de financement du parti politique « GAUCHE RÉPUBLICAINE ET SOCIALISTE » inscrit au registre national des associations sous la référence W751246269 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « territoire national » ;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT DU PARTI POLITIQUE DÉNOMMÉ « PREMIÈRES LIGNES » inscrite au registre national des associations sous la référence W75125927, dont le siège social est situé : 8, rue du Faubourg-Poissonnière, 75010 PARIS est agréée en qualité d&#39;association de financement du parti politique « PREMIÈRES LIGNES » inscrit au registre national des associations sous la référence W75125967 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « la France et dans le cadre des circonscriptions d&#39;éléction des représentants des français de l&#39;étranger » ;&lt;br/&gt;- l&#39;ASSOCIATION DE FINANCEMENT DE « CHELLES NOTRE RÉUSSITE » inscrite au registre national des associations sous la référence W771019602, dont le siège social est situé : 16, rue Gambetta, 77500 CHELLES est agréée en qualité d&#39;association de financement du parti politique « MOUVEMENT “CHELLES NOTRE RÉUSSITE” » inscrit au registre national des associations sous la référence W771019601 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « territoire de la région Ile-de-France ».&lt;/p&gt;</content>
+    <published>2021-02-14T01:00:00+01:00</published>
+    <author>
+      <name>Commission nationale des comptes de campagne et des financements politiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 8 février 2021 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131235</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 8 février 2021 :&lt;br/&gt;Est retiré d&#39;office à la suite de la dissolution du parti politique SOUTIEN À ALAIN RAVANELLO en date du 31 juillet 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT EN SOUTIEN A ALAIN RAVANELLO inscrite au registre national des associations sous la référence W833007515 dont le siège social est situé : 30, rue du Maréchal-Foch, 83570 Carcès.&lt;/p&gt;</content>
+    <published>2021-02-14T01:00:00+01:00</published>
+    <author>
+      <name>Commission nationale des comptes de campagne et des financements politiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 1er février 2021 portant retrait d&#39;agrément d&#39;association de financement d&#39;un parti politique ou d&#39;une organisation politique</title>
+    <updated>2021-02-18T09:29:05+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130775</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 1er février 2021 :&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 3 décembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de « l&#39;ASSOCIATION DE FINANCEMENT DE LA FORMATION POLITIQUE LE GRAND PARIS DES CITOYENS (AFGPC) » inscrite au registre national des associations sous la référence W751214139 dont le siège social était situé : 147, avenue de Choisy, 75013 Paris.&lt;/p&gt;</content>
+    <published>2021-02-13T01:00:00+01:00</published>
     <author>
       <name>Commission nationale des comptes de campagne et des financements politiques</name>
     </author>
@@ -47,7 +77,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043115365</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décision de la Commission nationale des comptes de campagne et des financements politiques en date du 25 janvier 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;AF2022E inscrite au registre national des associations sous la référence W723016625, dont le siège social est situé : 3, rue Louis-Desprès, 72700 ALLONNES est agréée en qualité d&#39;association de financement du parti politique « 2022, L&#39;ÉCOLOGIE ! POUR UNE RÉPUBLIQUE ÉCOLOGIQUE ET SOCIALE » inscrit au registre national des associations sous la référence W723016624 pour exercer ses activités à l&#39;intérieur du territoire ainsi désigné : « national ».&lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043115365"></link>
     <author>
       <name>Commission nationale des comptes de campagne et des financements politiques</name>
     </author>
@@ -58,7 +87,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106677</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décisions de la Commission nationale des comptes de campagne et des financements politiques en date du 25 janvier 2021 :&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 21 décembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT DE LA FORMATION POLITIQUE LE PÔLE DES RÉFORMATEURS inscrite au registre national des associations sous la référence W751231188 dont le siège social était situé : 76 bis, rue Duhesme, 75018 PARIS ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Est retiré d&#39;office à la suite de sa dissolution décidée le 21 novembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- l&#39;agrément de l&#39;ASSOCIATION DE FINANCEMENT DU RASSEMBLEMENT POUR LA CALÉDONIE inscrite au registre national des associations sous la référence W9N1002001 dont le siège social était situé : 5, rue Lamartine, baie de l&#39;Orphelinat, 98800 NOUMÉA.&lt;/p&gt;</content>
     <published>2021-02-09T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106677"></link>
     <author>
       <name>Commission nationale des comptes de campagne et des financements politiques</name>
     </author>
