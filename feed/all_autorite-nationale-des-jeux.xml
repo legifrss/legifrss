@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - autorite-nationale-des-jeux</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_autorite-nationale-des-jeux.xml</id>
-  <updated>2021-02-23T08:10:23+01:00</updated>
+  <updated>2021-02-24T07:56:49+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Décision n° 2021-034 du 11 février 2021 portant ajout d&#39;un nom de domaine pour l&#39;accès à l&#39;offre de paris sportifs en ligne de la société B.E.S. SAS</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
+    <updated>2021-02-24T07:56:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149445</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société B.E.S. SAS est autorisée à rendre accessible son offre de paris sportifs en ligne exploitée au titre de l&#39;agrément numéro 0001-PS-2010-06-07 depuis le nom de domaine additionnel suivant : « partypoker.fr ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Autorité nationale des jeux est chargé de l&#39;exécution de la présente décision, qui sera notifiée à la société B.E.S. SAS et publiée au Journal officiel de la République française et sur le site internet de l&#39;Autorité.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -21,11 +21,31 @@
   </entry>
   <entry>
     <title>Décision n° 2021-035 du 11 février 2021 portant ajout d&#39;un nom de domaine pour l&#39;accès à l&#39;offre de jeu de la société JOAONLINE</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
+    <updated>2021-02-24T07:56:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149450</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société JOAONLINE est autorisée à rendre accessibles ses offres de paris sportifs et de paris hippiques en ligne exploitées au titre des agréments numéro 0031-PS-2015-07-17 et 0031-PH-2015-07-17 depuis le nom de domaine additionnel suivant : « joabet.fr ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Autorité nationale des jeux est chargé de l&#39;exécution de la présente décision, qui sera notifiée à la société JOAONLINE et publiée au Journal officiel de la République française et sur le site internet de l&#39;Autorité.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149450"></link>
+    <author>
+      <name>Autorité nationale des jeux</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021-034 du 11 février 2021 portant ajout d&#39;un nom de domaine pour l&#39;accès à l&#39;offre de paris sportifs en ligne de la société B.E.S. SAS</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149445</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société B.E.S. SAS est autorisée à rendre accessible son offre de paris sportifs en ligne exploitée au titre de l&#39;agrément numéro 0001-PS-2010-06-07 depuis le nom de domaine additionnel suivant : « partypoker.fr ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Autorité nationale des jeux est chargé de l&#39;exécution de la présente décision, qui sera notifiée à la société B.E.S. SAS et publiée au Journal officiel de la République française et sur le site internet de l&#39;Autorité.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <author>
+      <name>Autorité nationale des jeux</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision n° 2021-035 du 11 février 2021 portant ajout d&#39;un nom de domaine pour l&#39;accès à l&#39;offre de jeu de la société JOAONLINE</title>
+    <updated>2021-02-23T08:10:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149450</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La société JOAONLINE est autorisée à rendre accessibles ses offres de paris sportifs et de paris hippiques en ligne exploitées au titre des agréments numéro 0031-PS-2015-07-17 et 0031-PH-2015-07-17 depuis le nom de domaine additionnel suivant : « joabet.fr ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur général de l&#39;Autorité nationale des jeux est chargé de l&#39;exécution de la présente décision, qui sera notifiée à la société JOAONLINE et publiée au Journal officiel de la République française et sur le site internet de l&#39;Autorité.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
     <author>
       <name>Autorité nationale des jeux</name>
     </author>

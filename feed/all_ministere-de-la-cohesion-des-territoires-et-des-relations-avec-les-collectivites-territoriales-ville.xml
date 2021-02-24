@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-cohesion-des-territoires-et-des-relations-avec-les-collectivites-territoriales-ville</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_ministere-de-la-cohesion-des-territoires-et-des-relations-avec-les-collectivites-territoriales-ville.xml</id>
-  <updated>2021-02-23T08:10:22+01:00</updated>
+  <updated>2021-02-24T07:56:49+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Arrêté du 24 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement</title>
-    <updated>2021-02-23T08:10:22+01:00</updated>
+    <updated>2021-02-24T07:56:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131230</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargée de la ville, en date du 24 décembre 2020 :&lt;br/&gt;Sont nommées membres du conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement, en qualité de représentants du ministre chargé de la ville :&lt;br/&gt;Titulaire : Mme Agnès Reiner, directrice générale déléguée appui opérationnel et stratégique au sein de l&#39;Agence nationale de la cohésion des territoires, en remplacement de Mme Michelle Brosseau, appelée à d&#39;autres fonctions.&lt;br/&gt;Suppléante : Mme Sabrina Abdi, directrice du programme cadre de vie, logement, mobilités et tranquillité publique au sein de la direction politique de la ville de l&#39;Agence nationale de la cohésion des territoires, en remplacement de Mme Sabine Thibaud, appelée à d&#39;autres fonctions.&lt;br/&gt;Sont nommées membres du conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement, en qualité de représentants du ministre chargé de l&#39;aménagement du territoire :&lt;br/&gt;Titulaire : Mme Claudie Calabrin, cheffe du bureau de la stratégie, de la contractualisation et de l&#39;évaluation au sein de la sous-direction de la cohésion et de l&#39;aménagement du territoire de la direction générale des collectivités locales, en remplacement de M. Hugo Bevort, appelé à d&#39;autres fonctions.&lt;br/&gt;Suppléante : Mme Anouk Watrin, adjointe à la cheffe du bureau de la stratégie, de la contractualisation et de l&#39;évaluation au sein de la sous-direction de la cohésion et de l&#39;aménagement du territoire de la direction générale des collectivités locales, en remplacement de Mme Sophie Duval-Huwart, appelée à d&#39;autres fonctions.&lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131230"></link>
+    <author>
+      <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales Ville</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 24 décembre 2020 portant nomination au conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement</title>
+    <updated>2021-02-23T08:10:22+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131230</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre déléguée auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargée de la ville, en date du 24 décembre 2020 :&lt;br/&gt;Sont nommées membres du conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement, en qualité de représentants du ministre chargé de la ville :&lt;br/&gt;Titulaire : Mme Agnès Reiner, directrice générale déléguée appui opérationnel et stratégique au sein de l&#39;Agence nationale de la cohésion des territoires, en remplacement de Mme Michelle Brosseau, appelée à d&#39;autres fonctions.&lt;br/&gt;Suppléante : Mme Sabrina Abdi, directrice du programme cadre de vie, logement, mobilités et tranquillité publique au sein de la direction politique de la ville de l&#39;Agence nationale de la cohésion des territoires, en remplacement de Mme Sabine Thibaud, appelée à d&#39;autres fonctions.&lt;br/&gt;Sont nommées membres du conseil d&#39;administration de l&#39;établissement public Grand Paris Aménagement, en qualité de représentants du ministre chargé de l&#39;aménagement du territoire :&lt;br/&gt;Titulaire : Mme Claudie Calabrin, cheffe du bureau de la stratégie, de la contractualisation et de l&#39;évaluation au sein de la sous-direction de la cohésion et de l&#39;aménagement du territoire de la direction générale des collectivités locales, en remplacement de M. Hugo Bevort, appelé à d&#39;autres fonctions.&lt;br/&gt;Suppléante : Mme Anouk Watrin, adjointe à la cheffe du bureau de la stratégie, de la contractualisation et de l&#39;évaluation au sein de la sous-direction de la cohésion et de l&#39;aménagement du territoire de la direction générale des collectivités locales, en remplacement de Mme Sophie Duval-Huwart, appelée à d&#39;autres fonctions.&lt;/p&gt;</content>
+    <published>2021-02-14T01:00:00+01:00</published>
     <author>
       <name>Ministère de la cohésion des territoires et des relations avec les collectivités territoriales Ville</name>
     </author>
