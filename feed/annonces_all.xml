@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - annonces</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/annonces_all.xml</id>
-  <updated>2021-02-24T07:56:48+01:00</updated>
+  <updated>2021-02-26T10:08:41+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,8 +9,35 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Tirages financiers</title>
+    <updated>2021-02-26T10:08:41+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185476</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01264&lt;/p&gt;&lt;p&gt;&lt;br/&gt;SOCIÉTÉ GÉNÉRALE EFFEKTEN GMBH (« l&#39;émetteur »)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Société de droit allemand constituée le 3 mars 1977 pour une durée illimitée. Siège social : Neue Mainzer Straße 46-50, 60311 Francfort-sur-le-Main, Allemagne&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Code ISIN &lt;/th&gt;&lt;th&gt;&lt;br/&gt;Code Mnemonic&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0011080175&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;6917S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0011080233&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;6923S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0011262377&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;7019S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0011352616&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;7069S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0011331396&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;7063S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0012468098&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;CS19S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0012468106&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;CS20S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0010956656&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;7718S&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;FR0012468114&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;CS21S&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Conformément aux termes et conditions et aux dispositions relatives aux certificats en référence, tel qu&#39;indiqué dans les conditions définitives en date d&#39;émission du 20 juillet 2011, 1er juin 2012, 7 novembre 2012, 21 septembre 2012, 21 janvier 2015, 27 octobre 2010 et du 21 janvier 2015, l&#39;émetteur informe les porteurs qu&#39;il met fin à ses obligations au titre des certificats.&lt;br/&gt;La date d&#39;échéance anticipée (« early maturity date ») est fixée au 29 octobre 2021.&lt;br/&gt;La date de radiation est fixée au 21 octobre 2021 ; les titres ne seront plus négociables sur Euronext Paris à l&#39;issue de la séance de cotation du 20 octobre 2021.&lt;br/&gt;Le montant de règlement anticipé (« early settlement amount ») sera calculé et versé aux porteurs à la date de règlement anticipée (« early settlement date ») conformément aux dispositions prévues dans les conditions définitives.&lt;/p&gt;</content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185476"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 100 à 125)</title>
+    <updated>2021-02-26T10:08:41+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185478</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185478"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 111 à 152)</title>
+    <updated>2021-02-26T10:08:41+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179577</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-25T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179577"></link>
+    <author></author>
+  </entry>
+  <entry>
     <title>Demandes de changement de nom (Accès protégé textes 158 à 160)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043174305</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -19,7 +46,7 @@
   </entry>
   <entry>
     <title>Tirages financiers</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168800</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01211&lt;/p&gt;&lt;p&gt;&lt;br/&gt;SOCIÉTÉ GÉNÉRALE EFFEKTEN GMBH (« l&#39;émetteur »)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Société de droit allemand constituée le 3 mars 1977 pour une durée illimitée. Siège social : Neue Mainzer Straße 46-50 - 60311 Francfort sur le Main - Allemagne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Code ISIN : FR0011334846 - Code Mnémonique : ORL5S »&lt;br/&gt;Code ISIN : FR0011815034 - Code Mnémonique : ORL1S »&lt;br/&gt;Code ISIN : FR0011815067 - Code Mnémonique : ARL5S »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Conformément aux termes et conditions et aux dispositions relatives aux certificats en référence, tel qu&#39;indiqué dans les conditions définitives en date du 27 septembre 2012, du 24 juillet 2015 et du 9 avril 2014, l&#39;émetteur informe les porteurs qu&#39;il met fin à ses obligations au titre des certificats.&lt;br/&gt;La date d&#39;échéance anticipée (« Early Maturity Date ») est fixée au 31 mars 2021.&lt;br/&gt;La date de radiation est fixée au 23 mars 2021 ; les titres ne seront plus négociables sur Euronext Paris à l&#39;issue de la séance de cotation du 22 mars 2021.&lt;br/&gt;Le montant de règlement anticipé (« Early Settlement Amount ») sera calculé et versé aux porteurs à la date de règlement anticipée (« Early Settlement Date ») conformément aux dispositions prévues dans les conditions définitives.&lt;/p&gt;</content>
     <published>2021-02-23T01:00:00+01:00</published>
@@ -28,7 +55,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 63 à 92)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168802</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-23T01:00:00+01:00</published>
@@ -37,7 +64,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 67 à 96)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163747</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -46,7 +73,7 @@
   </entry>
   <entry>
     <title>Concessions diverses</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163046</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01216&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Douillac » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Douillac » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (7,11 km2) est située dans le département de la Haute-Vienne sur les communes de Le Chalard et Saint-Yrieix-la-Perche.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C, D, E et F sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;554809&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6495418&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;555483&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497088&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;557332&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498080&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;559375&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498513&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;E&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;559245&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496932&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;F&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;557901&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496333&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -55,7 +82,7 @@
   </entry>
   <entry>
     <title>Concessions diverses</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163048</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01217&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Fayat » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Fayat » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (29,53 km2) est située dans le département de la Haute-Vienne sur les communes de Coussac-Bonneval, Château-Chervix, Saint-Priest-Ligoure, Meuzac et La-Roche-l&#39;Abeille.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C, D et E sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;571467&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6500313&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;574581&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497650&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;567733&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6495113&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;564310&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6494501&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;E&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;567805&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6499758&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -64,7 +91,7 @@
   </entry>
   <entry>
     <title>Concessions diverses</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163050</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01219&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Pierrepinet » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Pierrepinet » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (3,13 km2) est située dans le département de la Haute-Vienne sur les communes de Saint-Yrieix-la-Perche et La-Roche-l&#39;Abeille.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C et D sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;561731&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497760&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;563727&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498974&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;564208&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497222&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;562885&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496623&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -73,7 +100,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 93 à 129)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163052</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -82,7 +109,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 141 à 155)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156727</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -91,7 +118,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 159 à 191)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149625</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -100,7 +127,7 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 102 à 105)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142829</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-17T01:00:00+01:00</published>
@@ -109,11 +136,107 @@
   </entry>
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 105 à 125)</title>
-    <updated>2021-02-24T07:56:48+01:00</updated>
+    <updated>2021-02-26T10:08:41+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134783</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-16T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134783"></link>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 158 à 160)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043174305</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Tirages financiers</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168800</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01211&lt;/p&gt;&lt;p&gt;&lt;br/&gt;SOCIÉTÉ GÉNÉRALE EFFEKTEN GMBH (« l&#39;émetteur »)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Société de droit allemand constituée le 3 mars 1977 pour une durée illimitée. Siège social : Neue Mainzer Straße 46-50 - 60311 Francfort sur le Main - Allemagne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Code ISIN : FR0011334846 - Code Mnémonique : ORL5S »&lt;br/&gt;Code ISIN : FR0011815034 - Code Mnémonique : ORL1S »&lt;br/&gt;Code ISIN : FR0011815067 - Code Mnémonique : ARL5S »&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Conformément aux termes et conditions et aux dispositions relatives aux certificats en référence, tel qu&#39;indiqué dans les conditions définitives en date du 27 septembre 2012, du 24 juillet 2015 et du 9 avril 2014, l&#39;émetteur informe les porteurs qu&#39;il met fin à ses obligations au titre des certificats.&lt;br/&gt;La date d&#39;échéance anticipée (« Early Maturity Date ») est fixée au 31 mars 2021.&lt;br/&gt;La date de radiation est fixée au 23 mars 2021 ; les titres ne seront plus négociables sur Euronext Paris à l&#39;issue de la séance de cotation du 22 mars 2021.&lt;br/&gt;Le montant de règlement anticipé (« Early Settlement Amount ») sera calculé et versé aux porteurs à la date de règlement anticipée (« Early Settlement Date ») conformément aux dispositions prévues dans les conditions définitives.&lt;/p&gt;</content>
+    <published>2021-02-23T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 63 à 92)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168802</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-23T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 67 à 96)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163747</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Concessions diverses</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163046</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01216&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Douillac » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Douillac » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (7,11 km2) est située dans le département de la Haute-Vienne sur les communes de Le Chalard et Saint-Yrieix-la-Perche.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C, D, E et F sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;554809&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6495418&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;555483&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497088&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;557332&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498080&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;559375&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498513&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;E&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;559245&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496932&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;F&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;557901&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496333&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Concessions diverses</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163048</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01217&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Fayat » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Fayat » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (29,53 km2) est située dans le département de la Haute-Vienne sur les communes de Coussac-Bonneval, Château-Chervix, Saint-Priest-Ligoure, Meuzac et La-Roche-l&#39;Abeille.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C, D et E sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;571467&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6500313&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;574581&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497650&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;567733&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6495113&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;564310&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6494501&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;E&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;567805&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6499758&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Concessions diverses</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163050</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;N° 01219&lt;/p&gt;&lt;p&gt;&lt;br/&gt;AVIS DE MISE EN CONCURRENCE&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Préfecture de la Haute-Vienne&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Demande de permis exclusif de recherches de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis Pierrepinet » (département de la Haute-Vienne)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La société Compagnie des Mines Arédiennes SAS, dont le siège social est situé 23, rue Antigna, 45000 Orléans, a déposé le 2 octobre 2020 une demande de permis exclusif de recherche (PER M) de mines d&#39;or, d&#39;argent, d&#39;antimoine, de tungstène, d&#39;étain, de molybdène, de lithium, de niobium, de tantale, de cuivre, de zinc, de plomb, de béryllyum, de cobalt, de germanium, d&#39;indium, de platine, de terres rares et de substances connexes dit « Permis de Pierrepinet » portant sur partie du département de la Haute-Vienne, pour une durée de cinq ans.&lt;br/&gt;La superficie concernée (3,13 km2) est située dans le département de la Haute-Vienne sur les communes de Saint-Yrieix-la-Perche et La-Roche-l&#39;Abeille.&lt;br/&gt;Le périmètre du permis est défini par la surface d&#39;un polygone dont les sommets A, B, C et D sont définis par les coordonnées géographiques dans le système de projection Lambert 93 figurant dans le tableau ci-dessous :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;br/&gt;X&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Y&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;A&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;561731&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497760&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;B&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;563727&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6498974&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;C&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;564208&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6497222&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;D&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;562885&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;6496623&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;En application des articles 18 et 19 du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain, cette demande de permis est soumise à une mise en concurrence d&#39;une durée de trente jours à compter de la publication du présent avis au Journal officiel de la République française.&lt;br/&gt;La demande ainsi que les documents cartographiques associés peuvent être consultés, dans ce délai, aux jours et heures d&#39;ouverture au public (sauf les jours fériés) :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- à la direction générale de l&#39;aménagement, du logement et de la nature, direction de l&#39;eau et de la biodiversité, sous-direction de la protection et de la gestion de l&#39;eau, des ressources minérales et des écosystèmes aquatiques, bureau de la politique des ressources minérales non énergétiques, tour Séquoia, 92055 La Défense Cedex ;&lt;br/&gt;- à la préfecture de la Haute-Vienne, direction de la légalité, bureau des procédures environnementales et de l&#39;utilité publique, 1, rue de la Préfecture, BP 87031, 87031 Limoges Cedex.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Toute demande concurrente est présentée comme la demande initiale conformément aux dispositions du décret précité et à l&#39;arrêté du 28 juillet 1995 fixant les modalités selon lesquelles sont établies les demandes portant sur les titres miniers et leurs annexes. Elle est adressée au ministre en charge des mines à l&#39;adresse de la direction générale de l&#39;aménagement, du logement et de la nature indiquée ci-dessus, par lettre recommandée avec accusé de réception, dans le délai de trente jours à compter de la date du présent Journal officiel.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 93 à 129)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163052</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 141 à 155)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156727</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 159 à 191)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149625</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 102 à 105)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142829</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-17T01:00:00+01:00</published>
+    <author></author>
+  </entry>
+  <entry>
+    <title>Demandes de changement de nom (Accès protégé textes 105 à 125)</title>
+    <updated>2021-02-24T07:56:48+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134783</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-16T01:00:00+01:00</published>
     <author></author>
   </entry>
   <entry>
@@ -122,7 +245,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131388</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-14T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131388"></link>
     <author></author>
   </entry>
   <entry>
@@ -131,7 +253,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130840</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130840"></link>
     <author></author>
   </entry>
   <entry>
@@ -297,126 +418,6 @@
   <entry>
     <title>Demandes de changement de nom (Accès protégé textes 218 à 257)</title>
     <updated>2021-02-18T09:29:03+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043115460</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-11T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 109 à 159)</title>
-    <updated>2021-02-18T09:29:03+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110596</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 85 à 114)</title>
-    <updated>2021-02-18T09:29:03+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101447</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-07T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 102 à 105)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142829</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-17T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 105 à 125)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134783</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 66 à 95)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131388</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-14T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 124 à 142)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130840</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 107 à 135)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122312</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-12T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 218 à 257)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043115460</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-11T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 109 à 159)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043110596</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-10T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 85 à 114)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101447</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-07T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 92 à 113)</title>
-    <updated>2021-02-17T07:53:41+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043100290</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-06T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 66 à 95)</title>
-    <updated>2021-02-15T20:57:07+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043131388</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-14T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 124 à 142)</title>
-    <updated>2021-02-15T20:57:07+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130840</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 107 à 135)</title>
-    <updated>2021-02-15T20:57:07+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043122312</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
-    <published>2021-02-12T01:00:00+01:00</published>
-    <author></author>
-  </entry>
-  <entry>
-    <title>Demandes de changement de nom (Accès protégé textes 218 à 257)</title>
-    <updated>2021-02-15T20:57:07+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043115460</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l&#39;administration, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-11T01:00:00+01:00</published>
