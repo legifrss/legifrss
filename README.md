@@ -24,6 +24,10 @@ It works in [Feedly](https://feedly.com).
 
 If you want to check the last features you can add the following feed to you RSS reader: `https://github.com/ldicarlo/legifrance-rss/tree/nightly/feed`
 
-## Atom
+## TODO
 
-TODO: Add valid RSS checker.
+- Add valid RSS checker.
+- Feats:
+  - https://legifrss.org/all => all
+  - https://legifrss.org/all?q=écologie => search all with term
+  - https://legifrss.org/loi?q=écologie&author=Commission-nationale-du-débat-public => search loi with term and author

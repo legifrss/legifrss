@@ -9,7 +9,6 @@ func main() {
 			"message": "pong",
 		})
 	})
-	r.GET("feed/")
-	r.Static("../feed", "/all.xml")
+	r.Static("/static", "./feed/")
 	r.Run()
 }
