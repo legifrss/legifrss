@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-transformation-et-de-la-fonction-publiques - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_ministere-de-la-transformation-et-de-la-fonction-publiques.xml</id>
-  <updated>2021-02-26T10:08:45+01:00</updated>
+  <updated>2021-02-28T21:25:22+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Arrêté du 19 février 2021 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Metz</title>
-    <updated>2021-02-26T10:08:45+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173707</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques du 19 février 2021, Mme Aude PLUMEAU, sous-directrice des ressources humaines de l&#39;administration centrale des ministères économiques et financiers, est nommée au sein du conseil d&#39;administration de l&#39;institut régional d&#39;administration (IRA) de Metz, en qualité de représentante de l&#39;univers professionnel de l&#39;administration centrale, en remplacement de M. Grégory BROUSSEAUD.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Metz</title>
-    <updated>2021-02-26T10:08:45+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173709</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques du 19 février 2021, Mme Dominique PORNET-RIVOIRE, directrice de la délégation de Lorraine de l&#39;Institut national spécialisé d&#39;études territoriales (INSET) de Nancy est nommée au sein du conseil d&#39;administration de l&#39;IRA de Metz, en qualité de représentante de la fonction publique territoriale, désignée en raison de son expérience en matière de formation des adultes, en remplacement de M. Philippe RUTTEN.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat</title>
-    <updated>2021-02-26T10:08:45+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163298</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques en date du 5 février 2021, Mme Véronique JURGA est nommée membre suppléant du comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat, au titre des représentants du personnel, sur proposition de la Confédération française de l&#39;encadrement - Confédération générale des cadres (CFE-CGC), en remplacement de Mme Rose-Marie GUICHARD.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -43,11 +43,51 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 portant nomination au comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat</title>
-    <updated>2021-02-26T10:08:45+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163300</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques en date du 5 février 2021, Mme Amandine TOURTOIS est nommée membre suppléant du comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat, au titre des représentants du personnel, sur proposition de la Confédération française de l&#39;encadrement - Confédération générale des cadres (CFE-CGC), en remplacement de M. Amin MEDJBER.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163300"></link>
+    <author>
+      <name>Ministère de la transformation et de la fonction publiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 19 février 2021 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Metz</title>
+    <updated>2021-02-26T10:08:45+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173707</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques du 19 février 2021, Mme Aude PLUMEAU, sous-directrice des ressources humaines de l&#39;administration centrale des ministères économiques et financiers, est nommée au sein du conseil d&#39;administration de l&#39;institut régional d&#39;administration (IRA) de Metz, en qualité de représentante de l&#39;univers professionnel de l&#39;administration centrale, en remplacement de M. Grégory BROUSSEAUD.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de la transformation et de la fonction publiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 19 février 2021 portant nomination au conseil d&#39;administration de l&#39;institut régional d&#39;administration de Metz</title>
+    <updated>2021-02-26T10:08:45+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173709</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques du 19 février 2021, Mme Dominique PORNET-RIVOIRE, directrice de la délégation de Lorraine de l&#39;Institut national spécialisé d&#39;études territoriales (INSET) de Nancy est nommée au sein du conseil d&#39;administration de l&#39;IRA de Metz, en qualité de représentante de la fonction publique territoriale, désignée en raison de son expérience en matière de formation des adultes, en remplacement de M. Philippe RUTTEN.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de la transformation et de la fonction publiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat</title>
+    <updated>2021-02-26T10:08:45+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163298</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques en date du 5 février 2021, Mme Véronique JURGA est nommée membre suppléant du comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat, au titre des représentants du personnel, sur proposition de la Confédération française de l&#39;encadrement - Confédération générale des cadres (CFE-CGC), en remplacement de Mme Rose-Marie GUICHARD.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <author>
+      <name>Ministère de la transformation et de la fonction publiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 portant nomination au comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat</title>
+    <updated>2021-02-26T10:08:45+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163300</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la transformation et de la fonction publiques en date du 5 février 2021, Mme Amandine TOURTOIS est nommée membre suppléant du comité interministériel consultatif d&#39;action sociale des administrations de l&#39;Etat, au titre des représentants du personnel, sur proposition de la Confédération française de l&#39;encadrement - Confédération générale des cadres (CFE-CGC), en remplacement de M. Amin MEDJBER.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
     <author>
       <name>Ministère de la transformation et de la fonction publiques</name>
     </author>
@@ -58,7 +98,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142470</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 19 septembre 2020fixant le montant du complément de traitement indiciaire applicable aux agents des établissements publics de santé, des groupements de coopération sanitaire et des établissements d&#39;hébergement pour personnes âgées dépendantes de la fonction publique hospitalière est abrogé.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-17T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043142470"></link>
     <author>
       <name>Ministère de la transformation et de la fonction publiques</name>
     </author>
@@ -69,7 +108,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134446</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 25 avril 2018 susvisé est ainsi modifié : &lt;br/&gt;1° Dans le titre, l&#39;année : « 2020 » est remplacée par l&#39;année : « 2021 » ; &lt;br/&gt;2° A l&#39;article 12, les mots : « et 2020 » sont remplacés par les mots : « à 2021 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le vice-président du Conseil d&#39;Etat est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134446"></link>
     <author>
       <name>Ministère de la transformation et de la fonction publiques</name>
     </author>

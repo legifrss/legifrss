@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-europe-et-des-affaires-etrangeres - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_ministere-de-l-europe-et-des-affaires-etrangeres.xml</id>
-  <updated>2021-02-26T10:08:45+01:00</updated>
+  <updated>2021-02-28T21:25:23+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Arrêté du 18 février 2021 portant nomination au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes</title>
-    <updated>2021-02-26T10:08:45+01:00</updated>
+    <updated>2021-02-28T21:25:23+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Léonor Guy est nommée conseillère affaires générales, relations extérieures et Brexit au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574"></link>
+    <author>
+      <name>Ministère de l&#39;Europe et des affaires étrangères</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 février 2021 portant nomination au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes</title>
+    <updated>2021-02-26T10:08:45+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Léonor Guy est nommée conseillère affaires générales, relations extérieures et Brexit au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;Europe et des affaires étrangères</name>
     </author>
@@ -494,16 +504,6 @@
     <updated>2020-12-31T11:54:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740076</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères en date du 14 décembre 2020, M. YELDA (Guy), ministre plénipotentaire de 1re classe, est admis à faire valoir ses droits à la retraite, sur sa demande, à compter du 1er juillet 2021.&lt;/p&gt;</content>
-    <published>2020-12-26T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;Europe et des affaires étrangères</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 18 décembre 2020 portant admission à la retraite (agents diplomatiques et consulaires)</title>
-    <updated>2020-12-31T11:54:49+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740078</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères en date du 18 décembre 2020, M. CHAPPEDELAINE (Bernard), conseiller des affaires étrangères, est admis à faire valoir ses droits à la retraite, à sa demande, à compter du 1er mai 2021.&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;Europe et des affaires étrangères</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_premier-ministre.xml</id>
-  <updated>2021-02-26T10:08:46+01:00</updated>
+  <updated>2021-02-28T21:25:22+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Arrêté du 23 février 2021 portant nomination d&#39;un sous-directeur (Cour des comptes)</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179313</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 23 février 2021, M. Jérôme BIARD, administrateur général, est renouvelé dans l&#39;emploi de sous-directeur chargé de la direction des ressources humaines des juridictions financières, auprès du secrétaire général de la Cour des comptes, à compter du 1er avril 2021, pour une durée de trois ans.&lt;/p&gt;</content>
     <published>2021-02-25T01:00:00+01:00</published>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Arrêté du 5 février 2021 relatif à l&#39;approbation du cahier des charges de l&#39;appel à projets « entre la France et l&#39;Allemagne portant sur les technologies d&#39;intelligence artificielle pour la prévention des risques, la gestion des crises et la résilience »</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173064</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « entre la France et l&#39;Allemagne portant sur les technologies d&#39;intelligence artificielle pour la prévention des risques, la gestion des crises et la résilience » relatif à l&#39;action « Renforcement des pôles de compétitivité » et volet « Projets de recherche et développement structurants des pôles de compétitivité » du Programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 février 2021 portant nomination (administration centrale)</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173571</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 22 février 2021, Mme Gwenolée PRUVOT-DUBOS, administratrice civile hors classe, est nommée dans l&#39;emploi de sous-directeur, pour exercer les fonctions de secrétaire générale de la direction de l&#39;information légale et administrative, à compter du 10 mars 2021, pour une durée de trois ans, avec une période probatoire de six mois.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 février 2021 portant réintégration et admission à la retraite (administrateurs civils)</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163253</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 18 février 2021, M. Renaud DONNEDIEU de VABRES, administrateur civil hors classe, rattaché pour sa gestion au ministère des armées, est réintégré dans le corps des administrateurs civils et admis, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er octobre 2020.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -54,7 +54,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 portant nomination des vice-présidents des formations spécialisées du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163255</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 19 février 2021, sont nommés en qualité de vice-présidents des formations spécialisées du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge :&lt;br/&gt;M. Michel VILLAC, en qualité de vice-président de la formation spécialisée dans le champ de la famille au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;Mme Sylviane GIAMPINO, en qualité de vice-présidente de la formation spécialisée dans le champ de l&#39;enfance et de l&#39;adolescence au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;M. Bertrand FRAGONARD, en qualité de vice-président de la formation spécialisée dans le champ de l&#39;âge au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;L&#39;ordre selon lequel chacun des vice-présidents exerce, pour une année, la présidence du Haut Conseil est le suivant : vice-président de la formation spécialisée dans le champ de l&#39;enfance et de l&#39;adolescence, vice-président de la formation spécialisée dans le champ de la famille, vice-président de la formation spécialisée dans le champ de l&#39;âge.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -65,7 +65,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 février 2021 portant admission à la retraite (administrateurs civils)</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162824</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 16 février 2021, M. Jean-Claude DAVERDIN, administrateur général, affecté à la Caisse des dépôts et consignations, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er juillet 2021.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -76,7 +76,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à la composition du cabinet du Premier ministre</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162826</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Lucas TOURNY est nommé conseiller technique auprès du chef de cabinet, à compter du 22 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -87,7 +87,7 @@
   </entry>
   <entry>
     <title>Arrêté du 10 février 2021 relatif à l&#39;approbation du cahier des charges de l&#39;appel à projets « Accélération des SATT »</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155863</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « Accélération des SATT » relatif à l&#39;action « Valorisation - Fonds national de valorisation » du programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -98,7 +98,7 @@
   </entry>
   <entry>
     <title>Arrêté du 16 février 2021 portant nomination en administration centrale</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149238</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 16 février 2021, M. Bertrand LE MEUR, ingénieur général de l&#39;armement, est renouvelé dans l&#39;emploi d&#39;expert de haut niveau (groupe I), conseiller « affaires transverses » auprès du directeur des affaires internationales, stratégiques et technologiques au sein du secrétariat général de la défense et de la sécurité nationale dans les services du Premier ministre, pour une durée de trois ans, à compter du 19 février 2021.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -109,7 +109,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149240</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, Mme Julie CHIRET-CANNESAN, agent contractuel, est nommée dans l&#39;emploi de chef de service, pour exercer les fonctions d&#39;adjointe au directeur du service d&#39;information du Gouvernement, dans les services du Premier ministre, pour une durée de trois ans, avec une période probatoire de six mois.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
@@ -120,11 +120,121 @@
   </entry>
   <entry>
     <title>Arrêté du 17 février 2021 fixant la composition du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024</title>
-    <updated>2021-02-26T10:08:46+01:00</updated>
+    <updated>2021-02-28T21:25:22+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149242</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, sont nommés membres du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024 :&lt;br/&gt;M. Gilles QUÉNÉHERVÉ, directeur des sports, représentant la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports ;&lt;br/&gt;M. Thierry TERRET, délégué ministériel aux jeux Olympiques et Paralympiques, représentant le ministre de l&#39;éducation nationale, de la jeunesse et des sports et la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation ;&lt;br/&gt;M. Geoffroy CAILLOUX, sous-directeur à la direction générale des entreprises, représentant le ministre de l&#39;économie, des finances et de la relance ;&lt;br/&gt;M. Jean-Marc OLÉRON, sous-directeur à la direction du budget, représentant le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics ;&lt;br/&gt;Mme Stéphanie DUPUY-LYON, directrice générale de l&#39;aménagement, du logement et de la nature, représentant les ministres chargés de l&#39;aménagement du territoire et du logement ;&lt;br/&gt;M. Pierre LAUGEAY, administrateur général, inspecteur civil de la défense, représentant la ministre des armées ;&lt;br/&gt;M. Jean-Benoît ALBERTINI, secrétaire général du ministère de l&#39;intérieur, représentant le ministre de l&#39;intérieur ;&lt;br/&gt;M. Aymeric LANG, directeur de cabinet du directeur général des infrastructures de transport et de la mer, représentant le ministre délégué auprès de la ministre de la transition écologique, chargé des transports ;&lt;br/&gt;M. Régis BAC, chef de service à la direction générale du travail, représentant la ministre du travail, de l&#39;emploi et de l&#39;insertion ;&lt;br/&gt;M. Noël CORBIN, délégué général à la transmission, aux territoires et à la démocratie culturelle, représentant la ministre de la culture ;&lt;br/&gt;Mme Corinne PASQUAY, chargée de mission au secrétariat général des ministères chargés des affaires sociales, représentant le ministre des solidarités et de la santé ;&lt;br/&gt;M. Philippe MERILLON, secrétaire général adjoint du ministère de l&#39;agriculture et de l&#39;alimentation, représentant le ministre de l&#39;agriculture et de l&#39;alimentation ;&lt;br/&gt;M. Thomas LESUEUR, commissaire général au développement durable, représentant la ministre de la transition écologique ;&lt;br/&gt;Mme Laurence FISCHER, ambassadrice déléguée pour le sport, représentant le ministre de l&#39;Europe et des affaires étrangères ;&lt;br/&gt;Mme Fanny JAFFRAY, conseillère au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, représentant la secrétaire d&#39;État chargée des personnes handicapées ;&lt;br/&gt;Mme Hélène FURNON-PETRESCU, cheffe de service à la direction générale de la cohésion sociale, représentant la ministre déléguée auprès du Premier ministre, chargée de l&#39;égalité entre les femmes et les hommes, de la diversité et de l&#39;égalité des chances ;&lt;br/&gt;M. Sébastien GALLOIS, secrétaire général adjoint du ministère de la justice, représentant le garde des sceaux, ministre de la justice.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149242"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 23 février 2021 portant nomination d&#39;un sous-directeur (Cour des comptes)</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179313</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 23 février 2021, M. Jérôme BIARD, administrateur général, est renouvelé dans l&#39;emploi de sous-directeur chargé de la direction des ressources humaines des juridictions financières, auprès du secrétaire général de la Cour des comptes, à compter du 1er avril 2021, pour une durée de trois ans.&lt;/p&gt;</content>
+    <published>2021-02-25T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 5 février 2021 relatif à l&#39;approbation du cahier des charges de l&#39;appel à projets « entre la France et l&#39;Allemagne portant sur les technologies d&#39;intelligence artificielle pour la prévention des risques, la gestion des crises et la résilience »</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173064</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « entre la France et l&#39;Allemagne portant sur les technologies d&#39;intelligence artificielle pour la prévention des risques, la gestion des crises et la résilience » relatif à l&#39;action « Renforcement des pôles de compétitivité » et volet « Projets de recherche et développement structurants des pôles de compétitivité » du Programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 22 février 2021 portant nomination (administration centrale)</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173571</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 22 février 2021, Mme Gwenolée PRUVOT-DUBOS, administratrice civile hors classe, est nommée dans l&#39;emploi de sous-directeur, pour exercer les fonctions de secrétaire générale de la direction de l&#39;information légale et administrative, à compter du 10 mars 2021, pour une durée de trois ans, avec une période probatoire de six mois.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 février 2021 portant réintégration et admission à la retraite (administrateurs civils)</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163253</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 18 février 2021, M. Renaud DONNEDIEU de VABRES, administrateur civil hors classe, rattaché pour sa gestion au ministère des armées, est réintégré dans le corps des administrateurs civils et admis, sur sa demande, à faire valoir ses droits à la retraite, à compter du 1er octobre 2020.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 19 février 2021 portant nomination des vice-présidents des formations spécialisées du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163255</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 19 février 2021, sont nommés en qualité de vice-présidents des formations spécialisées du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge :&lt;br/&gt;M. Michel VILLAC, en qualité de vice-président de la formation spécialisée dans le champ de la famille au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;Mme Sylviane GIAMPINO, en qualité de vice-présidente de la formation spécialisée dans le champ de l&#39;enfance et de l&#39;adolescence au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;M. Bertrand FRAGONARD, en qualité de vice-président de la formation spécialisée dans le champ de l&#39;âge au sein du Haut Conseil de la famille, de l&#39;enfance et de l&#39;âge.&lt;br/&gt;L&#39;ordre selon lequel chacun des vice-présidents exerce, pour une année, la présidence du Haut Conseil est le suivant : vice-président de la formation spécialisée dans le champ de l&#39;enfance et de l&#39;adolescence, vice-président de la formation spécialisée dans le champ de la famille, vice-président de la formation spécialisée dans le champ de l&#39;âge.&lt;/p&gt;</content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant admission à la retraite (administrateurs civils)</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162824</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 16 février 2021, M. Jean-Claude DAVERDIN, administrateur général, affecté à la Caisse des dépôts et consignations, est admis à faire valoir ses droits à la retraite, sur demande, à compter du 1er juillet 2021.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 19 février 2021 relatif à la composition du cabinet du Premier ministre</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162826</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Lucas TOURNY est nommé conseiller technique auprès du chef de cabinet, à compter du 22 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 10 février 2021 relatif à l&#39;approbation du cahier des charges de l&#39;appel à projets « Accélération des SATT »</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155863</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le cahier des charges de l&#39;appel à projets « Accélération des SATT » relatif à l&#39;action « Valorisation - Fonds national de valorisation » du programme d&#39;investissements d&#39;avenir est approuvé (1).&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 16 février 2021 portant nomination en administration centrale</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149238</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 16 février 2021, M. Bertrand LE MEUR, ingénieur général de l&#39;armement, est renouvelé dans l&#39;emploi d&#39;expert de haut niveau (groupe I), conseiller « affaires transverses » auprès du directeur des affaires internationales, stratégiques et technologiques au sein du secrétariat général de la défense et de la sécurité nationale dans les services du Premier ministre, pour une durée de trois ans, à compter du 19 février 2021.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149240</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, Mme Julie CHIRET-CANNESAN, agent contractuel, est nommée dans l&#39;emploi de chef de service, pour exercer les fonctions d&#39;adjointe au directeur du service d&#39;information du Gouvernement, dans les services du Premier ministre, pour une durée de trois ans, avec une période probatoire de six mois.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 17 février 2021 fixant la composition du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024</title>
+    <updated>2021-02-26T10:08:46+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149242</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, sont nommés membres du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024 :&lt;br/&gt;M. Gilles QUÉNÉHERVÉ, directeur des sports, représentant la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports ;&lt;br/&gt;M. Thierry TERRET, délégué ministériel aux jeux Olympiques et Paralympiques, représentant le ministre de l&#39;éducation nationale, de la jeunesse et des sports et la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation ;&lt;br/&gt;M. Geoffroy CAILLOUX, sous-directeur à la direction générale des entreprises, représentant le ministre de l&#39;économie, des finances et de la relance ;&lt;br/&gt;M. Jean-Marc OLÉRON, sous-directeur à la direction du budget, représentant le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics ;&lt;br/&gt;Mme Stéphanie DUPUY-LYON, directrice générale de l&#39;aménagement, du logement et de la nature, représentant les ministres chargés de l&#39;aménagement du territoire et du logement ;&lt;br/&gt;M. Pierre LAUGEAY, administrateur général, inspecteur civil de la défense, représentant la ministre des armées ;&lt;br/&gt;M. Jean-Benoît ALBERTINI, secrétaire général du ministère de l&#39;intérieur, représentant le ministre de l&#39;intérieur ;&lt;br/&gt;M. Aymeric LANG, directeur de cabinet du directeur général des infrastructures de transport et de la mer, représentant le ministre délégué auprès de la ministre de la transition écologique, chargé des transports ;&lt;br/&gt;M. Régis BAC, chef de service à la direction générale du travail, représentant la ministre du travail, de l&#39;emploi et de l&#39;insertion ;&lt;br/&gt;M. Noël CORBIN, délégué général à la transmission, aux territoires et à la démocratie culturelle, représentant la ministre de la culture ;&lt;br/&gt;Mme Corinne PASQUAY, chargée de mission au secrétariat général des ministères chargés des affaires sociales, représentant le ministre des solidarités et de la santé ;&lt;br/&gt;M. Philippe MERILLON, secrétaire général adjoint du ministère de l&#39;agriculture et de l&#39;alimentation, représentant le ministre de l&#39;agriculture et de l&#39;alimentation ;&lt;br/&gt;M. Thomas LESUEUR, commissaire général au développement durable, représentant la ministre de la transition écologique ;&lt;br/&gt;Mme Laurence FISCHER, ambassadrice déléguée pour le sport, représentant le ministre de l&#39;Europe et des affaires étrangères ;&lt;br/&gt;Mme Fanny JAFFRAY, conseillère au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, représentant la secrétaire d&#39;État chargée des personnes handicapées ;&lt;br/&gt;Mme Hélène FURNON-PETRESCU, cheffe de service à la direction générale de la cohésion sociale, représentant la ministre déléguée auprès du Premier ministre, chargée de l&#39;égalité entre les femmes et les hommes, de la diversité et de l&#39;égalité des chances ;&lt;br/&gt;M. Sébastien GALLOIS, secrétaire général adjoint du ministère de la justice, représentant le garde des sceaux, ministre de la justice.&lt;/p&gt;</content>
+    <published>2021-02-18T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -135,7 +245,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste et la localisation des emplois d&#39;agent principal des services techniques des services du Premier ministre sont fixées dans les tableaux annexés au présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 20 mai 2010 fixant la liste des emplois d&#39;agent principal des services techniques de deuxième catégorie à la direction des services administratifs et financiers du Premier ministre est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des services administratifs et financiers du Premier ministre est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXES&lt;br/&gt;ANNEXE 1&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE PREMIÈRE CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de la politique et des opérations immobilières&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de l&#39;exploitation des sites de Matignon&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Service de l&#39;intendance du Premier ministre&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Direction de l&#39;information légale et administrative&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des publics et des produits&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département de l&#39;imprimerie&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ecole nationale d&#39;administration&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;67&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux et du patrimoine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 2&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE DEUXIÈME CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
     <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -146,7 +255,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134504</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 février 2021, sont nommés membres du Conseil national du numérique, en raison de leurs compétences et de leur expérience dans le domaine de la transition numérique, au titre des personnalités issues du secteur économique, des personnalités issues du secteur académique et des personnalités impliquées dans le développement du numérique au niveau local, national ou européen :&lt;br/&gt;I. - Membres du Conseil national du numérique :&lt;br/&gt;Mme Anne ALOMBERT.&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;M. Adrien BASDEVANT.&lt;br/&gt;Mme Justine CASSELL.&lt;br/&gt;M. Gilles DOWEK.&lt;br/&gt;Mme Elisabeth GROSDHOMME.&lt;br/&gt;Mme Rahaf HARFOUSH.&lt;br/&gt;Mme Tatiana JAMA.&lt;br/&gt;Mme Olga KOKSHAGINA.&lt;br/&gt;M. Alexandre LACROIX.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;br/&gt;M. Jean-Pierre MIGNARD.&lt;br/&gt;Mme Dominique PASQUIER.&lt;br/&gt;M. Eric SALOBIR.&lt;br/&gt;M. Serge TISSERON.&lt;br/&gt;Mme Joëlle TOLEDANO.&lt;br/&gt;M. Jean-Marc VITTORI.&lt;br/&gt;II. - Sont nommés co-présidents du Conseil national du numérique :&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;/p&gt;</content>
     <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134504"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -407,116 +515,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 16 février 2021 portant nomination en administration centrale</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149238</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 16 février 2021, M. Bertrand LE MEUR, ingénieur général de l&#39;armement, est renouvelé dans l&#39;emploi d&#39;expert de haut niveau (groupe I), conseiller « affaires transverses » auprès du directeur des affaires internationales, stratégiques et technologiques au sein du secrétariat général de la défense et de la sécurité nationale dans les services du Premier ministre, pour une durée de trois ans, à compter du 19 février 2021.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149240</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, Mme Julie CHIRET-CANNESAN, agent contractuel, est nommée dans l&#39;emploi de chef de service, pour exercer les fonctions d&#39;adjointe au directeur du service d&#39;information du Gouvernement, dans les services du Premier ministre, pour une durée de trois ans, avec une période probatoire de six mois.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 17 février 2021 fixant la composition du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149242</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 17 février 2021, sont nommés membres du comité de coordination placé auprès du délégué interministériel aux jeux Olympiques et Paralympiques 2024 :&lt;br/&gt;M. Gilles QUÉNÉHERVÉ, directeur des sports, représentant la ministre déléguée auprès du ministre de l&#39;éducation nationale, de la jeunesse et des sports, chargée des sports ;&lt;br/&gt;M. Thierry TERRET, délégué ministériel aux jeux Olympiques et Paralympiques, représentant le ministre de l&#39;éducation nationale, de la jeunesse et des sports et la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation ;&lt;br/&gt;M. Geoffroy CAILLOUX, sous-directeur à la direction générale des entreprises, représentant le ministre de l&#39;économie, des finances et de la relance ;&lt;br/&gt;M. Jean-Marc OLÉRON, sous-directeur à la direction du budget, représentant le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics ;&lt;br/&gt;Mme Stéphanie DUPUY-LYON, directrice générale de l&#39;aménagement, du logement et de la nature, représentant les ministres chargés de l&#39;aménagement du territoire et du logement ;&lt;br/&gt;M. Pierre LAUGEAY, administrateur général, inspecteur civil de la défense, représentant la ministre des armées ;&lt;br/&gt;M. Jean-Benoît ALBERTINI, secrétaire général du ministère de l&#39;intérieur, représentant le ministre de l&#39;intérieur ;&lt;br/&gt;M. Aymeric LANG, directeur de cabinet du directeur général des infrastructures de transport et de la mer, représentant le ministre délégué auprès de la ministre de la transition écologique, chargé des transports ;&lt;br/&gt;M. Régis BAC, chef de service à la direction générale du travail, représentant la ministre du travail, de l&#39;emploi et de l&#39;insertion ;&lt;br/&gt;M. Noël CORBIN, délégué général à la transmission, aux territoires et à la démocratie culturelle, représentant la ministre de la culture ;&lt;br/&gt;Mme Corinne PASQUAY, chargée de mission au secrétariat général des ministères chargés des affaires sociales, représentant le ministre des solidarités et de la santé ;&lt;br/&gt;M. Philippe MERILLON, secrétaire général adjoint du ministère de l&#39;agriculture et de l&#39;alimentation, représentant le ministre de l&#39;agriculture et de l&#39;alimentation ;&lt;br/&gt;M. Thomas LESUEUR, commissaire général au développement durable, représentant la ministre de la transition écologique ;&lt;br/&gt;Mme Laurence FISCHER, ambassadrice déléguée pour le sport, représentant le ministre de l&#39;Europe et des affaires étrangères ;&lt;br/&gt;Mme Fanny JAFFRAY, conseillère au cabinet de la secrétaire d&#39;État auprès du Premier ministre, chargée des personnes handicapées, représentant la secrétaire d&#39;État chargée des personnes handicapées ;&lt;br/&gt;Mme Hélène FURNON-PETRESCU, cheffe de service à la direction générale de la cohésion sociale, représentant la ministre déléguée auprès du Premier ministre, chargée de l&#39;égalité entre les femmes et les hommes, de la diversité et de l&#39;égalité des chances ;&lt;br/&gt;M. Sébastien GALLOIS, secrétaire général adjoint du ministère de la justice, représentant le garde des sceaux, ministre de la justice.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 fixant la liste des services dans lesquels exercent des agents principaux des services techniques des services du Premier ministre</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste et la localisation des emplois d&#39;agent principal des services techniques des services du Premier ministre sont fixées dans les tableaux annexés au présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 20 mai 2010 fixant la liste des emplois d&#39;agent principal des services techniques de deuxième catégorie à la direction des services administratifs et financiers du Premier ministre est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des services administratifs et financiers du Premier ministre est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXES&lt;br/&gt;ANNEXE 1&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE PREMIÈRE CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de la politique et des opérations immobilières&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de l&#39;exploitation des sites de Matignon&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Service de l&#39;intendance du Premier ministre&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Direction de l&#39;information légale et administrative&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des publics et des produits&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département de l&#39;imprimerie&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ecole nationale d&#39;administration&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;67&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux et du patrimoine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 2&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE DEUXIÈME CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 15 février 2021 portant nomination au Conseil national du numérique</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134504</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 15 février 2021, sont nommés membres du Conseil national du numérique, en raison de leurs compétences et de leur expérience dans le domaine de la transition numérique, au titre des personnalités issues du secteur économique, des personnalités issues du secteur académique et des personnalités impliquées dans le développement du numérique au niveau local, national ou européen :&lt;br/&gt;I. - Membres du Conseil national du numérique :&lt;br/&gt;Mme Anne ALOMBERT.&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;M. Adrien BASDEVANT.&lt;br/&gt;Mme Justine CASSELL.&lt;br/&gt;M. Gilles DOWEK.&lt;br/&gt;Mme Elisabeth GROSDHOMME.&lt;br/&gt;Mme Rahaf HARFOUSH.&lt;br/&gt;Mme Tatiana JAMA.&lt;br/&gt;Mme Olga KOKSHAGINA.&lt;br/&gt;M. Alexandre LACROIX.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;br/&gt;M. Jean-Pierre MIGNARD.&lt;br/&gt;Mme Dominique PASQUIER.&lt;br/&gt;M. Eric SALOBIR.&lt;br/&gt;M. Serge TISSERON.&lt;br/&gt;Mme Joëlle TOLEDANO.&lt;br/&gt;M. Jean-Marc VITTORI.&lt;br/&gt;II. - Sont nommés co-présidents du Conseil national du numérique :&lt;br/&gt;M. Gilles BABINET.&lt;br/&gt;Mme Françoise MERCADAL-DELASALLES.&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 13 février 2021 portant prorogation jusqu&#39;au 2 avril 2021 de l&#39;agrément de l&#39;association ANTICOR en vue de l&#39;exercice des droits de la partie civile</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130848</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agrément délivré le 15 février 2018 à l&#39;association ANTICOR ayant son siège social 37-39, avenue Ledru-Rollin, 75520 Paris Cedex 12, en vue de l&#39;exercice des droits reconnus à la partie civile, est prorogé jusqu&#39;au 2 avril 2021, terme du délai d&#39;instruction de la demande de renouvellement.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des affaires criminelles et des grâces est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-14T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique (rectificatif)</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130407</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Rectificatif au Journal officiel de la République française n° 33 du 7 février 2021, texte numéro 42 :&lt;br/&gt;Au lieu de : « M. David STRAER. », lire : « M. David SRAER. ».&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 2 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043114663</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 2 février 2021, est nommé membre suppléant du conseil d&#39;administration de l&#39;Ecole nationale d&#39;administration sur proposition de l&#39;Union des fédérations CFDT des fonctions publiques et assimilés :&lt;br/&gt;M. Nicolas Prudhomme, ingénieur des ponts, des eaux et des forêts en chef, en remplacement de Mme Chantal Labat-Gest.&lt;/p&gt;</content>
-    <published>2021-02-11T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 7 février 2021 relatif à la composition du cabinet du Premier ministre</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043106540</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Caroline LEMASSON-GERNER est nommée conseillère technique fonction publique et réforme de l&#39;Etat au cabinet du Premier ministre, à compter du 8 février 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-09T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 5 février 2021 portant nomination au Conseil d&#39;analyse économique</title>
-    <updated>2021-02-18T09:29:04+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043101093</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre en date du 5 février 2021 :&lt;br/&gt;Sont nommés, sur proposition du ministre de l&#39;économie, des finances et de la relance, membres du Conseil d&#39;analyse économique, en qualité de personnalités choisies en raison de leurs compétences dans le domaine de l&#39;analyse économique :&lt;br/&gt;M. Yann ALGAN ;&lt;br/&gt;Mme Emmanuelle AURIOL ;&lt;br/&gt;Mme Anne EPAULARD ;&lt;br/&gt;M. François FONTAINE ;&lt;br/&gt;Mme Maria GUADALUPE ;&lt;br/&gt;Mme Gabrielle FACK ;&lt;br/&gt;M. Sébastien JEAN ;&lt;br/&gt;M. Camille LANDAIS ;&lt;br/&gt;M. Thomas PHILIPPON ;&lt;br/&gt;M. Xavier RAGOT ;&lt;br/&gt;Mme Katheline SCHUBERT ;&lt;br/&gt;Mme Claudia SENIK ;&lt;br/&gt;Mme Stéfanie STANTCHEVA ;&lt;br/&gt;M. David STRAER.&lt;br/&gt;En qualité de correspondant :&lt;br/&gt;M. Dominique BUREAU ;&lt;br/&gt;M. Ludovic SUBRAN.&lt;/p&gt;</content>
-    <published>2021-02-07T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 8 février 2021 fixant la liste des services dans lesquels exercent des agents principaux des services techniques des services du Premier ministre</title>
-    <updated>2021-02-17T07:53:43+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134088</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste et la localisation des emplois d&#39;agent principal des services techniques des services du Premier ministre sont fixées dans les tableaux annexés au présent arrêté.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 20 mai 2010 fixant la liste des emplois d&#39;agent principal des services techniques de deuxième catégorie à la direction des services administratifs et financiers du Premier ministre est abrogé.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le directeur des services administratifs et financiers du Premier ministre est chargé de l&#39;exécution du présent arrêté, qui sera publié au Journal officiel de la République française.&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXES&lt;br/&gt;ANNEXE 1&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE PREMIÈRE CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de la politique et des opérations immobilières&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau de l&#39;exploitation des sites de Matignon&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Service de l&#39;intendance du Premier ministre&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Direction de l&#39;information légale et administrative&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des publics et des produits&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département de l&#39;imprimerie&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Ecole nationale d&#39;administration&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;67&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Secrétariat général&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Département des moyens généraux et du patrimoine&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;AnnexeArticle &lt;br /&gt;&lt;p&gt;&lt;br/&gt;ANNEXE 2&lt;br/&gt;AGENTS PRINCIPAUX DES SERVICES TECHNIQUES DE DEUXIÈME CATÉGORIE&lt;br/&gt;Direction des services administratifs et financiers&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th colspan=&#39;2&#39;&gt;&lt;br/&gt;LOCALISATION&lt;/th&gt;&lt;th&gt;&lt;br/&gt;SERVICE/BUREAU/POLE&lt;/th&gt;&lt;th&gt;&lt;br/&gt;NOMBRE &#xA;      &lt;br/&gt;&#xA;    d&#39;emplois&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Division du pilotage, des services généraux et du site de Ségur-Fontenoy&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Pôle graphisme-fabrication-déplacement-image&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;75&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Sous-direction des sites historiques et des transports&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;Bureau du transport automobile&lt;/td&gt;&lt;td align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;</content>
-    <published>2021-02-16T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>
