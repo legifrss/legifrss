@@ -27,7 +27,14 @@ If you want to check the last features you can add the following feed to you RSS
 ## TODO
 
 - Add valid RSS checker.
+- Tech:
+  - one xml file with all inside
+  - 1h cache on requests
+- Doc:
+  - https://legifrss.github.io
+  - all types
+  - all authors
 - Feats:
-  - https://legifrss.org/all => all
-  - https://legifrss.org/all?q=écologie => search all with term
-  - https://legifrss.org/loi?q=écologie&author=Commission-nationale-du-débat-public => search loi with term and author
+  - https://legifrss.org/latest => all
+  - https://legifrss.org/latest?q=écologie => search all with term
+  - https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search loi with term and author

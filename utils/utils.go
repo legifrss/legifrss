@@ -76,7 +76,6 @@ func ExtractContent(articles []models.JorfArticle, sections []models.JorfContain
 	for _, section := range sections {
 		str += section.Title
 		str += ExtractContent(section.Articles, section.Sections)
-
 	}
 	return str
 }
