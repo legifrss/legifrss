@@ -1,6 +1,9 @@
 package main
 
-import "github.com/gin-gonic/gin"
+import (
+	"github.com/gin-gonic/gin"
+	"github.com/ldicarlo/legifrss/server/db"
+)
 
 func main() {
 	r := gin.Default()
@@ -9,6 +12,10 @@ func main() {
 			"message": "pong",
 		})
 	})
-	r.Static("/static", "./feed/")
+	r.GET("/latest", func(c *gin.Context) {
+		keyword := c.DefaultQuery("q", "")
+		println(keyword)
+		c.XML(200, db.GetAll())
+	})
 	r.Run()
 }

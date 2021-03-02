@@ -27,6 +27,10 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 	return feed
 }
 
+func AggregateRSS(feedDesc *feeds.AtomFeed, feedEntries []*feeds.AtomEntry) {
+	return true
+}
+
 func transformLegifranceElement(element models.LegifranceElement, date string) *feeds.AtomEntry {
 	return &feeds.AtomEntry{
 		Title:     element.Description,

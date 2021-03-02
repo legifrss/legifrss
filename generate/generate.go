@@ -24,7 +24,7 @@ func Generate(result []models.LegifranceElement) {
 	for key, posts := range natureMap {
 		filePath := key + "_all.xml"
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
-		appendToFile(feed, filePath)
+		appendToFile(feed, filePath, 50)
 
 	}
 	authorMap := mapByAuthor(result)
@@ -32,7 +32,7 @@ func Generate(result []models.LegifranceElement) {
 		filePath := "all_" + key + ".xml"
 		feed := rss.TransformToRSS(posts, models.FeedDescription{TitleSuffix: "- " + key, LinkSuffix: filePath, DescriptionSuffix: ""})
 
-		appendToFile(feed, filePath)
+		appendToFile(feed, filePath, 50)
 
 	}
 	authorNatureMap := mapByAuthorAndNature(result)
@@ -41,7 +41,7 @@ func Generate(result []models.LegifranceElement) {
 		for key2, item := range maps {
 			filePath := key2 + "_" + key1 + ".xml"
 			feed := rss.TransformToRSS(item, models.FeedDescription{TitleSuffix: "- " + key1 + " - " + key2, LinkSuffix: filePath, DescriptionSuffix: ""})
-			appendToFile(feed, filePath)
+			appendToFile(feed, filePath, 50)
 		}
 	}
 
@@ -53,6 +53,8 @@ func Generate(result []models.LegifranceElement) {
 	utils.ErrCheck(err)
 
 	f.WriteString(elem)
+
+	appendToFile(globalFeed, "db.xml", 10000)
 
 }
 
@@ -125,9 +127,8 @@ func mapByAuthorAndNature(input []models.LegifranceElement) map[string]map[strin
 	return result
 }
 
-func appendToFile(feed *feeds.AtomFeed, path string) {
+func appendToFile(feed *feeds.AtomFeed, path string, limit int) {
 	path = "feed/" + path
-	limit := 50
 	fmt.Println("path to print " + path)
 	fmt.Println("entries " + strconv.Itoa(len(feed.Entries)))
 	if _, err := os.Stat(path); err != nil || len(feed.Entries) > limit {
