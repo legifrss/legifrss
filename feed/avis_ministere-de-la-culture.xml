@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-culture - avis</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/avis_ministere-de-la-culture.xml</id>
-  <updated>2021-03-02T08:17:35+01:00</updated>
+  <updated>2021-03-02T13:16:37+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Avis n° 2021-01 de la Commission consultative des trésors nationaux</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747</id>
+    <content type="html"></content>
+    <published>2021-02-28T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747"></link>
+    <author>
+      <name>Ministère de la culture</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Avis n° 2021-01 de la Commission consultative des trésors nationaux</title>
     <updated>2021-03-02T08:17:35+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission régulièrement convoquée et constituée, réunie le 17 février 2021 ;&lt;br/&gt;Après en avoir délibéré ;&lt;br/&gt;Considérant que le bien pour lequel le certificat d&#39;exportation est demandé représente une œuvre pionnière du surréalisme, réalisée par le poète, écrivain et essayiste André Breton (1896-1966), qui revêt le statut de mythe fondateur au sein de l&#39;esthétique et de la philosophie de l&#39;objet surréaliste ; que cette « selle-sphère et feuillage », composée principalement d&#39;une selle, d&#39;une sonnette de bicyclette, d&#39;une petite sphère de bois, d&#39;éléments en celluloïd, d&#39;un livre sculpté en albâtre, de dragées, d&#39;une photographie sous verre de la tour de Pise, d&#39;un sablier couché, de feuillages et d&#39;autres éléments végétaux, s&#39;avère représentative du processus surréaliste de détournement et de transformation sémantique et matérielle s&#39;appliquant à des choses, en dehors des médiums traditionnels, auxquelles sont assignées une portée symbolique ainsi qu&#39;un sens latent et qui affichent dans les trois dimensions de l&#39;espace une forme de retour du refoulé ; que cette sorte de paysage imaginaire miniaturisé, héritier du ready made de Duchamp, premier objet d&#39;essence surréaliste fabriqué en 1914 à partir d&#39;une pièce manufacturée, et succédant à des idées d&#39;objets oniriques irréalisés de Breton, signe la sortie de l&#39;abstraction et le passage du mouvement surréaliste du collage à l&#39;objet, dont la réalisation procède d&#39;un processus d&#39;assemblage insolite d&#39;éléments hétéroclites, dans une approche alors non conventionnelle et sous-tendue par des représentations inconscientes ; que les « objets à fonctionnement symbolique », à la fois singuliers et collectifs, résultent des discussions du groupe surréaliste qui se tiennent au printemps 1931 chez Tristan Tzara et auxquelles participent des nouveaux venus, tels que Francis Ponge, Alberto Giacometti, Salvador Dali et Luis Buñuel ; qu&#39;ils prennent leur origine dans la « boule suspendue » d&#39;Alberto Giacometti (1930-1931), qui rejoignit le mouvement de 1930 à 1935, constituée d&#39;une sphère fendue suspendue par un fil et posée sur une forme en croissant au sein d&#39;une cage et semblant pouvoir être actionnée, dont l&#39;effet suggestif à connotation sexuelle a fasciné Breton et Dali ; que la « selle-sphère et feuillage » de Breton, décrite précisément par Salvador Dali dans le numéro 3 du Surréalisme au service de la Révolution en 1931 et constituant le troisième de ces objets dans l&#39;ordre d&#39;apparition dans cette revue, appartient à une petite série de cinq pièces, qui, outre le prototype de Giacometti, comporte aussi un « soulier et verre de lait » de Dali, les « éponges et bol de farine » de Gala Eluard, future épouse de Dali, et « une main gantée de rouge » de Valentine Hugo ; que cette petite « installation », à l&#39;état resté conforme à celui d&#39;origine connu par une photographie de 1931 et vendue par Valentine Hugo au père de l&#39;actuel propriétaire, manifeste un caractère emblématique se marquant dans la dénomination générique qui lui est restée attachée d&#39;objet à fonctionnement symbolique et traduit une dimension majeure du mouvement surréaliste, d&#39;une importance capitale dans l&#39;histoire de l&#39;art moderne ;&lt;br/&gt;Qu&#39;en conséquence, cette œuvre présente un intérêt majeur pour le patrimoine national du point de vue de l&#39;histoire et de l&#39;art et doit être considérée comme un trésor national,&lt;br/&gt;Emet un avis favorable au refus du certificat d&#39;exportation demandé.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747"></link>
     <author>
       <name>Ministère de la culture</name>
     </author>

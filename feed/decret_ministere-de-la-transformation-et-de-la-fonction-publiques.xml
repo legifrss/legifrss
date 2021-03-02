@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-transformation-et-de-la-fonction-publiques - decret</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decret_ministere-de-la-transformation-et-de-la-fonction-publiques.xml</id>
-  <updated>2021-03-02T08:17:34+01:00</updated>
+  <updated>2021-03-02T13:16:37+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Décret du 24 février 2021 portant nomination au Conseil commun de la fonction publique</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185323</id>
+    <content type="html"></content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185323"></link>
+    <author>
+      <name>Ministère de la transformation et de la fonction publiques</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 24 février 2021 portant nomination au Conseil commun de la fonction publique</title>
     <updated>2021-03-02T08:17:34+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185323</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret en date du 24 février 2021 :&lt;br/&gt;1° M. Damien MERMILLOD-BLONDIN, chargé de mission au secrétariat général du ministère de l&#39;économie, des finances et de la relance, est nommé membre suppléant de la formation spécialisée « Examen des questions relatives aux évolutions de l&#39;emploi public, à la politique des retraites dans la fonction publique et à la connaissance statistique de la situation de la rémunération et des pensions des agents publics » du Conseil commun de la fonction publique, en qualité de représentant des employeurs de l&#39;Etat, en remplacement de M. Emmanuel BROSSIER ;&lt;br/&gt;2° M. Guillaume AUJALEU, sous-directeur au secrétariat général du ministère de l&#39;économie, des finances et la relance, est nommé membre suppléant de la formation spécialisée « Examen des questions relatives aux conditions de travail, à l&#39;hygiène, à la santé et à la sécurité au travail » du Conseil commun de la fonction publique, en qualité de représentant des employeurs de l&#39;Etat, en remplacement de M. Marc ESTOURNET.&lt;/p&gt;</content>
     <published>2021-02-26T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185323"></link>
     <author>
       <name>Ministère de la transformation et de la fonction publiques</name>
     </author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-des-armees - decision</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decision_ministere-des-armees.xml</id>
-  <updated>2021-03-02T08:17:35+01:00</updated>
+  <updated>2021-03-02T13:16:37+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,32 @@
   </author>
   <entry>
     <title>Décision du 25 février 2021 portant délégation de signature (direction centrale du service du commissariat des armées)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189450</id>
+    <content type="html"></content>
+    <published>2021-02-27T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189450"></link>
+    <author>
+      <name>Ministère des armées</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 17 février 2021 modifiant la décision du 22 décembre 2020 portant délégation de signature (état-major de la marine)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155949</id>
+    <content type="html"></content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155949"></link>
+    <author>
+      <name>Ministère des armées</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décision du 25 février 2021 portant délégation de signature (direction centrale du service du commissariat des armées)</title>
     <updated>2021-03-02T08:17:35+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189450</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Délégation est donnée aux personnes désignées ci-après pour signer, dans les limites des dispositions de l&#39;arrêté du 23 décembre 2009 susvisé et dans le cadre des compétences respectives des services définis par le même arrêté, les actes relatifs aux dommages causés ou subis par les forces françaises :&lt;br/&gt;I. - Direction du commissariat de l&#39;opération « Daman » :&lt;br/&gt;1. M. le commissaire en chef de 2e classe Michel Romary, directeur du commissariat de l&#39;opération Daman, jusqu&#39;au 1er mars 2021 ;&lt;br/&gt;2. M. le commissaire en chef de 2e classe Denis Tardivel, directeur du commissariat de l&#39;opération Daman, à compter du 2 mars 2021 ;&lt;br/&gt;3. M. le commissaire en chef de 2e classe Pascal Demoy, adjoint au directeur du commissariat de l&#39;opération Daman, jusqu&#39;au 23 mars 2021 ;&lt;br/&gt;4. M. le commissaire principal Julien Hourtiguet, adjoint au directeur du commissariat de l&#39;opération Barkhane, à compter du 24 mars 2021.&lt;br/&gt;II. - Direction du commissariat de l&#39;opération « Barkhane » :&lt;br/&gt;1. M. le commissaire en chef de 1re classe Laurent Paccaud, directeur du commissariat de l&#39;opération Barkhane, jusqu&#39;au 9 avril 2021 ;&lt;br/&gt;2. M. le commissaire en chef de 1re classe Georges-Marcel Valmary, directeur du commissariat de l&#39;opération Barkhane, à compter du 10 avril 2021 ;&lt;br/&gt;3. M. le commissaire principal Jean-François Trumier, adjoint au directeur du commissariat de l&#39;opération Barkhane, jusqu&#39;au 9 avril 2021 ;&lt;br/&gt;4. Mme la commissaire principale Marie-Cécile Clavel, adjointe au directeur du commissariat de l&#39;opération Daman, à compter du 10 avril 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-27T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189450"></link>
     <author>
       <name>Ministère des armées</name>
     </author>
@@ -25,7 +46,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155949</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 22 septembre 2020 susvisée est ainsi modifiée :&lt;br/&gt;1° L&#39;article 1er est ainsi modifié :&lt;br/&gt;a) Le 4 est remplacé par les dispositions suivantes :&lt;br/&gt;« 4. M. le vice-amiral Gilles Boidevezi, autorité de coordination de la fonction garde-côtes, dans la limite de ses attributions ; » ;&lt;br/&gt;b) Le 5 est remplacé par les dispositions suivantes :&lt;br/&gt;« 5. M. l&#39;ingénieur général de 2e classe Gérard Rodriguez, adjoint au sous-chef d&#39;état-major “plans et programmes”, dans la limite des attributions du sous-chef d&#39;état-major ; » ;&lt;br/&gt;2° L&#39;article 2 est ainsi modifié :&lt;br/&gt;a) Le 3 est remplacé par les dispositions suivantes :&lt;br/&gt;« 3. M. le capitaine de frégate Karim Lahmaïdi, au sein du bureau “finances”, pour ce qui concerne les actes relatifs à la gestion du budget opérationnel de programme “préparation des forces navales” ; » ;&lt;br/&gt;b) Le 7 est remplacé par les dispositions suivantes :&lt;br/&gt;« 7. M. le commissaire de 1re classe Victor Sebaoun, au sein du bureau “finances”, pour ce qui concerne les actes relatifs à la gestion du budget opérationnel de programme “préparation des forces navales” ; » ;&lt;br/&gt;c) Le 8 est remplacé par les dispositions suivantes :&lt;br/&gt;« 8. M. le commissaire de 1re classe Sébastien Mercier, au sein du bureau “finances”, pour ce qui concerne les actes relatifs à la gestion de l&#39;unité opérationnelle “activités et entraînement des forces” ; ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043155949"></link>
     <author>
       <name>Ministère des armées</name>
     </author>

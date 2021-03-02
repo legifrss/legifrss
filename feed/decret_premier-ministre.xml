@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - premier-ministre - decret</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decret_premier-ministre.xml</id>
-  <updated>2021-03-02T08:17:34+01:00</updated>
+  <updated>2021-03-02T13:16:37+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,142 @@
   </author>
   <entry>
     <title>Décret du 26 février 2021 portant radiation des cadres (chambres régionales des comptes)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190622</id>
+    <content type="html"></content>
+    <published>2021-02-28T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190622"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 26 février 2021 portant nomination (chambres régionales des comptes) - Mme AREND (Louise)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190063</id>
+    <content type="html"></content>
+    <published>2021-02-27T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190063"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 24 février 2021 portant admission à la retraite (Cour des comptes)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185233</id>
+    <content type="html"></content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185233"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 24 février 2021 portant nomination (chambres régionales des comptes)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185235</id>
+    <content type="html"></content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185235"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 22 février 2021 portant nomination (chambres régionales des comptes) - Mme DELEBARRE (Stéphanie)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173552</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173552"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 22 février 2021 portant nomination (chambres régionales des comptes) - M. CABARET (Yannick)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173554</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173554"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 23 février 2021 chargeant une sénatrice d&#39;une mission temporaire</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173556</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173556"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 23 février 2021 chargeant une députée d&#39;une mission temporaire</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173561</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173561"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 23 février 2021 chargeant un député d&#39;une mission temporaire</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173566</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173566"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 22 février 2021 modifiant le décret du 6 novembre 2020 portant délégation de signature (secrétariat général de la présidence française du Conseil de l&#39;Union européenne)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168373</id>
+    <content type="html"></content>
+    <published>2021-02-23T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168373"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 18 février 2021 portant nomination (chambres régionales des comptes) - Mme FOUQUE-CHANCLOU (Aline)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162822</id>
+    <content type="html"></content>
+    <published>2021-02-20T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162822"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 18 février 2021 portant nomination des membres du comité d&#39;indemnisation des victimes des essais nucléaires</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156313</id>
+    <content type="html"></content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156313"></link>
+    <author>
+      <name>Premier ministre</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 26 février 2021 portant radiation des cadres (chambres régionales des comptes)</title>
     <updated>2021-03-02T08:17:34+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190622</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 26 février 2021, M. Thierry RAELISON RAJAOBELINA est radié du corps des magistrats de chambre régionale des comptes.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190622"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -25,7 +156,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190063</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 26 février 2021, Mme Louise AREND, directrice d&#39;hôpital de classe normale, est nommée, pendant la durée de son détachement, conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
     <published>2021-02-27T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190063"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -36,7 +166,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185233</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 24 février 2021, M. Robert de NICOLAY, conseiller maître à la Cour des comptes, est admis à faire valoir ses droits à la retraite, par limite d&#39;âge, à compter du 18 mai 2021.&lt;/p&gt;</content>
     <published>2021-02-26T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185233"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -47,7 +176,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185235</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 24 février 2021, Mme Virginie DUHAMEL-FOUET, administratrice territoriale hors classe, est nommée, durant la durée de son détachement, première conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
     <published>2021-02-26T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185235"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -58,7 +186,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173552</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République du 22 février 2021, Mme Stéphanie DELEBARRE, administratrice territoriale, est nommée, durant la durée de son détachement, conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173552"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -69,7 +196,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173554</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République du 22 février 2021, M. Yannick CABARET, administrateur territorial hors classe, est nommé, durant la durée de son détachement, premier conseiller du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173554"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -80,7 +206,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173556</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Nadège HAVET, sénatrice, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargée d&#39;une mission temporaire ayant pour objet la commande publique.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173556"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -91,7 +216,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173561</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Sophie BAUDOUIN-HUBIERE, députée, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargée d&#39;une mission temporaire ayant pour objet la commande publique.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173561"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -102,7 +226,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173566</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Philippe CHASSAING, député, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargé d&#39;une mission temporaire ayant pour objet le micro-crédit et la prévention du surendettement des ménages.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173566"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -113,7 +236,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168373</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le décret du 6 novembre 2020 portant délégation de signature est ainsi modifié :&lt;br/&gt;Après l&#39;article 2, les articles suivants sont insérés :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 3. - Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle gestion du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets.&lt;br/&gt;« Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, et à M. Patrice KASPROWICZ, gestionnaire financier au sein de ce pôle, pour signer, au nom du Premier ministre et dans la limite de leurs attributions, tous actes relatifs à l&#39;engagement, la liquidation et à l&#39;ordonnancement des dépenses et tous ordres de recettes du secrétariat général de la présidence française du Conseil de l&#39;Union européenne et pour valider ces actes et ordres de recettes dans le progiciel Chorus.&lt;br/&gt;« Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, et à M. Patrice KASPROWICZ, gestionnaire financier au sein de ce pôle, pour attester dans le progiciel Chorus, dans la limite de leurs attributions, les certifications de service fait.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 4. - Délégation est donnée à M. Dominique LEPIDI, chef du pôle sécurité, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle sécurité du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 5. - Délégation est donnée à Mme Paule IGNATIO, cheffe de cabinet, en charge du pôle protocole du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle protocole du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-23T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168373"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -124,7 +246,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162822</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, Mme Aline FOUQUE-CHANCLOU, directrice d&#39;hôpital hors classe, est nommée, durant la durée de son détachement, première conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er avril 2021.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162822"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -135,7 +256,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156313</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, sont nommés membres du comité d&#39;indemnisation des victimes des essais nucléaires :&lt;br/&gt;1° M. Gilles HERMITTE, conseiller d&#39;Etat, président du comité d&#39;indemnisation des victimes des essais nucléaires ;&lt;br/&gt;2° Au titre des personnalités qualifiées, sur proposition du Haut Conseil de la santé publique :&lt;br/&gt;Mme Anne FLÜRY-HERARD, en tant que médecin compétent dans le domaine de la radiopathologie ;&lt;br/&gt;M. Jean-Philippe VUILLEZ, en tant que médecin compétent dans le domaine de la radiopathologie ;&lt;br/&gt;M. Norbert TELMON, en tant que médecin compétent dans le domaine de la réparation des dommages corporels ;&lt;br/&gt;Mme Blandine VACQUIER, en tant que médecin compétent dans le domaine de l&#39;épidémiologie ;&lt;br/&gt;3° Au titre des personnalités qualifiées, sur proposition des associations représentatives des victimes des essais nucléaires, après avis conforme du Haut Conseil de la santé publique :&lt;br/&gt;M. Eric SOLARY ;&lt;br/&gt;4° Au titre des personnalités qualifiées :&lt;br/&gt;Mme Florence SCHMIDT-PARISET, magistrate honoraire ;&lt;br/&gt;M. Benjamin RAJBAUT, magistrat honoraire.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156313"></link>
     <author>
       <name>Premier ministre</name>
     </author>
@@ -396,126 +516,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149233</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Pierre CUBERTAFON, député, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral&lt;/a&gt;, chargé d&#39;une mission temporaire ayant pour objet la différenciation des politiques publiques au sein des territoires ruraux.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 22 février 2021 portant nomination (chambres régionales des comptes) - Mme DELEBARRE (Stéphanie)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173552</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République du 22 février 2021, Mme Stéphanie DELEBARRE, administratrice territoriale, est nommée, durant la durée de son détachement, conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-24T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 22 février 2021 portant nomination (chambres régionales des comptes) - M. CABARET (Yannick)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173554</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République du 22 février 2021, M. Yannick CABARET, administrateur territorial hors classe, est nommé, durant la durée de son détachement, premier conseiller du corps des magistrats de chambre régionale des comptes, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-24T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 23 février 2021 chargeant une sénatrice d&#39;une mission temporaire</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173556</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Nadège HAVET, sénatrice, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargée d&#39;une mission temporaire ayant pour objet la commande publique.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-24T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 23 février 2021 chargeant une députée d&#39;une mission temporaire</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173561</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Sophie BAUDOUIN-HUBIERE, députée, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargée d&#39;une mission temporaire ayant pour objet la commande publique.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-24T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 23 février 2021 chargeant un député d&#39;une mission temporaire</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173566</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Philippe CHASSAING, député, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral susvisé&lt;/a&gt;, chargé d&#39;une mission temporaire ayant pour objet le micro-crédit et la prévention du surendettement des ménages.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-24T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 22 février 2021 modifiant le décret du 6 novembre 2020 portant délégation de signature (secrétariat général de la présidence française du Conseil de l&#39;Union européenne)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043168373</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le décret du 6 novembre 2020 portant délégation de signature est ainsi modifié :&lt;br/&gt;Après l&#39;article 2, les articles suivants sont insérés :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 3. - Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle gestion du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets.&lt;br/&gt;« Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, et à M. Patrice KASPROWICZ, gestionnaire financier au sein de ce pôle, pour signer, au nom du Premier ministre et dans la limite de leurs attributions, tous actes relatifs à l&#39;engagement, la liquidation et à l&#39;ordonnancement des dépenses et tous ordres de recettes du secrétariat général de la présidence française du Conseil de l&#39;Union européenne et pour valider ces actes et ordres de recettes dans le progiciel Chorus.&lt;br/&gt;« Délégation est donnée à M. Alexandre AIDARA, chef du pôle gestion, et à M. Patrice KASPROWICZ, gestionnaire financier au sein de ce pôle, pour attester dans le progiciel Chorus, dans la limite de leurs attributions, les certifications de service fait.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 4. - Délégation est donnée à M. Dominique LEPIDI, chef du pôle sécurité, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle sécurité du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 5. - Délégation est donnée à Mme Paule IGNATIO, cheffe de cabinet, en charge du pôle protocole du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, à l&#39;effet de signer, au nom du Premier ministre et dans la limite des attributions du pôle protocole du secrétariat général de la présidence française du Conseil de l&#39;Union européenne, tous actes, instructions, circulaires et décisions, à l&#39;exclusion des décrets. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-23T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 18 février 2021 portant nomination (chambres régionales des comptes) - Mme FOUQUE-CHANCLOU (Aline)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162822</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, Mme Aline FOUQUE-CHANCLOU, directrice d&#39;hôpital hors classe, est nommée, durant la durée de son détachement, première conseillère du corps des magistrats de chambre régionale des comptes, à compter du 1er avril 2021.&lt;/p&gt;</content>
-    <published>2021-02-20T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 18 février 2021 portant nomination des membres du comité d&#39;indemnisation des victimes des essais nucléaires</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156313</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, sont nommés membres du comité d&#39;indemnisation des victimes des essais nucléaires :&lt;br/&gt;1° M. Gilles HERMITTE, conseiller d&#39;Etat, président du comité d&#39;indemnisation des victimes des essais nucléaires ;&lt;br/&gt;2° Au titre des personnalités qualifiées, sur proposition du Haut Conseil de la santé publique :&lt;br/&gt;Mme Anne FLÜRY-HERARD, en tant que médecin compétent dans le domaine de la radiopathologie ;&lt;br/&gt;M. Jean-Philippe VUILLEZ, en tant que médecin compétent dans le domaine de la radiopathologie ;&lt;br/&gt;M. Norbert TELMON, en tant que médecin compétent dans le domaine de la réparation des dommages corporels ;&lt;br/&gt;Mme Blandine VACQUIER, en tant que médecin compétent dans le domaine de l&#39;épidémiologie ;&lt;br/&gt;3° Au titre des personnalités qualifiées, sur proposition des associations représentatives des victimes des essais nucléaires, après avis conforme du Haut Conseil de la santé publique :&lt;br/&gt;M. Eric SOLARY ;&lt;br/&gt;4° Au titre des personnalités qualifiées :&lt;br/&gt;Mme Florence SCHMIDT-PARISET, magistrate honoraire ;&lt;br/&gt;M. Benjamin RAJBAUT, magistrat honoraire.&lt;/p&gt;</content>
-    <published>2021-02-19T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 17 février 2021 portant nomination de la déléguée interministérielle à la lutte contre le racisme, l&#39;antisémitisme et la haine envers les personnes lesbiennes, gays, bi et trans - Mme ELIZEON (Sophie)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149227</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Sophie ELIZEON, préfète, est nommée déléguée interministérielle à la lutte contre le racisme, l&#39;antisémitisme et la haine envers les personnes lesbiennes, gays, bi et trans, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre est responsable de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 17 février 2021 chargeant un député d&#39;une mission temporaire</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149233</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Jean-Pierre CUBERTAFON, député, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral&lt;/a&gt;, chargé d&#39;une mission temporaire ayant pour objet la différenciation des politiques publiques au sein des territoires ruraux.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 11 février 2021 portant admission à la retraite (Cour des comptes) - Mme PAPPALARDO (Michèle)</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130395</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 11 février 2021, Mme Michèle PAPPALARDO, présidente de chambre à la Cour des comptes, est admise à faire valoir ses droits à la retraite, sur sa demande, à compter du 1er avril 2021.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <author>
-      <name>Premier ministre</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 12 février 2021 chargeant un sénateur d&#39;une mission temporaire</title>
-    <updated>2021-02-24T07:56:50+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130397</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Xavier IACOVELLI, sénateur, est, en application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070239&amp;idArticle=LEGIARTI000006353333&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code électoral - art. LO144 (M)&#39;&gt;article LO 144 du code électoral&lt;/a&gt;, chargé d&#39;une mission temporaire ayant pour objet les conditions de développement des diverses formes d&#39;organisation de l&#39;emploi des travailleurs en mission courte.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent décret sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
     <author>
       <name>Premier ministre</name>
     </author>

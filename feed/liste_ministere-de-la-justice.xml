@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-justice - liste</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/liste_ministere-de-la-justice.xml</id>
-  <updated>2021-03-02T08:17:36+01:00</updated>
+  <updated>2021-03-02T13:16:38+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,32 @@
   </author>
   <entry>
     <title>Liste relative à la composition de la Commission nationale de discipline des juges des tribunaux de commerce</title>
+    <updated>2021-03-02T13:16:38+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173701</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173701"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Liste d&#39;aptitude complémentaire pour l&#39;accès aux 6e et 7e échelons du grade de président au titre de l&#39;année 2021 (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-03-02T13:16:38+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156401</id>
+    <content type="html"></content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156401"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Liste relative à la composition de la Commission nationale de discipline des juges des tribunaux de commerce</title>
     <updated>2021-03-02T08:17:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173701</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La liste des membres de la Commission nationale de discipline des membres des tribunaux de commerce est modifiée ainsi qu&#39;il suit :&lt;br/&gt;Membre titulaire :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- en remplacement de M. Jean-Pierre GENTON, Mme Célia ROBICHON, juge au tribunal de commerce du Havre.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Membre suppléant :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- en remplacement de Mme Célia ROBICHON qui devient membre titulaire : Mme Anne-Gaëlle SEBILLEAU, juge au tribunal de commerce de Paris.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173701"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -25,7 +46,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156401</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Extrait des délibérations du Conseil supérieur des tribunaux administratifs et cours administratives d&#39;appel du 9 février 2021 :&lt;br/&gt;M. Lapouzade (Jacques).&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156401"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>

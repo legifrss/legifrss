@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-justice - decret</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/decret_ministere-de-la-justice.xml</id>
-  <updated>2021-03-02T08:17:36+01:00</updated>
+  <updated>2021-03-02T13:16:37+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,98 @@
   </author>
   <entry>
     <title>Décret du 1er mars 2021 portant détachement (magistrature) - Mme JOUANETON (Audrey)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201264</id>
+    <content type="html"></content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201264"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 1er mars 2021 portant acceptation de démission et radiation des cadres d&#39;un maître des requêtes (Conseil d&#39;Etat) - M. PEPY (Guillaume)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201266</id>
+    <content type="html"></content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201266"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 1er mars 2021 portant nomination (tribunaux administratifs et cours administratives d&#39;appel)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201268</id>
+    <content type="html"></content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201268"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret n° 2021-232 du 26 février 2021 portant abrogation de divers décrets relatifs au régime indemnitaire des directeurs de services de greffe judiciaires, des greffiers des services judiciaires, des fonctionnaires de catégorie C des services judiciaires et des emplois de l&#39;Ecole nationale de la magistrature</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190463</id>
+    <content type="html"></content>
+    <published>2021-02-28T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190463"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 24 février 2021 portant nomination (magistrature)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185281</id>
+    <content type="html"></content>
+    <published>2021-02-26T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185281"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 22 février 2021 portant maintien en détachement (magistrature) - M. BOTTINEAU (Sylvain)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173627</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173627"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 20 février 2021 portant nomination par intérim du président du Haut Conseil du commissariat aux comptes</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163266</id>
+    <content type="html"></content>
+    <published>2021-02-21T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163266"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 18 février 2021 portant détachement (magistrature) - Mme GUILLAUME (Soizic)</title>
+    <updated>2021-03-02T13:16:37+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156352</id>
+    <content type="html"></content>
+    <published>2021-02-19T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156352"></link>
+    <author>
+      <name>Ministère de la justice</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Décret du 1er mars 2021 portant détachement (magistrature) - Mme JOUANETON (Audrey)</title>
     <updated>2021-03-02T08:17:36+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201264</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 1er mars 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 26 janvier 2021, Mme Audrey JOUANETON, première vice-procureure de la République près le tribunal judiciaire de Marseille, est placée en position de détachement auprès de l&#39;Agence de gestion et de recouvrement des avoirs saisis et confisqués, afin d&#39;exercer les fonctions de magistrate coordonnatrice des antennes expérimentales, pour une durée d&#39;un an.&lt;/p&gt;</content>
     <published>2021-03-02T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201264"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -25,7 +112,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201266</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 1er mars 2021, la démission de M. Guillaume PEPY, maître des requêtes, est acceptée, à compter du 1er février 2021.&lt;br/&gt;M. Guillaume PEPY, maître des requêtes, est radié des cadres, à compter du 1er février 2021.&lt;/p&gt;</content>
     <published>2021-03-02T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201266"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -36,7 +122,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201268</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 1er mars 2021, M. LAPOUZADE (Jacques), président du corps des magistrats des tribunaux administratifs et des cours administratives d&#39;appel, président de chambre à la cour administrative d&#39;appel de Paris, est nommé premier vice-président de la cour administrative d&#39;appel de Paris.&lt;/p&gt;</content>
     <published>2021-03-02T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201268"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -47,7 +132,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190463</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont abrogés : &lt;br/&gt;1° Le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000268193&amp;categorieLien=cid&#39; title=&#39;Décret n°2005-1602 du 19 décembre 2005 (V)&#39;&gt;décret n° 2005-1602 du 19 décembre 2005 &lt;/a&gt;relatif au régime indemnitaire des greffiers en chef et des greffiers des services judiciaires ; &lt;br/&gt;2° Le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000635941&amp;categorieLien=cid&#39; title=&#39;Décret n°2005-1603 du 19 décembre 2005 (V)&#39;&gt;décret n° 2005-1603 du 19 décembre 2005 &lt;/a&gt;relatif au régime indemnitaire des fonctionnaires de catégorie C des services judiciaires ; &lt;br/&gt;3° Le &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000611639&amp;categorieLien=cid&#39; title=&#39;Décret n°2003-1286 du 26 décembre 2003 (V)&#39;&gt;décret n° 2003-1286 du 26 décembre 2003 &lt;/a&gt;relatif au régime indemnitaire de certains personnels de l&#39;Ecole nationale de la magistrature.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le ministre de l&#39;économie, des finances et de la relance, le garde des sceaux, ministre de la justice, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, sont chargés, chacun en ce qui le concerne, de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190463"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -58,7 +142,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185281</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 24 février 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 19 janvier 2021, M. Pierre DENIER est nommé dans les conditions fixées par le &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000339259&amp;idArticle=LEGIARTI000023035439&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-1-1 (M)&#39;&gt;II de l&#39;article 76-1-1 de l&#39;ordonnance n° 58-1270 du 22 décembre 1958&lt;/a&gt; modifiée portant loi organique relative au statut de la magistrature, pour exercer, à compter du 18 mars 2021 et jusqu&#39;au 17 août 2022 inclus, les fonctions de substitut général près la cour d&#39;appel de Montpellier.&lt;/p&gt;</content>
     <published>2021-02-26T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043185281"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -69,7 +152,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173627</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 22 février 2021, M. Sylvain BOTTINEAU, magistrat du premier grade, est maintenu en position de détachement afin d&#39;occuper l&#39;emploi de sous-directeur de l&#39;enfance et de la famille, à la direction générale de la cohésion sociale à l&#39;administration centrale du ministère des solidarités et de la santé, pour une durée de 2 ans, à compter du 12 février 2021.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173627"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -80,7 +162,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163266</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 20 février 2021, M. Thierry VUGHT, conseiller maître à la Cour des comptes, est nommé président par intérim du Haut Conseil du commissariat aux comptes.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163266"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -91,7 +172,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156352</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 19 janvier 2021, Mme Soizic GUILLAUME, magistrate du premier grade, est placée en position de détachement afin d&#39;occuper l&#39;emploi de sous-directrice des ressources humaines de la magistrature à la direction des services judiciaires du ministère de la justice pour une durée de trois ans, à compter du 1er février 2021, avec une période probatoire de six mois.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156352"></link>
     <author>
       <name>Ministère de la justice</name>
     </author>
@@ -432,86 +512,6 @@
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130442</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 11 février 2021, la dispense prévue aux articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071164&amp;idArticle=LEGIARTI000006572065&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;organisation judiciaire - art. L111-10 (V)&#39;&gt;L. 111-10&lt;/a&gt;, &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071164&amp;idArticle=LEGIARTI000006572068&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de l&#39;organisation judiciaire - art. L111-11 (V)&#39;&gt;L. 111-11&lt;/a&gt; et R. 11-3 du code de l&#39;organisation judiciaire est accordée à :&lt;br/&gt;Mme Katia DUBREUIL, vice-présidente chargée de l&#39;instruction au tribunal judiciaire de Paris et à M. Benoist HUREL, vice-président chargé de l&#39;instruction audit tribunal.&lt;br/&gt;Mme Ariane MALLIER, vice-procureure de la République près le tribunal judiciaire de Paris et à M. Etienne DEBARRE, substitut du procureur de la République près ledit tribunal.&lt;br/&gt;Mme Isabelle LIAUZU, vice-présidente chargée des fonctions de juge des contentieux de la protection au tribunal judiciaire de Bobigny et à M. Ulrich SCHALCHLI, vice-président audit tribunal.&lt;br/&gt;Mme Martine DOURNES, vice-présidente au tribunal judiciaire de Toulouse et à M. Philippe GUICHARD, vice-président audit tribunal.&lt;br/&gt;Mme Catherine MARQUET-ESTEBE, vice-présidente chargée des fonctions de juge des libertés et de la détention au tribunal judiciaire de Toulouse et à M. Jean-Luc ESTEBE, vice-président audit tribunal.&lt;/p&gt;</content>
     <published>2021-02-13T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 11 février 2021 portant nomination (magistrature)</title>
-    <updated>2021-02-24T07:56:51+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043130447</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 11 février 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 24 novembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;COUR D&#39;APPEL DE TOULOUSE&lt;br/&gt;Tribunal judiciaire de Toulouse&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Olivier LAVAL, détaché judiciaire, est nommé vice-procureur de la République près le tribunal judiciaire de Toulouse.&lt;br/&gt;M. Olivier LAVAL effectuera, préalablement à son installation, une période de formation de six mois.&lt;/p&gt;</content>
-    <published>2021-02-13T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 20 février 2021 portant nomination par intérim du président du Haut Conseil du commissariat aux comptes</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163266</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 20 février 2021, M. Thierry VUGHT, conseiller maître à la Cour des comptes, est nommé président par intérim du Haut Conseil du commissariat aux comptes.&lt;/p&gt;</content>
-    <published>2021-02-21T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 18 février 2021 portant détachement (magistrature) - Mme GUILLAUME (Soizic)</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156352</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 18 février 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 19 janvier 2021, Mme Soizic GUILLAUME, magistrate du premier grade, est placée en position de détachement afin d&#39;occuper l&#39;emploi de sous-directrice des ressources humaines de la magistrature à la direction des services judiciaires du ministère de la justice pour une durée de trois ans, à compter du 1er février 2021, avec une période probatoire de six mois.&lt;/p&gt;</content>
-    <published>2021-02-19T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret n° 2021-171 du 16 février 2021 organisant la représentation devant le Conseil d&#39;Etat et la Cour de cassation par les professionnels ressortissants des Etats membres de l&#39;Union européenne ou parties à l&#39;accord sur l&#39;Espace économique européen autres que la France et modifiant le décret n° 91-1125 du 28 octobre 1991 relatif aux conditions d&#39;accès à la profession d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043148629</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A l&#39;article 2 du décret du 28 octobre 1991 susvisé, il est ajouté un alinéa ainsi rédigé : &lt;br/&gt;« 4° Les ressortissants de l&#39;un des Etats membres de l&#39;Union européenne ou des Etats parties à l&#39;accord sur l&#39;Espace économique européen autres que la France, ayant acquis leur qualification dans l&#39;un de ces Etats membres ou parties autre que la France, exerçant à titre permanent sous leur titre d&#39;origine dans les conditions fixées au titre IV bis et justifiant d&#39;une activité régulière et effective sur le territoire national d&#39;une durée au moins égale à trois ans. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 5 du même décret est ainsi modifié : &lt;br/&gt;1° Au premier alinéa, les mots : « qui ont suivi avec succès un cycle d&#39;études postsecondaires d&#39;une durée minimale de trois ans ou d&#39;une durée équivalente à temps partiel dans une université ou un établissement d&#39;enseignement supérieur ou dans un autre établissement d&#39;un niveau équivalent de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d&#39;études et » sont supprimés ; &lt;br/&gt;2° Aux deuxième et quatrième alinéas, les mots : « ou autres titres » sont remplacés par les mots : « autres titres ou formations assimilées » ; &lt;br/&gt;3° Au cinquième alinéa, les mots : « deux ans au moins » sont remplacés par les mots : « une année au moins ou, en cas d&#39;exercice à temps partiel, pendant une durée totale équivalente » et les mots : « de deux ans » sont remplacés par les mots : « d&#39;une année » ; &lt;br/&gt;4° Au septième alinéa, les mots : « qu&#39;il a acquises au cours de sa formation ou de son expérience professionnelle antérieure » sont remplacés par les mots : « aptitudes et compétences qu&#39;il a acquises au cours de sa formation, de son expérience professionnelle antérieure ou de l&#39;apprentissage tout au long de la vie et ayant fait l&#39;objet, à cette fin, d&#39;une validation en bonne et due forme par un organisme compétent, dans un Etat membre ou dans un pays tiers » ; &lt;br/&gt;5° Les deux dernières phrases du neuvième alinéa sont supprimées ; &lt;br/&gt;6° Après le neuvième alinéa sont insérés trois alinéas ainsi rédigés : &lt;br/&gt;« La décision du garde des sceaux, ministre de la justice, doit intervenir dans un délai de quatre mois à compter de la date de la délivrance du récépissé. Elle est motivée et précise : &lt;br/&gt;« a) Le niveau de qualifications professionnelles requis en France et le niveau des qualifications professionnelles que possèdent les candidats conformément à la classification figurant à l&#39;article 11 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 modifiée relative à la reconnaissance des qualifications professionnelles ; &lt;br/&gt;« b) Ainsi que, le cas échéant, les matières sur lesquelles les candidats doivent être interrogés compte tenu des différences substantielles entre, d&#39;une part, les connaissances, aptitudes et compétences acquises au cours de leur formation, de leur expérience professionnelle ou de l&#39;apprentissage tout au long de la vie et, d&#39;autre part, les matières dont la maîtrise est essentielle à l&#39;exercice de la profession d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après le titre IV du même décret est inséré un titre IV bis ainsi rédigé : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Titre IV BIS &lt;br/&gt;« L&#39;EXERCICE DE LA PROFESSION D&#39;AVOCAT AU CONSEIL D&#39;ÉTAT ET À LA COUR DE CASSATION, SOUS LEUR TITRE PROFESSIONNEL D&#39;ORIGINE, PAR LES RESSORTISSANTS DES ÉTATS MEMBRES DE L&#39;UNION EUROPÉENNE ET DES AUTRES ÉTATS PARTIES À L&#39;ACCORD SUR L&#39;ESPACE ÉCONOMIQUE EUROPÉEN &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Chapitre Ier &lt;br/&gt;« Dispositions communes &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-1.-Le présent titre est applicable aux ressortissants de l&#39;un des Etats membres de l&#39;Union européenne ou des Etats parties à l&#39;accord sur l&#39;Espace économique européen autres que la France, ayant acquis leur qualification dans l&#39;un de ces Etats membres ou parties autre que la France, venant accomplir à titre permanent ou occasionnel, sous leur titre professionnel d&#39;origine, leur activité professionnelle en France, lorsque des dispositions réglementaires prévoient que la représentation par un avocat au Conseil d&#39;Etat et à la Cour de cassation est obligatoire. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-2.-I. − Les ressortissants d&#39;un Etat membre de l&#39;Union européenne ou partie à l&#39;accord sur l&#39;Espace économique européen autre que la France, exerçant sous l&#39;un des titres professionnels figurant dans la liste fixée au II, habilités dans l&#39;Etat membre ou partie où ils sont établis à représenter les parties devant la ou les juridictions suprêmes, juges de cassation, qui y consacrent à titre habituel une part substantielle de leur activité, peuvent, sous leur titre d&#39;origine, exprimé dans la ou l&#39;une des langues de l&#39;Etat où ils sont établis, accompagné du nom de l&#39;organisme professionnel dont ils relèvent ou de la juridiction auprès de laquelle ils sont habilités à exercer en application de la législation de cet Etat, assister ou représenter un client devant le Conseil d&#39;Etat ou la Cour de cassation, par dérogation aux dispositions réglementaires prévoyant la représentation obligatoire par un avocat au Conseil d&#39;Etat ou à la Cour de cassation, dans les conditions définies aux articles suivants. &lt;br/&gt;« II. − Les titres professionnels dont peuvent se prévaloir les personnes mentionnées au I sont les suivants : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;«-en Belgique : Avocat, Advocaat, Rechtsanwalt, Avocat à la Cour de cassation, Advocaat bij het Hof van Cassatie, Rechtsanwalt beim Kassationshof ; &lt;br/&gt;«-en Bulgarie : A д в о к а т ; &lt;br/&gt;«-en République tchèque : Advokát ; &lt;br/&gt;«-au Danemark : Advokat ; &lt;br/&gt;«-en Allemagne : Rechtsanwalt, Rechtsanwalt beim Bundesgerichtshof ; &lt;br/&gt;«-en Estonie : Vandeadvokaat ; &lt;br/&gt;«-en Grèce : Dikigoros, δ ι κ η γ ό ρ ο ς ; &lt;br/&gt;«-en Espagne : Abogado, Advocat, Avogado, Abokatu ; &lt;br/&gt;«-en Irlande : Barrister, Solicitor ; &lt;br/&gt;«-en Italie : Avvocato ; &lt;br/&gt;«-à Chypre : Dikigoros, δ ι κ η γ ό ρ ο ς ; &lt;br/&gt;«-en Croatie : Odvjetnik, Odvjetnica ; &lt;br/&gt;«-en Lettonie : Zv ē rin ā ts advok ā ts ; &lt;br/&gt;«-en Lituanie : Advokatas ; &lt;br/&gt;«-au Luxembourg : Avocat-avoué ; &lt;br/&gt;«-en Hongrie : Ügyvéd ; &lt;br/&gt;«-à Malte : Avukat, Prokuratur Legali ; &lt;br/&gt;«-aux Pays-Bas : Advocaat ; &lt;br/&gt;«-en Autriche : Rechtsanwalt ; &lt;br/&gt;«-en Pologne : Adwokat, Radca prawny ; &lt;br/&gt;«-au Portugal : Advogado ; &lt;br/&gt;«-en Roumanie : Avocat ; &lt;br/&gt;«-en Slovénie : Odvetnik, Odvetnica ; &lt;br/&gt;«-en Slovaquie : Advokajt, Komer č ný právnik ; &lt;br/&gt;«-en Finlande : Asianajaja, Advokat ; &lt;br/&gt;«-en Suède : Advokat ; &lt;br/&gt;«-en Suisse : Avocat, Advokat, Anwalt, Fürsprecher, Fürsprech, Avvocato, Rechtsanwalt ; &lt;br/&gt;«-en Islande : Lögmaour ; &lt;br/&gt;«-au Liechtenstein : Rechtsanwalt ; &lt;br/&gt;«-en Norvège : Advokat. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-3.-Le professionnel adresse sa demande au garde des sceaux, ministre de la justice, par téléprocédure sur le site internet du ministère de la justice. &lt;br/&gt;« Cette demande est accompagnée des pièces suivantes : &lt;br/&gt;« 1° Une requête de l&#39;intéressé sollicitant le droit d&#39;assister ou de représenter un client devant le Conseil d&#39;Etat ou la Cour de cassation. Celle-ci précise s&#39;il s&#39;agit d&#39;une demande pour un établissement ou pour une prestation temporaire et occasionnelle de services en France ; &lt;br/&gt;« 2° Une copie de tous documents officiels en cours de validité justifiant l&#39;identité et la nationalité de l&#39;auteur de la demande ; &lt;br/&gt;« 3° Les documents permettant de vérifier que le demandeur satisfait aux conditions requises par les dispositions de l&#39;article 31-2 ; &lt;br/&gt;« 4° Une attestation délivrée par l&#39;autorité compétente ou, à défaut, une attestation sur l&#39;honneur du déclarant, certifiant qu&#39;il répond aux conditions fixées par les 6°, 7° et 8° de l&#39;article 1er ; &lt;br/&gt;« Les pièces en langue étrangère doivent être assorties d&#39;une traduction en langue française. A l&#39;exception de celles justifiant l&#39;identité et la nationalité de l&#39;auteur de la demande, cette traduction est faite par un traducteur inscrit sur l&#39;une des listes, nationale ou dressées par les cours d&#39;appel, d&#39;experts judiciaires ou par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d&#39;un Etat membre de l&#39;Union européenne ou partie à l&#39;accord sur l&#39;Espace économique européen. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-4.-Si la demande est incomplète, le demandeur dispose d&#39;un délai de quinze jours à compter de la réception de la demande de complément adressée par le garde des sceaux, ministre de la justice, pour produire les éléments requis. A défaut, la demande est caduque. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-5.-Le garde des sceaux, ministre de la justice, se prononce sur la demande de prestation temporaire et occasionnelle de services dans un délai de quinze jours à compter de la réception d&#39;une demande complète. &lt;br/&gt;« L&#39;autorisation accordée à un avocat d&#39;exercer à titre temporaire ou occasionnel est valable un an renouvelable. &lt;br/&gt;« Lorsqu&#39;il s&#39;agit d&#39;une demande d&#39;établissement, le garde des sceaux, ministre de la justice, se prononce dans un délai de deux mois à compter de la réception d&#39;une demande complète. &lt;br/&gt;« Les décisions sont notifiées par lettre recommandée avec demande d&#39;avis de réception ou par tout autre moyen permettant d&#39;en assurer la réception et d&#39;en déterminer la date. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-6.-Lorsqu&#39;une autorisation est délivrée, elle est notifiée par son bénéficiaire au vice-président du Conseil d&#39;Etat, au premier président de la Cour de cassation, au procureur général près la Cour de cassation et au président du conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-7.-Le garde des sceaux, ministre de la justice, retire l&#39;autorisation d&#39;exercer l&#39;activité d&#39;assistance et de représentation devant le Conseil d&#39;Etat et la Cour de cassation par décision motivée : &lt;br/&gt;« 1° Lorsque les conditions d&#39;exercice de cette activité prévues à l&#39;article 31-2 ne sont plus réunies ; &lt;br/&gt;« 2° En cas de manquement aux 6°, 7° et 8° de l&#39;article 1 ; &lt;br/&gt;« 3° En cas de privation temporaire ou définitive du droit d&#39;exercer la profession dans l&#39;Etat où le titre a été acquis. &lt;br/&gt;« La décision de retrait est notifiée à l&#39;intéressé par lettre recommandée avec demande d&#39;avis de réception ou par tout autre moyen permettant d&#39;en assurer la réception et d&#39;en déterminer la date. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-8.-Lorsque l&#39;urgence le justifie, le garde des sceaux, ministre de la justice, peut suspendre provisoirement, par décision motivée, l&#39;autorisation d&#39;exercer l&#39;activité d&#39;assistance et de représentation devant le Conseil d&#39;Etat et la Cour de cassation pour les motifs mentionnés à l&#39;article 31-7. &lt;br/&gt;« La décision de suspension est notifiée à l&#39;intéressé par lettre recommandée avec demande d&#39;avis de réception ou par tout autre moyen permettant d&#39;en assurer la réception et d&#39;en déterminer la date. &lt;br/&gt;« Sauf en cas de poursuites pénales ou disciplinaires, la suspension ne peut excéder une durée de quatre mois. &lt;br/&gt;« La suspension provisoire cesse lorsque les motifs l&#39;ayant justifiée ont disparu. &lt;br/&gt;« Le garde des sceaux, ministre de la justice, en constate l&#39;extinction, à moins que celle-ci ne résulte de plein droit de l&#39;extinction des actions pénales ou disciplinaires. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-9.-Les décisions mentionnées aux articles 31-7 et 31-8 ne peuvent intervenir qu&#39;après que l&#39;intéressé a été mis à même, dans un délai suffisant, de prendre connaissance de son dossier et de présenter des observations écrites. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-10.-En cas de retrait ou de suspension provisoire de l&#39;autorisation d&#39;exercer une activité d&#39;assistance et de représentation devant le Conseil d&#39;Etat et la Cour de cassation, le garde des sceaux, ministre de la justice, informe sans délai l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. &lt;br/&gt;« Le conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation est compétent pour prendre la décision tirant les conséquences de celle prononcée par le garde des sceaux, ministre de la justice. &lt;br/&gt;« Le garde des sceaux, ministre de la justice, en avise également l&#39;autorité compétente de l&#39;Etat membre d&#39;origine. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-11.-Le conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation informe le garde des sceaux, ministre de la justice, sans délai de toute décision portant inscription sur la liste spéciale ainsi que de toute mesure de radiation du tableau le concernant. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-12.-Lorsqu&#39;un professionnel assiste ou représente un client devant le Conseil d&#39;Etat ou la Cour de cassation sur le fondement de l&#39;autorisation délivrée par le garde des sceaux, ministre de la justice, il respecte les règles professionnelles françaises, sans préjudice des obligations non contraires qui lui incombent dans l&#39;Etat dans lequel il est établi. &lt;br/&gt;« Il ne peut se constituer qu&#39;après avoir élu domicile auprès d&#39;un avocat au Conseil d&#39;Etat et à la Cour de cassation auquel les actes de la procédure sont valablement notifiés. Il joint à sa constitution un document, signé par cet avocat au Conseil d&#39;Etat et à la Cour de cassation, attestant l&#39;existence d&#39;une convention qui autorise l&#39;élection de domicile pour l&#39;instance considérée. &lt;br/&gt;« A tout moment, l&#39;un ou l&#39;autre des signataires de la convention mentionnée à l&#39;alinéa précédent peut y mettre fin par dénonciation notifiée à son confrère ainsi qu&#39;aux avocats au Conseil d&#39;Etat et à la Cour de cassation représentant les autres parties, sous réserve qu&#39;un autre avocat au Conseil d&#39;Etat et à la Cour de cassation ait été désigné par le professionnel autorisé à accomplir l&#39;activité professionnelle à titre permanent ou occasionnel. La juridiction saisie est informée du changement d&#39;élection de domicile. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-13.-En cas de manquement, par le professionnel, à ses obligations déontologiques, il est soumis aux dispositions du décret du 11 janvier 2002. Toutefois, s&#39;agissant du professionnel autorisé à fournir la prestation temporaire et occasionnelle de services, pour l&#39;application de l&#39;article 3 dudit décret, les peines disciplinaires de l&#39;interdiction temporaire et de la radiation du tableau sont remplacées par la peine de l&#39;interdiction provisoire ou définitive d&#39;exercer, en France, des activités professionnelles. L&#39;autorité disciplinaire française peut demander à l&#39;autorité compétente de l&#39;Etat d&#39;origine communication des renseignements professionnels concernant l&#39;intéressé. Elle informe cette dernière autorité de toute décision prise. Ces communications ne portent pas atteinte au caractère confidentiel des renseignements fournis. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Chapitre II &lt;br/&gt;« La libre prestation de services &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-14.-Le vice-président du Conseil d&#39;Etat, le premier président de la Cour de cassation, le procureur général près la Cour de cassation, le président du conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation, les membres de la juridiction devant lesquels se présente le professionnel souhaitant accomplir une prestation temporaire et occasionnelle de services, peuvent lui demander de justifier de sa qualité. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Chapitre III &lt;br/&gt;« La liberté d&#39;établissement &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-15.-Le professionnel souhaitant exercer à titre permanent sous son titre professionnel d&#39;origine est inscrit sur une liste spéciale du tableau de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. Cette inscription est de droit sur production de la décision d&#39;autorisation délivrée par le garde des sceaux, ministre de la justice. &lt;br/&gt;« Il fait partie de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. Il participe à l&#39;élection des membres du conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. &lt;br/&gt;Il est soumis aux dispositions de l&#39;ordonnance du 10 septembre 1817 et du décret du 28 octobre 1991 sous réserve des dispositions du présent titre. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-16.-Le titre professionnel dont il est fait usage ne peut être mentionné que dans la ou l&#39;une des langues officielles de l&#39;Etat membre où il a été acquis. &lt;br/&gt;« La mention du titre professionnel d&#39;origine est toujours suivie de l&#39;indication de la juridiction suprême dont il relève dans l&#39;Etat membre où le titre a été acquis. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-17.-En cas de manquement, en France, aux règles professionnelles par le professionnel autorisé à exercer l&#39;activité à titre permanent, le président du conseil de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation adresse à l&#39;autorité compétente de l&#39;Etat dans lequel le titre professionnel a été acquis les informations utiles sur la procédure disciplinaire envisagée. &lt;br/&gt;« Ces informations portent notamment sur les faits reprochés, les règles professionnelles en cause, la procédure disciplinaire applicable et les sanctions encourues. Les dispositions du présent article sont portées à la connaissance de l&#39;autorité compétente par le président du conseil l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation. L&#39;autorité compétente est mise en mesure de formuler ses observations écrites avant l&#39;engagement des poursuites et lors du déroulement le cas échéant de la procédure disciplinaire. &lt;br/&gt;« L&#39;instance disciplinaire prévue à l&#39;article 4 du décret du 11 janvier 2002 est saisie dans un délai qui ne peut être inférieur à un mois à compter de l&#39;accomplissement de cette formalité. &lt;br/&gt;« Après la saisine de l&#39;instance disciplinaire, l&#39;autorité compétente peut présenter à tout moment ses observations écrites. »&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Après le titre IV bis du même décret est inséré un titre IV ter ainsi rédigé : &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Titre IV TER &lt;br/&gt;« DISPOSITIONS RELATIVES À L&#39;ACCÈS DES RESSORTISSANTS DES ÉTATS MEMBRES DE L&#39;UNION EUROPÉENNE OU PARTIES À L&#39;ACCORD SUR L&#39;ESPACE ÉCONOMIQUE EUROPÉEN AUTRES QUE LA FRANCE À LA PROFESSION D&#39;AVOCAT AU CONSEIL D&#39;ÉTAT ET À LA COUR DE CASSATION &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-18.-Le professionnel exerçant à titre permanent sous son titre professionnel d&#39;origine dans les conditions fixées au titre IV bis, qui remplit les conditions générales d&#39;aptitude à la profession d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation et qui justifie d&#39;une activité régulière et effective sur le territoire national d&#39;une durée au moins égale à trois ans, peut demander à être nommé dans un office d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation dans les conditions fixées par le titre IV du présent décret. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 31-19.-Les titulaires, ci-dessus nommés, prêtent le serment prévu par l&#39;article 31 et sont inscrits au tableau de l&#39;ordre des avocats au Conseil d&#39;Etat et à la Cour de cassation selon les modalités prévues par l&#39;article 5 de l&#39;ordonnance du 10 septembre 1817. &lt;br/&gt;« Le professionnel inscrit au tableau de l&#39;ordre en application des dispositions du présent titre peut faire suivre son titre d&#39;avocat au Conseil d&#39;Etat et à la Cour de cassation de son titre d&#39;origine. »&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le garde des sceaux, ministre de la justice, est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret n° 2021-172 du 17 février 2021 modifiant la contravention réprimant la violation par l&#39;exploitant d&#39;un établissement recevant du public des mesures édictées sur le fondement du 5° du I de l&#39;article L. 3131-15 du code de la santé publique</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043148644</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;A la première phrase du troisième alinéa de l&#39;article L. 3136-1 du code de la santé publique, les mots : « quatrième classe » sont remplacés par les mots : « quatrième classe, y compris le fait par toute personne de se rendre dans un établissement recevant du public en méconnaissance d&#39;une mesure édictée sur le fondement du 5° du I de l&#39;article L. 3131-15, et de l&#39;amende prévue pour les contraventions de la cinquième classe s&#39;agissant de la violation par l&#39;exploitant d&#39;un établissement recevant du public des mesures édictées sur le fondement du 5° du I de l&#39;article L. 3131-15 ».&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article R. 48-1 du code de procédure pénale est ainsi modifié : &lt;br/&gt;1° Le 6° du I est complété par l&#39;alinéa suivant : « Contraventions de la quatrième classe réprimées par la &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006687899&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. L3136-1 (M)&#39;&gt;première phrase du troisième alinéa de l&#39;article L. 3136-1 du code de la santé publique&lt;/a&gt;. » ; &lt;br/&gt;2° Au 1° du II les mots : « la dernière phrase » sont remplacés par les mots : « les première et dernière phrases ».&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par dérogation aux articles &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&amp;idArticle=LEGIARTI000006517397&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de procédure pénale - art. R49 (V)&#39;&gt;R. 49&lt;/a&gt; et &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006071154&amp;idArticle=LEGIARTI000006517412&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de procédure pénale - art. R49-7 (V)&#39;&gt;R. 49-7&lt;/a&gt; du code de procédure pénale, pour les contraventions de la cinquième classe mentionnées dans la &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006687899&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code de la santé publique - art. L3136-1 (M)&#39;&gt;première phrase du troisième alinéa de l&#39;article L. 3136-1 du code de la santé publique&lt;/a&gt;, le montant de l&#39;amende forfaitaire est fixé à 500 euros, et celui de l&#39;amende forfaitaire majorée est fixé à 1 000 euros.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les articles 1er et 3 du présent décret sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le garde des sceaux, ministre de la justice, est chargé de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 16 février 2021 portant nomination d&#39;une secrétaire générale adjointe auprès du Conseil supérieur de la magistrature (magistrature) - Mme CHIPAULT (Lise)</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149341</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 16 février 2021, vu la proposition conjointe de la première présidente de la Cour de cassation et du procureur général près ladite cour, Mme Lise CHIPAULT, magistrate du premier grade, est nommée secrétaire générale adjointe auprès du Conseil supérieur de la magistrature.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 16 février 2021 portant radiation (magistrature)</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149343</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 16 février 2021, Mme Anne BARTNICKI, magistrate du premier grade, est radiée des cadres de la magistrature à compter du 1er janvier 2021, date de son intégration dans le corps des tribunaux administratifs et des cours administratives d&#39;appel, en qualité de première conseillère.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la justice</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Décret du 16 février 2021 portant nomination (magistrature)</title>
-    <updated>2021-02-23T08:10:23+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149345</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 16 février 2021, vu l&#39;avis du Conseil supérieur de la magistrature lors de sa séance du 24 novembre 2020 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;COUR D&#39;APPEL DE DOUAI&lt;br/&gt;Tribunal judiciaire de Lille&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Laurent GONZALES, détaché judiciaire, est nommé vice-procureur de la République près le tribunal judiciaire de Lille.&lt;br/&gt;M. Laurent GONZALES effectuera, préalablement à son installation, une période de formation de six mois.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
     <author>
       <name>Ministère de la justice</name>
     </author>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - citation</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/citation_all.xml</id>
-  <updated>2021-03-02T08:17:32+01:00</updated>
+  <updated>2021-03-02T13:16:36+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Citation à l&#39;ordre de la Nation</title>
+    <updated>2021-03-02T13:16:36+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173611</id>
+    <content type="html"></content>
+    <published>2021-02-24T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173611"></link>
+    <author>
+      <name>Ministère de l&#39;intérieur</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Citation à l&#39;ordre de la Nation</title>
     <updated>2021-03-02T08:17:32+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173611</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre,&lt;br/&gt;Sur la proposition du ministre de l&#39;intérieur,&lt;br/&gt;Cite à l&#39;ordre de la Nation :&lt;br/&gt;L&#39;adjudant Laurent DELBREIL, sapeur-pompier volontaire du service départemental d&#39;incendie et de secours des Vosges, d&#39;un grand courage et d&#39;un dévouement exemplaire, décédé le 13 janvier 2021 en opération.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173611"></link>
     <author>
       <name>Ministère de l&#39;intérieur</name>
     </author>
