@@ -7,7 +7,6 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/db"
 	"github.com/ldicarlo/legifrss/server/dila"
-	"github.com/ldicarlo/legifrss/server/generate"
 	"github.com/ldicarlo/legifrss/server/models"
 	"github.com/ldicarlo/legifrss/server/token"
 	"github.com/ldicarlo/legifrss/server/utils"
@@ -48,11 +47,8 @@ func Start() (str string, result string) {
 		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.ID, i+1, total)
 		result := dila.FetchJorfContent(token, element.ID)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
-		if i > 10 {
-			break
-		}
 	}
-	generate.Generate(list)
+	//generate.Generate(list)
 	db.Persist(list)
 	return "", "ok"
 }

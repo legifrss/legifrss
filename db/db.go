@@ -5,15 +5,18 @@ import (
 	"io/ioutil"
 	"os"
 	"strings"
+	"time"
 
 	"github.com/ldicarlo/legifrss/server/models"
 	"github.com/ldicarlo/legifrss/server/utils"
 )
 
-// GetAll returns all contents of db.xml
-func GetAll() (result []models.LegifranceElement) {
+// getAll returns all contents of db.xml
+func getAll() (result map[string]models.LegifranceElement) {
 	file, err := os.Open("feed/db.json")
-	utils.ErrCheck(err)
+	if err != nil {
+		return map[string]models.LegifranceElement{}
+	}
 
 	byteValue, _ := ioutil.ReadAll(file)
 
@@ -22,7 +25,7 @@ func GetAll() (result []models.LegifranceElement) {
 }
 
 func Query(queryContext models.QueryContext) []models.LegifranceElement {
-	var feed = GetAll()
+	var feed = getAll()
 	var entries []models.LegifranceElement
 
 	for _, element := range feed {
@@ -35,23 +38,36 @@ func Query(queryContext models.QueryContext) []models.LegifranceElement {
 }
 
 func keep(queryContext models.QueryContext, element *models.LegifranceElement) bool {
-	if queryContext.Author != "" && !strings.Contains(element.Author, queryContext.Author) {
+	if queryContext.Author != "" && !strings.Contains(strings.ToUpper(element.Author), queryContext.Author) {
 		return false
 	}
-	if queryContext.Nature != "" && !strings.Contains(element.Nature, queryContext.Nature) {
+	if queryContext.Nature != "" && !strings.Contains(strings.ToUpper(element.Nature), queryContext.Nature) {
 		return false
 	}
-	return strings.Contains(element.Content, queryContext.Keyword) || strings.Contains(element.Title, queryContext.Keyword) || strings.Contains(element.Description, queryContext.Keyword)
+	return strings.Contains(strings.ToUpper(element.Content), queryContext.Keyword) ||
+		strings.Contains(strings.ToUpper(element.Title), queryContext.Keyword) ||
+		strings.Contains(strings.ToUpper(element.Description), queryContext.Keyword)
 
 }
 
 func Persist(result []models.LegifranceElement) {
-	merged := merge(result,
-		// GetAll(),
-		[]models.LegifranceElement{},
-		10000)
-	jsonResult, _ := json.Marshal(merged)
-	err := ioutil.WriteFile("feed/db.json", jsonResult, 0644)
+	var db = getAll()
+	// 864000000000000 nanos = 10 days
+	// 86400000000000 nanos = 1 day
+	var limitDate = time.Now().Add(-time.Duration(864000000000000))
+	var filteredDb = map[string]models.LegifranceElement{}
+	for _, element := range db {
+		if element.Date.After(limitDate) {
+			filteredDb[element.ID] = element
+		}
+	}
+
+	for _, element := range filteredDb {
+		db[element.ID] = element
+	}
+
+	jsonResult, _ := json.Marshal(db)
+	err := ioutil.WriteFile("db/db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
