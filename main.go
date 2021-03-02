@@ -5,6 +5,7 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
+	"github.com/ldicarlo/legifrss/server/db"
 	"github.com/ldicarlo/legifrss/server/dila"
 	"github.com/ldicarlo/legifrss/server/generate"
 	"github.com/ldicarlo/legifrss/server/models"
@@ -37,18 +38,22 @@ func Start() (str string, result string) {
 
 	var jorfContents []models.JOContainerResult
 	for _, jorf := range res.Containers {
-		nextContent := dila.FetchCont(token, jorf.Id)
+		nextContent := dila.FetchCont(token, jorf.ID)
 		jorfContents = append(jorfContents, nextContent)
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
 
 	total := len(list)
 	for i, element := range list {
-		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.Id, i+1, total)
-		result := dila.FetchJorfContent(token, element.Id)
+		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.ID, i+1, total)
+		result := dila.FetchJorfContent(token, element.ID)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
+		if i > 10 {
+			break
+		}
 	}
 	generate.Generate(list)
+	db.Persist(list)
 	return "", "ok"
 }
 

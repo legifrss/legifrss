@@ -3,6 +3,8 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/ldicarlo/legifrss/server/db"
+	"github.com/ldicarlo/legifrss/server/models"
+	"github.com/ldicarlo/legifrss/server/rss"
 )
 
 func main() {
@@ -13,9 +15,14 @@ func main() {
 		})
 	})
 	r.GET("/latest", func(c *gin.Context) {
-		keyword := c.DefaultQuery("q", "")
-		println(keyword)
-		c.XML(200, db.GetAll())
+		queryContext := models.QueryContext{
+			Keyword: c.DefaultQuery("q", ""),
+			Author:  c.DefaultQuery("author", ""),
+			Nature:  c.DefaultQuery("nature", ""),
+		}
+		result := db.Query(queryContext)
+		rss := rss.TransformToRSS(result, models.FeedDescription{})
+		c.XML(200, rss)
 	})
 	r.Run()
 }

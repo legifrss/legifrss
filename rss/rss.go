@@ -28,17 +28,17 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 }
 
 func AggregateRSS(feedDesc *feeds.AtomFeed, feedEntries []*feeds.AtomEntry) {
-	return true
+	return
 }
 
 func transformLegifranceElement(element models.LegifranceElement, date string) *feeds.AtomEntry {
 	return &feeds.AtomEntry{
 		Title:     element.Description,
-		Links:     []feeds.AtomLink{{Href: "https://www.legifrance.gouv.fr/jorf/id/" + element.Id}},
+		Links:     []feeds.AtomLink{{Href: "https://www.legifrance.gouv.fr/jorf/id/" + element.ID}},
 		Author:    &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: element.Author}},
 		Published: element.Date.Format(time.RFC3339),
 		Content:   &feeds.AtomContent{Content: element.Content, Type: "html"},
-		Id:        "https://www.legifrance.gouv.fr/jorf/id/" + element.Id,
+		Id:        "https://www.legifrance.gouv.fr/jorf/id/" + element.ID,
 		Updated:   date,
 	}
 }

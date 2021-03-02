@@ -25,9 +25,9 @@ func ExtractAndConvertDILA(input []models.JOContainerResult) (result []models.Le
 
 func transformSummary(summary models.Summary, categories []string, publicationDate time.Time) models.LegifranceElement {
 	return models.LegifranceElement{
-		Id:          summary.Id,
-		Title:       summary.Id,
-		Link:        "https://www.legifrance.gouv.fr/jorf/id/" + summary.Id,
+		ID:          summary.ID,
+		Title:       summary.ID,
+		Link:        "https://www.legifrance.gouv.fr/jorf/id/" + summary.ID,
 		Description: summary.Title,
 		Category:    categories,
 		Author:      summary.Emitter,

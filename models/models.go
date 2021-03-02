@@ -3,17 +3,17 @@ package models
 import "time"
 
 type LegifranceElement struct {
-	Title           string
-	Id              string
-	Nature          string
-	Link            string
-	Description     string
-	Category        []string
-	Author          string
+	Title           string   `json:"title"`
+	ID              string   `json:"id"`
+	Nature          string   `json:"nature"`
+	Link            string   `json:"link"`
+	Description     string   `json:"description"`
+	Category        []string `json:"category"`
+	Author          string   `json:"author"`
 	SanitizedAuthor string
 	SanitizedNature string
-	Date            time.Time
-	Content         string
+	Date            time.Time `json:"date"`
+	Content         string    `json:"content"`
 }
 
 type FeedDescription struct {
@@ -22,18 +22,16 @@ type FeedDescription struct {
 	DescriptionSuffix string
 }
 
-//-----------------------
 type Container struct {
-	Id string `json:"id"`
+	ID string `json:"id"`
 }
 
 type LastNJo struct {
 	Containers []Container `json:"containers"`
 }
 
-//------------------------
 type Summary struct {
-	Id       string `json:"id"`
+	ID       string `json:"id"`
 	Title    string `json:"titre"`
 	Nature   string `json:"nature"`
 	Minister string `json:"ministere"`
@@ -52,7 +50,7 @@ type Structure struct {
 }
 
 type JOContainer struct {
-	Id        string    `json:"id"`
+	ID        string    `json:"id"`
 	Structure Structure `json:"structure"`
 	Timestamp int64     `json:"datePubli"`
 }

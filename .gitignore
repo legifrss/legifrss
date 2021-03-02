@@ -1,3 +1,4 @@
 .env
 main
 feed/db.xml
+feed/db.json
