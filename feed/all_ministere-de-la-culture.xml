@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-la-culture</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_ministere-de-la-culture.xml</id>
-  <updated>2021-02-28T21:25:19+01:00</updated>
+  <updated>2021-03-02T08:17:33+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,8 +9,30 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Arrêté du 18 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe supérieure du ministère de la culture organisé au titre de l&#39;année 2021</title>
+    <updated>2021-03-02T08:17:33+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201012</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 18 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe supérieure du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 8.&lt;/p&gt;</content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201012"></link>
+    <author>
+      <name>Ministère de la culture</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;ingénieur de recherche hors classe du ministère de la culture organisé au titre de l&#39;année 2021</title>
+    <updated>2021-03-02T08:17:33+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201014</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 18 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;ingénieur de recherche hors classe du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 2.&lt;/p&gt;</content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201014"></link>
+    <author>
+      <name>Ministère de la culture</name>
+    </author>
+  </entry>
+  <entry>
     <title>Arrêté du 12 février 2021 portant habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service Archéologie et inventaire général de Laval</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190499</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation en date du 12 février 2021, le service Archéologie et inventaire général de Laval est habilité pour la réalisation des diagnostics prescrits dans son ressort territorial, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845697&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L523-4 (V)&#39;&gt;article L. 523-4 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;Le service Archéologie et inventaire général de Laval est habilité pour l&#39;exécution de fouilles d&#39;archéologie préventive pour les périodes chronologiques allant du Moyen Age à l&#39;Epoque contemporaine sur le territoire de la région Pays de la Loire, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845692&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L522-8 (V)&#39;&gt;article L. 522-8 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;En cas de changement substantiel affectant les conditions au vu desquelles l&#39;habilitation a été accordée, le titulaire en informe sans délai le ministre chargé de la culture.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -21,7 +43,7 @@
   </entry>
   <entry>
     <title>Arrêté du 12 février 2021 portant extension de l&#39;habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service archéologique de la ville d&#39;Arras</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190503</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation en date du 12 février 2021, l&#39;arrêté du 26 décembre 2017 portant habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service archéologique de la ville d&#39;Arras est ainsi complété :&lt;br/&gt;« Le service archéologique de la ville d&#39;Arras est habilité pour l&#39;exécution de fouilles d&#39;archéologie préventive portant sur les périodes allant de l&#39;Antiquité à l&#39;Epoque contemporaine sur le territoire de la région Hauts-de-France, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845692&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L522-8 (V)&#39;&gt;article L. 522-8 du code du patrimoine&lt;/a&gt;. »&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -32,7 +54,7 @@
   </entry>
   <entry>
     <title>Arrêté du 26 février 2021 refusant le certificat prévu à l&#39;article L. 111-2 du code du patrimoine</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190506</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 26 février 2021, est refusé le certificat d&#39;exportation demandé pour une œuvre d&#39;André BRETON, Objet à fonctionnement symbolique, assemblage d&#39;objets divers sur planche en bois, cuir, métal, bois, marbre, verre, tabac, caoutchouc, sable, 1931. Cette œuvre, dénommée à l&#39;origine « selle-sphère et feuillage » mais si emblématique que la qualification générique d&#39;objet à fonctionnement symbolique est devenue son titre, constituant un jalon essentiel dans l&#39;évolution du mouvement surréaliste et dans l&#39;histoire de l&#39;art moderne, a vocation à rejoindre dans les collections publiques françaises les deux autres objets qui les ont intégrées avec le « Mur » de l&#39;atelier d&#39;André Breton.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -43,7 +65,7 @@
   </entry>
   <entry>
     <title>Arrêté du 23 février 2021 portant nomination du président de la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art - M. SCHWEITZER (Louis)</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190639</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, en date du 23 février 2021, M. Schweitzer (Louis) est nommé président de la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art, en renouvellement de son mandat.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -54,7 +76,7 @@
   </entry>
   <entry>
     <title>Arrêté du 24 février 2021 portant nomination de la directrice du service à compétence nationale « musée d&#39;archéologie nationale et domaine national de Saint-Germain-en-Laye »</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190641</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 24 février 2021, Mme Rose-Marie Mousseaux, conservatrice en chef du patrimoine, est nommée directrice du service à compétence nationale du musée d&#39;archéologie nationale et domaine de Saint-Germain-en-Laye, à compter du 1er mars 2021.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -65,7 +87,7 @@
   </entry>
   <entry>
     <title>Arrêté du 24 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale supérieure d&#39;art de Nancy</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190643</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 24 février 2021, Mme PARISI (Chiara), directrice du Centre Pompidou-Metz, est nommée membre du conseil d&#39;administration de l&#39;Ecole nationale supérieure d&#39;art de Nancy en tant que personnalité désignée en raison de ses compétences dans le domaine d&#39;activité de l&#39;établissement, en remplacement de Mme LAVIGNE (Emma), démissionnaire.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -76,7 +98,7 @@
   </entry>
   <entry>
     <title>Avis n° 2021-01 de la Commission consultative des trésors nationaux</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission régulièrement convoquée et constituée, réunie le 17 février 2021 ;&lt;br/&gt;Après en avoir délibéré ;&lt;br/&gt;Considérant que le bien pour lequel le certificat d&#39;exportation est demandé représente une œuvre pionnière du surréalisme, réalisée par le poète, écrivain et essayiste André Breton (1896-1966), qui revêt le statut de mythe fondateur au sein de l&#39;esthétique et de la philosophie de l&#39;objet surréaliste ; que cette « selle-sphère et feuillage », composée principalement d&#39;une selle, d&#39;une sonnette de bicyclette, d&#39;une petite sphère de bois, d&#39;éléments en celluloïd, d&#39;un livre sculpté en albâtre, de dragées, d&#39;une photographie sous verre de la tour de Pise, d&#39;un sablier couché, de feuillages et d&#39;autres éléments végétaux, s&#39;avère représentative du processus surréaliste de détournement et de transformation sémantique et matérielle s&#39;appliquant à des choses, en dehors des médiums traditionnels, auxquelles sont assignées une portée symbolique ainsi qu&#39;un sens latent et qui affichent dans les trois dimensions de l&#39;espace une forme de retour du refoulé ; que cette sorte de paysage imaginaire miniaturisé, héritier du ready made de Duchamp, premier objet d&#39;essence surréaliste fabriqué en 1914 à partir d&#39;une pièce manufacturée, et succédant à des idées d&#39;objets oniriques irréalisés de Breton, signe la sortie de l&#39;abstraction et le passage du mouvement surréaliste du collage à l&#39;objet, dont la réalisation procède d&#39;un processus d&#39;assemblage insolite d&#39;éléments hétéroclites, dans une approche alors non conventionnelle et sous-tendue par des représentations inconscientes ; que les « objets à fonctionnement symbolique », à la fois singuliers et collectifs, résultent des discussions du groupe surréaliste qui se tiennent au printemps 1931 chez Tristan Tzara et auxquelles participent des nouveaux venus, tels que Francis Ponge, Alberto Giacometti, Salvador Dali et Luis Buñuel ; qu&#39;ils prennent leur origine dans la « boule suspendue » d&#39;Alberto Giacometti (1930-1931), qui rejoignit le mouvement de 1930 à 1935, constituée d&#39;une sphère fendue suspendue par un fil et posée sur une forme en croissant au sein d&#39;une cage et semblant pouvoir être actionnée, dont l&#39;effet suggestif à connotation sexuelle a fasciné Breton et Dali ; que la « selle-sphère et feuillage » de Breton, décrite précisément par Salvador Dali dans le numéro 3 du Surréalisme au service de la Révolution en 1931 et constituant le troisième de ces objets dans l&#39;ordre d&#39;apparition dans cette revue, appartient à une petite série de cinq pièces, qui, outre le prototype de Giacometti, comporte aussi un « soulier et verre de lait » de Dali, les « éponges et bol de farine » de Gala Eluard, future épouse de Dali, et « une main gantée de rouge » de Valentine Hugo ; que cette petite « installation », à l&#39;état resté conforme à celui d&#39;origine connu par une photographie de 1931 et vendue par Valentine Hugo au père de l&#39;actuel propriétaire, manifeste un caractère emblématique se marquant dans la dénomination générique qui lui est restée attachée d&#39;objet à fonctionnement symbolique et traduit une dimension majeure du mouvement surréaliste, d&#39;une importance capitale dans l&#39;histoire de l&#39;art moderne ;&lt;br/&gt;Qu&#39;en conséquence, cette œuvre présente un intérêt majeur pour le patrimoine national du point de vue de l&#39;histoire et de l&#39;art et doit être considérée comme un trésor national,&lt;br/&gt;Emet un avis favorable au refus du certificat d&#39;exportation demandé.&lt;/p&gt;</content>
     <published>2021-02-28T01:00:00+01:00</published>
@@ -87,7 +109,7 @@
   </entry>
   <entry>
     <title>Arrêté du 18 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe exceptionnelle du ministère de la culture organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189615</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 18 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 4.&lt;/p&gt;</content>
     <published>2021-02-27T01:00:00+01:00</published>
@@ -98,7 +120,7 @@
   </entry>
   <entry>
     <title>Arrêté du 22 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;attaché principal d&#39;administration de l&#39;Etat du ministère de la culture organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189617</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 22 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;attaché principal d&#39;administration de l&#39;Etat du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 21.&lt;/p&gt;</content>
     <published>2021-02-27T01:00:00+01:00</published>
@@ -109,7 +131,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179011</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 20 novembre 2020 (NOR : MICC2032044A), publié au Journal officiel de la République française du 25 novembre 2020, relatives à l&#39;insaisissabilité des biens culturels suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Maurice DENIS (1870-1943), Le Verger à l&#39;Ermitage, vers 1892, huile sur carton contrecollé sur bois, 57 × 47 cm, inv. : 1959Ma040,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Clemens Sels Museum Neuss, Neuss, Allemagne ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Camille PISSARRO (1830-1903), Jardin et poulailler chez Octave Mirbeau, Les Damps, 1892, huile toile, 73,3 × 92 cm, inv. : MB-Pis-03,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museum Barberini, Potsdam, Allemagne,&lt;br/&gt;prêtés à l&#39;exposition « CÔTÉ JARDIN : DE MONET À BONNARD » organisée et présentée au musée des impressionnismes, Giverny, du 1er avril 2021 au 1er novembre 2021, sont prorogées jusqu&#39;au 31 novembre 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; modifié portant diverses dispositions d&#39;ordre économique et financier.&lt;/p&gt;</content>
     <published>2021-02-25T01:00:00+01:00</published>
@@ -120,7 +142,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173350</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les biens culturels repris dans la liste annexée au présent arrêté, appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Musée national des Beaux-Arts de la République Biélorussie (The National Art Museum of the Republic of Belarus), Minsk, Biélorussie ;&lt;br/&gt;- Galerie nationale Trétiakov (The State Tretyakov Gallery), Moscou, Russie ;&lt;br/&gt;- Musée d&#39;Etat des beaux-arts Pouchkine (The Pushkin State Museum of Fine Arts), Moscou, Russie ;&lt;br/&gt;- Fondation Culturelle Ekaterina (Ekaterina Cultural Foundation), Moscou, Russie ;&lt;br/&gt;- Musée National Russe (The Russian Museum), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Musée d&#39;Etat de l&#39;Ermitage (The State Hermitage Museum), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Musée des Beaux-Arts (Dnipropetrovsk Art Museum), Dnipropetrovsk, Ukraine,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;exposition « ICÔNES DE L&#39;ART MODERNE. LA COLLECTION MOROZOV » organisée et présentée à la Fondation Louis Vuitton, Paris, du 12 mai 2021 au 10 octobre 2021, sont insaisissables pendant la période de leur prêt à la France du 15 mars 2021 au 15 novembre 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;br/&gt;La liste non publiée des biens déclarés insaisissables par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines et de l&#39;architecture du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -131,7 +153,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173353</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 19 mai 2020 (NOR : MICC2011444A), publié au Journal officiel du 26 mai 2020, relatives à l&#39;insaisissabilité des biens culturels appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- The Metropolitan Museum of Art, New York, NY, Etats-Unis ;&lt;br/&gt;- Qatar Museums, Doha, Qatar ;&lt;br/&gt;- Musée gruérien, Bulle, Suisse,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;établissement public des musées d&#39;Orsay et de l&#39;Orangerie, organisateur de l&#39;exposition « GIRAULT DE PRANGEY PHOTOGRAPHE (1804-1892) » présentée au musée d&#39;Orsay, Paris, sont prorogées jusqu&#39;au 31 août 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt;.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -142,7 +164,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173356</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 24 juin 2020 (NOR : MICC2013724A), publié au Journal officiel du 1er juillet 2020, relatives à l&#39;insaisissabilité des biens culturels suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Alsace ? ; Déploration ; vers 1510-1520 ; bois sculpté polychrome ; H. : 90, L. : 106, P. : 31 cm ; inv. : 1024/L,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museo Civico d&#39;Arte Antica, Palazzo Madama, Turin, Italie,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Savoie ; Pietà ; après 1494 ; bois sculpté polychrome ; H. : 97, L. : 59, P. : 30 cm ; inv. : BM 377,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museo del Tesoro della Cattedrale, Aoste, Italie,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Savoie ; Pietà ; vers 1500-1520 ; bois sculpté polychrome ; H. : 99, L. : 80, P. : 35 cm,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant à l&#39;église paroissiale (chiesa parrocchiale di San Biagio), Doues, Italie,&lt;br/&gt;prêtés à l&#39;exposition « PIETÀ. DANS L&#39;ATELIER DES SCULPTEURS SAVOYARDS À LA FIN DU MOYEN ÂGE » organisée et présentée au Musée-Château d&#39;Annecy, sont prorogées jusqu&#39;au 14 avril 2022, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -153,7 +175,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173359</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les biens culturels repris dans la liste annexée au présent arrêté, appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Kunsthistorisches Museum, Vienne, Autriche ;&lt;br/&gt;- Österreichische Galerie Belvedere, Vienne, Autriche ;&lt;br/&gt;- Gallerie degli Uffizi - Palazzo Pitti - Galleria d&#39;Arte Moderna, Florence, Italie ;&lt;br/&gt;- Galata Museo del Mare, Gênes, Italie ;&lt;br/&gt;- Archivio di Stato di Genova, Gênes, Italie ;&lt;br/&gt;- Associazione Progetto Marzotto, Milan, Italie ;&lt;br/&gt;- Accademia di Belle Arti di Brera, Milan, Italie ;&lt;br/&gt;- Patrimonio Artistico di Banco BPM, Milan, Italie ;&lt;br/&gt;- Museo di san Martino, Naples, Italie ;&lt;br/&gt;- Musei Civici di Reggio Emilia, Reggio d&#39;Émilie, Italie ;&lt;br/&gt;- Museo Nazionale del Palazzo di Venezia, Rome, Italie ;&lt;br/&gt;- Museo di Antropologia criminale « Cesare Lombroso » - Università degli Studi di Torino, Turin, Italie ;&lt;br/&gt;- The State Hermitage Museum (Musée d&#39;Etat de l&#39;Ermitage), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Narodna galerija (National Gallery of Slovenia), Ljubljana, Slovénie ;&lt;br/&gt;- Musée des beaux-arts, La Chaux-de-Fonds, Suisse ;&lt;br/&gt;- Musée cantonal des Beaux-Arts, Lausanne, Suisse,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;exposition « BANDITI ! BRIGANDAGE ET BANDITISME, CORSE-ITALIE 1600-1940 » organisée et présentée au musée de Bastia du 25 juin 2021 au 23 décembre 2021 sont insaisissables pendant la période de leur prêt à la France du 25 mai 2021 au 23 janvier 2022, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;br/&gt;La liste non publiée des biens déclarés insaisissables par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -164,7 +186,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 février 2021 portant nomination au conseil d&#39;administration de l&#39;établissement public du Haras national du Pin</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173704</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 15 février 2021, Mme Boura (Frédérique), directrice régionale des affaires culturelles de Normandie, est nommée membre du conseil d&#39;administration de l&#39;établissement public du Haras national du Pin en tant que représentante de l&#39;Etat désignée par le ministre chargé de la culture, en remplacement de M. Ollivier (Jean-Paul).&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -175,7 +197,7 @@
   </entry>
   <entry>
     <title>Arrêté du 9 février 2021 portant transfert de propriété de biens des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163137</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 9 février 2021, la propriété de biens des collections nationales du musée des civilisations de l&#39;Europe et de la Méditerranée (MuCEM), Marseille, dont la liste est jointe au présent arrêté, est transférée à la collectivité territoriale de Corse pour affectation aux collections publiques du musée régional d&#39;anthropologie de la Corse, Corte, selon les conditions de protection prévues aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845667&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L451-3 (V)&#39;&gt;articles L. 451-3 à L. 451-8 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;Les biens dont la propriété est transférée sont radiés de l&#39;inventaire du musée des civilisations de l&#39;Europe et de la Méditerranée (MuCEM), Marseille, ainsi que des registres de dépôts du musée de Corte et seront inscrits sur l&#39;inventaire du musée régional d&#39;anthropologie de la Corse, Corte, à la date de publication de l&#39;arrêté.&lt;br/&gt;Le présent arrêté annule et remplace l&#39;arrêté portant transfert du 20 décembre 2018, publié au Journal officiel du 23 janvier 2019.&lt;br/&gt;La liste non publiée des biens transférés par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines et de l&#39;architecture du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -186,7 +208,7 @@
   </entry>
   <entry>
     <title>Décision du 18 février 2021 modifiant la décision du 3 février 2021 portant délégation de signature (direction générale des patrimoines et de l&#39;architecture)</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163140</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 3 février 2021 susvisée est modifiée ainsi qu&#39;il suit :&lt;br/&gt;1° L&#39;article 3 est complété par les dispositions suivantes :&lt;br/&gt;« 3. M. Aurélien CONRAUX, conservateur du patrimoine, dans la limite des attributions du bureau de l&#39;expertise numérique et de la conservation durable ;&lt;br/&gt;« 4. Mme Mélanie REBOURS, conservatrice en chef du patrimoine, dans la limite des attributions du bureau du contrôle et de la collecte des archives publiques. » ;&lt;br/&gt;2° L&#39;article 9 est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 9. - Délégation est donnée à l&#39;effet de signer, au nom de la ministre chargée de la culture, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets, relevant de la sous-direction des affaires financières et générales, à :&lt;br/&gt;« 1. M. Stéphane DELANOË, administrateur civil ;&lt;br/&gt;« 2. M. Brice LEBOEUF, agent contractuel, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 3. M. Ronald AMETIS, attaché d&#39;administration, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 4. M. Philippe DONNART, attaché d&#39;administration, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 5. M. Didier TOUZELIN, agent contractuel, dans la limite des attributions du bureau des affaires juridiques ;&lt;br/&gt;« 6. M. Cédric GUILLAUME, agent contractuel, dans la limite des attributions du bureau des affaires juridiques ;&lt;br/&gt;« 7. Mme Florie YALL, attachée d&#39;administration, dans la limite des attributions du bureau de la programmation budgétaire et de la performance ;&lt;br/&gt;« 8. Mme Audrey LEFRANC-MAUPILÉ, attachée principale territoriale, dans la limite des attributions du bureau des ressources humaines ;&lt;br/&gt;« 9. M. Olivier FOLLIOT, attaché principal d&#39;administration, dans la limite des attributions du bureau de la formation scientifique et technique. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -197,7 +219,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique d&#39;accueil, de surveillance et de magasinage principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162628</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique d&#39;accueil, de surveillance et de magasinage principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 20.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -208,7 +230,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162630</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 10.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -219,7 +241,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe supérieure du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162632</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe supérieure du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 12.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -230,7 +252,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique des administrations de l&#39;Etat principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162634</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique des administrations de l&#39;Etat principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 3.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -241,7 +263,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien de recherche de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162636</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien de recherche de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 1.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -252,7 +274,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 modifiant l&#39;arrêté du 23 juillet 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe supérieure du ministère de la culture</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162638</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, l&#39;arrêté du 23 juillet 2020 autorisant, au titre de l&#39;année 2021, l&#39;ouverture d&#39;un examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe supérieure du ministère de la culture est modifié comme suit :&lt;br/&gt;« L&#39;épreuve écrite d&#39;admission se déroulera le 24 juin 2021 en région parisienne et en outre-mer. »&lt;br/&gt;(Le reste sans changement.)&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -263,7 +285,7 @@
   </entry>
   <entry>
     <title>Décision du 18 février 2021 modifiant la décision du 4 février 2021 portant délégation de signature (secrétariat général)</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162640</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 4 février 2021 susvisée est modifiée conformément aux dispositions des articles 2 et 5 de la présente décision.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au titre VII, il est inséré avant le chapitre 1erun alinéa ainsi rédigé :&lt;br/&gt;« Dans la limite des attributions du service du numérique, délégation est donnée, à l&#39;effet de signer, au nom du ministre chargé de la culture, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets et des marchés publics de plus de 135 000 € hors taxe, à :&lt;br/&gt;M. Gilles Neviaski, administrateur civil hors classe. »&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;article 16 est modifié ainsi qu&#39;il suit :&lt;br/&gt;1° Le I est supprimé ;&lt;br/&gt;2° Au II, les mots : « du bureau des projets et de la modernisation » sont remplacés par les mots : « de la sous-direction des infrastructures et des services aux agents » ;&lt;br/&gt;3° Les alinéas respectivement numérotés II, III et IV deviennent les alinéas respectivement numérotés I, II et III.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au premier alinéa de l&#39;article 19, les mots : « 90 000 » sont remplacés par les mots : « 135 000 ».&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Au premier alinéa de l&#39;article 20, les mots : « de la planification et de la gestion » sont remplacés par les mots : « des affaires transversales ».&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
@@ -274,7 +296,7 @@
   </entry>
   <entry>
     <title>Décret n° 2021-181 du 18 février 2021 prolongeant les délais de validité des autorisations d&#39;aménagement cinématographique</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156075</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les délais de mise en œuvre des autorisations d&#39;aménagement cinématographique prévus à l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&amp;idArticle=LEGIARTI000030342760&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du cinéma et de l&#39;image animée - art. R212-7-20 (V)&#39;&gt;article R. 212-7-20 du code du cinéma et de l&#39;image animée&lt;/a&gt;, en cours à la date d&#39;entrée en vigueur du présent décret, sont prorogés d&#39;une durée de douze mois.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La ministre de la culture est chargée de l&#39;exécution du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -285,7 +307,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;ouverture d&#39;un examen professionnel d&#39;avancement au grade de chef de travaux d&#39;art principal du ministère de la culture organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156084</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de chef de travaux d&#39;art principal du ministère de la culture organisé au titre de 2021 est fixé à 3.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -296,7 +318,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe exceptionnelle du ministère de la culture organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156086</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 5.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -307,7 +329,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe supérieure du ministère de la culture organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156088</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe supérieure du ministère de la culture organisé au titre de l&#39;année 2021, est fixé à 10.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -318,7 +340,7 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 modifiant l&#39;arrêté du 23 juillet 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe exceptionnelle du ministère de la culture</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156090</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, les premier et deuxième alinéas de l&#39;article 7 de l&#39;arrêté du 23 juillet 2020 autorisant au titre de l&#39;année 2021 l&#39;ouverture d&#39;un examen professionnel d&#39;avancement au grade de technicien d&#39;art de classe exceptionnelle du ministère de la culture sont modifiés comme suit :&lt;br/&gt;« L&#39;épreuve écrite d&#39;admission se déroulera le 24 juin 2021 en région parisienne et en outre-mer.&lt;br/&gt;L&#39;épreuve orale d&#39;admission se déroulera à partir du 24 juin 2021 en région parisienne. Pour cette épreuve, le recours à la visioconférence pourra être envisagé. »&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -329,7 +351,7 @@
   </entry>
   <entry>
     <title>Arrêté du 17 février 2021 portant nomination (administration centrale)</title>
-    <updated>2021-02-28T21:25:19+01:00</updated>
+    <updated>2021-03-02T08:17:33+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156404</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et de la ministre de la culture en date du 17 février 2021, Mme Isabelle NYFFENEGGER, conservatrice générale des bibliothèques, est nommée sous-directrice des affaires européennes et internationales au service des affaires juridiques et internationales du secrétariat général du ministère de la culture, pour une durée de trois ans, avec une période probatoire de six mois, à compter du 15 mars 2021.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
@@ -339,107 +361,98 @@
     </author>
   </entry>
   <entry>
-    <title>Arrêté du 12 février 2021 portant application au ministère de la culture du décret n° 2016-151 du 11 février 2016 relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et dans la magistrature</title>
+    <title>Arrêté du 12 février 2021 portant habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service Archéologie et inventaire général de Laval</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043148665</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les dispositions du présent arrêté s&#39;appliquent à l&#39;ensemble des agents titulaires et contractuels en fonction en administration centrale, dans les services déconcentrés, dans les services à compétence nationale et dans les établissements publics administratifs relevant du ministère de la culture.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Sont éligibles au télétravail les agents dont une partie des activités peut être exercée de façon régulière ou ponctuelle en dehors des locaux de leur administration et de leur lieu d&#39;affectation.&lt;br/&gt;Les tâches nécessitant la présence physique effective de l&#39;agent dans le service ou sur son lieu de mission ne peuvent pas être exercées en télétravail.&lt;br/&gt;Les activités éligibles doivent pouvoir être regroupées en unité journalière ou en demi-journée de télétravail.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Des campagnes régulières de recensement collectif des demandes des agents sont organisées dans les services et établissements mentionnés à l&#39;article 1er.&lt;br/&gt;L&#39;agent qui souhaite exercer une partie de ses fonctions en télétravail doit adresser à son responsable hiérarchique direct une demande écrite.&lt;br/&gt;Lors du dépôt de sa demande, l&#39;agent atteste sur l&#39;honneur qu&#39;il dispose, pour chaque lieu défini dans l&#39;autorisation d&#39;exercice des fonctions en télétravail :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- d&#39;une connexion internet ;&lt;br/&gt;- d&#39;une installation conforme aux spécificités techniques qui font l&#39;objet d&#39;un descriptif qui lui est remis par l&#39;administration, s&#39;agissant des règles de conformité des installations électriques, des câbles de raccordement, d&#39;éclairage et de sécurité incendie ;&lt;br/&gt;- d&#39;un espace de travail adapté.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;La production de ces attestations constitue un préalable à la délivrance de l&#39;autorisation d&#39;exercice des fonctions en télétravail.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le responsable hiérarchique reçoit le demandeur dans le cadre d&#39;un entretien portant sur les activités pouvant être exercées en télétravail et les modalités pratiques d&#39;exercice du télétravail.&lt;br/&gt;Le responsable hiérarchique dispose d&#39;un délai d&#39;un mois à compter de la date de réception de la demande pour mener cet entretien et répondre à la demande de télétravail.&lt;br/&gt;Chaque demande, sans exclusion, doit être instruite dans le respect de l&#39;équité de traitement et au regard de l&#39;organisation du service et du collectif de travail.&lt;br/&gt;Le responsable hiérarchique informe l&#39;agent, par écrit, de sa décision.&lt;br/&gt;L&#39;accord du responsable hiérarchique prend la forme d&#39;une autorisation écrite de télétravail comportant en annexe l&#39;ensemble des documents mentionnés au &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000032036983&amp;idArticle=JORFARTI000032037017&amp;categorieLien=cid&#39; title=&#39;Décret n°2016-151 du 11 février 2016 - art. 8 (M)&#39;&gt;II de l&#39;article 8 du décret du 11 février 2016 susvisé&lt;/a&gt;.&lt;br/&gt;Sont également joints à l&#39;autorisation de télétravail remise à l&#39;agent les documents suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- la charte d&#39;utilisation des moyens informatiques du ministère de la culture ;&lt;br/&gt;- la charte sur les usages de la messagerie, dite « Charte courriel », en vigueur dans son service ;&lt;br/&gt;- une fiche relative à l&#39;ergonomie du poste de travail et au travail sur écran.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Les activités pouvant être exercées en télétravail sont inscrites dans la fiche de poste et l&#39;avis de vacance.&lt;br/&gt;Le refus opposé à une demande de télétravail ou son interruption à l&#39;initiative de l&#39;administration doivent être motivés et précédés d&#39;un entretien avec l&#39;intéressé.&lt;br/&gt;Un délai de prévenance de deux mois doit être respecté en cas d&#39;interruption du télétravail. Ce délai peut être réduit en cas de nécessité de service dûment motivée.&lt;br/&gt;La commission administrative paritaire ou la commission consultative paritaire compétentes peuvent être saisies, par l&#39;agent intéressé, du refus opposé à une demande initiale ou d&#39;interruption de télétravail.&lt;/p&gt;Article 5&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision d&#39;autorisation peut prévoir une période d&#39;adaptation de trois mois maximum.&lt;br/&gt;Le cas échéant, un bilan est effectué à l&#39;issue de cette période d&#39;adaptation dans le cadre d&#39;un entretien entre l&#39;agent et son responsable hiérarchique.&lt;/p&gt;Article 6&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agent en télétravail conserve son poste de travail sur site.&lt;br/&gt;En cas d&#39;interruption de sa demande de télétravail, l&#39;agent reprend l&#39;intégralité de ses fonctions sur site dans le délai prévu à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000032036983&amp;idArticle=JORFARTI000032037014&amp;categorieLien=cid&#39; title=&#39;Décret n°2016-151 du 11 février 2016 - art. 5 (M)&#39;&gt;article 5 du décret du 11 février 2016 susvisé&lt;/a&gt;.&lt;/p&gt;Article 7&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;autorisation de télétravail est délivrée pour un recours régulier ou ponctuel au télétravail sur une base hebdomadaire ou mensuelle. Celle-ci peut également être annuelle s&#39;agissant des jours de télétravail ponctuels. Trois cas de figure peuvent être prévus :&lt;br/&gt;1° L&#39;attribution de jours de télétravail fixes ;&lt;br/&gt;2° L&#39;attribution de jours de télétravail flottants ;&lt;br/&gt;3° L&#39;attribution d&#39;un cumul de jours de télétravail fixes et de jours de télétravail flottants.&lt;br/&gt;L&#39;autorisation est délivrée sans limitation de durée.&lt;br/&gt;En cas de changement de fonctions ou de modalités d&#39;exercice du télétravail, une nouvelle demande doit être présentée.&lt;br/&gt;Pour assurer une bonne organisation du service, les jours de télétravail flottants sont fixés en accord avec le chef de service.&lt;/p&gt;Article 8&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agent en télétravail doit disposer d&#39;un espace de travail adapté dans lequel sera installé le matériel professionnel mis à sa disposition par l&#39;administration. Cet espace doit être doté d&#39;équipements permettant des échanges téléphoniques et la transmission et la réception de données numériques compatibles avec l&#39;activité professionnelle. Dans le cas d&#39;une autorisation temporaire de télétravail prévue au 2° de l&#39;article 10 ou d&#39;attribution de jours flottants prévue à l&#39;article 7, l&#39;administration peut autoriser l&#39;utilisation de l&#39;équipement informatique personnel de l&#39;agent.&lt;br/&gt;L&#39;équipement nécessaire à l&#39;agent est déterminé par son administration en lien avec le service informatique en fonction des missions, de l&#39;organisation générale et de la politique générale d&#39;équipement du ministère et de ses établissements.&lt;br/&gt;L&#39;administration peut prendre en charge les équipements mobiliers et tout équipement individuel d&#39;impression ou de reprographie lorsque l&#39;agent bénéficie d&#39;un aménagement spécifique de son poste de travail, notamment en raison de la nature de ses fonctions, de son état physique ou de santé.&lt;br/&gt;L&#39;administration assure la maintenance et l&#39;entretien des équipements et outils informatiques mis à la disposition de l&#39;agent.&lt;/p&gt;Article 9&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agent ne peut exercer en télétravail pour une durée supérieure à trois jours par semaine. Il doit être présent sur son lieu d&#39;affectation au moins deux jours par semaine.&lt;br/&gt;Les seuils définis précédemment peuvent s&#39;apprécier sur une base mensuelle.&lt;br/&gt;Dans le cas d&#39;attribution de jours de télétravail fixes, l&#39;autorisation d&#39;exercice mentionne le calendrier des jours d&#39;exercice en télétravail.&lt;br/&gt;Les agents exerçant leur activité en télétravail bénéficient des mêmes droits et obligations que les agents exerçant leur travail sur leur lieu d&#39;affectation notamment en matière de réglementation du temps de travail, y compris pour les heures supplémentaires.&lt;br/&gt;Les jours où l&#39;agent exerce ses fonctions en télétravail, il est soumis à ses horaires habituels de travail découlant du cycle de travail qui lui est applicable.&lt;br/&gt;Une journée de télétravail est comptabilisée comme une journée forfaitaire correspondant au cycle retenu par l&#39;agent lorsqu&#39;il est sur son lieu d&#39;affectation.&lt;br/&gt;Les périodes durant lesquelles l&#39;agent en télétravail doit être joignable sont fixées dans l&#39;autorisation d&#39;exercice des fonctions en télétravail, dans la limite de l&#39;amplitude horaire du service de l&#39;agent. Ces périodes incluent au minimum les plages fixes du service, et, pour les agents aux horaires variables, ne doivent pas excéder la durée quotidienne du cycle de travail de l&#39;agent.&lt;br/&gt;Le responsable hiérarchique veille au respect des règles en matière de durée du temps de travail, de temps de repos et de congé ainsi qu&#39;au respect de la vie personnelle et familiale de l&#39;agent.&lt;/p&gt;Article 10&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il peut être dérogé aux conditions fixées au premier alinéa de l&#39;article 9 :&lt;br/&gt;1° Pour une durée de six mois maximum, à la demande des agents dont l&#39;état de santé, le handicap ou l&#39;état de grossesse le justifient et après avis du médecin du travail. Cette dérogation est renouvelable selon les mêmes modalités ;&lt;br/&gt;2° Dans le cadre d&#39;une autorisation temporaire de télétravail, en raison d&#39;une situation exceptionnelle perturbant l&#39;accès au service ou le travail sur site.&lt;/p&gt;Article 11&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Lorsqu&#39;il exerce son activité en télétravail, l&#39;agent reste soumis aux règles relatives à la santé, la sécurité et aux conditions de travail dans la fonction publique.&lt;br/&gt;Les activités exercées en télétravail font l&#39;objet d&#39;une évaluation des risques professionnels au même titre que l&#39;ensemble des autres activités du service. Le document unique d&#39;évaluation des risques professionnels comporte une analyse des risques afférents au télétravail et des actions de prévention mises en œuvre.&lt;br/&gt;L&#39;agent peut demander à rencontrer l&#39;assistant ou le conseiller de prévention, ou le médecin du travail, soit préalablement à sa mise en situation de télétravail, soit au cours de la période de télétravail. Il peut également solliciter une visite sur son lieu de télétravail.&lt;br/&gt;L&#39;agent justifie son absence au titre de la maladie et effectue ses demandes de congés ou d&#39;autorisation d&#39;absence dans les mêmes conditions que les agents exerçant sur site.&lt;br/&gt;En cas d&#39;accident survenu sur le lieu de télétravail de l&#39;agent pendant la période d&#39;activité en télétravail, celui-ci doit, au plus tard dans les quarante-huit heures après la survenance de l&#39;accident en informer l&#39;administration par l&#39;intermédiaire de son responsable hiérarchique.&lt;br/&gt;L&#39;agent adresse à l&#39;administration une déclaration d&#39;accident de service, dans les conditions prévues au &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000000884830&amp;idSectionTA=LEGISCTA000038160125&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°86-442 du 14 mars 1986 -  Titre VI bis : Congé pour invalidité temporaire... (V)&#39;&gt;titre VI bis du décret n° 86-442 du 14 mars 1986&lt;/a&gt; relatif à la désignation des médecins agréés, à l&#39;organisation des comités médicaux et des commissions de réforme, aux conditions d&#39;aptitude physique pour l&#39;admission aux emplois publics et au régime de congés de maladie des fonctionnaires.&lt;/p&gt;Article 12&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agent s&#39;engage à utiliser les équipements fournis par l&#39;administration dans le respect des règles en vigueur en matière de sécurité des systèmes d&#39;informations définies par son administration, à en réserver l&#39;usage à une utilisation strictement professionnelle et à les restituer, dans un état d&#39;usure normale résultant de son utilisation, au terme de sa période de télétravail.&lt;br/&gt;L&#39;agent veille à ce que le matériel informatique qui est mis à sa disposition ainsi que les documents professionnels qu&#39;il détient sur son lieu de télétravail ne soient pas accessibles à des tiers.&lt;br/&gt;Il lui incombe de se conformer à la charte d&#39;utilisation des moyens informatiques du ministère de la culture et à la charte sur les usages de la messagerie, dite « Charte courriel » en vigueur dans son service. Il suit les recommandations relatives à l&#39;ergonomie du poste de travail et au travail sur écran.&lt;/p&gt;Article 13&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;agent en télétravail bénéficie des mêmes droits d&#39;accès à la formation que lorsqu&#39;il exerce ses fonctions sur site.&lt;br/&gt;A ce titre, les agents ainsi que leurs responsables hiérarchiques sont invités à suivre les formations mises en place par l&#39;administration, notamment sur les équipements et outils techniques mis à disposition sur le lieu de télétravail ainsi que le mode d&#39;organisation du télétravail.&lt;/p&gt;Article 14&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Conformément aux dispositions prévues à l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000519520&amp;idArticle=LEGIARTI000006486150&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Décret n°82-453 du 28 mai 1982 - art. 52 (M)&#39;&gt;article 52 du décret du 28 mai 1982 susvisé&lt;/a&gt;, une délégation du comité d&#39;hygiène, de sécurité et des conditions de travail peut procéder à la visite du lieu de télétravail, après accord écrit de l&#39;intéressé.&lt;br/&gt;La visite est alors circonscrite au périmètre du domicile réservé au télétravail.&lt;br/&gt;L&#39;agent doit être consulté sur cette visite au moins 10 jours avant la date prévue.&lt;/p&gt;Article 15&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Un bilan annuel quantitatif et qualitatif des demandes de télétravail et des modalités de sa mise en œuvre est présenté aux comités techniques et comités d&#39;hygiène, de sécurité et des conditions de travail compétents.&lt;/p&gt;Article 16&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Les autorisations de télétravail accordées ou renouvelées avant l&#39;entrée en vigueur du présent arrêté demeurent applicables jusqu&#39;au terme prévu.&lt;/p&gt;Article 17&lt;br /&gt;&lt;p&gt;&lt;br/&gt;L&#39;arrêté du 31 mars 2017 portant application au ministère de la culture et de la communication du &lt;a href=&#39;/affichTexte.do?cidTexte=JORFTEXT000032036983&amp;categorieLien=cid&#39; title=&#39;Décret n°2016-151 du 11 février 2016 (V)&#39;&gt;décret n° 2016-151 &lt;/a&gt;du 11 février relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et dans la magistrature est abrogé.&lt;/p&gt;Article 18&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043148665"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190499</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation en date du 12 février 2021, le service Archéologie et inventaire général de Laval est habilité pour la réalisation des diagnostics prescrits dans son ressort territorial, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845697&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L523-4 (V)&#39;&gt;article L. 523-4 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;Le service Archéologie et inventaire général de Laval est habilité pour l&#39;exécution de fouilles d&#39;archéologie préventive pour les périodes chronologiques allant du Moyen Age à l&#39;Epoque contemporaine sur le territoire de la région Pays de la Loire, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845692&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L522-8 (V)&#39;&gt;article L. 522-8 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;En cas de changement substantiel affectant les conditions au vu desquelles l&#39;habilitation a été accordée, le titulaire en informe sans délai le ministre chargé de la culture.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 17 février 2021 portant nomination du directeur général des patrimoines et de l&#39;architecture - M. HEBERT (Jean-François)</title>
+    <title>Arrêté du 12 février 2021 portant extension de l&#39;habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service archéologique de la ville d&#39;Arras</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149403</id>
-    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Il est mis fin aux fonctions de directeur général des patrimoines et de l&#39;architecture exercées par M. Philippe BARBAT, à compter du 8 mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;M. Jean-François HEBERT, conseiller maître à la Cour des comptes, est nommé directeur général des patrimoines et de l&#39;architecture, à compter du 8 mars 2021.&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le Premier ministre et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l&#39;application du présent décret, qui sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149403"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190503</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et de la ministre de l&#39;enseignement supérieur, de la recherche et de l&#39;innovation en date du 12 février 2021, l&#39;arrêté du 26 décembre 2017 portant habilitation en qualité d&#39;opérateur d&#39;archéologie préventive du service archéologique de la ville d&#39;Arras est ainsi complété :&lt;br/&gt;« Le service archéologique de la ville d&#39;Arras est habilité pour l&#39;exécution de fouilles d&#39;archéologie préventive portant sur les périodes allant de l&#39;Antiquité à l&#39;Epoque contemporaine sur le territoire de la région Hauts-de-France, dans les conditions fixées par l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845692&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L522-8 (V)&#39;&gt;article L. 522-8 du code du patrimoine&lt;/a&gt;. »&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 17 février 2021 portant nomination de la présidente de l&#39;Etablissement public du château de Fontainebleau - Mme LABOURDETTE (Marie-Christine)</title>
+    <title>Arrêté du 26 février 2021 refusant le certificat prévu à l&#39;article L. 111-2 du code du patrimoine</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149412</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 17 février 2021, Mme Marie-Christine LABOURDETTE est nommée présidente de l&#39;Etablissement public du château de Fontainebleau, à compter du 8 mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149412"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190506</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 26 février 2021, est refusé le certificat d&#39;exportation demandé pour une œuvre d&#39;André BRETON, Objet à fonctionnement symbolique, assemblage d&#39;objets divers sur planche en bois, cuir, métal, bois, marbre, verre, tabac, caoutchouc, sable, 1931. Cette œuvre, dénommée à l&#39;origine « selle-sphère et feuillage » mais si emblématique que la qualification générique d&#39;objet à fonctionnement symbolique est devenue son titre, constituant un jalon essentiel dans l&#39;évolution du mouvement surréaliste et dans l&#39;histoire de l&#39;art moderne, a vocation à rejoindre dans les collections publiques françaises les deux autres objets qui les ont intégrées avec le « Mur » de l&#39;atelier d&#39;André Breton.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Décret du 17 février 2021 portant nomination de la présidente de la Cité de l&#39;architecture et du patrimoine</title>
+    <title>Arrêté du 23 février 2021 portant nomination du président de la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art - M. SCHWEITZER (Louis)</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149414</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par décret du Président de la République en date du 17 février 2021, Mme CHEVILLOT (Catherine), conservatrice générale du patrimoine, est nommée présidente de la Cité de l&#39;architecture et du patrimoine, à compter du 8 mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149414"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190639</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture et du ministre délégué auprès du ministre de l&#39;économie, des finances et de la relance, chargé des comptes publics, en date du 23 février 2021, M. Schweitzer (Louis) est nommé président de la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art, en renouvellement de son mandat.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Arrêté du 12 février 2021 portant nomination à la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art</title>
+    <title>Arrêté du 24 février 2021 portant nomination de la directrice du service à compétence nationale « musée d&#39;archéologie nationale et domaine national de Saint-Germain-en-Laye »</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149416</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 12 février 2021, Mme Saliou-Gloux (Monique), présidente de section à la Cour des comptes, est nommée membre de la commission d&#39;agrément de la garantie d&#39;Etat pour certaines expositions temporaires d&#39;œuvres d&#39;art au titre de personnalité compétente dans le domaine culturel, en renouvellement de son mandat.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149416"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190641</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 24 février 2021, Mme Rose-Marie Mousseaux, conservatrice en chef du patrimoine, est nommée directrice du service à compétence nationale du musée d&#39;archéologie nationale et domaine de Saint-Germain-en-Laye, à compter du 1er mars 2021.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Arrêté du 16 février 2021 portant nomination (administration centrale)</title>
+    <title>Arrêté du 24 février 2021 portant nomination au conseil d&#39;administration de l&#39;Ecole nationale supérieure d&#39;art de Nancy</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149418</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et de la ministre de la culture en date du 16 février 2021, M. Franck ISAIA, administrateur civil hors classe, est reconduit dans ses fonctions de sous-directeur de la politique des musées au service des musées de France de la direction générale des patrimoines et de l&#39;architecture, à l&#39;administration centrale du ministère de la culture, pour une durée de deux ans, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149418"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190643</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 24 février 2021, Mme PARISI (Chiara), directrice du Centre Pompidou-Metz, est nommée membre du conseil d&#39;administration de l&#39;Ecole nationale supérieure d&#39;art de Nancy en tant que personnalité désignée en raison de ses compétences dans le domaine d&#39;activité de l&#39;établissement, en remplacement de Mme LAVIGNE (Emma), démissionnaire.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Arrêté du 16 février 2021 portant nomination (administration centrale)</title>
+    <title>Avis n° 2021-01 de la Commission consultative des trésors nationaux</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149420</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du Premier ministre et de la ministre de la culture en date du 16 février 2021, Mme Corinne LANGLOIS, architecte et urbaniste en chef de l&#39;Etat, est reconduite dans ses fonctions de sous-directrice de l&#39;architecture, de la qualité de la construction et du cadre de vie au service de l&#39;architecture de la direction générale des patrimoines et de l&#39;architecture, à l&#39;administration centrale du ministère de la culture, pour une durée de trois ans, à compter du 1er mars 2021.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149420"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043190747</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La Commission régulièrement convoquée et constituée, réunie le 17 février 2021 ;&lt;br/&gt;Après en avoir délibéré ;&lt;br/&gt;Considérant que le bien pour lequel le certificat d&#39;exportation est demandé représente une œuvre pionnière du surréalisme, réalisée par le poète, écrivain et essayiste André Breton (1896-1966), qui revêt le statut de mythe fondateur au sein de l&#39;esthétique et de la philosophie de l&#39;objet surréaliste ; que cette « selle-sphère et feuillage », composée principalement d&#39;une selle, d&#39;une sonnette de bicyclette, d&#39;une petite sphère de bois, d&#39;éléments en celluloïd, d&#39;un livre sculpté en albâtre, de dragées, d&#39;une photographie sous verre de la tour de Pise, d&#39;un sablier couché, de feuillages et d&#39;autres éléments végétaux, s&#39;avère représentative du processus surréaliste de détournement et de transformation sémantique et matérielle s&#39;appliquant à des choses, en dehors des médiums traditionnels, auxquelles sont assignées une portée symbolique ainsi qu&#39;un sens latent et qui affichent dans les trois dimensions de l&#39;espace une forme de retour du refoulé ; que cette sorte de paysage imaginaire miniaturisé, héritier du ready made de Duchamp, premier objet d&#39;essence surréaliste fabriqué en 1914 à partir d&#39;une pièce manufacturée, et succédant à des idées d&#39;objets oniriques irréalisés de Breton, signe la sortie de l&#39;abstraction et le passage du mouvement surréaliste du collage à l&#39;objet, dont la réalisation procède d&#39;un processus d&#39;assemblage insolite d&#39;éléments hétéroclites, dans une approche alors non conventionnelle et sous-tendue par des représentations inconscientes ; que les « objets à fonctionnement symbolique », à la fois singuliers et collectifs, résultent des discussions du groupe surréaliste qui se tiennent au printemps 1931 chez Tristan Tzara et auxquelles participent des nouveaux venus, tels que Francis Ponge, Alberto Giacometti, Salvador Dali et Luis Buñuel ; qu&#39;ils prennent leur origine dans la « boule suspendue » d&#39;Alberto Giacometti (1930-1931), qui rejoignit le mouvement de 1930 à 1935, constituée d&#39;une sphère fendue suspendue par un fil et posée sur une forme en croissant au sein d&#39;une cage et semblant pouvoir être actionnée, dont l&#39;effet suggestif à connotation sexuelle a fasciné Breton et Dali ; que la « selle-sphère et feuillage » de Breton, décrite précisément par Salvador Dali dans le numéro 3 du Surréalisme au service de la Révolution en 1931 et constituant le troisième de ces objets dans l&#39;ordre d&#39;apparition dans cette revue, appartient à une petite série de cinq pièces, qui, outre le prototype de Giacometti, comporte aussi un « soulier et verre de lait » de Dali, les « éponges et bol de farine » de Gala Eluard, future épouse de Dali, et « une main gantée de rouge » de Valentine Hugo ; que cette petite « installation », à l&#39;état resté conforme à celui d&#39;origine connu par une photographie de 1931 et vendue par Valentine Hugo au père de l&#39;actuel propriétaire, manifeste un caractère emblématique se marquant dans la dénomination générique qui lui est restée attachée d&#39;objet à fonctionnement symbolique et traduit une dimension majeure du mouvement surréaliste, d&#39;une importance capitale dans l&#39;histoire de l&#39;art moderne ;&lt;br/&gt;Qu&#39;en conséquence, cette œuvre présente un intérêt majeur pour le patrimoine national du point de vue de l&#39;histoire et de l&#39;art et doit être considérée comme un trésor national,&lt;br/&gt;Emet un avis favorable au refus du certificat d&#39;exportation demandé.&lt;/p&gt;</content>
+    <published>2021-02-28T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Avis d&#39;appel au mécénat d&#39;entreprise pour l&#39;acquisition par l&#39;Etat d&#39;un trésor national dans le cadre de l&#39;article 238 bis-0 A du code général des impôts</title>
+    <title>Arrêté du 18 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe exceptionnelle du ministère de la culture organisé au titre de l&#39;année 2021</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149579</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La ministre de la culture informe les entreprises imposées à l&#39;impôt sur les sociétés d&#39;après leur bénéfice réel qu&#39;elles peuvent bénéficier de la réduction d&#39;impôt sur les sociétés prévue à l&#39;article 238 bis-0 A du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006069577&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général des impôts, CGI. (V)&#39;&gt;code général des impôts&lt;/a&gt; égale à 90 % des versements qu&#39;elles pourraient effectuer, dans la limite de 50 % de l&#39;impôt dû au titre de l&#39;exercice considéré, en participant à l&#39;acquisition par l&#39;Etat, pour la Bibliothèque nationale de France, d&#39;un manuscrit autographe de Donatien Alphonse François de Sade (1740-1814), Les 120 journées de Sodome, ou L&#39;école du libertinage, rouleau de papier, 1785, accompagné de son étui.&lt;br/&gt;Extraordinaire manuscrit autographe du premier véritable ouvrage du Marquis de Sade, Les 120 journées de Sodome se présente comme une copie au net, sans correction, réalisée entre le 22 octobre et le 28 novembre 1785 pendant l&#39;emprisonnement de son auteur à la Bastille. Narrant l&#39;enfermement de quatre libertins avec notamment leurs épouses, filles et courtisanes dans le château de Silling où ils expérimentent de nombreuses pratiques sexuelles, cette œuvre inachevée, dont les brouillons antérieurs sont perdus, est emplie d&#39;une écriture minuscule et réalisée sous la forme d&#39;un étroit et long rouleau de feuilles de papier collées afin d&#39;être facilement dissimulable dans la cellule du marquis. A la suite du transfert de ce dernier à l&#39;hospice de Charenton au début du mois de juillet 1789, le rouleau est probablement découvert lors du pillage de la forteresse de la Bastille ou de sa démolition, avant que sa trace ne se perde quasiment jusqu&#39;à sa première publication en Allemagne, par le psychiatre Iwan Bloch, en 1904. Il est ensuite racheté en 1929 par Charles de Noailles puis volé, en 1982, à Nathalie de Noailles et vendu à un collectionneur suisse, avant de revenir en France en 2014. Cette œuvre dont la forme particulière, le parcours fort mouvementé, la réputation sulfureuse et l&#39;influence sur un certain nombre d&#39;écrivains français du XXe siècle sont sans égal, est d&#39;une importance capitale dans l&#39;œuvre de Sade. A la fois le plus radical et le plus monumental de ses ouvrages, contenant l&#39;essence de sa philosophie et l&#39;absolu de ses fantasmes, ce « soleil noir » de la littérature a vocation à rejoindre dans les collections publiques le dossier de détenu « embastillé » relatif au « divin marquis ».&lt;br/&gt;Le présent avis d&#39;appel au mécénat d&#39;entreprise porte sur 4 550 000 euros.&lt;br/&gt;Les offres de versement, établies selon le modèle prévu par l&#39;instruction de la direction générale des impôts 4-C-6-02 n° 184 du 24 octobre 2002, doivent être adressées à la direction générale des patrimoines et de l&#39;architecture, service des musées de France, 6, rue des Pyramides, 75041 Paris Cedex 01, où les dossiers relatifs aux trésors nationaux et œuvres présentant un intérêt majeur pour le patrimoine national peuvent être consultés par les entreprises intéressées.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149579"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189615</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 18 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de secrétaire de documentation de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 4.&lt;/p&gt;</content>
+    <published>2021-02-27T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
-    <title>Avis d&#39;appel au mécénat d&#39;entreprise pour l&#39;acquisition par l&#39;Etat d&#39;un trésor national dans le cadre de l&#39;article 238 bis-0 A du code général des impôts</title>
+    <title>Arrêté du 22 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;attaché principal d&#39;administration de l&#39;Etat du ministère de la culture organisé au titre de l&#39;année 2021</title>
     <updated>2021-02-28T21:25:19+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149582</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;La ministre de la culture informe les entreprises imposées à l&#39;impôt sur les sociétés d&#39;après leur bénéfice réel qu&#39;elles peuvent bénéficier de la réduction d&#39;impôt sur les sociétés prévue à l&#39;article 238 bis-0 A du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000006069577&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général des impôts, CGI. (V)&#39;&gt;code général des impôts&lt;/a&gt; égale à 90 % des versements qu&#39;elles pourraient effectuer, dans la limite de 50 % de l&#39;impôt dû au titre de l&#39;exercice considéré, en participant à l&#39;acquisition par l&#39;Etat, pour la Bibliothèque nationale de France, d&#39;un ensemble de manuscrits autographes d&#39;André Breton comprenant le Manifeste du surréalisme, 19 f. et 2 f., juillet-août 1924, le Second Manifeste du surréalisme, 24 f. déreliés, 1929, épreuves corrigées, 40 f., avec divers autres documents joints, reliure et emboîtage contemporain de G.-H. Mergher, Poisson soluble, 59 f., août-septembre 1924, et les manuscrits autographes préparatoires pour Poisson soluble, sept cahiers d&#39;écolier de 97, 20, 44, 20, 20, 24 et 11 pages, mars-mai 1924.&lt;br/&gt;Cet ensemble capital d&#39;écrits fondateurs du surréalisme rédigés par le poète, écrivain et essayiste André Breton (1896-1966), comprend notamment les sept cahiers d&#39;écoliers remplis, au printemps 1924, de récits écrits selon plusieurs procédés dont l&#39;écriture automatique, traduisant une pensée libre de toute censure de la part de leur auteur, alors en rupture avec le mouvement Dada, préparatoires à Poisson soluble. Le manuscrit autographe complet constitue la version définitive de Poisson soluble, dont 32 récits des cahiers furent sélectionnés par Breton pour sa publication. Le Manifeste du surréalisme, préambule théorique dressant le bilan poétique des différentes expériences entreprises, paru avec Poisson soluble, formant préface, en octobre 1924, vient compléter ces récits et marque l&#39;acte de naissance officiel du surréalisme, transformant un réseau d&#39;écrivains et d&#39;artistes, le groupe de la revue Littérature, en mouvement d&#39;avant-garde. Il est le seul manuscrit complet connu, ayant servi à l&#39;impression de ce qui est sans doute le traité d&#39;esthétique le plus célèbre du XXe siècle et le plus influent, publié cinq fois du vivant du poète, qui a toujours refusé de le corriger. Le Second manifeste, rédigé en 1929, augmentant le premier, lui permit de réaffirmer sa théorie par un exceptionnel texte de polémique littéraire. Dès lors, cet ensemble de pièces emblématiques réunissant les versions autographes de deux textes majeurs de la théorie du surréalisme, ainsi que ceux de Poisson soluble, a vocation, par la qualité extrême de ces manuscrits, les éclairages qu&#39;ils apportent sur la genèse des œuvres et leur importance fondamentale dans l&#39;évolution de la littérature mondiale, à rejoindre les collections publiques françaises.&lt;br/&gt;Le présent avis d&#39;appel au mécénat d&#39;entreprise porte sur 900 000 euros.&lt;br/&gt;Les offres de versement, établies selon le modèle prévu par l&#39;instruction de la direction générale des impôts 4-C-6-02 n° 184 du 24 octobre 2002, doivent être adressées à la direction générale des patrimoines et de l&#39;architecture, service des musées de France, 6, rue des Pyramides, 75041 Paris Cedex 01, où les dossiers relatifs aux trésors nationaux et œuvres présentant un intérêt majeur pour le patrimoine national peuvent être consultés par les entreprises intéressées.&lt;/p&gt;</content>
-    <published>2021-02-18T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043149582"></link>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043189617</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 22 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;attaché principal d&#39;administration de l&#39;Etat du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 21.&lt;/p&gt;</content>
+    <published>2021-02-27T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>
     </author>
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043179011</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 20 novembre 2020 (NOR : MICC2032044A), publié au Journal officiel de la République française du 25 novembre 2020, relatives à l&#39;insaisissabilité des biens culturels suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Maurice DENIS (1870-1943), Le Verger à l&#39;Ermitage, vers 1892, huile sur carton contrecollé sur bois, 57 × 47 cm, inv. : 1959Ma040,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Clemens Sels Museum Neuss, Neuss, Allemagne ;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Camille PISSARRO (1830-1903), Jardin et poulailler chez Octave Mirbeau, Les Damps, 1892, huile toile, 73,3 × 92 cm, inv. : MB-Pis-03,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museum Barberini, Potsdam, Allemagne,&lt;br/&gt;prêtés à l&#39;exposition « CÔTÉ JARDIN : DE MONET À BONNARD » organisée et présentée au musée des impressionnismes, Giverny, du 1er avril 2021 au 1er novembre 2021, sont prorogées jusqu&#39;au 31 novembre 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; modifié portant diverses dispositions d&#39;ordre économique et financier.&lt;/p&gt;</content>
     <published>2021-02-25T01:00:00+01:00</published>
@@ -449,7 +462,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173350</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les biens culturels repris dans la liste annexée au présent arrêté, appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Musée national des Beaux-Arts de la République Biélorussie (The National Art Museum of the Republic of Belarus), Minsk, Biélorussie ;&lt;br/&gt;- Galerie nationale Trétiakov (The State Tretyakov Gallery), Moscou, Russie ;&lt;br/&gt;- Musée d&#39;Etat des beaux-arts Pouchkine (The Pushkin State Museum of Fine Arts), Moscou, Russie ;&lt;br/&gt;- Fondation Culturelle Ekaterina (Ekaterina Cultural Foundation), Moscou, Russie ;&lt;br/&gt;- Musée National Russe (The Russian Museum), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Musée d&#39;Etat de l&#39;Ermitage (The State Hermitage Museum), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Musée des Beaux-Arts (Dnipropetrovsk Art Museum), Dnipropetrovsk, Ukraine,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;exposition « ICÔNES DE L&#39;ART MODERNE. LA COLLECTION MOROZOV » organisée et présentée à la Fondation Louis Vuitton, Paris, du 12 mai 2021 au 10 octobre 2021, sont insaisissables pendant la période de leur prêt à la France du 15 mars 2021 au 15 novembre 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;br/&gt;La liste non publiée des biens déclarés insaisissables par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines et de l&#39;architecture du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -459,7 +472,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173353</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 19 mai 2020 (NOR : MICC2011444A), publié au Journal officiel du 26 mai 2020, relatives à l&#39;insaisissabilité des biens culturels appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- The Metropolitan Museum of Art, New York, NY, Etats-Unis ;&lt;br/&gt;- Qatar Museums, Doha, Qatar ;&lt;br/&gt;- Musée gruérien, Bulle, Suisse,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;établissement public des musées d&#39;Orsay et de l&#39;Orangerie, organisateur de l&#39;exposition « GIRAULT DE PRANGEY PHOTOGRAPHE (1804-1892) » présentée au musée d&#39;Orsay, Paris, sont prorogées jusqu&#39;au 31 août 2021, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt;.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -469,7 +482,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173356</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les dispositions prises par l&#39;arrêté d&#39;insaisissabilité du 24 juin 2020 (NOR : MICC2013724A), publié au Journal officiel du 1er juillet 2020, relatives à l&#39;insaisissabilité des biens culturels suivants :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Alsace ? ; Déploration ; vers 1510-1520 ; bois sculpté polychrome ; H. : 90, L. : 106, P. : 31 cm ; inv. : 1024/L,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museo Civico d&#39;Arte Antica, Palazzo Madama, Turin, Italie,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Savoie ; Pietà ; après 1494 ; bois sculpté polychrome ; H. : 97, L. : 59, P. : 30 cm ; inv. : BM 377,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant au Museo del Tesoro della Cattedrale, Aoste, Italie,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Savoie ; Pietà ; vers 1500-1520 ; bois sculpté polychrome ; H. : 99, L. : 80, P. : 35 cm,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;appartenant à l&#39;église paroissiale (chiesa parrocchiale di San Biagio), Doues, Italie,&lt;br/&gt;prêtés à l&#39;exposition « PIETÀ. DANS L&#39;ATELIER DES SCULPTEURS SAVOYARDS À LA FIN DU MOYEN ÂGE » organisée et présentée au Musée-Château d&#39;Annecy, sont prorogées jusqu&#39;au 14 avril 2022, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -479,7 +492,7 @@
   </entry>
   <entry>
     <title>Arrêté du 19 février 2021 relatif à l&#39;insaisissabilité de biens culturels</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173359</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères et de la ministre de la culture en date du 19 février 2021, les biens culturels repris dans la liste annexée au présent arrêté, appartenant aux institutions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- Kunsthistorisches Museum, Vienne, Autriche ;&lt;br/&gt;- Österreichische Galerie Belvedere, Vienne, Autriche ;&lt;br/&gt;- Gallerie degli Uffizi - Palazzo Pitti - Galleria d&#39;Arte Moderna, Florence, Italie ;&lt;br/&gt;- Galata Museo del Mare, Gênes, Italie ;&lt;br/&gt;- Archivio di Stato di Genova, Gênes, Italie ;&lt;br/&gt;- Associazione Progetto Marzotto, Milan, Italie ;&lt;br/&gt;- Accademia di Belle Arti di Brera, Milan, Italie ;&lt;br/&gt;- Patrimonio Artistico di Banco BPM, Milan, Italie ;&lt;br/&gt;- Museo di san Martino, Naples, Italie ;&lt;br/&gt;- Musei Civici di Reggio Emilia, Reggio d&#39;Émilie, Italie ;&lt;br/&gt;- Museo Nazionale del Palazzo di Venezia, Rome, Italie ;&lt;br/&gt;- Museo di Antropologia criminale « Cesare Lombroso » - Università degli Studi di Torino, Turin, Italie ;&lt;br/&gt;- The State Hermitage Museum (Musée d&#39;Etat de l&#39;Ermitage), Saint-Pétersbourg, Russie ;&lt;br/&gt;- Narodna galerija (National Gallery of Slovenia), Ljubljana, Slovénie ;&lt;br/&gt;- Musée des beaux-arts, La Chaux-de-Fonds, Suisse ;&lt;br/&gt;- Musée cantonal des Beaux-Arts, Lausanne, Suisse,&lt;/p&gt;&lt;p&gt;&lt;br/&gt;prêtés à l&#39;exposition « BANDITI ! BRIGANDAGE ET BANDITISME, CORSE-ITALIE 1600-1940 » organisée et présentée au musée de Bastia du 25 juin 2021 au 23 décembre 2021 sont insaisissables pendant la période de leur prêt à la France du 25 mai 2021 au 23 janvier 2022, en application des &lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000000713238&amp;idArticle=LEGIARTI000006698549&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Loi n° 94-679 du 8 août 1994 - art. 61 (V)&#39;&gt;dispositions de l&#39;article 61 de la loi n° 94-679 du 8 août 1994&lt;/a&gt; portant diverses dispositions d&#39;ordre économique et financier.&lt;br/&gt;La liste non publiée des biens déclarés insaisissables par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -489,7 +502,7 @@
   </entry>
   <entry>
     <title>Arrêté du 15 février 2021 portant nomination au conseil d&#39;administration de l&#39;établissement public du Haras national du Pin</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173704</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 15 février 2021, Mme Boura (Frédérique), directrice régionale des affaires culturelles de Normandie, est nommée membre du conseil d&#39;administration de l&#39;établissement public du Haras national du Pin en tant que représentante de l&#39;Etat désignée par le ministre chargé de la culture, en remplacement de M. Ollivier (Jean-Paul).&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
@@ -499,7 +512,7 @@
   </entry>
   <entry>
     <title>Arrêté du 9 février 2021 portant transfert de propriété de biens des collections nationales au profit d&#39;une collectivité territoriale, en application des dispositions des articles L. 125-1 et L. 451-8 du code du patrimoine</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163137</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 9 février 2021, la propriété de biens des collections nationales du musée des civilisations de l&#39;Europe et de la Méditerranée (MuCEM), Marseille, dont la liste est jointe au présent arrêté, est transférée à la collectivité territoriale de Corse pour affectation aux collections publiques du musée régional d&#39;anthropologie de la Corse, Corte, selon les conditions de protection prévues aux &lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006074236&amp;idArticle=LEGIARTI000006845667&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code du patrimoine - art. L451-3 (V)&#39;&gt;articles L. 451-3 à L. 451-8 du code du patrimoine&lt;/a&gt;.&lt;br/&gt;Les biens dont la propriété est transférée sont radiés de l&#39;inventaire du musée des civilisations de l&#39;Europe et de la Méditerranée (MuCEM), Marseille, ainsi que des registres de dépôts du musée de Corte et seront inscrits sur l&#39;inventaire du musée régional d&#39;anthropologie de la Corse, Corte, à la date de publication de l&#39;arrêté.&lt;br/&gt;Le présent arrêté annule et remplace l&#39;arrêté portant transfert du 20 décembre 2018, publié au Journal officiel du 23 janvier 2019.&lt;br/&gt;La liste non publiée des biens transférés par le présent arrêté est consultable auprès du service des musées de France de la direction générale des patrimoines et de l&#39;architecture du ministère de la culture, 6, rue des Pyramides, 75001 Paris.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -509,7 +522,7 @@
   </entry>
   <entry>
     <title>Décision du 18 février 2021 modifiant la décision du 3 février 2021 portant délégation de signature (direction générale des patrimoines et de l&#39;architecture)</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043163140</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La décision du 3 février 2021 susvisée est modifiée ainsi qu&#39;il suit :&lt;br/&gt;1° L&#39;article 3 est complété par les dispositions suivantes :&lt;br/&gt;« 3. M. Aurélien CONRAUX, conservateur du patrimoine, dans la limite des attributions du bureau de l&#39;expertise numérique et de la conservation durable ;&lt;br/&gt;« 4. Mme Mélanie REBOURS, conservatrice en chef du patrimoine, dans la limite des attributions du bureau du contrôle et de la collecte des archives publiques. » ;&lt;br/&gt;2° L&#39;article 9 est remplacé par les dispositions suivantes :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;« Art. 9. - Délégation est donnée à l&#39;effet de signer, au nom de la ministre chargée de la culture, tous actes, arrêtés et décisions, à l&#39;exclusion des décrets, relevant de la sous-direction des affaires financières et générales, à :&lt;br/&gt;« 1. M. Stéphane DELANOË, administrateur civil ;&lt;br/&gt;« 2. M. Brice LEBOEUF, agent contractuel, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 3. M. Ronald AMETIS, attaché d&#39;administration, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 4. M. Philippe DONNART, attaché d&#39;administration, dans la limite des attributions du bureau des affaires financières ;&lt;br/&gt;« 5. M. Didier TOUZELIN, agent contractuel, dans la limite des attributions du bureau des affaires juridiques ;&lt;br/&gt;« 6. M. Cédric GUILLAUME, agent contractuel, dans la limite des attributions du bureau des affaires juridiques ;&lt;br/&gt;« 7. Mme Florie YALL, attachée d&#39;administration, dans la limite des attributions du bureau de la programmation budgétaire et de la performance ;&lt;br/&gt;« 8. Mme Audrey LEFRANC-MAUPILÉ, attachée principale territoriale, dans la limite des attributions du bureau des ressources humaines ;&lt;br/&gt;« 9. M. Olivier FOLLIOT, attaché principal d&#39;administration, dans la limite des attributions du bureau de la formation scientifique et technique. »&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;La présente décision sera publiée au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-21T01:00:00+01:00</published>
@@ -519,29 +532,9 @@
   </entry>
   <entry>
     <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique d&#39;accueil, de surveillance et de magasinage principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
+    <updated>2021-02-28T21:25:19+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162628</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade d&#39;adjoint technique d&#39;accueil, de surveillance et de magasinage principal de 2e classe du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 20.&lt;/p&gt;</content>
-    <published>2021-02-20T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la culture</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162630</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe exceptionnelle du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 10.&lt;/p&gt;</content>
-    <published>2021-02-20T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de la culture</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 11 février 2021 fixant le nombre de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe supérieure du ministère de la culture, organisé au titre de l&#39;année 2021</title>
-    <updated>2021-02-26T10:08:43+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162632</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté de la ministre de la culture en date du 11 février 2021, le nombre total de postes offerts à l&#39;examen professionnel d&#39;avancement au grade de technicien des services culturels et des bâtiments de France de classe supérieure du ministère de la culture, organisé au titre de l&#39;année 2021, est fixé à 12.&lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
     <author>
       <name>Ministère de la culture</name>

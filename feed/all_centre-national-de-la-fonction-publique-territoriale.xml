@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - centre-national-de-la-fonction-publique-territoriale</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_centre-national-de-la-fonction-publique-territoriale.xml</id>
-  <updated>2021-02-26T10:08:44+01:00</updated>
+  <updated>2021-03-02T08:17:34+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -9,12 +9,22 @@
     <email>luca@di-carlo.fr</email>
   </author>
   <entry>
+    <title>Arrêté du 12 février 2021 portant établissement de la liste d&#39;aptitude au titre du concours d&#39;ingénieur en chef territorial (session 2019) à compter du 1er mars 2021</title>
+    <updated>2021-03-02T08:17:34+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201320</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du président du Centre national de la fonction publique territoriale en date du 12 février 2021, la liste d&#39;aptitude des concours d&#39;accès au grade d&#39;ingénieur en chef territorial (session 2019) est arrêtée à compter du 1er mars 2021 et comporte 23 lauréats :&lt;br/&gt;BONFILS Marie.&lt;br/&gt;BURRIER Georges.&lt;br/&gt;DÉCAMPS Laurent.&lt;br/&gt;DESBONNE Régis.&lt;br/&gt;DESPINASSE Frédéric.&lt;br/&gt;DUSSARDIER Jérôme.&lt;br/&gt;LAFAURY Emeline.&lt;br/&gt;LANFRANCHI Guillaume.&lt;br/&gt;LATTAR Mahieddine.&lt;br/&gt;LAURANT Sabine.&lt;br/&gt;LAVERDIERE Folco.&lt;br/&gt;LEGAT Brigitte.&lt;br/&gt;LEPETIT Gaétan.&lt;br/&gt;LESPRIT Olivier.&lt;br/&gt;LEYMARIE Jérémie.&lt;br/&gt;MAMBERT Virginie.&lt;br/&gt;MARTY Carine.&lt;br/&gt;MORANDINI Pierre.&lt;br/&gt;NIVOT Arnaud.&lt;br/&gt;SIMONIN Florian.&lt;br/&gt;TEMPEZ Mathilde.&lt;br/&gt;TOTTOLI-DESANTE Hélène.&lt;br/&gt;TURQUET François-Xavier.&lt;/p&gt;</content>
+    <published>2021-03-02T01:00:00+01:00</published>
+    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043201320"></link>
+    <author>
+      <name>Centre national de la fonction publique territoriale</name>
+    </author>
+  </entry>
+  <entry>
     <title>Arrêté du 1er février 2021 portant ouverture de concours (un concours externe et un concours interne) pour le recrutement dans le cadre d&#39;emplois des conservateurs territoriaux du patrimoine (session 2021)</title>
     <updated>2021-02-26T10:08:44+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134660</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du président du Centre national de la fonction publique territoriale en date du 1er février 2021, des concours (un concours externe et un concours interne) pour le recrutement dans le cadre d&#39;emplois des conservateurs territoriaux du patrimoine sont ouverts par le Centre national de la fonction publique territoriale au titre de l&#39;année 2021. Ils sont organisés par l&#39;Institut national du patrimoine pour le compte du Centre national de la fonction publique territoriale.&lt;br/&gt;Les épreuves d&#39;admissibilité se dérouleront dans un centre d&#39;examen en région parisienne du 24 au 27 août 2021 pour les spécialités ouvertes. Des centres d&#39;examen supplémentaires pourront être créés pour les candidats résidant dans les départements, régions et collectivités d&#39;outre-mer après réception des candidatures à chacun des concours.&lt;br/&gt;Les demandes d&#39;inscription doivent être impérativement effectuées sur les formulaires d&#39;inscription réalisés par l&#39;Institut national du patrimoine et qui portent le timbre des deux établissements. Ces dossiers sont disponibles au Centre national de la fonction publique territoriale (siège) ainsi qu&#39;à l&#39;Institut national du patrimoine.&lt;br/&gt;Le retrait des dossiers de candidature est fixé entre le mercredi 31 mars et le vendredi 30 avril 2021, dernier délai. Ces dossiers pourront être retirés, soit directement auprès du Centre national de la fonction publique territoriale (siège) ou de l&#39;Institut national du patrimoine, soit par demande adressée par voie postale, au plus tard le vendredi 30 avril 2021, le cachet de la poste faisant foi et accompagnée d&#39;une enveloppe grand format (A4) affranchie au tarif en vigueur pour un envoi de 250 grammes environ, libellée aux nom et adresse du demandeur.&lt;br/&gt;Les dossiers pourront également être téléchargés sur le site internet de l&#39;Institut national du patrimoine (http://www.inp.fr) entre le 31 mars et le 30 avril 2021.&lt;br/&gt;Les dossiers de candidature dûment remplis, signés et complétés des pièces justificatives demandées devront obligatoirement être transmis en pli suivi ou en recommandé avec accusé de réception au plus tard le 30 avril 2021, terme de rigueur (le cachet de la poste faisant foi), au service des concours de l&#39;Institut national du patrimoine, à l&#39;adresse suivante : Institut national du patrimoine, service des concours, 2, rue Vivienne, 75002 Paris.&lt;br/&gt;Aucune demande de dossier adressée hors délai ni aucun dossier posté hors délai ne sera pris en compte.&lt;br/&gt;Le nombre de postes ouverts aux concours fera prochainement l&#39;objet d&#39;un arrêté publié au Journal officiel.&lt;br/&gt;Tous renseignements complémentaires, et en particulier les conditions de candidature, pourront être communiqués sur simple demande adressée au service des concours du Centre national de la fonction publique territoriale ou à l&#39;Institut national du patrimoine.&lt;/p&gt;</content>
     <published>2021-02-16T01:00:00+01:00</published>
-    <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043134660"></link>
     <author>
       <name>Centre national de la fonction publique territoriale</name>
     </author>

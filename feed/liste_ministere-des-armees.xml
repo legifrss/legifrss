@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-des-armees - liste</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/liste_ministere-des-armees.xml</id>
-  <updated>2021-02-28T21:25:22+01:00</updated>
+  <updated>2021-03-02T08:17:35+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Liste d&#39;admission après concours aux stages de formation des chefs de musique de deuxième classe (concours 2021)</title>
-    <updated>2021-02-28T21:25:22+01:00</updated>
+    <updated>2021-03-02T08:17:35+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156334</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le candidat dont le nom suit est déclaré admis au concours d&#39;admission en stage de formation des chefs de musique ouvert au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000019475396&amp;idArticle=JORFARTI000019475512&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-931  du 12 septembre 2008 - art. 4 (V)&#39;&gt;article 4 du décret n° 2008-931 du 12 septembre 2008&lt;/a&gt; modifié portant statuts particuliers des corps des chefs de musique et des sous-chefs de musique dans les armées et la gendarmerie nationale, en 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours ouvert au titre du 1° (a) de l&#39;article 4&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Chouinard (Ronan, Mikaël, Joseph, Marie).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours ouvert au titre du 1° (b) de l&#39;article 4&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Etat néant.&lt;/p&gt;</content>
     <published>2021-02-19T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156334"></link>
+    <author>
+      <name>Ministère des armées</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Liste d&#39;admission après concours aux stages de formation des chefs de musique de deuxième classe (concours 2021)</title>
+    <updated>2021-02-28T21:25:22+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043156334</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le candidat dont le nom suit est déclaré admis au concours d&#39;admission en stage de formation des chefs de musique ouvert au titre de l&#39;&lt;a href=&#39;/affichTexteArticle.do?cidTexte=JORFTEXT000019475396&amp;idArticle=JORFARTI000019475512&amp;categorieLien=cid&#39; title=&#39;Décret n°2008-931  du 12 septembre 2008 - art. 4 (V)&#39;&gt;article 4 du décret n° 2008-931 du 12 septembre 2008&lt;/a&gt; modifié portant statuts particuliers des corps des chefs de musique et des sous-chefs de musique dans les armées et la gendarmerie nationale, en 2021 :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours ouvert au titre du 1° (a) de l&#39;article 4&lt;/p&gt;&lt;p&gt;&lt;br/&gt;M. Chouinard (Ronan, Mikaël, Joseph, Marie).&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Concours ouvert au titre du 1° (b) de l&#39;article 4&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Etat néant.&lt;/p&gt;</content>
+    <published>2021-02-19T01:00:00+01:00</published>
     <author>
       <name>Ministère des armées</name>
     </author>

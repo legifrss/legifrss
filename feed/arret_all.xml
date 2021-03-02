@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - arret</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arret_all.xml</id>
-  <updated>2021-02-28T21:25:18+01:00</updated>
+  <updated>2021-03-02T08:17:32+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Arrêt n° 247-779 II du 11 février 2021 « Chambre de commerce et d&#39;industrie de La Rochelle - 2e arrêt » (Accès protégé)</title>
-    <updated>2021-02-28T21:25:18+01:00</updated>
+    <updated>2021-03-02T08:17:32+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162976</id>
     <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000031366350&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des relations entre le public et l&#39;administration (V)&#39;&gt;code des relations entre le public et l&#39;administration&lt;/a&gt;, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
     <published>2021-02-20T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162976"></link>
+    <author>
+      <name>Cour de discipline budgétaire et financière</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêt n° 247-779 II du 11 février 2021 « Chambre de commerce et d&#39;industrie de La Rochelle - 2e arrêt » (Accès protégé)</title>
+    <updated>2021-02-28T21:25:18+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043162976</id>
+    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;En application de l&#39;article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du &lt;a href=&#39;/affichCode.do?cidTexte=LEGITEXT000031366350&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code des relations entre le public et l&#39;administration (V)&#39;&gt;code des relations entre le public et l&#39;administration&lt;/a&gt;, les actes individuels relatifs à l&#39;état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu&#39;ils ne font pas l&#39;objet d&#39;une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  cliquant sur le lien ci-dessous : &lt;/p&gt;</content>
+    <published>2021-02-20T01:00:00+01:00</published>
     <author>
       <name>Cour de discipline budgétaire et financière</name>
     </author>

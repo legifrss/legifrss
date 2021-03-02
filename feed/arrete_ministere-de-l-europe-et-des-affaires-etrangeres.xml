@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Legifrance RSS - ministere-de-l-europe-et-des-affaires-etrangeres - arrete</title>
   <id>https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/arrete_ministere-de-l-europe-et-des-affaires-etrangeres.xml</id>
-  <updated>2021-02-28T21:25:23+01:00</updated>
+  <updated>2021-03-02T08:17:34+01:00</updated>
   <logo>https://www.legifrance.gouv.fr/contenu/logo</logo>
   <subtitle>This is a non-official RSS feed for Legifrance&#39;s Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss </subtitle>
   <author>
@@ -10,11 +10,21 @@
   </author>
   <entry>
     <title>Arrêté du 18 février 2021 portant nomination au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes</title>
-    <updated>2021-02-28T21:25:23+01:00</updated>
+    <updated>2021-03-02T08:17:34+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Léonor Guy est nommée conseillère affaires générales, relations extérieures et Brexit au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
     <published>2021-02-24T01:00:00+01:00</published>
     <link href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574"></link>
+    <author>
+      <name>Ministère de l&#39;Europe et des affaires étrangères</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arrêté du 18 février 2021 portant nomination au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes</title>
+    <updated>2021-02-28T21:25:23+01:00</updated>
+    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043173574</id>
+    <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Mme Léonor Guy est nommée conseillère affaires générales, relations extérieures et Brexit au cabinet du secrétaire d&#39;État auprès du ministre de l&#39;Europe et des affaires étrangères, chargé des affaires européennes, à compter du 1er mars 2021.&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
+    <published>2021-02-24T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;Europe et des affaires étrangères</name>
     </author>
@@ -494,16 +504,6 @@
     <updated>2020-12-31T11:54:49+01:00</updated>
     <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042738128</id>
     <content type="html">Article 1&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070299&amp;idArticle=LEGIARTI000024885181&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général de la propriété des personnes publ... - art. R2124-65 (M)&#39;&gt;article R. 2124-65 du code général de la propriété des personnes publiques&lt;/a&gt;, les fonctions pouvant ouvrir droit à l&#39;attribution d&#39;une concession de logement par nécessité absolue de service (NAS) sont les suivantes :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Fonctions&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Département&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Ville&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Nombre de postes&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Intendant - fonction de surveillance du site&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Yvelines (78)&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;La Celle-Saint-Cloud&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Surveillance du site - Femme de chambre&lt;/td&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Yvelines (78)&lt;/td&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;La Celle-Saint-Cloud&lt;/td&gt;&lt;td rowspan=&#39;2&#39; valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&#39;left&#39;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Surveillance du site - Jardinier&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Yvelines (78)&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;La Celle-Saint-Cloud&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;3&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Total NAS services de l&#39;Etat&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;Article 2&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Pour l&#39;application de l&#39;&lt;a href=&#39;/affichCodeArticle.do?cidTexte=LEGITEXT000006070299&amp;idArticle=LEGIARTI000024885187&amp;dateTexte=&amp;categorieLien=cid&#39; title=&#39;Code général de la propriété des personnes publ... - art. R2124-68 (M)&#39;&gt;article R. 2124-68 du code général de la propriété des personnes publiques&lt;/a&gt;, les fonctions pouvant ouvrir droit à l&#39;attribution d&#39;une convention d&#39;occupation précaire avec astreinte (COP/A) sont les suivantes :&lt;/p&gt;&lt;p&gt;&lt;div align=&#39;center&#39;&gt;&lt;center&gt;&lt;table border=&#39;1&#39;&gt;&lt;tr&gt;&lt;th&gt;&lt;br/&gt;Fonctions&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Département&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Ville&lt;/th&gt;&lt;th&gt;&lt;br/&gt;Nombre de postes&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Conservatrice&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;Yvelines (78)&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;La Celle-Saint-Cloud&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#39;3&#39; valign=&#39;middle&#39; align=&#39;left&#39;&gt;&lt;br/&gt;Total COP/A services de l&#39;Etat&lt;/td&gt;&lt;td valign=&#39;middle&#39; align=&#39;center&#39;&gt;&lt;br/&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;/div&gt;&lt;/p&gt;Article 3&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté cesse de produire effet à compter du 31 décembre 2025.&lt;/p&gt;Article 4&lt;br /&gt;&lt;p&gt;&lt;br/&gt;Le présent arrêté sera publié au Journal officiel de la République française.&lt;/p&gt;</content>
-    <published>2020-12-26T01:00:00+01:00</published>
-    <author>
-      <name>Ministère de l&#39;Europe et des affaires étrangères</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Arrêté du 14 décembre 2020 portant admission à la retraite (agents diplomatiques et consulaires)</title>
-    <updated>2020-12-31T11:54:49+01:00</updated>
-    <id>https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042740076</id>
-    <content type="html">Article &lt;br /&gt;&lt;p&gt;&lt;br/&gt;Par arrêté du ministre de l&#39;Europe et des affaires étrangères en date du 14 décembre 2020, M. YELDA (Guy), ministre plénipotentaire de 1re classe, est admis à faire valoir ses droits à la retraite, sur sa demande, à compter du 1er juillet 2021.&lt;/p&gt;</content>
     <published>2020-12-26T01:00:00+01:00</published>
     <author>
       <name>Ministère de l&#39;Europe et des affaires étrangères</name>
