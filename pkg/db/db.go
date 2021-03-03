@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"os"
+	"sort"
 	"strings"
 	"time"
 
@@ -78,4 +79,36 @@ func merge(newElements []models.LegifranceElement, oldElements []models.Legifran
 	}
 	mergeResult = list
 	return mergeResult
+}
+
+func GetAuthors() (arr []string) {
+	values := getAll()
+	authors := map[string]string{}
+	for _, value := range values {
+		authors[value.Author] = ""
+	}
+
+	for key := range authors {
+		if key != "" {
+			arr = append(arr, key)
+		}
+	}
+	sort.Strings(arr[:])
+	return arr
+}
+
+func GetNatures() (arr []string) {
+	values := getAll()
+	natures := map[string]string{}
+	for _, value := range values {
+		natures[value.Nature] = ""
+	}
+
+	for key := range natures {
+		if key != "" {
+			arr = append(arr, key)
+		}
+	}
+	sort.Strings(arr[:])
+	return arr
 }

@@ -16,8 +16,8 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 	feed := &feeds.AtomFeed{
 		Xmlns:    "http://www.w3.org/2005/Atom",
 		Title:    "Legifrance RSS " + feedDesc.TitleSuffix,
-		Id:       "https://legifrss.org/",
-		Subtitle: "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://github.com/ldicarlo/legifrance-rss " + feedDesc.DescriptionSuffix,
+		Id:       feedDesc.LinkSuffix,
+		Subtitle: "This is a non-official RSS feed for Legifrance's Official Law updates. This is at TESTING stage for now. If you want to follow that topic, you can find more info at https://legifrss.github.io." + feedDesc.DescriptionSuffix,
 		Author:   &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: "Luca Di Carlo", Email: "luca@di-carlo.fr"}},
 		// unnecessary loop; there is another one below
 		Updated: extractMeta(input).updated,

@@ -8,5 +8,6 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
+	github.com/stockx/go-gin-cache v1.2.0 // indirect
 	github.com/stretchr/testify v1.6.1
 )
