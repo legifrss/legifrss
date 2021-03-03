@@ -13,7 +13,7 @@ import (
 
 // getAll returns all contents of db.xml
 func getAll() (result map[string]models.LegifranceElement) {
-	file, err := os.Open("feed/db.json")
+	file, err := os.Open("db/db.json")
 	if err != nil {
 		return map[string]models.LegifranceElement{}
 	}
@@ -62,11 +62,11 @@ func Persist(result []models.LegifranceElement) {
 		}
 	}
 
-	for _, element := range filteredDb {
-		db[element.ID] = element
+	for _, element := range result {
+		filteredDb[element.ID] = element
 	}
 
-	jsonResult, _ := json.Marshal(db)
+	jsonResult, _ := json.Marshal(filteredDb)
 	err := ioutil.WriteFile("db/db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
