@@ -20,7 +20,7 @@ Read the doc at https://legifrss.github.io. If you need it translated in English
 - Tech:
   - [X] one xml file with all inside
   - [X] 1h cache on requests
-  - SSL certificate and HTTPS enable (I mean it's 2021 wth)
+  - [ ] SSL certificate and HTTPS enable (I mean it's 2021 wth)
 - Doc:
   - [X] https://legifrss.github.io
   - [X] all types
