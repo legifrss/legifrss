@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/gorilla/feeds"
-	"github.com/ldicarlo/legifrss/server/models"
+	"github.com/ldicarlo/legifrss/server/pkg/models"
 )
 
 type metaRSS struct {

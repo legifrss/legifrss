@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ldicarlo/legifrss/server/models"
+	"github.com/ldicarlo/legifrss/server/pkg/models"
 )
 
 func ExtractAndConvertDILA(input []models.JOContainerResult) (result []models.LegifranceElement) {

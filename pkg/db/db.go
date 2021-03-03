@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ldicarlo/legifrss/server/models"
-	"github.com/ldicarlo/legifrss/server/utils"
+	"github.com/ldicarlo/legifrss/server/pkg/models"
+	"github.com/ldicarlo/legifrss/server/pkg/utils"
 )
 
 // getAll returns all contents of db.xml
