@@ -12,29 +12,20 @@ Note that this project is at its ALPHA stage, it's more of a PoC for now.
 
 ## How to use
 
-Just add the following feed to you RSS reader: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all.xml`
-
-If you want a specific NATURE or AUTHOR, you can find them [here](https://github.com/ldicarlo/legifrance-rss/tree/master/feed). Just add the file name to `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/`
-
-(Example: `https://raw.githubusercontent.com/ldicarlo/legifrance-rss/master/feed/all_Commission-nationale-du-débat-public.xml`)
-
-It works in [Feedly](https://feedly.com).
-
-## Nightly
-
-If you want to check the last features you can add the following feed to you RSS reader: `https://github.com/ldicarlo/legifrance-rss/tree/nightly/feed`
+Read the doc at https://legifrss.github.io. If you need it translated in English please contact me.
 
 ## TODO
 
-- Add valid RSS checker.
+- [X] Add valid RSS checker.
 - Tech:
-  - one xml file with all inside
-  - 1h cache on requests
+  - [X] one xml file with all inside
+  - [X] 1h cache on requests
+  - SSL certificate and HTTPS enable (I mean it's 2021 wth)
 - Doc:
-  - https://legifrss.github.io
-  - all types
-  - all authors
+  - [X] https://legifrss.github.io
+  - [X] all types
+  - [X] all authors
 - Feats:
-  - https://legifrss.org/latest => all
-  - https://legifrss.org/latest?q=écologie => search all with term
-  - https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search loi with term and author
+  - [X] https://legifrss.org/latest => all
+  - [X] https://legifrss.org/latest?q=écologie => search all with term
+  - [X] https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search loi with term and author
