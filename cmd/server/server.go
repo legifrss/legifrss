@@ -28,7 +28,7 @@ func main() {
 		rss := rss.TransformToRSS(result, models.FeedDescription{
 			TitleSuffix:       strings.TrimSpace(queryContext.Author + " " + queryContext.Nature + " " + queryContext.Keyword),
 			DescriptionSuffix: "",
-			LinkSuffix:        c.Request.Host + c.FullPath() + c.Request.RequestURI,
+			LinkSuffix:        c.Request.Host + c.Request.RequestURI,
 		})
 		c.XML(200, rss)
 	})
