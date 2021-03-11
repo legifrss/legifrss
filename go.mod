@@ -3,6 +3,7 @@ module github.com/ldicarlo/legifrss/server
 go 1.15
 
 require (
+	github.com/dghubble/oauth1 v0.7.0
 	github.com/gin-gonic/gin v1.6.3
 	github.com/gorilla/feeds v1.1.1
 	github.com/joho/godotenv v1.3.0
