@@ -65,7 +65,7 @@ func ExtractContentToPublish() []models.LegifranceElement {
 	for _, element := range feed {
 		if element.TwitterPublished == 0 {
 			entries = append(entries, element)
-			if len(entries) >= 100 {
+			if len(entries) >= 99 {
 				break
 			}
 		}
