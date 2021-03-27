@@ -102,9 +102,7 @@ func PublishElement(element models.LegifranceElement) (int64, error) {
 	} else {
 		tweetStr = element.Description[0:200] + " ..."
 	}
-	tweet, _, err := client.Statuses.Update(
-		tweetStr+" "+"#"+element.Nature+" "+element.Link, &twitter.StatusUpdateParams{}
-	)
+	tweet, _, err := client.Statuses.Update(tweetStr+" "+"#"+element.Nature+" "+element.Link, &twitter.StatusUpdateParams{})
 	if err != nil {
 		return 0, err
 	}

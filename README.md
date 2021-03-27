@@ -46,4 +46,4 @@ Read the doc at https://legifrss.github.io. If you need it translated in English
   - [X] https://legifrss.org/latest => all
   - [X] https://legifrss.org/latest?q=écologie => search all with term
   - [X] https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search law with term and author
-
+- [X] Add twitter Bot: https://twitter.com/Legifrance1
