@@ -97,6 +97,9 @@ func Persist(result []models.LegifranceElement) {
 	}
 
 	for _, element := range result {
+		if val, ok := filteredDb[element.ID]; ok {
+			element.TwitterPublished = val.TwitterPublished
+		}
 		filteredDb[element.ID] = element
 	}
 
