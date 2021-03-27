@@ -14,7 +14,7 @@ type LegifranceElement struct {
 	SanitizedNature  string
 	Date             time.Time `json:"date"`
 	Content          string    `json:"content"`
-	TwitterPublished bool      `json:"twitter_published"`
+	TwitterPublished int64     `json:"twitter_published"`
 }
 
 type FeedDescription struct {

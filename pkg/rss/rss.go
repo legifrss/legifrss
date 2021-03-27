@@ -21,7 +21,7 @@ func TransformToRSS(input []models.LegifranceElement, feedDesc models.FeedDescri
 		Author:   &feeds.AtomAuthor{AtomPerson: feeds.AtomPerson{Name: "Luca Di Carlo", Email: "luca@di-carlo.fr"}},
 		// unnecessary loop; there is another one below
 		Updated: extractMeta(input).updated,
-		Logo:    "https://www.legifrance.gouv.fr/contenu/logo",
+		Logo:    "https://www.legifrance.gouv.fr/favicon.ico",
 	}
 
 	for _, legifranceElement := range input {

@@ -5,7 +5,6 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ldicarlo/legifrss/server/pkg/bot"
 	"github.com/ldicarlo/legifrss/server/pkg/db"
 	"github.com/ldicarlo/legifrss/server/pkg/models"
 	"github.com/ldicarlo/legifrss/server/pkg/rss"
@@ -35,10 +34,23 @@ func main() {
 	})
 	r.GET("/authors", cache.CachePage(store, time.Minute, func(c *gin.Context) { c.JSON(200, db.GetAuthors()) }))
 	r.GET("/natures", cache.CachePage(store, time.Minute, func(c *gin.Context) { c.JSON(200, db.GetNatures()) }))
-	r.GET("/callback", func(c *gin.Context) {
-		bot.RegisterToken(c.Query("oauth_token"), c.Query("oauth_verifier"))
-		c.JSON(200, "OK")
-	})
-	r.GET("/auth", func(c *gin.Context) { c.Redirect(307, bot.GetAuthURL()) })
+
+	// r.GET("/callback", func(c *gin.Context) {
+	// 	bot.RegisterToken(c.Query("oauth_token"), c.Query("oauth_verifier"))
+	// 	c.JSON(200, "OK")
+	// })
+	// r.GET("/auth", func(c *gin.Context) { c.Redirect(307, bot.GetAuthURL()) })
+	// For local purposes only
+	// r.GET("/twitter_publish", func(c *gin.Context) {
+	// 	bot.ProcessElems()
+	// 	c.JSON(200, "ok")
+	// })
+	// r.GET("/twitter_statuses", func(c *gin.Context) {
+	// 	c.JSON(200, bot.GetAllTweets())
+	// })
+	// r.GET("/remove_twitter_statuses", func(c *gin.Context) {
+	// 	c.JSON(200, bot.RemoveAllTweets())
+	// })
+
 	r.Run(":8080")
 }

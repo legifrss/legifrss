@@ -2,19 +2,37 @@ package db
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"os"
 	"sort"
-	"strconv"
 	"strings"
 	"time"
 
+	"github.com/dghubble/oauth1"
 	"github.com/ldicarlo/legifrss/server/pkg/models"
 	"github.com/ldicarlo/legifrss/server/pkg/utils"
 )
 
-// getAll returns all contents of db.xml
+func PersistToken(token oauth1.Token) {
+	jsonResult, _ := json.Marshal(token)
+	err := ioutil.WriteFile("db/token.json", jsonResult, 0644)
+	utils.ErrCheck(err)
+}
+
+func GetToken() (token oauth1.Token, noFile error) {
+	file, err := os.Open("db/token.json")
+	if err != nil {
+		noFile = err
+		return
+	}
+	byteValue, _ := ioutil.ReadAll(file)
+
+	json.Unmarshal(byteValue, &token)
+	return token, nil
+
+}
+
+// getAll returns all contents of db.json
 func getAll() (result map[string]models.LegifranceElement) {
 	file, err := os.Open("db/db.json")
 	if err != nil {
@@ -45,7 +63,7 @@ func ExtractContentToPublish() []models.LegifranceElement {
 	var entries []models.LegifranceElement
 
 	for _, element := range feed {
-		if !element.TwitterPublished {
+		if element.TwitterPublished == 0 {
 			entries = append(entries, element)
 		}
 	}
@@ -79,7 +97,6 @@ func Persist(result []models.LegifranceElement) {
 	}
 
 	for _, element := range result {
-		fmt.Println(element.Title + ":" + strconv.FormatBool(element.TwitterPublished))
 		filteredDb[element.ID] = element
 	}
 

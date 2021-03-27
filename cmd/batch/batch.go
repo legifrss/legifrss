@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
+	"github.com/ldicarlo/legifrss/server/pkg/bot"
 	"github.com/ldicarlo/legifrss/server/pkg/db"
 	"github.com/ldicarlo/legifrss/server/pkg/dila"
 	"github.com/ldicarlo/legifrss/server/pkg/models"
@@ -53,6 +54,9 @@ func Start() int {
 
 	db.Persist(list)
 	fmt.Println("Execution time: " + time.Since(beginning).String())
+
+	bot.ProcessElems()
+
 	return 0
 }
 
