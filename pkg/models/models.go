@@ -3,17 +3,18 @@ package models
 import "time"
 
 type LegifranceElement struct {
-	Title           string   `json:"title"`
-	ID              string   `json:"id"`
-	Nature          string   `json:"nature"`
-	Link            string   `json:"link"`
-	Description     string   `json:"description"`
-	Category        []string `json:"category"`
-	Author          string   `json:"author"`
-	SanitizedAuthor string
-	SanitizedNature string
-	Date            time.Time `json:"date"`
-	Content         string    `json:"content"`
+	Title            string   `json:"title"`
+	ID               string   `json:"id"`
+	Nature           string   `json:"nature"`
+	Link             string   `json:"link"`
+	Description      string   `json:"description"`
+	Category         []string `json:"category"`
+	Author           string   `json:"author"`
+	SanitizedAuthor  string
+	SanitizedNature  string
+	Date             time.Time `json:"date"`
+	Content          string    `json:"content"`
+	TwitterPublished bool      `json:"twitter_published"`
 }
 
 type FeedDescription struct {

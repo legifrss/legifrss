@@ -2,9 +2,11 @@ package db
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 	"time"
 
@@ -38,6 +40,19 @@ func Query(queryContext models.QueryContext) []models.LegifranceElement {
 	return entries
 }
 
+func ExtractContentToPublish() []models.LegifranceElement {
+	var feed = getAll()
+	var entries []models.LegifranceElement
+
+	for _, element := range feed {
+		if !element.TwitterPublished {
+			entries = append(entries, element)
+		}
+	}
+
+	return entries
+}
+
 func keep(queryContext models.QueryContext, element *models.LegifranceElement) bool {
 	if queryContext.Author != "" && !strings.Contains(strings.ToUpper(element.Author), queryContext.Author) {
 		return false
@@ -64,21 +79,13 @@ func Persist(result []models.LegifranceElement) {
 	}
 
 	for _, element := range result {
+		fmt.Println(element.Title + ":" + strconv.FormatBool(element.TwitterPublished))
 		filteredDb[element.ID] = element
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
 	err := ioutil.WriteFile("db/db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
-}
-
-func merge(newElements []models.LegifranceElement, oldElements []models.LegifranceElement, limit int) (mergeResult []models.LegifranceElement) {
-	list := append(newElements, oldElements...)
-	if len(list) > limit {
-		list = list[:limit]
-	}
-	mergeResult = list
-	return mergeResult
 }
 
 func GetAuthors() (arr []string) {
