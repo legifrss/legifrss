@@ -104,6 +104,10 @@ func PublishElement(element models.LegifranceElement) (int64, error) {
 	}
 	tweet, _, err := client.Statuses.Update(tweetStr+" "+"#"+element.Nature+" "+element.Link, &twitter.StatusUpdateParams{})
 	if err != nil {
+		if err.Error() == "twitter: 187 Status is a duplicate." {
+			fmt.Println("Found duplicate, ignoring " + element.ID)
+			return 1, nil
+		}
 		return 0, err
 	}
 	return tweet.ID, nil
