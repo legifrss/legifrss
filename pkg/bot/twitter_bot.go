@@ -82,7 +82,6 @@ func ProcessElems() {
 	toPublish := db.ExtractContentToPublish()
 	var published []models.LegifranceElement
 	for _, elem := range toPublish {
-		fmt.Println(elem.Title)
 		id, err := PublishElement(elem)
 		if err != nil {
 			fmt.Println(err)
