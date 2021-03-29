@@ -91,7 +91,6 @@ func ProcessElems() {
 			state[elem.JORFID] = result
 		}
 	}
-	fmt.Println(state)
 	db.PersistTwitterState(state)
 }
 
