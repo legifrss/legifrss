@@ -1,4 +1,5 @@
 .env
 db/db.json
 db/token.json
+db/twitter_states.json
 bin
