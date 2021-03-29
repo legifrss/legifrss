@@ -3,18 +3,18 @@ package models
 import "time"
 
 type LegifranceElement struct {
-	Title            string   `json:"title"`
-	ID               string   `json:"id"`
-	Nature           string   `json:"nature"`
-	Link             string   `json:"link"`
-	Description      string   `json:"description"`
-	Category         []string `json:"category"`
-	Author           string   `json:"author"`
-	SanitizedAuthor  string
-	SanitizedNature  string
-	Date             time.Time `json:"date"`
-	Content          string    `json:"content"`
-	TwitterPublished int64     `json:"twitter_published"`
+	Title           string   `json:"title"`
+	ID              string   `json:"id"`
+	Nature          string   `json:"nature"`
+	Link            string   `json:"link"`
+	Description     string   `json:"description"`
+	Category        []string `json:"category"`
+	Author          string   `json:"author"`
+	SanitizedAuthor string
+	SanitizedNature string
+	Date            time.Time `json:"date"`
+	Content         string    `json:"content"`
+	JORFID          string    `json:"jorf_id"`
 }
 
 type FeedDescription struct {
@@ -24,7 +24,10 @@ type FeedDescription struct {
 }
 
 type Container struct {
-	ID string `json:"id"`
+	ID    string `json:"id"`
+	IDEli string `json:"idEli"`
+	Title string `json:"titre"`
+	Date  int64  `json:"datePubli"`
 }
 
 type LastNJo struct {

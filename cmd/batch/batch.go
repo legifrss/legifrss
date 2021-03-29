@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"time"
 
 	"github.com/joho/godotenv"
 	"github.com/ldicarlo/legifrss/server/pkg/bot"
@@ -32,16 +31,24 @@ func init() {
 }
 
 func Start() int {
-	beginning := time.Now()
 	err, token := token.GetToken(clientId, clientSecret)
 	utils.ErrCheckStr(err)
 
 	res := dila.FetchJORF(token)
 
-	var jorfContents []models.JOContainerResult
+	var twitterState map[string]models.TwitterJORF
+
+	var jorfContents map[string]models.JOContainerResult
 	for _, jorf := range res.Containers {
 		nextContent := dila.FetchCont(token, jorf.ID)
-		jorfContents = append(jorfContents, nextContent)
+		twitterState[jorf.ID] = models.TwitterJORF{
+			JORFID:    jorf.ID,
+			JORFTitle: jorf.Title,
+			URI:       jorf.IDEli,
+			StatusID:  0,
+			Date:      jorf.Date,
+		}
+		jorfContents[jorf.ID] = nextContent
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
 
@@ -50,10 +57,10 @@ func Start() int {
 		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.ID, i+1, total)
 		result := dila.FetchJorfContent(token, element.ID)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
+		twitterState[element]
 	}
 
 	db.Persist(list)
-	fmt.Println("Execution time: " + time.Since(beginning).String())
 
 	bot.ProcessElems()
 
