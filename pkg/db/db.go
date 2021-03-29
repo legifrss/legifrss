@@ -32,11 +32,10 @@ func GetToken() (token oauth1.Token, noFile error) {
 
 }
 
-// getAll returns all contents of db.json
-func getAll() (result map[string]models.LegifranceElement) {
+func getAll() (result map[string]models.JORFElement) {
 	file, err := os.Open("db/db.json")
 	if err != nil {
-		return map[string]models.LegifranceElement{}
+		return map[string]models.JORFElement{}
 	}
 
 	byteValue, _ := ioutil.ReadAll(file)
@@ -45,13 +44,25 @@ func getAll() (result map[string]models.LegifranceElement) {
 	return
 }
 
+func getAllLegifranceElements() (result []models.LegifranceElement) {
+	db := getAll()
+	for _, jorfs := range db {
+		for _, content := range jorfs.JORFContents {
+			result = append(result, content)
+		}
+	}
+	return
+}
+
 func Query(queryContext models.QueryContext) []models.LegifranceElement {
 	var feed = getAll()
 	var entries []models.LegifranceElement
 
-	for _, element := range feed {
-		if keep(queryContext, &element) {
-			entries = append(entries, element)
+	for _, jorfElement := range feed {
+		for _, element := range jorfElement.JORFContents {
+			if keep(queryContext, &element) {
+				entries = append(entries, element)
+			}
 		}
 	}
 
@@ -96,20 +107,20 @@ func keep(queryContext models.QueryContext, element *models.LegifranceElement) b
 
 }
 
-func Persist(result []models.LegifranceElement) {
+func Persist(result []models.JORFElement) {
 	var db = getAll()
 	// 864000000000000 nanos = 10 days
 	// 86400000000000 nanos = 1 day
 	var limitDate = time.Now().Add(-time.Duration(864000000000000))
-	var filteredDb = map[string]models.LegifranceElement{}
+	var filteredDb = map[string]models.JORFElement{}
 	for _, element := range db {
 		if element.Date.After(limitDate) {
-			filteredDb[element.ID] = element
+			filteredDb[element.JORFID] = element
 		}
 	}
 
 	for _, element := range result {
-		filteredDb[element.ID] = element
+		filteredDb[element.JORFID] = element
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
@@ -118,7 +129,7 @@ func Persist(result []models.LegifranceElement) {
 }
 
 func GetAuthors() (arr []string) {
-	values := getAll()
+	values := getAllLegifranceElements()
 	authors := map[string]string{}
 	for _, value := range values {
 		authors[value.Author] = ""
@@ -134,7 +145,7 @@ func GetAuthors() (arr []string) {
 }
 
 func GetNatures() (arr []string) {
-	values := getAll()
+	values := getAllLegifranceElements()
 	natures := map[string]string{}
 	for _, value := range values {
 		natures[value.Nature] = ""

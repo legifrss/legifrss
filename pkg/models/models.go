@@ -17,6 +17,14 @@ type LegifranceElement struct {
 	JORFID          string    `json:"jorf_id"`
 }
 
+type JORFElement struct {
+	JORFID       string                       `json:"jorf_id"`
+	JORFTitle    string                       `json:"title"`
+	JORFContents map[string]LegifranceElement `json:"contents"`
+	Date         time.Time                    `json:"date"`
+	URI          string                       `json:"uri"`
+}
+
 type FeedDescription struct {
 	TitleSuffix       string
 	LinkSuffix        string
