@@ -107,7 +107,7 @@ func PublishJORFAsTweets(element models.JORFElement, twitterState models.Twitter
 	}
 	for _, elem := range element.JORFContents {
 		if twitterState.JORFContents[elem.ID] == 0 {
-			statusID, err := publishLegifranceElementTweet(elem)
+			statusID, err := publishLegifranceElementTweet(elem, twitterState.StatusID)
 			if !canContinue(err, elem.ID) {
 				return models.TwitterJORF{}, err
 			}
@@ -137,24 +137,21 @@ func publishJORFTweet(element models.JORFElement) (int64, error) {
 		URI = " https://www.legifrance.gouv.fr" + element.URI
 	}
 	tweetStr := prepareTweetContent(element.JORFTitle) + URI
-	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
-	// return tweet.ID, err
-	fmt.Println(element.JORFID + tweetStr)
-
-	return 1, nil
+	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
+	return tweet.ID, err
 }
 
-func publishLegifranceElementTweet(element models.LegifranceElement) (int64, error) {
+func publishLegifranceElementTweet(element models.LegifranceElement, jorfID int64) (int64, error) {
 
 	tag := ""
 	if element.Nature != "" {
 		tag = " #" + element.Nature
 	}
 	tweetStr := prepareTweetContent(element.Description) + tag + " " + element.Link
-	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
-	// return tweet.ID, err
-	fmt.Println("  " + element.ID + tweetStr)
-	return 1, nil
+	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{
+		InReplyToStatusID: jorfID,
+	})
+	return tweet.ID, err
 
 }
 
