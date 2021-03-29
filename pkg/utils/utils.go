@@ -9,18 +9,24 @@ import (
 	"github.com/ldicarlo/legifrss/server/pkg/models"
 )
 
-func ExtractAndConvertDILA(input map[string]models.JOContainerResult) (result []models.LegifranceElement) {
+func ExtractAndConvertDILA(jorfContent models.JOContainerResult, jorf models.JORFElement) models.JORFElement {
 	loc, err := time.LoadLocation("Europe/Paris")
 	ErrCheck(err)
-	for _, jorfContent := range input {
-		for _, item := range jorfContent.Items {
-			ts := time.Unix(item.Container.Timestamp/1000, 0).In(loc)
-			for _, step := range item.Container.Structure.Contents {
-				result = tranformHierarchyStep(step, []string{}, result, ts)
-			}
+	result := []models.LegifranceElement{}
+	for _, item := range jorfContent.Items {
+		ts := time.Unix(item.Container.Timestamp/1000, 0).In(loc)
+		for _, step := range item.Container.Structure.Contents {
+			// called with result param to increment
+			result = tranformHierarchyStep(step, []string{}, result, ts)
 		}
 	}
-	return
+	resultMap := map[string]models.LegifranceElement{}
+	for _, legifranceElement := range result {
+		resultMap[legifranceElement.ID] = legifranceElement
+	}
+
+	jorf.JORFContents = resultMap
+	return jorf
 }
 
 func transformSummary(summary models.Summary, categories []string, publicationDate time.Time) models.LegifranceElement {

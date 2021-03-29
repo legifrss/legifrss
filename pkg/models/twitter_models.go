@@ -1,12 +1,6 @@
 package models
 
 type TwitterJORF struct {
-	JORFID       string                        `json:"jorf_id"`
-	StatusID     int64                         `json:"status_id"`
-	JORFContents map[string]TwitterJORFContent `json:"contents"`
-}
-
-type TwitterJORFContent struct {
-	JORFContentID string `json:"jorf_content_id"`
-	StatusID      int64  `json:"status_id"`
+	StatusID     int64            `json:"status_id"`
+	JORFContents map[string]int64 `json:"contents"`
 }

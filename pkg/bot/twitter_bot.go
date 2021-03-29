@@ -79,37 +79,91 @@ func RegisterToken(newOauthToken string, tokenVerifier string) {
 }
 
 func ProcessElems() {
-	toPublish := db.ExtractContentToPublish()
-	var published []models.LegifranceElement
+	toPublish, state := db.ExtractContentToPublish()
 	for _, elem := range toPublish {
-		id, err := PublishElement(elem)
-		if err != nil {
-			fmt.Println(err)
-			fmt.Println("Aborting")
-			break
+		if val, ok := state[elem.JORFID]; ok {
+			result, err := PublishJORFAsTweets(elem, val)
+			if err != nil {
+				fmt.Println(err)
+				fmt.Println("Aborting")
+				break
+			}
+			state[elem.JORFID] = result
 		}
-		elem.TwitterPublished = id
-		published = append(published, elem)
 	}
-	db.Persist(published)
+	fmt.Println(state)
+	db.PersistTwitterState(state)
 }
 
-func PublishElement(element models.LegifranceElement) (int64, error) {
-	var tweetStr string
-	if len(element.Description) < 200 {
-		tweetStr = element.Description
-	} else {
-		tweetStr = element.Description[0:200] + " ..."
-	}
-	tweet, _, err := client.Statuses.Update(tweetStr+" "+"#"+element.Nature+" "+element.Link, &twitter.StatusUpdateParams{})
-	if err != nil {
-		if err.Error() == "twitter: 187 Status is a duplicate." {
-			fmt.Println("Found duplicate, ignoring " + element.ID)
-			return 1, nil
+func PublishJORFAsTweets(element models.JORFElement, twitterState models.TwitterJORF) (models.TwitterJORF, error) {
+	if twitterState.StatusID == 0 {
+		ID, err := publishJORFTweet(element)
+
+		if !canContinue(err, element.JORFID) {
+			return models.TwitterJORF{}, err
 		}
-		return 0, err
+
+		twitterState.StatusID = ID
 	}
-	return tweet.ID, nil
+	for _, elem := range element.JORFContents {
+		if twitterState.JORFContents[elem.ID] == 0 {
+			statusID, err := publishLegifranceElementTweet(elem)
+			if !canContinue(err, elem.ID) {
+				return models.TwitterJORF{}, err
+			}
+			twitterState.JORFContents[elem.ID] = statusID
+		}
+	}
+
+	return twitterState, nil
+}
+
+func canContinue(err error, jorfID string) bool {
+	if err == nil {
+		return true
+	}
+	if err.Error() == "twitter: 187 Status is a duplicate." {
+		fmt.Println("Found duplicate, ignoring " + jorfID)
+		return true
+	} else {
+		return false
+	}
+}
+
+func publishJORFTweet(element models.JORFElement) (int64, error) {
+
+	URI := ""
+	if element.URI != "" {
+		URI = " https://www.legifrance.gouv.fr" + element.URI
+	}
+	tweetStr := prepareTweetContent(element.JORFTitle) + URI
+	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
+	// return tweet.ID, err
+	fmt.Println(element.JORFID + tweetStr)
+
+	return 1, nil
+}
+
+func publishLegifranceElementTweet(element models.LegifranceElement) (int64, error) {
+
+	tag := ""
+	if element.Nature != "" {
+		tag = " #" + element.Nature
+	}
+	tweetStr := prepareTweetContent(element.Description) + tag + " " + element.Link
+	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
+	// return tweet.ID, err
+	fmt.Println("  " + element.ID + tweetStr)
+	return 1, nil
+
+}
+
+func prepareTweetContent(str string) string {
+	if len(str) < 200 {
+		return str
+	}
+	return str[0:200] + "..."
+
 }
 
 func GetAllTweets() []twitter.Tweet {

@@ -69,17 +69,41 @@ func Query(queryContext models.QueryContext) []models.LegifranceElement {
 	return entries
 }
 
-func ExtractContentToPublish() []models.TwitterJORF {
-	var twitterState = FetchTwitterStates()
-	var entries []models.TwitterJORF
+func fetchAllJORFKeys(keys []string) map[string]models.JORFElement {
+	db := getAll()
+	toPublish := map[string]models.JORFElement{}
+	for key, elem := range db {
+		if contains(keys, key) {
+			toPublish[key] = elem
+		}
+	}
+	return toPublish
+}
 
-	for _, element := range twitterState {
-		if hasAnyMissing(element) {
-			entries = append(entries, element)
+func contains(s []string, str string) bool {
+	for _, v := range s {
+		if v == str {
+			return true
 		}
 	}
 
-	return entries
+	return false
+}
+
+func ExtractContentToPublish() (map[string]models.JORFElement, map[string]models.TwitterJORF) {
+	var twitterState = FetchTwitterStates()
+	state := map[string]models.TwitterJORF{}
+	jorfKeysToFetch := []string{}
+	for ID, element := range twitterState {
+		if hasAnyMissing(element) {
+			state[ID] = element
+			jorfKeysToFetch = append(jorfKeysToFetch, ID)
+		}
+	}
+
+	toPublish := fetchAllJORFKeys(jorfKeysToFetch)
+
+	return toPublish, state
 }
 
 func hasAnyMissing(jorf models.TwitterJORF) bool {
@@ -87,7 +111,7 @@ func hasAnyMissing(jorf models.TwitterJORF) bool {
 		return true
 	}
 	for _, element := range jorf.JORFContents {
-		if element.StatusID == 0 {
+		if element == 0 {
 			return true
 		}
 	}
@@ -107,7 +131,7 @@ func keep(queryContext models.QueryContext, element *models.LegifranceElement) b
 
 }
 
-func Persist(result []models.JORFElement) {
+func Persist(result map[string]models.JORFElement) {
 	var db = getAll()
 	// 864000000000000 nanos = 10 days
 	// 86400000000000 nanos = 1 day
@@ -160,18 +184,18 @@ func GetNatures() (arr []string) {
 	return arr
 }
 
-func PersistTwitterState(jorfs []models.TwitterJORF) {
+func PersistTwitterState(jorfs map[string]models.TwitterJORF) {
 	existing := FetchTwitterStates()
-	var filteredDb = map[string]models.TwitterJORF{}
-	for _, element := range existing {
-		filteredDb[element.JORFID] = element
+	filteredDb := map[string]models.TwitterJORF{}
+	for ID, element := range existing {
+		filteredDb[ID] = element
 	}
 
-	for _, element := range jorfs {
-		if val, ok := filteredDb[element.JORFID]; ok {
-			filteredDb[element.JORFID] = mergeTwitterJORFs(val, element)
+	for ID, element := range jorfs {
+		if val, ok := filteredDb[ID]; ok {
+			filteredDb[ID] = mergeTwitterJORFs(val, element)
 		} else {
-			filteredDb[element.JORFID] = element
+			filteredDb[ID] = element
 		}
 	}
 
@@ -193,23 +217,22 @@ func FetchTwitterStates() (jorfs map[string]models.TwitterJORF) {
 }
 
 func mergeTwitterJORFs(before models.TwitterJORF, after models.TwitterJORF) (result models.TwitterJORF) {
-	result.JORFID = after.JORFID
 	result.StatusID = max(before.StatusID, after.StatusID)
 	contents := before.JORFContents
-	for _, content := range after.JORFContents {
-		if val, ok := contents[content.JORFContentID]; ok {
-			contents[content.JORFContentID] = mergeTwitterJORFContents(val, content)
+	for ID, content := range after.JORFContents {
+		if val, ok := contents[ID]; ok {
+			contents[ID] = mergeTwitterJORFContents(val, content)
 		} else {
-			contents[content.JORFContentID] = content
+			contents[ID] = content
 		}
 	}
+	result.JORFContents = contents
 	return
 }
 
-func mergeTwitterJORFContents(before models.TwitterJORFContent, after models.TwitterJORFContent) (result models.TwitterJORFContent) {
-	result.JORFContentID = after.JORFContentID
-	result.StatusID = max(before.StatusID, after.StatusID)
-	return
+func mergeTwitterJORFContents(before int64, after int64) int64 {
+	return max(before, after)
+
 }
 
 func max(x, y int64) int64 {
