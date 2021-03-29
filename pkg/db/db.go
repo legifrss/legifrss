@@ -162,12 +162,9 @@ func GetNatures() (arr []string) {
 
 func PersistTwitterState(jorfs []models.TwitterJORF) {
 	existing := FetchTwitterStates()
-	var limitDate = time.Now().Add(-time.Duration(865000000000000))
 	var filteredDb = map[string]models.TwitterJORF{}
 	for _, element := range existing {
-		if element.Date.After(limitDate) {
-			filteredDb[element.JORFID] = element
-		}
+		filteredDb[element.JORFID] = element
 	}
 
 	for _, element := range jorfs {
@@ -196,12 +193,8 @@ func FetchTwitterStates() (jorfs map[string]models.TwitterJORF) {
 }
 
 func mergeTwitterJORFs(before models.TwitterJORF, after models.TwitterJORF) (result models.TwitterJORF) {
-	result.Date = after.Date
 	result.JORFID = after.JORFID
-	result.JORFTitle = after.JORFID
 	result.StatusID = max(before.StatusID, after.StatusID)
-	result.JORFTitle = after.JORFTitle
-	result.URI = after.URI
 	contents := before.JORFContents
 	for _, content := range after.JORFContents {
 		if val, ok := contents[content.JORFContentID]; ok {
@@ -214,7 +207,6 @@ func mergeTwitterJORFs(before models.TwitterJORF, after models.TwitterJORF) (res
 }
 
 func mergeTwitterJORFContents(before models.TwitterJORFContent, after models.TwitterJORFContent) (result models.TwitterJORFContent) {
-	result.Content = after.Content
 	result.JORFContentID = after.JORFContentID
 	result.StatusID = max(before.StatusID, after.StatusID)
 	return

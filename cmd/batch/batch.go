@@ -36,18 +36,9 @@ func Start() int {
 
 	res := dila.FetchJORF(token)
 
-	var twitterState map[string]models.TwitterJORF
-
 	var jorfContents map[string]models.JOContainerResult
 	for _, jorf := range res.Containers {
 		nextContent := dila.FetchCont(token, jorf.ID)
-		twitterState[jorf.ID] = models.TwitterJORF{
-			JORFID:    jorf.ID,
-			JORFTitle: jorf.Title,
-			URI:       jorf.IDEli,
-			StatusID:  0,
-			Date:      jorf.Date,
-		}
 		jorfContents[jorf.ID] = nextContent
 	}
 	list := utils.ExtractAndConvertDILA(jorfContents)
@@ -57,7 +48,6 @@ func Start() int {
 		fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", element.ID, i+1, total)
 		result := dila.FetchJorfContent(token, element.ID)
 		list[i].Content = utils.ExtractContent(result.Articles, result.Sections)
-		twitterState[element]
 	}
 
 	db.Persist(list)
