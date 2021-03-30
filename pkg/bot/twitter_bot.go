@@ -104,6 +104,9 @@ func PublishJORFAsTweets(element models.JORFElement, twitterState models.Twitter
 
 		twitterState.StatusID = ID
 	}
+	if twitterState.StatusID == 0 {
+		return twitterState, nil
+	}
 	for _, elem := range element.JORFContents {
 		if twitterState.JORFContents[elem.ID] == 0 {
 			statusID, err := publishLegifranceElementTweet(elem, twitterState.StatusID)
