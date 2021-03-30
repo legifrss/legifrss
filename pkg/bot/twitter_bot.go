@@ -98,7 +98,7 @@ func PublishJORFAsTweets(element models.JORFElement, twitterState models.Twitter
 	if twitterState.StatusID == 0 {
 		ID, err := publishJORFTweet(element)
 
-		if !canContinue(err, element.JORFID) {
+		if !canContinue(err, element.JORFID) || ID == 0 {
 			return models.TwitterJORF{}, err
 		}
 
