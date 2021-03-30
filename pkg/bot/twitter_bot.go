@@ -138,7 +138,7 @@ func publishJORFTweet(element models.JORFElement) (int64, error) {
 	if element.URI != "" {
 		URI = " https://www.legifrance.gouv.fr" + element.URI
 	}
-	tweetStr := prepareTweetContent(element.JORFTitle) + URI
+	tweetStr := prepareTweetContent(element.JORFTitle) + " #JORF " + URI
 	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
 	return tweet.ID, err
 }
