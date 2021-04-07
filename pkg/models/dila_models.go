@@ -15,6 +15,5 @@ type JorfContainerSection struct {
 
 type JorfArticle struct {
 	Content string `json:"content"`
-	// This is a string. It represents a number ¯\_(ツ)_/¯
-	Order string `json:"num"`
+	Order   string `json:"num"`
 }

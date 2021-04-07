@@ -62,20 +62,23 @@ func Start() int {
 		}
 		total = total + len(elements[jorf.ID].JORFContents)
 	}
+
+	elementsWithContents := map[string]models.JORFElement{}
 	i := 0
-	for _, jorf := range elements {
+	for jorfID, jorf := range elements {
 		j := 0
-		for _, content := range jorf.JORFContents {
+		for jorfContentID, content := range jorf.JORFContents {
 			j++
 			i++
 			fmt.Printf("Fetching the jorf content for %s (%5d/%5d)\n", content.ID, i+1, total)
 			result := dila.FetchJorfContent(token, content.ID)
 			content.Content = utils.ExtractContent(result.Articles, result.Sections)
-
+			jorf.JORFContents[jorfContentID] = content
 		}
+		elementsWithContents[jorfID] = jorf
 	}
 
-	db.Persist(elements)
+	db.Persist(elementsWithContents)
 	db.PersistTwitterState(twitterState)
 	bot.ProcessElems()
 
