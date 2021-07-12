@@ -138,7 +138,7 @@ func publishJORFTweet(element models.JORFElement) (int64, error) {
 	if element.URI != "" {
 		URI = " https://www.legifrance.gouv.fr" + element.URI
 	}
-	tweetStr := prepareTweetContent(element.JORFTitle) + " #JORF " + URI
+	tweetStr := prepareTweetContent(element.JORFTitle, 200) + " #JORF " + URI
 	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
 	return tweet.ID, err
 }
@@ -149,7 +149,7 @@ func publishLegifranceElementTweet(element models.LegifranceElement, jorfID int6
 	if element.Nature != "" {
 		tag = " #" + element.Nature
 	}
-	tweetStr := prepareTweetContent(element.Description) + tag + " " + element.Link
+	tweetStr := prepareTweetContent(element.Description, 200) + tag + " " + element.Link
 	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{
 		InReplyToStatusID: jorfID,
 	})
@@ -157,11 +157,11 @@ func publishLegifranceElementTweet(element models.LegifranceElement, jorfID int6
 
 }
 
-func prepareTweetContent(str string) string {
-	if len(str) < 200 {
+func prepareTweetContent(str string, length int) string {
+	if len(str) < length {
 		return str
 	}
-	return str[0:200] + "..."
+	return str[0:length] + "..."
 
 }
 
