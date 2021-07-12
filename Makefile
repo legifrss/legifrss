@@ -7,7 +7,7 @@ help:
 build: ## build the app
 	@go build ./...
 
-test:  build ## test the app
+test: build ## test the app
 	@go test ./...
 
 

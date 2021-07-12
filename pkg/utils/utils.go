@@ -128,3 +128,11 @@ func lowArticleOrderInSection(section models.JorfContainerSection) int {
 	return toInt(section.Articles[0].Order)
 
 }
+
+func PrepareTweetContent(str string, length int) string {
+	if len(str) < length {
+		return str
+	}
+	return str[0:length] + "..."
+
+}

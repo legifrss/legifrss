@@ -59,3 +59,7 @@ func TestSortContent(t *testing.T) {
 	assert.Equal(t, "3", input[2].Title)
 
 }
+
+func TestPrepareTweetContent(t *testing.T) {
+	assert.Equal(t, "The great...", PrepareTweetContent("The great revolution", 9))
+}
