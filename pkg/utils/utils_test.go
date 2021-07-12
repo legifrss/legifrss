@@ -62,4 +62,7 @@ func TestSortContent(t *testing.T) {
 
 func TestPrepareTweetContent(t *testing.T) {
 	assert.Equal(t, "The great...", PrepareTweetContent("The great revolution", 9))
+	assert.Equal(t, "The ", PrepareTweetContent("The ", 9))
+	assert.Equal(t, "The greaté...", PrepareTweetContent("The greaté revolution", 10))
+	assert.Equal(t, "The great revol...", PrepareTweetContent("The great revolution", 15))
 }
