@@ -91,15 +91,6 @@ func ProcessElems() {
 			state[elem.JORFID] = result
 		}
 	}
-	for jorfCont := range state {
-		fmt.Println("JORFCONT: {}", jorfCont)
-		if _, ok := toPublish[jorfCont]; !ok {
-			fmt.Println("TO REMOVE: {}", jorfCont)
-			delete(state, jorfCont)
-		} else {
-			fmt.Println("NO REMOVE: {}", jorfCont)
-		}
-	}
 
 	db.PersistTwitterState(state)
 }
