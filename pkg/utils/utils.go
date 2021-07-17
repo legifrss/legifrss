@@ -134,5 +134,22 @@ func PrepareTweetContent(str string, length int) string {
 		return str
 	}
 	return string([]rune(str)[:length]) + "..."
+}
 
+func CleanNonExistingKeys(values map[string]models.TwitterJORF, toKeep []string) map[string]models.TwitterJORF {
+	for key := range values {
+		if !contains(toKeep, key) {
+			delete(values, key)
+		}
+	}
+	return values
+}
+
+func contains(s []string, str string) bool {
+	for _, v := range s {
+		if v == str {
+			return true
+		}
+	}
+	return false
 }

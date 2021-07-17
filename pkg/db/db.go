@@ -204,6 +204,12 @@ func PersistTwitterState(jorfs map[string]models.TwitterJORF) {
 	utils.ErrCheck(err)
 }
 
+func OverrideTwitterStates(jorfs map[string]models.TwitterJORF) {
+	jsonResult, _ := json.Marshal(jorfs)
+	err := ioutil.WriteFile("db/twitter_states.json", jsonResult, 0644)
+	utils.ErrCheck(err)
+}
+
 func FetchTwitterStates() (jorfs map[string]models.TwitterJORF) {
 	file, err := os.Open("db/twitter_states.json")
 	if err != nil {
@@ -240,4 +246,13 @@ func max(x, y int64) int64 {
 		return y
 	}
 	return x
+}
+
+func GetAllKeys() (keys []string) {
+	db := getAll()
+	for k := range db {
+		keys = append(keys, k)
+	}
+	return
+
 }

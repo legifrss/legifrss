@@ -81,7 +81,7 @@ func Start() int {
 	db.Persist(elementsWithContents)
 	db.PersistTwitterState(twitterState)
 	bot.ProcessElems()
-
+	bot.CleanOldElems()
 	return 0
 }
 

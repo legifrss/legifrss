@@ -68,3 +68,25 @@ func TestPrepareTweetContent(t *testing.T) {
 	assert.Equal(t, "The great revol...", PrepareTweetContent("The great revolution", 15))
 	assert.Equal(t, "éééé", PrepareTweetContent("éééé", 5))
 }
+
+func TestContains(t *testing.T) {
+	assert.True(t, contains([]string{"Test", "Test3"}, "Test"))
+	assert.False(t, contains([]string{"Test", "Test3"}, "Test2"))
+}
+
+func TestCleanNonExistingKeys(t *testing.T) {
+	array := map[string]models.TwitterJORF{
+		"FIRST": {
+			StatusID: 100, JORFContents: map[string]int64{},
+		},
+		"SECOND": {
+			StatusID: 100, JORFContents: map[string]int64{},
+		},
+		"THIRD": {
+			StatusID: 100, JORFContents: map[string]int64{},
+		},
+	}
+
+	assert.Equal(t, 2, len(CleanNonExistingKeys(array, []string{"FIRST", "SECOND"})))
+
+}
