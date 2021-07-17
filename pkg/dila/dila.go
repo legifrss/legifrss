@@ -47,7 +47,7 @@ func FetchCont(token string, jorfCont string) (joContainerResult models.JOContai
 	utils.ErrCheck(err)
 
 	json.Unmarshal(body, &joContainerResult)
-	fmt.Println(joContainerResult.Items[0].Container.ID + " fetched")
+	//fmt.Println(joContainerResult.Items[0].Container.ID + " fetched")
 	return joContainerResult
 }
 

@@ -91,6 +91,16 @@ func ProcessElems() {
 			state[elem.JORFID] = result
 		}
 	}
+	for jorfCont := range state {
+		fmt.Println("JORFCONT: {}", jorfCont)
+		if _, ok := toPublish[jorfCont]; !ok {
+			fmt.Println("TO REMOVE: {}", jorfCont)
+			delete(state, jorfCont)
+		} else {
+			fmt.Println("NO REMOVE: {}", jorfCont)
+		}
+	}
+
 	db.PersistTwitterState(state)
 }
 
@@ -134,27 +144,28 @@ func canContinue(err error, jorfID string) bool {
 
 func publishJORFTweet(element models.JORFElement) (int64, error) {
 
-	URI := ""
-	if element.URI != "" {
-		URI = " https://www.legifrance.gouv.fr" + element.URI
-	}
-	tweetStr := utils.PrepareTweetContent(element.JORFTitle, 200) + " #JORF " + URI
-	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
-	return tweet.ID, err
+	// URI := ""
+	// if element.URI != "" {
+	// 	URI = " https://www.legifrance.gouv.fr" + element.URI
+	// }
+	// tweetStr := utils.PrepareTweetContent(element.JORFTitle, 200) + " #JORF " + URI
+	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{})
+	//	return tweet.ID, err
+	return 9999, nil
 }
 
 func publishLegifranceElementTweet(element models.LegifranceElement, jorfID int64) (int64, error) {
 
-	tag := ""
-	if element.Nature != "" {
-		tag = " #" + element.Nature
-	}
-	tweetStr := utils.PrepareTweetContent(element.Description, 200) + tag + " " + element.Link
-	tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{
-		InReplyToStatusID: jorfID,
-	})
-	return tweet.ID, err
-
+	// tag := ""
+	// if element.Nature != "" {
+	// 	tag = " #" + element.Nature
+	// }
+	// tweetStr := utils.PrepareTweetContent(element.Description, 200) + tag + " " + element.Link
+	// tweet, _, err := client.Statuses.Update(tweetStr, &twitter.StatusUpdateParams{
+	// 	InReplyToStatusID: jorfID,
+	// })
+	//return tweet.ID, err
+	return 88888, nil
 }
 
 func GetAllTweets() []twitter.Tweet {

@@ -130,7 +130,7 @@ func lowArticleOrderInSection(section models.JorfContainerSection) int {
 }
 
 func PrepareTweetContent(str string, length int) string {
-	if len(str) < length {
+	if len([]rune(str)) < length {
 		return str
 	}
 	return string([]rune(str)[:length]) + "..."
