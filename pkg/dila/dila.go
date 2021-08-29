@@ -41,8 +41,6 @@ func FetchCont(token string, jorfCont string) (joContainerResult models.JOContai
 	utils.ErrCheck(err)
 	resp, err := http.DefaultClient.Do(req)
 	utils.ErrCheck(err)
-
-	utils.ErrCheck(err)
 	err = json.NewDecoder(resp.Body).Decode(&joContainerResult)
 	utils.ErrCheck(err)
 
