@@ -47,5 +47,8 @@ Read the doc at https://legifrss.github.io. If you need it translated in English
   - [X] https://legifrss.org/latest?q=écologie => search all with term
   - [X] https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search law with term and author
 - [X] Add twitter Bot: https://twitter.com/Legifrance1
-- [ ] batch.log as /tmp/legifrance-$(date)-batch.log
+- [X] batch.log as /tmp/legifrance-$(date)-batch.log
 - [ ] twitter_states rotation
+- [ ] metrics:
+  - [ ] twitter followers
+  - [ ] http requests
