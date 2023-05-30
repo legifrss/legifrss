@@ -19,7 +19,7 @@ func GetToken(clientId string, clientSecret string) (string, string) {
 	form.Add("client_secret", clientSecret)
 	form.Add("scope", "openid")
 
-	resp, err := http.Post("https://oauth.aife.economie.gouv.fr/api/oauth/token/api/oauth/token", "application/x-www-form-urlencoded",
+	resp, err := http.Post("https://oauth.piste.gouv.fr/api/oauth/token", "application/x-www-form-urlencoded",
 		strings.NewReader(form.Encode()))
 	if err != nil {
 		return "Error while POST request", ""

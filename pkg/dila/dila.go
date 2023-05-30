@@ -15,7 +15,7 @@ import (
 func FetchJORF(token string) (lastNJo models.LastNJo) {
 	nbElements := 5
 	fmt.Printf("Fetching the last %d\n", nbElements)
-	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/lastNJo", strings.NewReader("{\"nbElement\":"+strconv.Itoa(nbElements)+"}"))
+	req, err := http.NewRequest("POST", "https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo", strings.NewReader("{\"nbElement\":"+strconv.Itoa(nbElements)+"}"))
 	utils.ErrCheck(err)
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)
@@ -34,7 +34,7 @@ func FetchJORF(token string) (lastNJo models.LastNJo) {
 
 func FetchCont(token string, jorfCont string) (joContainerResult models.JOContainerResult) {
 	fmt.Printf("Fetching the content for %s\n", jorfCont)
-	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/jorfCont",
+	req, err := http.NewRequest("POST", "https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/jorfCont",
 		strings.NewReader("{\"id\":\""+jorfCont+"\",\"pageNumber\":1,\"pageSize\":10}"))
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)
@@ -48,7 +48,7 @@ func FetchCont(token string, jorfCont string) (joContainerResult models.JOContai
 }
 
 func FetchJorfContent(token string, jorfText string) (joContainerResult models.JorfContainerResult) {
-	req, err := http.NewRequest("POST", "https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/jorf",
+	req, err := http.NewRequest("POST", "https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/jorf",
 		strings.NewReader("{\"textCid\":\""+jorfText+"\"}"))
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+token)

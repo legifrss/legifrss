@@ -6,7 +6,6 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/ldicarlo/legifrss/server/pkg/bot"
 	"github.com/ldicarlo/legifrss/server/pkg/db"
 	"github.com/ldicarlo/legifrss/server/pkg/dila"
 	"github.com/ldicarlo/legifrss/server/pkg/models"
@@ -80,8 +79,8 @@ func Start() int {
 
 	db.Persist(elementsWithContents)
 	db.PersistTwitterState(twitterState)
-	bot.ProcessElems()
-	bot.CleanOldElems()
+	// bot.ProcessElems()
+	// bot.CleanOldElems()
 	return 0
 }
 
