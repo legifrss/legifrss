@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ldicarlo/legifrss/server/pkg/models"
+	"legifrss/pkg/models"
 	"github.com/stretchr/testify/assert"
 )
 

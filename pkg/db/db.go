@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/dghubble/oauth1"
-	"github.com/ldicarlo/legifrss/server/pkg/models"
-	"github.com/ldicarlo/legifrss/server/pkg/utils"
+	"legifrss/pkg/models"
+	"legifrss/pkg/utils"
 )
 
 func PersistToken(token oauth1.Token) {

@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ldicarlo/legifrss/server/pkg/models"
-	"github.com/ldicarlo/legifrss/server/pkg/utils"
+	"legifrss/pkg/models"
+	"legifrss/pkg/utils"
 )
 
 func FetchJORF(token string) (lastNJo models.LastNJo) {

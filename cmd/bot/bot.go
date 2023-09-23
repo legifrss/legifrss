@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ldicarlo/legifrss/server/pkg/bot"
+import "legifrss/pkg/bot"
 
 func main() {
 	bot.ProcessElems()

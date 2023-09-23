@@ -4,3 +4,4 @@ db/token.json
 db/twitter_states.json
 bin
 batch.log
+.direnv

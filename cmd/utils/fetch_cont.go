@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/ldicarlo/legifrss/server/pkg/dila"
-	"github.com/ldicarlo/legifrss/server/pkg/token"
-	"github.com/ldicarlo/legifrss/server/pkg/utils"
+	"legifrss/pkg/dila"
+	"legifrss/pkg/token"
+	"legifrss/pkg/utils"
 )
 
 var clientId string

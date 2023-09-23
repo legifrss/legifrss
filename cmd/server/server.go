@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ldicarlo/legifrss/server/pkg/db"
-	"github.com/ldicarlo/legifrss/server/pkg/models"
-	"github.com/ldicarlo/legifrss/server/pkg/rss"
+	"legifrss/pkg/db"
+	"legifrss/pkg/models"
+	"legifrss/pkg/rss"
 
 	cache "github.com/stockx/go-gin-cache"
 	"github.com/stockx/go-gin-cache/persistence"

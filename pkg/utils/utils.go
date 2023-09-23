@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ldicarlo/legifrss/server/pkg/models"
+	"legifrss/pkg/models"
 )
 
 func ExtractAndConvertDILA(jorfContent models.JOContainerResult, jorf models.JORFElement) models.JORFElement {

@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/ldicarlo/legifrss/server/pkg/db"
-	"github.com/ldicarlo/legifrss/server/pkg/dila"
-	"github.com/ldicarlo/legifrss/server/pkg/models"
-	"github.com/ldicarlo/legifrss/server/pkg/token"
-	"github.com/ldicarlo/legifrss/server/pkg/utils"
+	"legifrss/pkg/db"
+	"legifrss/pkg/dila"
+	"legifrss/pkg/models"
+	"legifrss/pkg/token"
+	"legifrss/pkg/utils"
 )
 
 var clientId string

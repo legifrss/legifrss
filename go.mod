@@ -1,4 +1,4 @@
-module github.com/ldicarlo/legifrss/server
+module legifrss
 
 go 1.15
 

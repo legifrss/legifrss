@@ -8,9 +8,9 @@ import (
 	"github.com/dghubble/oauth1"
 	oauthTwitter "github.com/dghubble/oauth1/twitter"
 	"github.com/joho/godotenv"
-	"github.com/ldicarlo/legifrss/server/pkg/db"
-	"github.com/ldicarlo/legifrss/server/pkg/models"
-	"github.com/ldicarlo/legifrss/server/pkg/utils"
+	"legifrss/pkg/db"
+	"legifrss/pkg/models"
+	"legifrss/pkg/utils"
 )
 
 var consumerKey string
