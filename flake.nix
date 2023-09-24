@@ -12,21 +12,29 @@
       (system:
         let
           pkgs = nixpkgs.legacyPackages.${system};
-
-          # The current default sdk for macOS fails to compile go projects, so we use a newer one for now.
-          # This has no effect on other platforms.
-          callPackage = pkgs.darwin.apple_sdk_11_0.callPackage or pkgs.callPackage;
+          inherit (pkgs) stdenv lib;
         in
-        rec{
-          packages.doc = { };
-          packages.legifrss = callPackage ./. {
+        rec {
+
+          packages.legifrss = pkgs.callPackage ./. {
             inherit (gomod2nix.legacyPackages.${system}) buildGoApplication;
           };
           packages.default = packages.legifrss;
-          devShells.default = callPackage ./shell.nix {
+          devShells.default = pkgs.callPackage ./shell.nix {
             inherit (gomod2nix.legacyPackages.${system}) mkGoEnv gomod2nix;
           };
-          nixosModules.default = { };
+          nixosModules.default = { config, lib, pkgs, ... }:
+            with lib;
+            let
+
+            in
+            {
+              services.nginx.virtualHosts."legifrss.org" = {
+                enableACME = true;
+                forceSSL = true;
+                root = "${packages.doc}";
+              };
+            };
         })
     );
 }
