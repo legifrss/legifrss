@@ -15,11 +15,11 @@
           inherit (pkgs) stdenv lib;
         in
         rec {
-
           packages.legifrss = pkgs.callPackage ./. {
             inherit (gomod2nix.legacyPackages.${system}) buildGoApplication;
           };
           packages.default = packages.legifrss;
+
           devShells.default = pkgs.callPackage ./shell.nix {
             inherit (gomod2nix.legacyPackages.${system}) mkGoEnv gomod2nix;
           };
@@ -29,10 +29,56 @@
 
             in
             {
-              services.nginx.virtualHosts."legifrss.org" = {
-                enableACME = true;
-                forceSSL = true;
-                root = "${packages.doc}";
+              options.luca.services.legifrss = {
+                enable = mkEnableOption "Enable legifrss service";
+
+                envFile = mkOption { type = types.path; };
+              };
+              config = mkIf cfg.enable {
+
+                services.nginx.virtualHosts."legifrss.org" = {
+                  enableACME = true;
+                  forceSSL = true;
+                  root = "${packages.legifrss}";
+                };
+
+                systemd.services.legifrss = {
+                  description = "Legifrss server";
+                  wantedBy = [ "multi-user.target" ];
+
+                  serviceConfig = {
+                    DynamicUser = "yes";
+                    ExecStart = "${cfg.package}/bin/server";
+                    Restart = "on-failure";
+                    RestartSec = "5s";
+                  };
+                };
+                systemd.services.legifrss-batch = {
+                  description = "Legifrss server";
+                  wantedBy = [ "multi-user.target" ];
+
+                  serviceConfig = {
+                    DynamicUser = "yes";
+                    ExecStart = "${cfg.package}/bin/batch";
+                    Restart = "never";
+                  };
+                };
+                systemd.timers = {
+                  legifrss-batch = {
+                    Unit = {
+                      Description = "Fetch Legifrance updates";
+                      After = [ "network.target" ];
+                    };
+                    Timer = {
+                      OnBootSec = "5 min";
+                      OnUnitInactiveSec = "60 min";
+                      Unit = "legifrss-batch.service";
+                    };
+                    Install = {
+                      WantedBy = [ "timers.target" ];
+                    };
+                  };
+                };
               };
             };
         })
