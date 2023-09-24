@@ -17,13 +17,16 @@
           # This has no effect on other platforms.
           callPackage = pkgs.darwin.apple_sdk_11_0.callPackage or pkgs.callPackage;
         in
-        {
-          packages.default = callPackage ./. {
+        rec{
+          packages.doc = { };
+          packages.legifrss = callPackage ./. {
             inherit (gomod2nix.legacyPackages.${system}) buildGoApplication;
           };
+          packages.default = packages.legifrss;
           devShells.default = callPackage ./shell.nix {
             inherit (gomod2nix.legacyPackages.${system}) mkGoEnv gomod2nix;
           };
+          nixosModules.default = { };
         })
     );
 }

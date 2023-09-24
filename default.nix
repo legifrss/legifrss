@@ -13,8 +13,8 @@
 }:
 
 buildGoApplication {
-  pname = "myapp";
-  version = "0.1";
+  pname = "legifrss";
+  version = "1.0";
   pwd = ./.;
   src = ./.;
   modules = ./gomod2nix.toml;
