@@ -5,3 +5,4 @@ db/twitter_states.json
 bin
 batch.log
 .direnv
+result
