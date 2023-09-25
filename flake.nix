@@ -26,21 +26,22 @@
           nixosModules.default = { config, lib, pkgs, ... }:
             with lib;
             let
-
+              cfg = config.ldicarlo.services.legifrss;
+              pkg = self.packages.${system}.default;
             in
             {
-              options.luca.services.legifrss = {
+              options.ldicarlo.services.legifrss = {
                 enable = mkEnableOption "Enable legifrss service";
 
                 envFile = mkOption { type = types.path; };
               };
               config = mkIf cfg.enable {
 
-                services.nginx.virtualHosts."legifrss.org" = {
-                  enableACME = true;
-                  forceSSL = true;
-                  root = "${packages.legifrss}";
-                };
+                # services.nginx.virtualHosts."legifrss.org" = {
+                #   enableACME = true;
+                #   forceSSL = true;
+                #   root = "${packages.legifrss}";
+                # };
 
                 systemd.services.legifrss = {
                   description = "Legifrss server";
@@ -48,7 +49,7 @@
 
                   serviceConfig = {
                     DynamicUser = "yes";
-                    ExecStart = "${cfg.package}/bin/server";
+                    ExecStart = "${pkg}/bin/server";
                     Restart = "on-failure";
                     RestartSec = "5s";
                   };
@@ -59,7 +60,7 @@
 
                   serviceConfig = {
                     DynamicUser = "yes";
-                    ExecStart = "${cfg.package}/bin/batch";
+                    ExecStart = "${pkg}/bin/batch";
                     Restart = "never";
                   };
                 };
