@@ -26,7 +26,7 @@
           nixosModules.default = { config, lib, pkgs, ... }:
             with lib;
             let
-              cfg = config.services.legifrss;
+              cfg1 = config.services.legifrss;
               pkg = self.packages.${system}.default;
             in
             {
@@ -34,7 +34,7 @@
                 enable = mkEnableOption "Enable legifrss service";
                 #  envFile = mkOption { type = types.path; };
               };
-              config = mkIf cfg.enable {
+              config = mkIf cfg1.enable {
 
                 # services.nginx.virtualHosts."legifrss.org" = {
                 #   enableACME = true;
