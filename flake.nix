@@ -32,7 +32,7 @@
             {
               options.services.legifrss = {
                 enable = mkEnableOption "Enable legifrss service";
-                #  envFile = mkOption { type = types.path; };
+                envFile = mkOption { type = types.path; };
               };
               config = mkIf cfg.enable {
 
@@ -42,16 +42,16 @@
                 #   root = "${packages.legifrss}";
                 # };
 
-                # systemd.services.legifrss = {
-                #   description = "Legifrss server";
-                #   wantedBy = [ "multi-user.target" ];
-                #   serviceConfig = {
-                #     DynamicUser = "yes";
-                #     ExecStart = "${pkg}/bin/server";
-                #     Restart = "on-failure";
-                #     RestartSec = "5s";
-                #   };
-                # };
+                systemd.services.legifrss = {
+                  description = "Legifrss server";
+                  wantedBy = [ "multi-user.target" ];
+                  serviceConfig = {
+                    DynamicUser = "yes";
+                    ExecStart = "PORT=8888 ${pkg}/bin/server";
+                    Restart = "on-failure";
+                    RestartSec = "5s";
+                  };
+                };
 
                 # systemd.services.legifrss-batch = {
                 #   description = "Legifrss server";
