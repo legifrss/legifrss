@@ -32,7 +32,6 @@
             {
               options.services.legifrss = {
                 enable = mkEnableOption "Enable legifrss service";
-
                 #  envFile = mkOption { type = types.path; };
               };
               config = mkIf cfg.enable {
@@ -43,44 +42,43 @@
                 #   root = "${packages.legifrss}";
                 # };
 
-                systemd.services.legifrss = {
-                  description = "Legifrss server";
-                  wantedBy = [ "multi-user.target" ];
+                # systemd.services.legifrss = {
+                #   description = "Legifrss server";
+                #   wantedBy = [ "multi-user.target" ];
+                #   serviceConfig = {
+                #     DynamicUser = "yes";
+                #     ExecStart = "${pkg}/bin/server";
+                #     Restart = "on-failure";
+                #     RestartSec = "5s";
+                #   };
+                # };
 
-                  serviceConfig = {
-                    DynamicUser = "yes";
-                    ExecStart = "${pkg}/bin/server";
-                    Restart = "on-failure";
-                    RestartSec = "5s";
-                  };
-                };
+                # systemd.services.legifrss-batch = {
+                #   description = "Legifrss server";
+                #   wantedBy = [ "multi-user.target" ];
+                #   serviceConfig = {
+                #     DynamicUser = "yes";
+                #     ExecStart = "${pkg}/bin/batch";
+                #     Restart = "never";
+                #   };
+                # };
 
-                systemd.services.legifrss-batch = {
-                  description = "Legifrss server";
-                  wantedBy = [ "multi-user.target" ];
-                  serviceConfig = {
-                    DynamicUser = "yes";
-                    ExecStart = "${pkg}/bin/batch";
-                    Restart = "never";
-                  };
-                };
-
-                systemd.timers = {
-                  legifrss-batch = {
-                    Unit = {
-                      Description = "Fetch Legifrance updates";
-                      After = [ "network.target" ];
-                    };
-                    Timer = {
-                      OnBootSec = "5 min";
-                      OnUnitInactiveSec = "60 min";
-                      Unit = "legifrss-batch.service";
-                    };
-                    Install = {
-                      WantedBy = [ "timers.target" ];
-                    };
-                  };
-                };
+                # systemd.timers = {
+                #   legifrss-batch = {
+                #     Unit = {
+                #       Description = "Fetch Legifrance updates";
+                #       After = [ "network.target" ];
+                #     };
+                #     Timer = {
+                #       OnBootSec = "5 min";
+                #       OnUnitInactiveSec = "60 min";
+                #       Unit = "legifrss-batch.service";
+                #     };
+                #     Install = {
+                #       WantedBy = [ "timers.target" ];
+                #     };
+                #   };
+                # };
               };
             };
         })
