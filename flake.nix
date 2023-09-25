@@ -26,14 +26,14 @@
           nixosModules.default = { config, lib, pkgs, ... }:
             with lib;
             let
-              cfg = config.ldicarlo.services.legifrss;
+              cfg = config.services.legifrss;
               pkg = self.packages.${system}.default;
             in
             {
-              options.ldicarlo.services.legifrss = {
+              options.services.legifrss = {
                 enable = mkEnableOption "Enable legifrss service";
 
-                envFile = mkOption { type = types.path; };
+                #  envFile = mkOption { type = types.path; };
               };
               config = mkIf cfg.enable {
 
@@ -54,16 +54,17 @@
                     RestartSec = "5s";
                   };
                 };
+
                 systemd.services.legifrss-batch = {
                   description = "Legifrss server";
                   wantedBy = [ "multi-user.target" ];
-
                   serviceConfig = {
                     DynamicUser = "yes";
                     ExecStart = "${pkg}/bin/batch";
                     Restart = "never";
                   };
                 };
+
                 systemd.timers = {
                   legifrss-batch = {
                     Unit = {
