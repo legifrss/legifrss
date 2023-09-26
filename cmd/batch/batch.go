@@ -17,9 +17,13 @@ var clientId string
 var clientSecret string
 
 func init() {
-	envs, err := godotenv.Read(".env")
+	val, ok := os.LookupEnv("ENV_FILE")
+	if !ok  {
+		val = ".env"
+	}
+	envs, err := godotenv.Read(val)
 	if err != nil {
-		panic("missing env file")
+		panic(fmt.Sprintf("missing env file, reading from %s, %s", val, err))
 	}
 	clientId = envs["client_id"]
 	clientSecret = envs["client_secret"]

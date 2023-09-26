@@ -32,55 +32,70 @@
             {
               options.services.legifrss = {
                 enable = mkEnableOption "Enable legifrss service";
-                envFile = mkOption { type = types.path; };
+                envFile = mkOption { type = types.str; };
               };
               config = mkIf cfg.enable {
+
+                # db/db.json location !
 
                 # services.nginx.virtualHosts."legifrss.org" = {
                 #   enableACME = true;
                 #   forceSSL = true;
                 #   root = "${packages.legifrss}";
                 # };
+                users.groups = { legifrss = { }; };
+
+                users.users.legifrss = {
+                  group = "legifrss";
+                  isNormalUser = true;
+                };
 
                 systemd.services.legifrss = {
                   description = "Legifrss server";
                   wantedBy = [ "multi-user.target" ];
+                  environment = { PORT = "8888"; };
                   serviceConfig = {
+                    User = "legifrss";
                     DynamicUser = "yes";
-                    ExecStart = "PORT=8888 ${pkg}/bin/server";
+                    ExecStart = "${pkg}/bin/server";
                     Restart = "on-failure";
-                    RestartSec = "5s";
+                    RestartSec = "10s";
                   };
                 };
 
-                # systemd.services.legifrss-batch = {
-                #   description = "Legifrss server";
-                #   wantedBy = [ "multi-user.target" ];
-                #   serviceConfig = {
-                #     DynamicUser = "yes";
-                #     ExecStart = "${pkg}/bin/batch";
-                #     Restart = "never";
-                #   };
-                # };
+                systemd.services.legifrss-batch = {
+                  description = "Legifrss batch";
+                  wantedBy = [ "multi-user.target" ];
+                  environment = {
+                    ENV_FILE = "${config.services.legifrss.envFile}";
+                  };
+                  serviceConfig = {
+                    User = "legifrss";
+                    DynamicUser = "yes";
+                    ExecStart = "${pkg}/bin/batch";
+                    Restart = "no";
+                  };
+                };
 
-                # systemd.timers = {
-                #   legifrss-batch = {
-                #     Unit = {
-                #       Description = "Fetch Legifrance updates";
-                #       After = [ "network.target" ];
-                #     };
-                #     Timer = {
-                #       OnBootSec = "5 min";
-                #       OnUnitInactiveSec = "60 min";
-                #       Unit = "legifrss-batch.service";
-                #     };
-                #     Install = {
-                #       WantedBy = [ "timers.target" ];
-                #     };
-                #   };
-                # };
+                systemd.timers = {
+                  legifrss-batch = {
+                    Unit = {
+                      Description = "Fetch Legifrance updates";
+                      After = [ "network.target" ];
+                    };
+                    Timer = {
+                      OnBootSec = "5 min";
+                      OnUnitInactiveSec = "60 min";
+                      Unit = "legifrss-batch.service";
+                    };
+                    Install = {
+                      WantedBy = [ "timers.target" ];
+                    };
+                  };
+                };
               };
             };
         })
     );
 }
+
