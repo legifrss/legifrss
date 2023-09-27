@@ -31,7 +31,7 @@ func init() {
 	if clientId == "" || clientSecret == "" {
 		panic("Missing one of the env params")
 	}
-
+	
 }
 
 func Start() int {

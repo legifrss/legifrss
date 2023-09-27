@@ -35,14 +35,13 @@
                 envFile = mkOption { type = types.str; };
               };
               config = mkIf cfg.enable {
-
-                # db/db.json location !
-
-                # services.nginx.virtualHosts."legifrss.org" = {
-                #   enableACME = true;
-                #   forceSSL = true;
-                #   root = "${packages.legifrss}";
-                # };
+                services.nginx.virtualHosts."legifrss.org" = {
+                  enableACME = true;
+                  forceSSL = true;
+                  locations."/" = {
+                    proxyPass = "http://127.0.0.1:8080/";
+                  };
+                };
                 users.groups = { legifrss = { }; };
 
                 users.users.legifrss = {
@@ -53,14 +52,16 @@
                 systemd.services.legifrss = {
                   description = "Legifrss server";
                   wantedBy = [ "multi-user.target" ];
-                  environment = { PORT = "8888"; };
+                  environment = { };
                   serviceConfig = {
                     User = "legifrss";
-                    DynamicUser = "yes";
+                    Group = "legifrss";
+                    #  DynamicUser = "yes";
                     ExecStart = "${pkg}/bin/server";
                     Restart = "on-failure";
                     RestartSec = "10s";
                     WorkingDirectory = "/home/legifrss";
+                    ReadWritePaths = [ "/home/legifrss" ];
                   };
                 };
 
@@ -72,10 +73,12 @@
                   };
                   serviceConfig = {
                     User = "legifrss";
-                    DynamicUser = "yes";
+                    Group = "legifrss";
+                    #  DynamicUser = "yes";
                     ExecStart = "${pkg}/bin/batch";
                     Restart = "no";
                     WorkingDirectory = "/home/legifrss";
+                    ReadWritePaths = [ "/home/legifrss" ];
                   };
                 };
 
@@ -89,10 +92,10 @@
                       OnBootSec = "5 min";
                       OnUnitInactiveSec = "60 min";
                       Unit = "legifrss-batch.service";
+                      # Install = {
+                      #   WantedBy = [ "timers.target" ];
+                      # };
                     };
-                    # Install = {
-                    #   WantedBy = [ "timers.target" ];
-                    # };
                   };
                 };
               };

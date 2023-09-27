@@ -33,7 +33,7 @@ func GetToken() (token oauth1.Token, noFile error) {
 }
 
 func getAll() (result map[string]models.JORFElement) {
-	file, err := os.Open("/home/legifrss/db.json")
+	file, err := os.Open("db.json")
 	if err != nil {
 		return map[string]models.JORFElement{}
 	}
@@ -148,7 +148,7 @@ func Persist(result map[string]models.JORFElement) {
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
-	err := ioutil.WriteFile("/home/legifrss/db.json", jsonResult, 0644)
+	err := ioutil.WriteFile("db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
