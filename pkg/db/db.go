@@ -15,12 +15,12 @@ import (
 
 func PersistToken(token oauth1.Token) {
 	jsonResult, _ := json.Marshal(token)
-	err := ioutil.WriteFile("db/token.json", jsonResult, 0644)
+	err := ioutil.WriteFile("token.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
 func GetToken() (token oauth1.Token, noFile error) {
-	file, err := os.Open("db/token.json")
+	file, err := os.Open("token.json")
 	if err != nil {
 		noFile = err
 		return
@@ -33,7 +33,7 @@ func GetToken() (token oauth1.Token, noFile error) {
 }
 
 func getAll() (result map[string]models.JORFElement) {
-	file, err := os.Open("db/db.json")
+	file, err := os.Open("/home/legifrss/db.json")
 	if err != nil {
 		return map[string]models.JORFElement{}
 	}
@@ -148,8 +148,7 @@ func Persist(result map[string]models.JORFElement) {
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
-	_ = os.Mkdir("db", os.ModePerm)
-	err := ioutil.WriteFile("db/db.json", jsonResult, 0644)
+	err := ioutil.WriteFile("/home/legifrss/db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
@@ -201,18 +200,18 @@ func PersistTwitterState(jorfs map[string]models.TwitterJORF) {
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
-	err := ioutil.WriteFile("db/twitter_states.json", jsonResult, 0644)
+	err := ioutil.WriteFile("twitter_states.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
 func OverrideTwitterStates(jorfs map[string]models.TwitterJORF) {
 	jsonResult, _ := json.Marshal(jorfs)
-	err := ioutil.WriteFile("db/twitter_states.json", jsonResult, 0644)
+	err := ioutil.WriteFile("twitter_states.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
 
 func FetchTwitterStates() (jorfs map[string]models.TwitterJORF) {
-	file, err := os.Open("db/twitter_states.json")
+	file, err := os.Open("twitter_states.json")
 	if err != nil {
 		return map[string]models.TwitterJORF{}
 	}

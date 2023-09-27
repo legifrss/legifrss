@@ -60,6 +60,7 @@
                     ExecStart = "${pkg}/bin/server";
                     Restart = "on-failure";
                     RestartSec = "10s";
+                    WorkingDirectory = "/home/legifrss";
                   };
                 };
 
@@ -74,6 +75,7 @@
                     DynamicUser = "yes";
                     ExecStart = "${pkg}/bin/batch";
                     Restart = "no";
+                    WorkingDirectory = "/home/legifrss";
                   };
                 };
 
