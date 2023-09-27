@@ -148,6 +148,7 @@ func Persist(result map[string]models.JORFElement) {
 	}
 
 	jsonResult, _ := json.Marshal(filteredDb)
+	_ = os.Mkdir("db", os.ModePerm)
 	err := ioutil.WriteFile("db/db.json", jsonResult, 0644)
 	utils.ErrCheck(err)
 }
