@@ -40,7 +40,6 @@
                   forceSSL = true;
                   locations."/" = {
                     proxyPass = "http://127.0.0.1:8080/";
-                    tryFiles = "$uri $uri/ /index.html";
                   };
                 };
                 users.groups = { legifrss = { }; };

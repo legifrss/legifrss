@@ -18,7 +18,7 @@ func main() {
 	store := persistence.NewInMemoryStore(time.Second)
 	r := gin.Default()
 	r.StaticFile("/index.html", "./static/index.html")
-	r.StaticFile("/", "./static/index.html")
+	//  r.StaticFile("/", "./static/index.html")
 	r.GET("/latest", func(c *gin.Context) {
 		queryContext := models.QueryContext{
 			Keyword: strings.ToUpper(c.DefaultQuery("q", "")),
