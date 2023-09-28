@@ -3,7 +3,8 @@ package main
 import (
 	"strings"
 	"time"
-
+	"embed"
+	"net/http"
 	"github.com/gin-gonic/gin"
 	"legifrss/pkg/db"
 	"legifrss/pkg/models"
@@ -13,19 +14,21 @@ import (
 	"github.com/stockx/go-gin-cache/persistence"
 )
 
+//go:embed static/*
+var fs embed.FS
+
 func main() {
 
 	store := persistence.NewInMemoryStore(time.Second)
 	r := gin.Default()
-	r.StaticFile("/index.html", "./static/index.html")
-	//  r.StaticFile("/", "./static/index.html")
+	//r.StaticFS("/index.html", "./static/index.html")
 	r.GET("/latest", func(c *gin.Context) {
 		queryContext := models.QueryContext{
 			Keyword: strings.ToUpper(c.DefaultQuery("q", "")),
 			Author:  strings.ToUpper(c.DefaultQuery("author", "")),
 			Nature:  strings.ToUpper(c.DefaultQuery("nature", "")),
 		}
-
+		
 		result := db.Query(queryContext)
 		rss := rss.TransformToRSS(result, models.FeedDescription{
 			TitleSuffix:       strings.TrimSpace(queryContext.Author + " " + queryContext.Nature + " " + queryContext.Keyword),
@@ -36,6 +39,7 @@ func main() {
 	})
 	r.GET("/authors", cache.CachePage(store, time.Minute, func(c *gin.Context) { c.JSON(200, db.GetAuthors()) }))
 	r.GET("/natures", cache.CachePage(store, time.Minute, func(c *gin.Context) { c.JSON(200, db.GetNatures()) }))
+	r.StaticFileFS("/","./static/home.html", http.FS(fs))
 
 	// r.GET("/callback", func(c *gin.Context) {
 	// 	bot.RegisterToken(c.Query("oauth_token"), c.Query("oauth_verifier"))
