@@ -83,7 +83,7 @@
                 };
 
                 systemd.timers = {
-                  legifrss-batch = {
+                  legifrss-batch-timer = {
                     # Unit = {
                     #   Description = "Fetch Legifrance updates";
                     #   After = [ "network.target" ];
@@ -92,9 +92,6 @@
                       OnBootSec = "5 min";
                       OnUnitInactiveSec = "60 min";
                       Unit = "legifrss-batch.service";
-                      # Install = {
-                      #   WantedBy = [ "timers.target" ];
-                      # };
                     };
                   };
                 };
