@@ -83,7 +83,8 @@
                 };
 
                 systemd.timers = {
-                  legifrss-batch-timer = {
+                  "legifrss-batch-timer" = {
+                    wantedBy = [ "timers.target" ];
                     # Unit = {
                     #   Description = "Fetch Legifrance updates";
                     #   After = [ "network.target" ];
