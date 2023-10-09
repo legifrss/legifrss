@@ -7,7 +7,7 @@ require (
 	github.com/dghubble/oauth1 v0.7.2
 	github.com/gin-gonic/gin v1.9.1
 	github.com/gorilla/feeds v1.1.1
-	github.com/joho/godotenv v1.3.0
+	github.com/joho/godotenv v1.5.1
 	github.com/stockx/go-gin-cache v1.2.0
 	github.com/stretchr/testify v1.8.3
 )
