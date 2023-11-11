@@ -6,7 +6,7 @@ require (
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
 	github.com/dghubble/oauth1 v0.7.2
 	github.com/gin-gonic/gin v1.9.1
-	github.com/gorilla/feeds v1.1.1
+	github.com/gorilla/feeds v1.1.2
 	github.com/joho/godotenv v1.5.1
 	github.com/stockx/go-gin-cache v1.2.0
 	github.com/stretchr/testify v1.8.4
@@ -30,7 +30,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
-	github.com/kr/pretty v0.2.1 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
