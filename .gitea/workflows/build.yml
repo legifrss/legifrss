@@ -1,0 +1,12 @@
+name: Run nix build on repo.
+run-name: ${{ gitea.actor }} builds all.
+on: [push]
+
+jobs:
+  Build:
+    runs-on: gitea-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: nix build
+      - run: nix store sign -k /root/nix-store-key $(nix-store --query --deriver ./result)
+      - run: nix copy --to 's3://nix-cache?profile=default&scheme=https&endpoint=s3.dcr.lu&region=europe-01' $(nix-store --query --deriver ./result)
