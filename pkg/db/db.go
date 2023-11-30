@@ -8,9 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dghubble/oauth1"
 	"legifrss/pkg/models"
 	"legifrss/pkg/utils"
+
+	"github.com/dghubble/oauth1"
 )
 
 func PersistToken(token oauth1.Token) {
@@ -135,7 +136,7 @@ func Persist(result map[string]models.JORFElement) {
 	var db = getAll()
 	// 864000000000000 nanos = 10 days
 	// 86400000000000 nanos = 1 day
-	var limitDate = time.Now().Add(-time.Duration(864000000000000))
+	var limitDate = time.Now().Add(-time.Duration(172800000000000))
 	var filteredDb = map[string]models.JORFElement{}
 	for _, element := range db {
 		if element.Date.After(limitDate) {
