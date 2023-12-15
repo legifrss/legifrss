@@ -5,6 +5,10 @@ on: [push]
 jobs:
   Build:
     runs-on: gitea-latest
+    container:
+      credentials:
+        username: luca
+        password: "${{ secrets.ACT_RUNNER_REGISTRY }}"
     steps:
       - uses: actions/checkout@v4
       - run: nix build
