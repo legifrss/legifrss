@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
-	github.com/dghubble/oauth1 v0.7.2
+	github.com/dghubble/oauth1 v0.7.3
 	github.com/gin-gonic/gin v1.9.1
 	github.com/gorilla/feeds v1.1.2
 	github.com/joho/godotenv v1.5.1
