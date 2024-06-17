@@ -6,7 +6,7 @@ require (
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
 	github.com/dghubble/oauth1 v0.7.3
 	github.com/gin-gonic/gin v1.10.0
-	github.com/gorilla/feeds v1.1.2
+	github.com/gorilla/feeds v1.2.0
 	github.com/joho/godotenv v1.5.1
 	github.com/stockx/go-gin-cache v1.2.0
 	github.com/stretchr/testify v1.9.0
