@@ -2,6 +2,7 @@ module legifrss
 
 go 1.23.0
 
+//https://github.com/nix-community/gomod2nix/issues/183
 toolchain go1.23.1
 
 require (

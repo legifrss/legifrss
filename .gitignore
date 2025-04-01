@@ -6,5 +6,5 @@ bin
 batch.log
 .direnv
 result
-vendor
+vendor/*
 !vendor/modules.txt
