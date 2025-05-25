@@ -6,3 +6,4 @@ bin
 batch.log
 .direnv
 result
+vendor
