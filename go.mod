@@ -1,6 +1,6 @@
 module legifrss
 
-go 1.21
+go 1.24
 
 require (
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
