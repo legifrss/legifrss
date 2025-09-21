@@ -10,7 +10,7 @@ jobs:
         username: luca
         password: "${{ secrets.ACT_RUNNER_REGISTRY }}"
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: nix build
       - run: nix store sign --all --key-file /root/nix-store-key
       - run: nix copy --to 's3://dcr-nix-cache?profile=default&scheme=http&endpoint=s3.dcr.lu&region=europe-01' $(nix-store --query $(nix path-info --recursive --derivation))
