@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v5
       - run: nix build
       - run: nix store sign --all --key-file /root/nix-store-key
-      - run: nix copy --to 's3://dcr-nix-cache?profile=garage&scheme=https&endpoint=garage.dcr.lu&region=europe01' $(nix-store --query $(nix path-info --recursive --derivation))
+      - run: nix copy --to 's3://dcr-nix-cache?profile=garage&scheme=http&endpoint=garage.dcr.lu&region=europe01' $(nix-store --query $(nix path-info --recursive --derivation))
