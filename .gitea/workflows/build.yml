@@ -1,16 +1,20 @@
+---
 name: Run nix build on repo.
-run-name: ${{ gitea.actor }} builds all.
-on: [push]
+run-name: ${{ forgejo.actor }} builds all.
+on:
+  - push
 
 jobs:
   Build:
-    runs-on: gitea-latest
+    runs-on: forgejo-latest
     container:
       credentials:
         username: luca
-        password: "${{ secrets.ACT_RUNNER_REGISTRY }}"
+        password: ${{ secrets.FORGEJO_TOKEN }}
     steps:
       - uses: actions/checkout@v6
-      - run: nix build
-      - run: nix store sign --all --key-file /root/nix-store-key
-      - run: nix copy --to 's3://dcr-nix-cache?profile=garage&scheme=http&endpoint=garage.dcr.lu&region=europe01' $(nix-store --query $(nix path-info --recursive --derivation))
+      - run: |-
+          OUT="$(nix build --no-link --print-out-paths .#)"
+          REFS="$(nix-store --query --references $OUT)"
+          nix store sign --recursive --key-file /root/nix-store-key $OUT $REFS
+          nix copy --to 's3://dcr-nix-cache?profile=garage&scheme=http&endpoint=garage.dcr.lu&region=europe01' $OUT $REFS
