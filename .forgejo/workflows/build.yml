@@ -1,6 +1,6 @@
 ---
 name: Run nix build on repo.
-run-name: ${{ forgejo.actor }} builds all.
+run-name: ${{ gitea.actor }} builds all.
 on:
   - push
 
@@ -8,9 +8,9 @@ jobs:
   Build:
     runs-on: forgejo-latest
     container:
-      credentials:
-        username: luca
-        password: ${{ secrets.FORGEJO_TOKEN }}
+    permissions:
+      contents: read
+      packages: read
     steps:
       - uses: actions/checkout@v6
       - run: |-
