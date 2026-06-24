@@ -12,7 +12,7 @@ jobs:
       contents: read
       packages: read
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - run: |-
           OUT="$(nix build --no-link --print-out-paths .#)"
           REFS="$(nix-store --query --references $OUT)"
