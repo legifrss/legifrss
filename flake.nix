@@ -1,104 +1,127 @@
 {
-  description = "Legifrss server flake";
+  inputs = {
+    crane = {
+      url = "github:ipetkov/crane";
+    };
+    fenix = {
+      url = "github:nix-community/fenix";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+    flake-utils.url = "github:numtide/flake-utils";
+    nixpkgs.url = "nixpkgs/nixos-unstable";
+  };
 
-  inputs.nixpkgs.url = "nixpkgs/nixos-25.11";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
-  inputs.gomod2nix.url = "github:nix-community/gomod2nix";
-  inputs.gomod2nix.inputs.nixpkgs.follows = "nixpkgs";
-  inputs.gomod2nix.inputs.flake-utils.follows = "flake-utils";
-
-  outputs = { self, nixpkgs, flake-utils, gomod2nix }:
-    (flake-utils.lib.eachDefaultSystem
-      (system:
-        let
-          pkgs = nixpkgs.legacyPackages.${system};
-          inherit (pkgs) stdenv lib;
-        in
-        rec {
-          packages.legifrss = pkgs.callPackage ./. {
-            inherit (gomod2nix.legacyPackages.${system}) buildGoApplication;
+  outputs =
+    {
+      self,
+      crane,
+      fenix,
+      flake-utils,
+      nixpkgs,
+    }:
+    flake-utils.lib.eachDefaultSystem (
+      system:
+      let
+        pkgs = nixpkgs.legacyPackages.${system};
+        lib = pkgs.lib;
+        fenixToolchain = (
+          with fenix.packages.${system};
+          combine [
+            stable.toolchain
+            stable.cargo
+            stable.rustc
+            stable.llvm-tools
+            stable.rust-std
+            stable.rust-src
+            stable.clippy
+          ]
+        );
+        craneLib = (crane.mkLib nixpkgs.legacyPackages.${system}).overrideToolchain fenixToolchain;
+        commonArgs = {
+          src = lib.cleanSourceWith {
+            src = ./.;
+            filter =
+              path: type:
+              (lib.hasInfix "tests/" path)
+              || (lib.hasInfix "assets/" path)
+              || (lib.hasInfix "sql/" path)
+              || (lib.hasInfix "migrations/" path)
+              || (craneLib.filterCargoSources path type);
           };
-          packages.default = packages.legifrss;
+          buildInputs = with pkgs; [
+            pkg-config
+            openssl
+          ];
+          LD_LIBRARY_PATH = lib.makeLibraryPath [ pkgs.openssl ];
+          RUSTFLAGS = "-C linker-features=-lld";
+        };
+        cargoArtifacts = craneLib.buildDepsOnly (
+          commonArgs
+          // {
+            pname = "legifrss";
+          }
+        );
 
-          devShells.default = pkgs.callPackage ./shell.nix {
-            inherit (gomod2nix.legacyPackages.${system}) mkGoEnv gomod2nix;
+        legifrss = craneLib.buildPackage (
+          commonArgs
+          // {
+            pname = "legifrss";
+            inherit cargoArtifacts;
+            # https://crane.dev/examples/sqlx.html
+            preBuild = ''
+              export DATABASE_URL=postgresql://postgres:postgres@localhost/test-db
+              ${pkgs.postgresql}/bin/initdb -D .tmp/test-db
+              ${pkgs.postgresql}/bin/pg_ctl -D .tmp/test-db -l .tmp/test-db.log -o "--unix_socket_directories='$PWD'" start
+              ${pkgs.postgresql}/bin/createuser postgres -d -s -h $PWD
+              ${pkgs.postgresql}/bin/createdb test-db -h $PWD --owner=postgres
+              ${pkgs.sqlx-cli}/bin/sqlx migrate run
+            '';
+
+            postInstall = ''
+              cp -R migrations $out/
+            '';
+
+          }
+        );
+      in
+      {
+        packages.default = legifrss;
+
+        devShells.default = pkgs.mkShell {
+          RUST_SRC_PATH = "${fenix.packages.${system}.stable.rust-src}/lib/rustlib/src/rust/library";
+          LD_LIBRARY_PATH = lib.makeLibraryPath [ pkgs.openssl ];
+          buildInputs = with pkgs; [
+            pkg-config
+            fenixToolchain
+            openssl
+            poppler
+            poppler-utils
+            postgresql
+            gnumeric
+            tailwindcss_4
+            nodejs
+            sqlx-cli
+            (writeShellScriptBin "stop_all" ''
+              #!/usr/bin/env bash
+              set -e
+              docker-compose down -v
+            '')
+            (writeShellScriptBin "restart_all" ''
+              #!/usr/bin/env bash
+              set -e
+              docker-compose down -v
+              docker-compose up -d
+              sleep 2
+              ${sqlx-cli}/bin/sqlx migrate run
+            '')
+          ];
+
+          env = {
+            DATABASE_URL = "postgres://legifrss:legifrss@localhost/legifrss";
           };
-          nixosModules.default = { config, lib, pkgs, ... }:
-            with lib;
-            let
-              cfg = config.services.legifrss;
-              pkg = self.packages.${system}.default;
-            in
-            {
-              options.services.legifrss = {
-                enable = mkEnableOption "Enable legifrss service";
-                envFile = mkOption { type = types.str; };
-              };
-              config = mkIf cfg.enable {
-                services.nginx.virtualHosts."legifrss.org" = {
-                  enableACME = true;
-                  forceSSL = true;
-                  locations."/" = {
-                    proxyPass = "http://127.0.0.1:8080/";
-                  };
-                };
-                users.groups = { legifrss = { }; };
 
-                users.users.legifrss = {
-                  group = "legifrss";
-                  isNormalUser = true;
-                };
-
-                systemd.services.legifrss = {
-                  description = "Legifrss server";
-                  wantedBy = [ "multi-user.target" ];
-                  environment = { };
-                  serviceConfig = {
-                    User = "legifrss";
-                    Group = "legifrss";
-                    #  DynamicUser = "yes";
-                    ExecStart = "${pkg}/bin/server";
-                    Restart = "on-failure";
-                    RestartSec = "10s";
-                    WorkingDirectory = "/home/legifrss";
-                    ReadWritePaths = [ "/home/legifrss" ];
-                  };
-                };
-
-                systemd.services.legifrss-batch = {
-                  description = "Legifrss batch";
-                  wantedBy = [ "multi-user.target" ];
-                  environment = {
-                    ENV_FILE = "${config.services.legifrss.envFile}";
-                  };
-                  serviceConfig = {
-                    User = "legifrss";
-                    Group = "legifrss";
-                    #  DynamicUser = "yes";
-                    ExecStart = "${pkg}/bin/batch";
-                    Restart = "no";
-                    WorkingDirectory = "/home/legifrss";
-                    ReadWritePaths = [ "/home/legifrss" ];
-                  };
-                };
-
-                systemd.timers = {
-                  "legifrss-batch-timer" = {
-                    wantedBy = [ "timers.target" ];
-                    # Unit = {
-                    #   Description = "Fetch Legifrance updates";
-                    #   After = [ "network.target" ];
-                    # };
-                    timerConfig = {
-                      OnBootSec = "5 min";
-                      OnUnitInactiveSec = "60 min";
-                      Unit = "legifrss-batch.service";
-                    };
-                  };
-                };
-              };
-            };
-        })
+        };
+      }
     );
-}
 
+}

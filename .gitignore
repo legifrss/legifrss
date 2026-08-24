@@ -7,3 +7,4 @@ batch.log
 .direnv
 result
 vendor
+target
