@@ -1,9 +1,19 @@
 use crate::model::DynamicState;
 use actix_web::{HttpResponse, post, web};
 use sqlx::{Pool, Postgres};
-use std::sync::Mutex;
+use std::{
+    collections::HashMap,
+    sync::Mutex,
+    time::{Duration, Instant},
+};
 
 const INDEX_HTML: &str = include_str!("../assets/index.html");
+
+/// Feeds only change when a batch run imports new texts, so the TTL is just a
+/// safety net: `/batch` clears the cache itself.
+const CACHE_TTL: Duration = Duration::from_secs(600);
+
+pub type FeedCache = Mutex<HashMap<LatestQuery, (Instant, String)>>;
 
 pub async fn index() -> HttpResponse {
     HttpResponse::Ok()
@@ -17,6 +27,7 @@ async fn batch(
     oauth: web::Data<Mutex<DynamicState>>,
     config: web::Data<crate::model::Config>,
     pool: web::Data<Pool<Postgres>>,
+    cache: web::Data<FeedCache>,
 ) -> HttpResponse {
     crate::batch::batch_jorf(
         http_client.get_ref().clone(),
@@ -29,12 +40,14 @@ async fn batch(
     )
     .await;
 
+    cache.lock().unwrap().clear();
+
     HttpResponse::Ok()
         .content_type("application/json")
         .body("ok")
 }
 
-#[derive(serde::Deserialize)]
+#[derive(serde::Deserialize, Hash, PartialEq, Eq, Clone)]
 pub struct LatestQuery {
     pub nature: Option<String>,
     pub author: Option<String>,
@@ -43,11 +56,32 @@ pub struct LatestQuery {
 pub async fn stream(
     query: web::Query<LatestQuery>,
     pool: web::Data<Pool<Postgres>>,
+    cache: web::Data<FeedCache>,
 ) -> HttpResponse {
     let query = query.into_inner();
+
+    let cached = cache
+        .lock()
+        .unwrap()
+        .get(&query)
+        .filter(|(stored_at, _)| stored_at.elapsed() < CACHE_TTL)
+        .map(|(_, feed)| feed.clone());
+
+    let feed = match cached {
+        Some(feed) => feed,
+        None => {
+            let feed = crate::rss::latest(query.author.clone(), query.nature.clone(), &pool).await;
+            cache
+                .lock()
+                .unwrap()
+                .insert(query, (Instant::now(), feed.clone()));
+            feed
+        }
+    };
+
     HttpResponse::Ok()
         .content_type("application/atom+xml")
-        .body(crate::rss::latest(query.author, query.nature, &pool).await)
+        .body(feed)
 }
 
 pub async fn authors(pool: web::Data<Pool<Postgres>>) -> HttpResponse {

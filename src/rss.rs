@@ -6,7 +6,11 @@ use sqlx::{Pool, Postgres};
 const ATOM_NS: &str = "http://www.w3.org/2005/Atom";
 const JORF_BASE_URL: &str = "https://www.legifrance.gouv.fr/jorf/id/";
 
-pub async fn latest(author: Option<String>, nature: Option<String>, pool: &Pool<Postgres>) -> String {
+pub async fn latest(
+    author: Option<String>,
+    nature: Option<String>,
+    pool: &Pool<Postgres>,
+) -> String {
     let author = normalize_filter(author);
     let nature = normalize_filter(nature);
 
@@ -229,7 +233,11 @@ mod tests {
             .collect()
     }
 
-    fn section(title: &str, articles: Vec<JorfArticle>, sections: Vec<JorfContainerSection>) -> JorfContainerSection {
+    fn section(
+        title: &str,
+        articles: Vec<JorfArticle>,
+        sections: Vec<JorfContainerSection>,
+    ) -> JorfContainerSection {
         JorfContainerSection {
             title: title.to_string(),
             articles,
@@ -237,7 +245,10 @@ mod tests {
         }
     }
 
-    fn result(articles: Vec<JorfArticle>, sections: Vec<JorfContainerSection>) -> JorfContainerResult {
+    fn result(
+        articles: Vec<JorfArticle>,
+        sections: Vec<JorfContainerSection>,
+    ) -> JorfContainerResult {
         JorfContainerResult {
             id: "cid".to_string(),
             title: "title".to_string(),

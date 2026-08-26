@@ -9,7 +9,7 @@ mod rss;
 use crate::model::DynamicState;
 use actix_web::{App, HttpServer, web};
 use sqlx::{migrate::Migrator, postgres::PgPoolOptions};
-use std::{path::Path, sync::Mutex, time::Duration};
+use std::{collections::HashMap, path::Path, sync::Mutex, time::Duration};
 
 #[tokio::main]
 async fn main() -> std::io::Result<()> {
@@ -38,6 +38,7 @@ async fn main() -> std::io::Result<()> {
         .unwrap();
 
     let state = web::Data::new(Mutex::new(DynamicState { oauth: None }));
+    let cache: web::Data<handlers::FeedCache> = web::Data::new(Mutex::new(HashMap::new()));
 
     HttpServer::new(move || {
         App::new()
@@ -50,6 +51,7 @@ async fn main() -> std::io::Result<()> {
             .app_data(web::Data::new(pool.clone()))
             .app_data(web::Data::new(client.clone()))
             .app_data(state.clone())
+            .app_data(cache.clone())
             .app_data(web::Data::new(config.clone()))
     })
     .bind((

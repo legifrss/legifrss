@@ -12,10 +12,7 @@ async fn main() {
         .unwrap();
 
     // A handful of real JORFTEXT ids, repeated to build volume, fired concurrently
-    let base = [
-        "JORFTEXT000054427175",
-        "JORFTEXT000054443420",
-    ];
+    let base = ["JORFTEXT000054427175", "JORFTEXT000054443420"];
     let ids: Vec<String> = (0..40).map(|i| base[i % base.len()].to_string()).collect();
 
     let futs = ids.iter().enumerate().map(|(i, id)| {
@@ -38,7 +35,11 @@ async fn main() {
             println!(
                 "[{i:02}] status={status} len={} cid={ok_cid} echoed={echoed} {}",
                 contents.len(),
-                if ok_cid { "".to_string() } else { contents.chars().take(120).collect::<String>() }
+                if ok_cid {
+                    "".to_string()
+                } else {
+                    contents.chars().take(120).collect::<String>()
+                }
             );
         }
     });
