@@ -11,7 +11,7 @@ const INDEX_HTML: &str = include_str!("../assets/index.html");
 
 /// Feeds only change when a batch run imports new texts, so the TTL is just a
 /// safety net: `/batch` clears the cache itself.
-const CACHE_TTL: Duration = Duration::from_secs(600);
+const CACHE_TTL: Duration = Duration::from_mins(90);
 
 pub type FeedCache = Mutex<HashMap<LatestQuery, (Instant, String)>>;
 
