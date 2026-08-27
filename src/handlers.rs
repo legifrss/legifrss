@@ -51,6 +51,7 @@ async fn batch(
 pub struct LatestQuery {
     pub nature: Option<String>,
     pub author: Option<String>,
+    pub q: Option<String>,
 }
 
 pub async fn stream(
@@ -70,7 +71,13 @@ pub async fn stream(
     let feed = match cached {
         Some(feed) => feed,
         None => {
-            let feed = crate::rss::latest(query.author.clone(), query.nature.clone(), &pool).await;
+            let feed = crate::rss::latest(
+                query.author.clone(),
+                query.nature.clone(),
+                query.q.clone(),
+                &pool,
+            )
+            .await;
             cache
                 .lock()
                 .unwrap()

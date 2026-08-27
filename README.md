@@ -14,23 +14,6 @@ Note that this project is at its ALPHA stage, it's more of a PoC for now.
 
 Read the doc at https://legifrss.github.io. If you need it translated in English please contact me.
 
-## How to run
-
-### Batch _(the part that fetch stuff from Legifrance)_
-
-`go build -o bin/batch cmd/batch/batch.go && bin/batch`
-
-### Server _(the part that serve RSS content)_
-
-`go build -o bin/server cmd/server/server.go && bin/server`
-
-### Technical stuff
-
-- the server is based on https://github.com/gin-gonic/gin, and it's pretty good!
-- the server uses a local `db.json` as a database (10 days of retention)
-- the tests are not good, I know :/
-- I use some personal ansible scripts to deploy
-
 ## TODO
 
 - [X] Add valid RSS checker.
@@ -45,7 +28,7 @@ Read the doc at https://legifrss.github.io. If you need it translated in English
 - Feats:
   - [X] https://legifrss.org/latest => all
   - [X] https://legifrss.org/latest?q=écologie => search all with term
-  - [X] https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&type=loi => search law with term and author
+  - [X] https://legifrss.org/latest?q=écologie&author=Commission-nationale-du-débat-public&nature=loi => search law with term and author
 - [X] Add twitter Bot: https://twitter.com/Legifrance1
 - [X] batch.log as /tmp/legifrance-$(date)-batch.log
 - [ ] twitter_states rotation

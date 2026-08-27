@@ -13,17 +13,20 @@ pub struct JorfTextRow {
 pub async fn latest_jorf_text(
     author: Option<&str>,
     nature: Option<&str>,
+    keyword: Option<&str>,
     pool: &Pool<Postgres>,
 ) -> Result<Vec<JorfTextRow>, sqlx::Error> {
     sqlx::query_as::<_, JorfTextRow>(
         "SELECT id, date, content, nature, author FROM jorf_text \
          WHERE ($1::text IS NULL OR author ILIKE '%' || $1 || '%') \
            AND ($2::text IS NULL OR nature ILIKE '%' || $2 || '%') \
+           AND ($3::text IS NULL OR content::text ILIKE '%' || $3 || '%') \
          ORDER BY date DESC
          LIMIT 500",
     )
     .bind(author)
     .bind(nature)
+    .bind(keyword)
     .fetch_all(pool)
     .await
 }

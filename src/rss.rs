@@ -9,12 +9,21 @@ const JORF_BASE_URL: &str = "https://www.legifrance.gouv.fr/jorf/id/";
 pub async fn latest(
     author: Option<String>,
     nature: Option<String>,
+    keyword: Option<String>,
     pool: &Pool<Postgres>,
 ) -> String {
     let author = normalize_filter(author);
     let nature = normalize_filter(nature);
+    let keyword = normalize_filter(keyword);
 
-    let rows = match latest_jorf_text(author.as_deref(), nature.as_deref(), pool).await {
+    let rows = match latest_jorf_text(
+        author.as_deref(),
+        nature.as_deref(),
+        keyword.as_deref(),
+        pool,
+    )
+    .await
+    {
         Ok(rows) => rows,
         Err(err) => {
             eprintln!("latest query failed: {err}");
@@ -22,7 +31,7 @@ pub async fn latest(
         }
     };
 
-    let feed = build_feed(rows, author.as_deref(), nature.as_deref());
+    let feed = build_feed(rows, author.as_deref(), nature.as_deref(), keyword.as_deref());
     to_xml(&feed).unwrap_or_default()
 }
 
@@ -30,7 +39,12 @@ fn normalize_filter(value: Option<String>) -> Option<String> {
     value.filter(|s| !s.trim().is_empty())
 }
 
-fn build_feed(rows: Vec<JorfTextRow>, author: Option<&str>, nature: Option<&str>) -> Feed {
+fn build_feed(
+    rows: Vec<JorfTextRow>,
+    author: Option<&str>,
+    nature: Option<&str>,
+    keyword: Option<&str>,
+) -> Feed {
     let entries: Vec<Entry> = rows.into_iter().map(transform_row).collect();
     let updated = entries
         .iter()
@@ -38,7 +52,7 @@ fn build_feed(rows: Vec<JorfTextRow>, author: Option<&str>, nature: Option<&str>
         .max()
         .unwrap_or_else(chrono::Utc::now);
 
-    let suffix = [author, nature]
+    let suffix = [author, nature, keyword]
         .into_iter()
         .flatten()
         .collect::<Vec<_>>()
